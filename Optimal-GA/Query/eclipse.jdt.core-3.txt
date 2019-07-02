@@ -1,0 +1,42 @@
+337415	variable	External	eclipse	external	created	attachment	exists	metadata	ANT	launch
+385293	Bug	changed	Type	arguments	grammar	type	Marker	report
+471062	column	github	havoc	causing	started	slash	Formatter	column	edit	inserts
+28951	longer	Source	manually	Bug	rootpath	field	root	reading
+480029	separate	previous	formatting	cgi	substitutions	formatting	builds	statements	bit	original
+410402	Investigate	Bug	failures	Bug	Bug	failures	Investigate	Investigate	Investigate	Bug
+483895	fixed	Disable	substring	assist	dependent	bug	content
+11076	list	configurations	favorites	favorite	configs	Add
+421711	code	discuss	difference	identifier	bug	lambda	parameter	bug	warning	parameter
+234074	compiler	error	fails	depending	Bug
+385132	verbatim	failure	ARROW	caused	syntax	Syntax	Bug	compiler	grammar
+23162	bindings	modification	parallel	existing	Bug	tree	walk	modifiy	AST
+442245	lead	Java	building	Bug	problem	paste	files	hang	hangs	copy
+455042	cleared	invalid	timestamp	classpath	timestamp	archive	model	Java	archive	recover
+85384	assist	method	content
+424591	straightforward	JDK	rev	spurious	inference	Start	capture	screenshot	Created
+252556	Javadoc	region	comment	Bug	bug	spaces	formatter	test	spaces	region
+409236	intersection	point	intersection	org	generator	BETA	compiler	bug	bug	intersection
+409245	org	eclipse	accepts	methods	compiler	AST	dropped	method	routed	accounting
+380313	Bug	Windows	Java	Xtext	error	org	eclipse	php	refer	stack
+413083	requesting	info	full	build	Builder	debug	accuses
+399769	releases	unambiguous	Bug	trigger	error	warning	java	identifier	keyword
+420004	Bug	Patch	annotation	BETA	getAnnotations	Target	binary	JAVA	types
+467618	bug	wrapping	bug	didn	properly	wrapped	implementation	formater	comment	empty
+426678	regression	release	problem	bug	type	shortly	element	vararg	cgi
+485302	Missing	Bug	Bug	Bug	warnings	Bug	Wildcards	Missing	annotations	Wildcards
+162740	website	file	documents	Bug	php	Error	open	org
+476859	pass	enclosing	fine	EJC	works	error	Bug	compiled
+401848	Bug	ASTRewrite	Created	Testcase	Testcase	Annotation	type	rewrite	ASTRewrite	reproduce
+434630	work	generics	types	project	mismatch	issue	details	bug
+65738	happen	change	builder	project	Making	builds	Eclipse
+180169	container	container	Bug	returning	log	containers	protection	missbehaving	returning	protection
+427218	org	bugs	crash	eclipse	varargs	inference	snippet
+391376	methods	filtering	error	error	situations	check	interaction	involving	messages	verifier
+413913	Investigate	Bug
+369381	mark	compiling	mark	unexpected	assertion	Adding	Bug	compiling	mark	compiling
+472815	Bug	Empty	consisting	Indent	indented	indented	work	body	lines	doesn
+412650	compiling	mentioned	Lambda	compiler	test	Exception	test	test	Incongruent	Incongruent
+357110	settings	classfolder	reproducably	Problem	error	Build	core	Java	Bug
+479474	comment	bug	formatter	jdt	nodes	initializes	leads	support	core	unexpected
+423409	Bug	project	Shift	Press	compilation	Test	matches	Click	Search
+403705	Created	List	list	Investigate	Bug

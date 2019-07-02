@@ -1,0 +1,42 @@
+337415	steps	reproduce	Refresh	external	check	metadata	preferences	Eclipse	ANT	exists
+385293	check	accepts	modifier	compiler	Bug	Type	arguments	changed	Marker	grammar
+471062	happen	Bug	github	column	join	comments	Preserve	slash	extra	items
+28951	edited	manually	attachment	bug	root	path	src	file	functioning
+480029	bug	formatting	tag	bugs	zip	statement	separate	demand	bug	substitutions
+410402	Investigate	Bug
+483895	substring	Bug	assist	bug	Disable	remove	code
+11076	configurations	Add	listed	favorites	list	configs
+421711	difference	ECJ	rejects	behavioral	parameter	warning	Javac	Bug	ECJ	compiler
+234074	launched	expected	test	error	compiler	log	fails	Bug
+385132	grammar	bottom	error	syntax
+23162	bindings	modification	modifiy	Bug	bindings	nodes	modify	parallel	DOM	don
+442245	java	clipboard	create	lead	Daniel	Java	paste
+455042	reevaluated	cleared	classpath	cache	drives	Java	recover	model	cleared	archive
+85384	content	assist	method
+424591	graal	capture	zip	inference	checking	Start	Created	subdirectory
+252556	formatter	formatted	bug	compilation	unit	formatted	Bug	formatter	fails	bug
+409236	JAVA	intersection	generator	dropping	code	types	annotations	intersection	code	annotations
+409245	method	accounting	compiler	writes	Java	https	synthetic	optimizations	routed	type
+380313	stack	Inconsistent	eclipse	Java	refer	Bug	error	forums
+413083	info	debug	user	Builder	requesting	user	Builder	Bug	bug	full
+399769	spec	identifier	Bug	Java	releases	warning	requires	supported	keyword
+420004	compiler	types	annotations	Target	getAnnotations	follow
+467618	formater	indent	Attempts	change	preceded	comment	affect	force	lines	affect
+426678	bug	type	regression	release	vararg	bugs	showing	cgi	element	type
+485302	warnings	Wildcards	annotations
+162740	main	documents	open	html	Bug	file	eclipse
+476859	method	works	traces	test	code	oracle	enclosing	Bug	EJC
+401848	rewrite	Annotation	ASTRewrite	additional	reproduce	attachment	details
+434630	reproduce	details	mismatch	generics	issue	errors	switching	type	code
+65738	project	occur	happen	notice	automatically	builder	Bug	Making
+180169	entries	spec	Add	returning	missbehaving	entries	containers	protect	protection	protection
+427218	snippet	inference	Bug	https	varargs	eclipse
+391376	produces	longer	method	interaction	behavior	bridge	leaving	logic	check	desired
+413913	Investigate	failures	Bug	failures	Bug	Bug	Bug	Bug	Bug	Investigate
+369381	Bug	unexpected	Bug	assertion	compiler	unexpected	assertion	unexpected	unexpected	assertion
+472815	Bug	formatter	create	Empty	work	create	work	blocks	Bug	lines
+412650	Incongruent	extract	thrown	test	compiling	Lambda	Exception	bug
+357110	arises	reproducably	org	dom	reproducable	Bug	message	settings	binary	type
+479474	Bug	leads	compiler	confirm	comment	reported	parser	assumes	body
+423409	Press	project	Continuing	Alt	delete	matches	Ctrl	choose	message
+403705	Attached	Investigate	Bug	List	list

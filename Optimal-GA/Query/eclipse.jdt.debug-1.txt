@@ -1,0 +1,179 @@
+170502	type	dialog	entries	apply	tab	source	reproduce	moved	Bug	classpath
+335363	font	Basic	Breakpoint	Dialog	Add
+229380	reflect	user	bottom	buttons	top	update	bottom	tab	bootstrap	reflect
+13834	disabled	unmanaged	source	Build	editor	stack	frame	Eclipse	code	breakpoint
+12300	tabs	Build	Environment	JRE	find	edited	INSTALL	execute	configuration
+23568	menu	scrapbook	activation	activation	Bug	invoke	code	Scrapbook	Space	Content
+286229	preference	equals	Javadoc	URL	bad	URLs	updated	resolves	replace
+5653	Console	halted	isn	great	VAME	field	Breakpoint	button
+321043	revert	attachment	HEAD	compiler	Enable	bug	compliance
+112670	keystrokes	windows	pane	Bug	treeitems	treeitem	invokes	CTRL
+43554	clicking	margin	created	breakpoint	signature	method
+43555	entry	breakpoint	conditionnable	method	expressions	Method
+399913	install	find	Mac	JVM	grab	notice	latest	attachment	describe	JREs
+13364	visual	condition	visual	dialog	breakpoint	properties	properties	breakpoint	breakpoint	indication
+22580	spy	spy	spy	TCP	general	general	released	Bug	Bug	released
+255031	prevent	repo	CDC	compiled	prevent	build	EEs	ignore	Foundation	Foundation
+37942	Classpath	listed	classpath	display	displayed
+500794	remote	time	Selectively	file	JVM	Replace	utilization	hot	task	code
+16446	fine	exists	config	exception	VMs	selected	occurs	command	Select	fine
+10817	resources	Bug	configs	launch	location	copied	packages
+22081	work	AST	don	variable	work	AST	Eval	variable	Exp	work
+300614	Java	text	breakpoint	Count	Breakpoint	Hit	Breakpoints	select
+162902	Bug	pressed	button	installed	chosen	preference	dialog	Cancel	installed	dialog
+149076	debug	retained	check	filtering	step	workbench	reverts
+189012	command	dialogs	Bug	contexts	expressions	Primitive
+9825	matches	plan	plan	hover	action	debugger	hover	Action	consistent	proposed
+33893	updates	ignore	plug	existant	defined	code	update	Preference	launching	existant
+124522	View	debug	undo	Display	debug	display	Undo	debug	View	functionality
+268393	Debugger	literal	box	Created	button	Image	Reproduce	Steps	letting	Expressions
+8301	view	menus	panes	variables	Inspect	Display	Bug	Evaluation	context
+78449	initially	configuration	message	Bug	correct	closed	classpath	tab
+88689	parser	covers	JLS	Remove	dependancies
+29297	compiled	debugger	honor	changed	find	Project	project	path	replace	searches
+412786	noticed	label	label	Bug	button	Variable	recognizable	button	JREs	JREs
+30837	result	loses	object	code	breakpoint	Bug	Loss	suspended
+173187	change	showing	refactoring	Breakpiont	breakpoints	entires	multiple
+280192	text	evaluating	Evaluation	Ubuntu	windows	appears	title	Evaluation	text	Problmes
+74885	creation	creation	daemon	Threads	created	review	review	terminate	correctly	created
+30344	delete	scrapbook	source	result	unhelpful	Bug	dialog	error	text
+77449	check	option	monitor	support	Monitor	drop	target	inform
+37514	method	actions	exception	debug	breakpoint	breakpoint	exception	retargettable	method	add
+138377	clicks	source	unusable	patch	unusably	bug	hyperlink	source	target	source
+142476	Start	project	Steps	tab	Language	TVT	reassigned
+54417	read	applet	characters	read	blank	Bug	quoted	configured	applet	blank
+324246	Bug	classpath	builders	argument	programs	variable	OpenJPA	JPA
+64663	accept	hex	fails	Change
+352413	window	support	literals	binary	underscores	underscores	underscores	paste	unnecessary	window
+506014	Variables	removed	returned	rows	place	constantly	method
+275614	Bug	builds	bug	debug	Steps	fully	view	expand
+1695	support	multi	code	support	debugging	specific	multi	request	breakpoint	NOTES
+85665	screenshot	empty	container	adding	project	combo	JRE
+23716	error	error	detail	formatter	prefix	formatter	detail	nice	message	nice
+92838	add	CONSOLE	API	PROCESS	plug	api	field	cycles
+324268	time	Clipboard	action	busy	type	FUP	indicator	action	opening	progress
+244395	ATTR	java	view	Reproduce	refactored	ATTR	press	refactoring	launching	attribute
+53929	Classpath	Worse	project	libraries	resource	file	path	multiple	jar	party
+57515	participant	configs	search	types	configs	participant	participant	references	contribute	participant
+16046	finish	user	cancelled	sit	unable	didn	wrong	Launch	completes	launch
+72371	stream	left	occurs	exception
+7859	adapter	adapter	Bug	breakpoints	developers	require	method	Bug	method	require
+350918	Applet	Steps	parameters	foo	Build	eclipse	confuse	unpredictable	Reproducible
+35525	evaluation	unable	disabled	scrapbook	Bug	breakpoint	suspended	step
+254677	plugins	Add	setters	recognition	step	filter	based	code	patch	doc
+13015	condition	breakpoint	thread	conditional	evaluates
+50909	breaking	making	setting	options	prepending	setting	attribtues	appending	change	Bug
+58078	area	Bug	detail	dialog	formatter	dialog	details	Bug	dialog	dialog
+7392	responding	suspended	stack	showing	incompatible	exception	code
+310511	view	sized	Appearance	Dialog	horro	Fonts	Breakpoints	Font	dialog	Preferences
+74477	empty	persists	display	view	document	Empty	display	persisted	document	persists
+330987	jdt	jdt	version	applied	bug	jdt	methods	methods	version	Bug
+32494	Context	toolbar	scrapbook	Execute	bindings
+124147	compliance	user	reduce	JRE	initialize	add	global	user	warning	selected
+248054	editor	Observe	Turbo	Text	Steps	nice	Breakpoints	Reproduce	breakpoints	tasks
+94452	produce	requests	timeout	Stepping	method	attempting	Timeout	displayed	holding
+276723	launch	forgot	Applet	Applet	forgot	config	project	project	configs	launching
+400636	worked	codeassist	work	difference	regression	OSX	Eclipse	Display
+52474	Blocked	workspace	common	Perspective	point	projects	pattern	Repository	lock	attempt
+33534	Bug	indication
+57598	correctly	File	action	Scrapbook	place
+40707	breakpoint	dialog	Breakpoint	enabled	setting	Note	watchpoint	properties
+34052	comment	questions	CTRL	feel	EOF	System	equaivelent	System	console	properly
+77064	stack	Bug	trace	console	button
+8458	Bug	Inspect	variables	action
+6411	Bug	detect	Install	Install	required	detect	required	Bug	required	required
+94474	Press	jar	JRE	deselect	insect	system
+125196	tree	time	left	Bug	JREs	Installed	sash
+24863	Formatters	Detail
+21792	John	eaten	Duser	argument	passed	reverse
+29474	JDT	support	Display	element	Bug	debugger	Step	Debug	system
+164650	ITerminate	launch	implement	group	terminate	thread	terminate	ITerminate	terminate	thread
+40744	huge	reasonable	heightHint	expands	unreasonably	Bug	viewer	tab	created	created
+223530	support	suspect	support	support	hyperlink	suspect	Bug	Step	Selection	investigated
+24873	Add	Formatters	Detail	Formatter	button	Bug	Misc	button	Formatters	Formatter
+15662	inspect	display	work	variable	Bug	Display
+84271	preferences	Debug	buttons	logical	dialog	Dialog	side	logical	variables	widgets
+10035	variables	projects	drive	project	path	relative	generate	files
+372030	resumed	Resume	click	resumed	Remote	remote	thread	wanted	tedious	Debug
+15678	latest	appears	dropping	Drop	Bug	frames	fixed	acting
+167740	checks	object	contribution	Bug	types	formatter	array
+9026	Bug	Summary	showing	breakpoints	error
+77125	Bug	problems	Preference	thread	tracking	change	Preference	hit	problems	change
+125771	method	siganture	unable	clicking	appears	create	created	breakpoints
+30028	snippet	action	key	correct	actions	registered	definition	binding	action	keybindings
+369480	launchingsupport	recognized	latest	JREs	IBM	pde	fine
+27989	configuration	change	operation	Provide	Bug	Tab	verification	Scenario	performApply	launch
+12636	evaluation	working	problem	scrapbook	Scrapbook	evaluation	Java	context	context	Bug
+9057	usable	change	target	element	changed	event
+206693	description	wrong	JRE	created	suspect	eclipse	File	java
+18792	Bug	selections	selection	caught	toggles	caught	enabled	single	exception	exception
+120170	workspace	file	Breakpoint	debug	Toggle	breakpoints	editor	ruler	program
+33644	jar	xml	lib	jars	placing	preferences	endorsed	Java	sdk	ext
+34670	Launch	uncheck	list	key	launch	event
+67439	target	delegate	launch	correct	debug	daemon	Bug	launches	listens
+112503	background	coloring	colors	java	bright	change	color	colors	coloring	text
+144253	stack	CHANGE	Bug	Frame	fire	source
+18306	errors	runnables	support	prevents	delegates	platform	runtime	launch	shouldn	code
+53634	switching	bootclasspath	adding	Java	JRE	application
+463236	Scrapbook	org	jar	org	snippetsupport	evaluations	level	eclipse	jdt	evaluations
+31110	variables	type	variable	archive	Advanced	Build	lookup	file
+34190	raised	framework	problem	including	evaluation	error	Bug
+197011	window	Steps	library	JARs	Installed	click	fails	library	Edit	reproduce
+401815	jdt	failing	tests	test	download
+139152	Debug	error	Open	preferences	screenshot	preference	fields
+463252	compilelogs	drops	org	http	html	JDT	plugins
+49045	launch	scrapbook	Console	current	friendly	title	names	jpage	jpage	bar
+43927	dot	Bug	pressing	assist	Content	enabled
+49047	scrapbook	trace	turn	exceptions	work	confusing	uncaught	written	stack	Bug
+21400	method	breakpoint	breakpoint	Loss	memberStart	Loss	located	details	text	lost
+73624	eclipse	click	main	Java	bringing	Explorer	asks	java	method
+392607	OSX	suite	load	kind	test	fallback
+43418	JRE	Add	system	Browse	Bug	busy	Installed	choosing
+49052	evaluation	dialog	launch	arg	changing	dialog	scrapbook	launch	evaluation	Changing
+49054	entries	entries	configuration	Apply	Java	launch	configuration	disabled	Apply	tab
+266651	Problem	setting	click	Libraries	Finish	Sun	dialog	jre	Updated	symbolic
+9122	extremally	slow	latest	performance	debug
+19363	Missing	Asked	image	library	banner	Bug
+183206	good	Bug	atomic	caused	hagged	subsequently	refactoring	cascading	Build
+179111	issues	preference	popups	instances	limited	fixed	fixes	improved
+10154	filter	inform	thread	text	Breakpoint	labels
+56235	Organize	open	dialog	resize	remember	Bug	Favorites
+49068	widgets	amount	needed	Installed	preference	Large	functional
+271785	support	exception	errors	extensions	uncaught	uncaught	errors	specific	handling	exceptions
+9649	dialog	workspace	rebuild	Turn	Eclipse	returns	proceeds	Add	eclipse	consuming
+49077	Bug	create	bootpath	tacked	append
+64951	suspended	update	frame	breakpoint	toString
+108473	huge	launcher	fine	correctly	problem	CPU	running	degrades
+234425	warnings	warning	member	collection	warnings	warning	snippet	snippet	checking	ASTParser
+30650	condition	weird	problem	pops	error	compilation	justified	breakpoint	minor
+8634	missing	exception	workspace	Exception	persisted
+304057	details	enabling	enabled	focus	hit	clicks	start	count	text	mouse
+300992	view	dialog	breakpoint	option	Breakpoints	properties	pane	build
+49092	entries	empty	element	user	sees	Entries	Bug	element	boot	recreated
+323020	test	Bug	test	test	Mac	test	Bug	Mac	Mac	Mac
+60364	Runtime	code	runtime	eliminated	debug	newly	JDT
+109009	Tests	tests	breakpoints
+171984	Properties	dialog	command	nice	bound	Open	action
+178641	conditional	appears	target	work	performance	failure	breakpoint	editor
+27093	location	location	point	java	Javadoc	apporpriate	issues	issues	location	website
+181204	verified	applies	resource	enhancement	object	executable	configuration	launch
+64984	Inspect	work	doesn	Display
+212442	test	logic	failures	breakpoints	causing	String	tests	breakpoint
+112613	breakpoints	breakpoints	actions	JDT	Breakpoint	toggle	investigating	view	Operation	Perform
+218086	including	including	work	variables	working	logic	Bug	statics	filtered	constants
+8679	Suspend	Hit	Notice	Bug	update	freeze	Remove	situation	respected
+42984	basedir	message	tab	overriding	eclipse	variable	defines	target	Base	processes
+18926	location	Reason	directory	add	Add	error	JDK	Bug
+380918	purposes	source	Launching	Launching	Launch	creates	Build	src	fine	launch
+29683	save	container	resolution	workspace	project	explicit	dialog	info
+38387	error	Bug	ing	log	messages	understand	language	nls	NLS
+290288	supply	panes	view	JDT	breakpoint	supports	breakpoints	Java
+20468	indication	helpful	browse	attached	creating	attachment	verifying	image	jar
+22005	Eclipse	code	Display	Review	runnables	review	synchExec
+265714	breakpoint	support	Listeners	debugger	location	evaluate	breakpoints	listener	breakpoint	location
+394225	Evaluates	Display	incorrectly	display	evaluates
+5623	JDK	updated	client	updated	specification	swap	client	hot	hot	updated
+16378	launch	missing	shot	config	Debug	remains	Workbench
+110074	Breakpoints	breakpoint	working
+396795	pane	detail	Result	changed	Prevent	background	breakpoint	explicitly
+57853	closed	view	contents	closed	worrying	close	persist	losing	session	losing

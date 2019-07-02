@@ -1,0 +1,42 @@
+337415	project	workspace	folders	data	created	external	projects	check	steps	eclipse
+385293	modifiers	normal	type	compiler	silently	read	references	accepts	modifier	accepted
+471062	space	comments	formatter	comment	installed	code	repo	source	file	inserted
+28951	source	attachment	rootpath	field	jar	eclipse	longer	bug	files	reason
+480029	eclipse	bug	bit	file	zip	formatter	reproduce	javadoc	bugs	indentation
+410402	failures	bug	investigate
+483895	bug	completion	preferences	disable	remove	substring	bugs	code	assist	fixed
+11076	favorites	configuration	remain	configurations	launch	add	configs	list	delete	dialog
+421711	javac	identifier	lambda	bug	parameter	code	issue	rejected	ecj	moment
+234074	current	compliance	jre	test	log	expected	error	launched	depending	bug
+385132	colon	arrow	error	token	syntax	tokens	compiler	reports	issue	caused
+23162	ast	bindings	clients	nodes	modified	don	dom	start	tree	control
+442245	files	source	java	eclipse	hang	project	copy	lead	workspace	turned
+455042	invalid	errors	cache	recover	caches	classpath	subject	jars	archive	evicted
+85384	proposed	method	writing	assist	declarations	bug	content
+424591	graal	java	errors	spurious	workspace	resolution	projects	eclipse	attached	code
+252556	region	removed	test	bug	formatted	spaces	formatter	javadoc	unit	compilation
+409236	annotations	type	bugs	bug	intersection	types	code	cgi	org	dropping
+409245	annotations	type	synthetic	methods	dropped	bugs	java	compiler	routed	method
+380313	msg	java	stack	org	thread	functionality	error	windows	bit	inconsistent
+413083	bug	debug	requesting	build	wrongly	builder	accuses	user	info	full
+399769	identifier	warning	spec	java	keywords	unambiguous	trigger	error	issues	point
+420004	type	annotation	annotations	properly	restored	types	don	follow	targets	target
+467618	wrapped	elements	indent	empty	formatter	bug	fact	affect	properly	indentation
+426678	accessibility	vararg	bugs	problem	bug	issue	cgi	test	org	release
+485302	bug	warnings	missing	wildcards	annotations
+162740	org	documents	eclipse	php	html	equinox	referer	website	main	failed
+476859	error	attachment	oracle	traces	jdk	unit	tests	internal	works	code
+401848	additional	annotation	created	annotations	type	error	testcase	rewrite	reproduce	introduced
+434630	issue	project	type	reproduce	generics	bug	mismatch	switching	types	code
+65738	save	build	change	occur	automatic	time	happen	making	automatically	project
+180169	container	entries	bug	missbehaving	add	log	protection	spec	mode	trace
+427218	bugs	bug	snippet	inference	cgi	org	error	eclipse	crash	verify
+391376	methods	bug	generics	bridge	check	logic	bogus	delicate	code	cleanly
+413913	failures	bug	investigate
+369381	bug	unexpected	adding	compiling	assertion	compiler	potential	mark
+472815	empty	doesn	indent	work	blocks	mars	body	formatter	consisting	bug
+412650	bug	exception	small	test	thrown	compiling	project	description	lambda	extract
+357110	error	src	bin	sourcefolder	problem	create	classes	file	editor	project
+479474	bug	formatter	comment	problems	setting	disabled	nodes	doc	support	assumes
+423409	references	matches	search	declaration	constant	shift	project	potential	test	inline
+403705	failures	list	attachment	bug	created	failure	attached	details	investigate

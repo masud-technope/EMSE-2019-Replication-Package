@@ -1,0 +1,42 @@
+337415	headless	folder	loading	metadata	ant	External	Workspace	metadata	Data	External
+385293	arguments	Bug	Marker	report	check	accepts	grammar	Type
+471062	join	Mars	causing	inserted	Preserve	comments	formatter	white
+28951	projects	Source	jar	functioning	bug	longer	root	source	attachment	corectly
+480029	org	individual	formatting	original	wrong	tag	eclipse	formatting	ticket	attachment
+410402	Bug	Bug	Investigate	Investigate	Bug	Investigate	Bug	Investigate	Bug	Bug
+483895	assist	code	Disable	content	fixed	dependent	Bug	substring
+11076	configurations	favorites	favorite	Add	list
+421711	parameter	parameter	behavioral	compiler	code	difference	compiler	Javac	ECJ	identifier
+234074	test	depending	expected	elaborated	fails	compiler	compliance	Bug
+385132	issue	caused	Bug	syntax	shouls	Adding	grammar
+23162	rewriting	modification	modifiy	bindings	simply	DOM	tree	clients
+442245	hangs	problem	eclipse	Bug	Daniel	java	details	compiler	Java
+455042	classpath	drives	modified	invalid	jar	cache	Java	Bug	network	errors
+85384	Bug	declarations	assist	method	content
+424591	JavaSE	unzip	Choose	inference	checking	Graal	running	capture	Eclipse	Execution
+252556	spaces	compilation	region	region	Spaces	formatted	formatted	Spaces	compilation	Javadoc
+409236	types	dropped	type	compiler	point	generator	bug	compiler	annotations	constituents
+409245	call	point	optimizations	writes	routed	program’s	synthetic	AST	bugs	method
+380313	refer	Bug	Windows	stack	error	forums	Xtext	eclipse	org
+413083	Bug	Builder	wrongly	debug	user	build
+399769	compiler	Modified	java	reserved	error	keyword	trigger	warning
+420004	PARAMETER	restored	Bug	getAnnotations	targets	compiler	Target	JAVA
+467618	formatter	feature	indent	comment	lines	details	policy	force	preceded	details
+426678	compiler	vararg	problem	accessibility	cgi	Bug	test	shortly	shortly	https
+485302	Wildcards	annotations	warnings
+162740	documents	directory	http	links	documents	eclipse	documents	main	open	main
+476859	test	Bug	compiler	enclosing	fine	works	eclipse
+401848	rewrite	Bug	adds	reproduce	ASTRewrite	Testcase
+434630	mismatch	code	attached	reproduce	Bug	errors	issue	generics
+65738	builder	notice	project	occur	Bug
+180169	entries	Bug	log	missbehaving	mode	bug	mode	container	entries	missbehaving
+427218	bug	error	inference	snippet	Bug	varargs	org
+391376	situations	error	messages	verifier	enter	leaving	fixed	bug	meet	handled
+413913	Bug	Investigate
+369381	compiler	potential	unexpected	compiler	compiling	Adding	Adding	Bug	mark	potential
+472815	indented	doesn	option	doesn	indented	body	work	empty	empty	consisting
+412650	extract	thrown	compiling	compiler	test	Bug	description	Lambda	Incongruent
+357110	project	files	Reproduce	reproduceable	binary	Steps	resolved	classes	jdt	circumstances
+479474	formatter	support	Problems	initializes	comment	Bug	assumes	compiler	comment	idea
+423409	matches	Continuing	refactoring	accurate	delete	field	project	Click	Test	details
+403705	list	List	Bug	Investigate	Attached

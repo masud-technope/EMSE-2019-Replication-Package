@@ -1,0 +1,42 @@
+337415	headless	steps	ant	folders	script	launch	recreation	metadata	project	preferences
+385293	normal	silently	modifiers	grammar	accepts	accepted	stored	changed	modifier	marker
+471062	space	repo	mars	formatter	comments	causing	installed	inserts	join	slash
+28951	rootpath	attachment	functioning	older	longer	manually	restarting	edited	jar	reason
+480029	sdk	win	builds	formatter	submit	bit	indentation	zip	reproduce	substitutions
+410402	investigate	failures	bug
+483895	disable	preferences	completion	substring	dependent	bug	fixed	remove	assist	content
+11076	favorites	configurations	remain	configs	launch	configuration	favorite	listed	dialog	deleted
+421711	javac	moment	rejects	ecj	lambda	rejected	identifier	difference	issue	parameter
+234074	elaborated	jre	dcompliance	launched	compliance	depending	account	fails	mismatch	current
+385132	colon	arrow	verbatim	syntax	tokens	fixes	token	misplaced	bottom	grammar
+23162	rewriting	bindings	parallel	modified	nodes	simply	asts	clients	walk	ast
+442245	hang	lead	hangs	files	paste	automatic	portion	turned	attachment	editor
+455042	drives	network	stands	subject	timestamp	cleared	recover	errors	caches	archive
+85384	proposed	writing	assist	declarations	content	method	bug
+424591	spurious	beta	rev	resolution	reproducing	attached	subdirectory	unzip	errors	workspace
+252556	region	formatted	spaces	removed	formatter	fails	bug	comment	unit	compilation
+409236	dropping	constituents	intersection	beta	generator	dropped	bugs	annotations	point	bug
+409245	routed	dropped	bridge	accounting	moment	optimizations	synthetic	beta	writes	accepts
+380313	msg	latest	machine	windows	functionality	refer	inconsistent	details	bit	thread
+413083	wrongly	requesting	user	debug	builder	full	bug	info	build	accuses
+399769	unambiguous	identifier	releases	warning	spec	keywords	proposed	issues	diagnostic	requires
+420004	restored	shortly	properly	beta	patch	meta	follow	calling	getannotations	annotations
+467618	wrapped	formatter	formater	preceded	elements	leads	didn	wrapping	attempts	indent
+426678	accessibility	vararg	shortly	showing	issue	follow	release	bugs	problem	regression
+485302	wildcards	missing	annotations	warnings	bug
+162740	equinox	documents	website	coding	links	dir	failed	directory	open	stream
+476859	traces	oracle	attachment	ejc	jdk	failures	attached	works	pass	command
+401848	additional	introduced	attachment	astrewrite	reproduce	adds	details	rewrite	testcase	created
+434630	issue	reproduce	generics	mismatch	switching	attachment	attached	project	details	work
+65738	automatic	save	occur	change	making	build	builds	time	automatically	notice
+180169	missbehaving	protection	entries	container	protect	returning	containers	spec	log	reported
+427218	crash	snippet	inference	bugs	varargs	verify	bug	cgi	https	info
+391376	logic	bridge	generics	cleanly	assumptions	picture	methods	corner	leaving	situations
+413913	investigate	failures	bug
+369381	compiling	assertion	adding	mark	potential	unexpected	bug	compiler
+472815	mars	consisting	indented	blocks	empty	formatter	lines	work	doesn	indent
+412650	incongruent	mentioned	small	compiling	extract	description	lambda	thrown	bug	project
+357110	outputfolder	sourcefolder	editor	reproducible	workaround	src	bin	classfolder	circumstances	explorer
+479474	formatter	setting	confirm	disabled	idea	problems	initializes	nodes	leads	doc
+423409	matches	inline	references	click	press	shift	alt	continuing	ctrl	deletes
+403705	failures	investigate	attachment	attached	details	failure	list	created	bug

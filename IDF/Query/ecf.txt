@@ -1,0 +1,51 @@
+209410	comments	patch	improve	attachment	misc	attached	feedback	bot	handling	details
+275722	acts	abstraction	wiki	project	details	main	bug	ecf	eclipse	http
+198161	latest	letter	hit	completion	tab	broken	participants	build	head	irc
+240926	improper	insufficient	editing	stopping	logic	properly	leave	cleanup	docshare	editor
+269612	idca	design	cdc	ida	ended	filters	providers	problem	implement	composite
+266539	latest	zeroconf	iana	happen	needed	notices	head	tcp	bug	registered
+234803	correctly	jslp	pass	slp	bug	supported	path	uri	discovery	ecf
+198193	patch	didn	chars	characters	nick	irc	parsing	connecting	special	dialog
+192574	affect	buttons	restore	defaults	communications	isn	settings	apply	preference	bug
+371768	npe	watchmanager	unpublish	zoodiscovery	needed	bug	thrown	service
+192573	opens	dynamic	incorrect	collaboration	invoking	web	communications	project	groups	fails
+198731	recognition	steps	click	fine	works	ctrl	foobar	mouse	move	hyperlink
+321354	timing	balancing	causing	lookups	jms	manage	meaning	properly	subsequent	appropriately
+227939	patch	restored	overflow	steps	rewrite	mail	logout	issue	fixed	won
+252002	ntlmv	discussion	comment	track	cgi	starting	work	bugs	based	authentication
+258916	htab	hexdig	escape	attr	discover	character	bad	safe	val	slp
+292972	patch	additions	relevant	pieces	track	apply	fixes	application	bug	number
+222824	puts	ignores	talk	google	doesn	work	bug	gmail	xmpp	port
+217971	restrictions	warn	jslp	settings	mode	slp	bug	port	bundle	discovery
+238970	stays	guess	cpu	increases	hour	steps	chosen	report	bit	normal
+198012	hyperlinks	activation	hyperlink	ecftcp	behavior	localhost	dialog	bug	receive	form
+211585	parsing	naming	jmdns	problem	authority	defines	bug	parser	discovery	code
+318086	figure	disabling	moment	unit	build	project	problem	bug	discovery	tests
+238976	modifications	initiated	originator	side	broken	editor	closed	disconnected	notification	session
+482434	incorrectly	calculated	handling	implemented	exported	bug	type	version	service
+199309	freenode	steps	click	ctrl	modlost	appears	foobar	problems	hyperlink	build
+327060	solution	posting	interest	comment	lists	zookeeper	include	problem	dev	location
+222865	toolbar	steps	click	collaboration	finish	button	build	nickname	reproduce	dialog
+222868	clicked	steps	mail	entered	finish	button	build	msn	reproduce	wizard
+447633	thought	cover	stat	capability	effectively	filenames	spaces	executes	remotely	issue
+198043	recognize	contacts	doesn	groups	entries	users	dialog	bug	open	list
+172958	patch	acceptable	mark	irc	commands	work	command	mode	containers	root
+273819	opens	cancels	instantiated	runs	closes	opened	disposed	wrong	started	wizard
+259233	lost	segment	jmdns	bug	path	uri	discovery
+218027	correctly	jslp	doesn	discovered	don	scope	slp	bug	discovery	services
+207530	texts	units	atomic	discard	deletions	clipboard	marking	applies	receipt	insertion
+199336	forget	nice	steps	prepend	foobar	won	tab	unable	opened	build
+274613	leaves	guess	talking	asks	supposed	joins	updating	sense	minutes	identification
+200630	handled	confirm	irc	bug	messages
+263613	networking	unresponsive	releasing	cancelling	contacting	install	cancelable	cancellation	downloading	mark
+277176	osgiservices	bring	click	working	machine	iana	option	menu	tcp	view
+196541	noticed	moment	cleared	behaviour	passwords	appears	changing	msn	wizards	irc
+206528	kos	mos	prevents	alternatively	steps	responds	asked	wiki	mapped	build
+183492	launch	application	bug	config	server	ecf
+196298	bloggs	googlemail	existence	talk	separately	joe	assume	separate	issue	google
+202958	incorrectly	bring	freenode	click	works	choose	enter	area	irc	menu
+221139	validation	mail	inserted	weak	xmpps	checked	msn	wizards	field	bug
+286934	patch	attachment	steps	randomly	appears	attached	details	fails	problem	reproduce
+112599	dynamically	remotely	updated	subject	title	room	bug	chat	xmpp	server
+197604	deop	unban	ban	kick	attached	head	irc	commands	bug	parse
+192756	freenode	big	rid	entered	tab	xxx	irc	don	join	channel

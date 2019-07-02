@@ -1,0 +1,51 @@
+209410	comments	bot	commands	created	documentation	error	fixes	regexes	feedback	improved
+275722	bug	abstraction	ecf	gsoc	org	wiki	project	http	main	details
+198161	irc	broken	completion	channel	tab	ecf	completed	repro	type	head
+240926	editor	shared	closed	receiver	improper	insufficient	clean	editing	properly	closing
+269612	container	cdc	list	locator	add	internal	interfaces	ida	idca	filters
+266539	discovery	ecf	resource	services	log	needed	registered	error	local	head
+234803	path	discovery	slp	jslp	correctly	bug	pass	ecf	uri	supported
+198193	irc	special	bug	connecting	didn	server	created	failed	error	parsing
+192574	settings	communications	buttons	restore	defaults	bug	isn	apply	affect	preference
+371768	npe	service	watchmanager	bug	zoodiscovery	needed	unpublish	unpublishing	thrown	harmless
+192573	ecf	resource	open	request	project	context	menu	collaboration	send	invoking
+198731	irc	ctrl	foobar	underlined	hyperlink	move	works	underline	recognition	channel
+321354	client	connect	timing	sequence	remote	jms	problem	meaning	fail	bug
+227939	password	stack	msn	error	overflow	bug	mail	restoring	login	reproduce
+252002	bug	ntlmv	provider	discussion	bugs	support	httpclient	based	cgi	org
+258916	tag	bad	reserved	slp	safe	hexdig	val	discover	star	character
+292972	bug	genuitec	filetransfer	patch	additions	apply	patches	ecf	fixes	relevant
+222824	user	port	gmail	google	xmpp	host	talk	doesn	work	puts
+217971	warn	tests	preconditions	slp	jslp	mode	settings	bug	port	discovery
+238970	cpu	msn	seconds	java	bug	disconnect	wait	usage	ecf	bit
+198012	connect	localhost	hyperlink	server	ecftcp	receive	ecf	dialog	current	form
+211585	naming	authority	code	parsing	type	jmdns	defines	problem	parser	bug
+318086	discovery	tests	unit	figure	problem	disabling	bug	build	org	ecf
+238976	shared	editor	side	notification	broken	disconnect	initiated	code	session	source
+482434	service	exported	version	incorrectly	bug	implemented	handling	type	calculated
+199309	irc	freenode	connection	net	click	eclipse	bugs	foobar	hyperlink	editor
+327060	dev	bug	ecf	mailing	include	zookeeper	list	uri	port	location
+222865	collaboration	click	button	nickname	connect	steps	empty	reproduce	toolbar	dialog
+222868	msn	entered	password	select	mail	clicked	steps	button	reproduce	bug
+447633	file	files	directory	command	scp	stat	issue	format	spaces	thought
+198043	contacts	groups	open	doesn	dialog	entries	bug	recognizer	recognize	list
+172958	commands	channel	patch	containers	container	acceptable	work	command	mode	bug
+273819	wizard	bug	time	container	feels	kind	opened	started	thread	closes
+259233	discovery	path	lost	uri	bug	segment	jmdns
+218027	correctly	scope	doesn	discovered	don	bug	provider	discovery	slp	handle
+207530	character	modification	cola	single	insertions	multi	text	support	deletions	operations
+199336	irc	tab	user	chatroom	join	close	connect	command	server	expert
+274613	eclipse	ids	remote	irc	wizard	user	container	dev	server	nickname
+200630	handled	messages	confirm	disturbing	bug	irc
+263613	update	site	jobs	don	cancelable	software	main	networking	enabled	view
+277176	tcp	osgiservices	iana	view	service	discovery	machine	remotesvcs	bring	ecf
+196541	field	text	wizards	username	cache	noticed	start	msn	appears	changing
+206528	commands	list	eclipse	wiki	type	kos	mos	bugs	join	bug
+183492	server	application	bug	ecf	launch	config
+196298	talk	google	user	gmail	server	joe	jabber	xmpp	ensure	bloggs
+202958	channel	output	select	irc	copy	text	selected	container	works	bring
+221139	address	mail	weak	user	validation	wizards	msn	xmpp	xmpps	inserted
+286934	resource	user	roster	disconnected	host	connect	test	removed	ids	disconnect
+112599	xmpp	updated	room	server	bug	subject	chat	title	remotely	dynamically
+197604	irc	test	parse	deop	error	version	ban	head	unban	kick
+192756	channel	irc	entered	messages	join	big	server	don	clients	rid

@@ -1,0 +1,42 @@
+337415	project	folders	created	External	Data	Bug	preferences	check	workspace	launch
+385293	compiler	modifiers	arguments	normal	type	Bug	accepts	T	X	report
+471062	space	comment	Formatter	inserts	comments	Bug	havoc	items	semicolon	github
+28951	attachment	rootpath	field	Source	Bug	Eclipse	source	src	missing	root
+480029	indentation	formatter	javadoc	statements	Comments	error	bug	Eclipse	M	bit
+410402	failures	Investigate	Bug
+483895	Disable	content	Preferences	completion	substring	Bug	assist	bug	remove	bugs
+11076	remain	list	configs	Deleted	configuration	Bug	launch	configurations	favorite	favorites
+421711	parameter	lambda	compiler	identifier	Javac	Bug	difference	rejected	a	issue
+234074	Compliance	JRE	test	Dcompliance	error	Bug	fails	compiler	launched	current
+385132	COLON	error	compiler	ARROW	shouls	lines	syntax	tokens	Bug	failure
+23162	bindings	AST	clients	DOM	Bug	control	tree	modified	start	modifiy
+442245	source	copy	eclipse	files	compiler	hang	Bug	java	setup	lead
+455042	errors	Java	model	caches	Enable	Bug	drives	timestamp	network	invalid
+85384	proposed	method	writing	assist	declarations	Bug	content	I
+424591	resolution	inference	capture	array	workspace	code	graal	Bug	General	error
+252556	region	Spaces	formatter	removed	unit	compilation	Bug	comment	test	formatted
+409236	annotations	intersection	code	compiler	generator	types	Type	Bug	bugs	dropped
+409245	bridge	method	annotations	compiler	synthetic	routed	Type	bugs	type	call
+380313	Java	error	Inconsistent	stack	bit	m	Bug	thread	eclipse	org
+413083	Builder	debug	build	user	Bug	full	info	requesting	wrongly	accuses
+399769	identifier	compiler	trigger	warning	spec	Bug	diagnostic	java	X	Keywords
+420004	annotation	Target	compiler	types	restored	meta	annotations	getAnnotations	TYPE	Bug
+467618	formater	elements	indentation	wrapped	lines	Empty	Bug	details	affect	behavior
+426678	vararg	accessibility	compiler	issue	element	bugs	type	problem	Bug	test
+485302	warnings	Missing	Wildcards	Bug	annotations
+162740	Error	website	Bug	eclipse	org	documents	dir	html	php	open
+476859	error	oracle	works	jdk	method	EJC	compiler	enclosing	attachment	fine
+401848	annotations	ASTRewrite	type	additional	Bug	Annotation	Testcase	adds	error	n
+434630	generics	type	mismatch	types	error	issue	nested	Bug	project	details
+65738	builder	save	Build	Bug	CU	automatically	time	Eclipse	automatic	build
+180169	entries	container	protection	missbehaving	Bug	Add	returning	bug	trace	log
+427218	inference	compiler	error	bugs	Verify	varargs	Bug	crash	c	snippet
+391376	methods	generics	check	interaction	bridge	bug	Bug	logic	error	messages
+413913	failures	Investigate	Bug
+369381	assertion	compiler	unexpected	Bug	mark	potential	Adding	compiling
+472815	Indent	blocks	formatter	empty	doesn	option	work	Bug	lines	Empty
+412650	compiler	Lambda	Incongruent	Exception	bug	thrown	Bug	Project	small	a
+357110	type	classes	Problem	referenced	folders	jars	error	file	resolved	src
+479474	comment	formatter	doc	support	Problems	I	setting	bug	problems	Bug
+423409	references	search	matches	potential	Search	Bug	declaration	inline	fields	Shift
+403705	failures	Investigate	Bug	Failure	attachment	List	details	list	Attached	b

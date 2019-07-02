@@ -1,0 +1,179 @@
+170502	launch	dialog	classpath	tab	java	app	type	add	string	variable	bootpath	entries	stay	reproduce	open	launch	dialog	classpath	tab	add	string	variable	boothpath	entries	hit	apply	close	dialog	reopen	classpath	tab	entry	moved	user	entries
+335363	Created	attachment	details	Screenshot	depicting	problem	question	Window	Preferences	General	Appearance	Colors	Fonts	Basic	Dialog	Font	Increase	font	size	Click	Add	Java	Exception	Breakpoint	Notice	text	checkbox	truncated	Resizing	maximizing	dialog	doesn
+229380	Open	Java	Launch	Configuration	classpath	tab	Ensure	bootstrap	entry	user	entry	Select	bottom	bootstrap	entry	button	enabled	pressing	Select	top	user	entry	button	enabled	pressing	update	button	reflect	moving
+13834	Build	doesn	breakpoint	source	code	managed	Eclipse	debugging	code	remote	program	includes	code	managed	workspace	external	JARs	click	stack	frame	unmanaged	methods	dialog	find	source	point	dialog	source	editor	java	file	opens	breakpoints	file	ruler	displayed	click	nthe	ruler	context	menu	Add	Breakpoint	action	disabled	frustrating	breakpoints	code	examining
+12300	Build	execute	launch	configuration	team	created	Debug	button	grayed	reason	hard	find	INSTALL	match	locally	installed	JRE	trivial	figure	Environment	JRE	tabs	edited
+23568	Attempting	invoke	code	assist	Ctrl	Space	longer	working	scrapbook	Edit	menu	Content	Assist	auto	activation	provide	content	assist
+286229	Created	attachment	details	HEAD	fixing	bug	bad	usages	URL	equals	Object	JDT	Debug	method	resolves	host	URLs	DNS	lookups	time	scenario	fails	edit	JRE	definition	replace	host	Javadoc	path	http	java	sun	javase	docs	api	http	javase	docs	api	click	Restore	updated	preference
+5653	Eclipse	Corner	post	post	debugging	Eclipse	VAME	Debugger	Breakpoints	view	click	view	Add	Java	Exception	Breakpoint	button	type	Throwable	text	field	Uncaught	checked	click	Debugger	uncaught	Throwables	find	handier	stack	trace	Console	unexpected	exception	Debugger	select	frames	stack	trace	current	frame	values	variables	halted	delete	breakpoint	time	Java	program	Debugger	Uncaught	Throwable	breakpoint	background	protecting	grin	post	response	post	sounds	great	technique	isn	behavior	making	behavior
+321043	HEAD	revert	bug	enable	compiler	compliance	revert	attachment	details	bug	comment	bug	bug
+112670	CTRL	SPACE	toggle	selection	treeitems	variables	view	invokes	content	assist	blocks	normal	windows	keystrokes	platform	widget	Commands	details	pane	active	focus
+43554	Build	clicking	left	margin	front	method	signature	standard	breakpoint	created	statement	method	body	expect	simply	create	method	entry	breakpoint
+43555	Build	Method	entry	breakpoint	conditionnable	expressions	involving	receiver	arguments
+399913	Created	attachment	details	file	installed	JREs	latest	JVM	update	Mac	find	Java	JRE	hit	search	Debugged	host	Eclipse	file	describe	points	location	actual	plist	parsing	Steps	grab	file	attached	install	file	hit	search	button	installed	JREs	notice	JRE	list	existing	workspace	looked	logic	check	based	location	causing	bug
+13364	breakpoint	condition	properties	dialog
+22580	tcp	spy	released	general
+255031	projects	CDC	Foundation	load	week	build	projects	longer	compile	project	level	warning	ignore	warning	project	build	path	error	compiled	reproduce	load	org	eclipse	equinox	console	org	eclipse	equinox	director	cvsroot	repo
+37942	dialog	setting	Java	application	launch	configurations	Classpath	tab	names	JARs	included	impossible	AFAICT	determine	JARs	located	Project	classpath	tab	info	nicely	displayed	JAR	launch	config	dialog	display	full	location	JARs	option	details	included	JAR
+500794	option	enable	disable	Hot	Code	Replace	Java	Ant	deploy	task	Eclipse	refresh	reload	hundreds	files	making	application	container	unusable	JVM	fails	minutes	close	CPU	utilization	reload	Connecting	developer	machine	remote	machine	test	server	causing	code	updates	hcr	Selectively	enable	disable	hot	code	replacement	Configurations	provide	Gerrit	change	time	contributing	gentle	point	noteworthy	file	update
+16446	Select	launch	config	Local	Java	App	JRE	Click	add	JRE	option	appears	Java	executable	button	selected	Leave	launch	program	exception	occurs	debugged	command	launch	javaw	javaw	exists	VMs	fine	fall	java	java	exe	javaw
+10817	config	shared	java	copied	output	folder	launch	config	dialog	disallow	copying	selected	resources	output	location
+22081	current	implementation	don	manage	variable	declaration	array	type
+300614	Enable	details	pane	Breakpoints	view	select	Java	breakpoint	Details	Breakpoint	Settings	Cocoa	text	field	Hit	Count	pixels	wide	character	WinXP
+162902	installed	JREs	Search	pressed	location	search	chosen	progress	dialog	Cancel	button	button	labelled	button	pressed	retained	preference	cancel	pressed
+149076	check	step	filtering	pref	keyboard	shortcut	debug	view	action	restart	workbench	step	filtering	retained	reverts	step	filtering
+189012	Change	Primitive	Change	Object	dialogs	accessible	change	command	variables	expressions	view	contexts
+9825	debugger	approaches	icon	depending	action	consistent	plan	matches	proposed	workbench	remove	action	icon	launch	view	breakpoint	view	launch	view	action	color	enabled	breakpoints	view	color	hovers	action	prefer	showing	color	action	active	easy	action	active	hover
+33893	update	code	launching	plug	updates	JREs	preference	incorrectly	defined	JREs	exist	ignore	JREs	invalid
+124522	display	view	debug	perspective	undo	functionality
+268393	Created	attachment	details	Image	Build	Steps	Reproduce	attached	screenshots	attempted	change	String	variable	Expressions	text	box	literal	text	Image	dialog	button	gray	Image	attempt	button	gray	Image	attempt	quotes	Nope	gray
+8301	Display	Inspect	needed	context	menus	details	panes	variables	view	expression	view
+78449	Ant	launch	configuration	closed	project	initially	correct	error	message	Ant	launch	configuration	dialog	classpath	tab	error	message	incorrectly	cleared	red	remains	classpath	tab
+88689	parser	JSL	compliant	covers	JLS	remove	dependancies	JSL
+29297	project	multiple	output	folders	debug	find	version	compiled	Hot	code	replace	debugger	searches	output	folder	changed	classe	output	folder	Project	properties	Java	build	path	Source	Source	folders	build	path	output	folders	source	folder
+412786	JREs	preference	JRE	contributed	select	Delete	button	disables	noticed	locked	text	label	changed	contributed	colour	items	contributed	entries	Classpath	Variable
+30837	exception	breakpoint	NPE	Debug	code	NPE	suspended	breakpoint	select	object	variable	variables	view	thread	loses	suspended	breakpoint	result	evalution
+173187	breakpoints	refactored	renaming	wizard	eventually	ended	Breakpint	expand	Breakpiont	identical	entires	showing	breakpoint	type	change	user	differences	problem	method	breakpoints	multiple	method	breakpoints	file	dialog	user	distinguish	breakpoints
+280192	select	inspect	windows	appears	title	Problmes	evaluating	expression	text	Evaluation	Failed	internal	error	unable	execution	context	installed	Ubuntu
+74885	review	thread	creation	correctly	mark	threads	deamon	threads	threads	terminate
+30344	error	occurs	scrapbook	syntax	error	result	returned	scrapbook	inserts	text	scrapbook	VAJ	remarkably	unhelpful	developer	delete	message	result	straight	selecting	block	text	time	error	message	interpreted	error	message	tedium	pop	dialog	box	result	error	dismissed	leaving	source	code	intact	alternatively	displaying	result	mechanism	pop	text	console	standard	output	error
+77449	inform	user	monitor	target	selected	Monitor	Options	dialog	launch	target	support	don	check	box	dialog	select	option	view	drop	menu
+37514	Create	actions	debug	platform	shared	debuggers	toggle	breakpoint	toggle	method	breakpoint	toggle	watchpoint	add	exception	breakpoint
+138377	bug	perfomance	target	resolution	acceptable	clicks	lastest	builds	perfomance	unusable	blocked	seconds	click
+142476	RHEL	Build	Component	EMFT	Blocking	Language	Bitmap	Location	defects	EMFT	JPG	Tester	Peppy	Florou	Steps	recreate	problem	Start	eclipse	File	Project	Expand	Java	Emitter	Templates	Click	Enter	project	tvt	tests	Click	Finish	project	created	click	file	sample	xml	choose	menu	choose	Select	JET	Transform	hand	tree	Click	icon	Click	Common	tab	Problem	Description	Text	box	File	field	overlapps	border	Variables	button	overlapps	border	Kindly	adjust	coordinates	width	boxes	thx	Peppy	article	reassigned	Category	TVT	Testing
+54417	applet	parameters	configured	Parameters	selfModule	getParameter	selfModule	cann	read	characters	blank	bug	fault
+324246	Build	Identifier	defined	external	program	builder	external	builder	called	java	OpenJPA	JPA	enhancer	enhancer	works	JVM	classpath	variable	defined	pass	project	classpath	java	argument	enter	good	variable	project	classpath	argument	project	classpath	project	expand	classpath	Reproducible
+64663	fails
+352413	Change	window	debugger	doesn	accept	underscores	literals	Java	supports	unnecessary	copy	paste	integer	code	window
+506014	reply	Sarika	Sinha	bug	comment	Stephan	observed	flickering	view	returned	removed	Variables	view	discussing	row	dedicated	returned	don	insert	remove	rows	time	decided	thought	open	discussions	daily	feature	disturbs	list	variables	jumps	stepping	depending	availability	node	place	holder	signal	changing	label	method	icon	bug	constantly	disabled	improve
+275614	builds	including	bug	introduced	Debug	view	time	debug	session	started	doesn	auto	expand	threads	view	visible	screen	Steps	reproduce	start	workspace	choose	Debug	perspective	launching	open	workbench	window	Debug	perspective	workbench	window	Java	perspective	Debug	window	Java	paste	code	Explorer	start	Debug	Debug	view	threads	auto	expanded	fully	expanded	window	perspective	bug
+1695	request	flavor	conditional	breakpoints	support	user	constrain	breakpoint	process	thread	multi	thread	multi	process	debugging	executing	code	NOTES
+85665	adding	JRE	container	project	dialog	Alternate	JRE	radio	button	selected	combo	empty	screenshot
+23716	runtime	error	detail	formatter	details	area	displays	error	message	nice	qualify	message	prefix	Detail	formatter	error
+92838	HEAD	random	probe	field	IDebugUIConstants	PROCESS	CONSOLE	TYPE	missing	tag	committers	keeping	time	review	API	Debug	plug	ins	ensure	tagged	properly
+324268	FUP	bug	opening	type	search	time	busy	cursor	progress	indicator
+244395	Build	Steps	Reproduce	create	launch	config	java	project	rename	java	project	launch	config	refactored	org	eclipse	jdt	launching	PROJECT	ATTR	attribute	launch	config	change	Undo	rename	operation	press	Ctrl	Explorer	view	launch	config	disappeared
+53929	Verion	Classpath	tree	entries	FULL	path	jar	resource	file	version	jar	Worse	multiple	jars	party	libraries	resources	zip	common	project	properties	dialog	IMO	showing	full	path	jar	resource
+57515	contribute	search	participant	launch	configs	references	types
+16046	user	presses	cancel	button	launch	configuration	dialog	launch	progress	launch	cancelled	wait	launch	finish	terminate	launch	user	pressed	cancel	behavior	wrong	number	reasons	cancel	button	respond	Cancel	operations	doesn	operation	job	forced	user	wait	launch	completes	shouldn	terminate	launch	didn	wait	launch	finish	sit	wait	launch	finish	time	launch	ability	interrupt	launch	progress	achieve	Cancel	button	disabled	launch	reflect	fact	unable	interrupt	launch
+72371	locations	stream	left	open	exception	occurs
+7859	debug	adapter	developers	require	method	exit	breakpoints
+350918	Build	Identifier	passing	character	applet	parameter	foo	Bar	applet	eclipse	debuging	environment	adventurous	chinese	text	won	reasonable	parameter	call	getParam	ill	defined	area	general	unexpected	unpredictable	expected	GIGO	Reproducible	Steps	Reproduce	experiment	unusual	applet	parameters
+35525	suspended	breakpoint	evaluation	scrapbook	display	view	step	actions	disabled
+254677	Created	attachment	details	Patch	feature	colleague	suggested	debugger	filter	simple	getters	setters	single	stepping	couldn	resist	challenge	feature	adds	checkboxes	filter	getters	filter	setters	step	filtering	preferences	step	filters	options	turned	simple	getters	setters	filtered	filter	based	recognition	simple	code	signatures	getters	setters	Patch	plugins	org	eclipse	jdt	debug	org	eclipse	jdt	debug	org	eclipse	jdt	doc	user	update	HEAD	single	stepping	lot	easier
+13015	step	conditional	breakpoint	condition	evaluates	thread	resumes	stepping	breakpoint	condition	condition	evaluated
+50909	support	appending	prepending	bootpath	breaking	change	placing	attribtues	specific	attributes	table	VMRunner	options	supported	making	launch	delegate	responsible	setting	proper	bootpath	avoids	breaking	existing	launch	delegates
+58078	code	assist	keybinding	works	detail	formatter	code	assist	hint	missing	details	area	editor
+7392	threads	showing	responding	startup	model	thinks	suspended	synch	code	stack	frames	incompatible	thread	exception
+310511	Created	attachment	details	Screenshot	depicting	horro	question	Window	Preferences	General	Appearance	Colors	Fonts	Basic	Dialog	Font	Click	Edit	button	increase	font	size	bit	Click	close	dialog	Create	Java	breakpoint	Window	View	Debug	Breakpoints	Select	breakpoint	Cower	fear	sized	view
+74477	display	view	persists	document	empty
+330987	bug	applied	jdt	debug	bundle	version	incremented	tags	newly	methods
+32494	Select	snippet	scrapbook	Context	menu	toolbar	actions	Inspect	Display	Execute	enable	Global	actions	menu	enable	key	bindings
+124147	start	eclipse	JRE	initialize	Java	environment	global	compiler	compliance	preference	add	JRE	list	installed	JRE	don	warning	compiler	compliance	build	classes	won	selected	JRE	runtime	discover	problem	warning	link	Java	Compiler	JDK	complicance	preference	installed	JRE	user	selects	compliance	reduce	compliance	max	supported	selected	JRE	warning	link	compiler	compliance	alert	user	potential	problem
+248054	Build	Steps	Reproduce	Annotations	Breakpoints	Text	Highlighted	pick	nice	color	Observe	breakpoints	hilighted	editor	isn	latest	version	biggest	annoyance	Eclipse	syntax	hilighting	background	colors	annotation	icon	breakpoint	overwritten	warnings	tasks	nice	glance	breakpoints	Turbo	circa
+94452	produce	timeout	exceptions	stepping	method	logical	structure	displayed	Vector	Stepping	start	update	step	problem	holding	step	key	flooding	target	requests	views	attempting	update	step	starts
+276723	changed	launch	configs	project	forgot	fro	Applet	launch	config
+400636	appears	regression	Kepler	debugging	Eclipse	Application	codeassist	work	Display	view	worked	Kepler	difference	OSX	Oracle	Java
+52474	build	start	eclipse	workspace	CVS	Repository	Exploring	perspective	check	number	projects	checkout	Platform	module	attempt	Java	Perspective	NOTE	point	blocked	dialog	opened	fact	starting	Java	Perspective	requires	workbench	lock	point	common	pattern	nice	investigate	makeing	scenario	work	smoothly
+33534	
+57598	appears	correctly	place	Scrapbook	button	toolbar	group	JDT	Java	Element	creation	toolbar	actions	plan	remove	action	File	menu
+40707	Open	properties	dialog	watchpoint	Enable	hit	count	Disable	breakpoint	Press	Note	breakpoint	enabled	opening	properties	dialog	breakpoint	enabled
+34052	Java	program	reads	console	input	System	recognize	CTRL	file	character	program	Eclipse	program	Eclipse	command	shell	CTRL	properly	recognized	EOF	comment	applies	CTRL	Windows	Unix	equaivelent	CTRL	probelm	running	program	generated	JavaCC	questions	feel	free	contact
+77064	Pressing	clear	button	clear	stack	trace	console
+8458	
+6411	
+94474	Installed	JREs	pref	select	JRE	Edit	deselect	system	libraries	Edit	source	attachment	Press	dismiss	dialogs	open	insect	source	attachment
+125196	Build	Open	Java	Installed	JREs	preference	Move	sash	tree	view	left	preference	dialog	wider	time	move	sash	dialog	resizes
+24863	
+21792	creating	launch	configuration	specifies	arguments	arguments	problems	backslash	happen	backslash	consumes	character	instance	arguments	Duser	dir	Duser	John	space	separates	arguments	eaten	backslash	result	argument	passed	application	spaces	arguments	arguments	passed	application	argument	ends	space	reverse	order	arguments	works	fine
+29474	thought	existing	issue	find	Java	editor	context	menu	items	sense	debugger	active	Inspect	Display	Step	Selection	context	menu	contributions	visibility	element	supported	objectContribution	elements	viewerContribution	elements	JDT	Debug	system	property	debugger	active	current	support	system	properties	visibility	elements	hide	actions	debugger	active
+164650	select	thread	group	launch	view	terminate	launch
+40744	Build	classpath	viewer	reasonable	heightHint	workspace	binary	projects	libraries	launch	configuration	Classpath	tab	created	dialog	expands	unreasonably	large	size	screen	length
+223530	Step	Selection	hyperlink	broken	suspect	broken	multi	hyperlink	support	investigated
+24873	listed	Details	Formatters	Detail	Formatters	Add	button	labelled	Add	Formatter	looked	Add	formatter	removed	selected
+15662	display	result	inspect	work	Select	variable	display
+84271	Java	logical	structure	Add	dialog	Window	preferences	Java	Debug	Logical	Structures	Add	variables	buttons	hand	side	Add	Remove	Dialog	font	Variable	Code	widgets	dialog	font	Code	title	dialog	font
+10035	projects	data	start	application	ini	files	configuring	Application	testing	application	bunch	Junit	tests	workingdirectory	projectdirectory	developers	projects	drive	directory	path	projectdir	simpler	projectdir	variable	libraries	path	relative	projectdir	usally	generate	jar	files	ini	files	directory	relative	project	dir	project	path	workingdir	Markus
+372030	resume	single	thread	Remote	Java	Application	launch	configuration	remote	debugged	workspace	investigate	bug	suspended	wanted	resume	single	thread	selected	performed	Resume	resumed	selected	thread	haven	checked	pretty	work	Workaround	select	threads	click	Suspend	Drawback	tedious	threads	expanded	Debug	view
+15678	Jdk	vms	test	bug	dropping	frame	update	stack	frames	drop	Note	latest	jdk	step	acting	step	resume	appears	fixed
+167740	create	details	formatter	array	root	object	contribution	checks	menu	arrays
+9026	Summary
+77125	build	configure	breakpoint	properties	suspends	thread	hit	preference	change	tracking	concurrency	problems
+125771	clicking	method	external	source	breakpoint	created	appears	retrieving	method	siganture	properly
+30028	Open	Declaration	Open	Type	Hierarchy	work	actions	action	definition	ids	registered	key	binding	service	correct	action	definitions
+369480	Fresh	workspace	Add	IBM	JRE	workspace	JREs	workspace	Java	Installed	JREs	Execution	environments	JRE	compatible	match	projects	execution	environment	pde	JRE	container	JRE	major	bug	build	JRE	Note	work	work	builds	older	workspaces	fine	dev	workspace	problem	surfaces	workspaces
+27989	propose	suggestion	launch	configuration	API	change	Tab	group	owners	notified	Debug	button	pressed	chance	perform	checks	continuing	launch	checks	require	time	practical	perform	control	entire	tab	updated	notification	unique	sense	check	Usage	Scenario	verify	process	debug	remote	machine	expensive	operation	practical	perform	validity	check	time	user	Farthermore	practical	validity	check	time	performApply	called	good	candidate	check	API
+12636	users	newsgroup	Java	scrapbook	fails	retrieve	evaluation	context	reproduce	problem	working	individual	work	wrong
+9057	CHANGE	event	detail	codes	usable	element	fires	change	event	update	label	label	changed	children	target
+206693	configured	installed	JRE	http	wiki	eclipse	org	php	simply	copied	description	wiki	pasted	bin	Location	column	Installed	JREs	preference	JRE	location	eclipse	eclipse	PWD	suspect	created	relative	path	java	File	resolves	based	PWD
+18792	caught	uncaught	toggles	enabled	single	selections	breakpoints	view	enabled	multi	selections	selection	exception	breakpoints
+120170	bug	broken	breakpoints	external	archives	debug	program	JRE	workspace	buildpath	Step	file	jar	ruler	editor	Notice	Toggle	Breakpoint	action	top	level	menu	enabled
+33644	java	endorsed	mechanism	placing	versions	xalan	jar	xercesImpl	jar	xml	apis	jar	JAVA	jre	lib	endorsed	directory	Project	properties	complains	Classpath	duplicate	entry	sdk	jre	lib	ext	xalan	jar	expand	JRE	System	Library	library	tree	xalan	jar	xercesImpl	jar	xml	apis	jar	list	times	located	sdk	jre	lib	ext	directory	add	librarys	Java	Build	Path	remove	jars	JAVA	jre	lib	endorsed	directory
+34670	create	java	launch	config	classpath	path	uncheck	path	needed	select	element	list	hit	DELETE
+67439	daemon	listens	connections	connection	creates	special	launch	configuration	launches	launch	delegate	configuration	creates	correct	debug	target	adds	wrapper	debug	target	running	add	debug	targets	wrapper	debug	target	dynamically	launch	debug	target	launch	view	hidden	user	launch	wrapper	debug	adapter
+112503	main	Java	coloring	black	background	bright	text	Display	tab	won	background	color	defaults	windows	syntax	highlighting	colors	java	pane	text	type	unreadable
+144253	Eclipse	fire	CHANGE	events	stack	frame	object	force	source	lookup	behaviour	Eclipse
+18306	Bug	NPE	runtime	workbench	launch	configuration	prevents	opening	launch	configuration	dialog	Whereever	platform	launch	config	support	defend	errors	delegates	error	delegate	PDE	shouldn	cripple	platform
+53634	switching	JRE	libraries	Preferences	Java	Installed	JREs	adding	additional	libraries	running	application	newly	libraries	bootclasspath	removing	libraries
+463236	org	eclipse	jdt	debug	moved	scrapbook	evaluations	fail	projects	snippetsupport	jar	compiled	JAR	stay	compliance	level
+31110	Debugger	Source	Lookup	dialog	select	variables	source	lookup	Advanced	Add	Variables	selected	variable	points	archive	source	file	type	debugger	claims	find	source	Eclipse	Build
+34190	code	executed	evaluation	view	raised	exception	stacktrace	displayed	console	doesn	Scenario	framework	validation	functionality	raises	exception	including	error	message	describes	problem	debugging	execute	validation	code	evaluation	view	detect	problem
+197011	adding	JRE	IDE	modifications	JRE	system	libraries	lost	user	click	button	Steps	reproduce	Windows	Preferences	Java	Installed	JREs	Click	Add	Fill	requested	JRE	type	directory	Modify	JRE	system	libraries	adding	additional	external	JAR	file	Click	Select	JRE	click	Edit	external	JARs	removed	Add	JRE	window	lost	Edit	JRE	window	works	expected
+401815	failing	tests	Windows	Linux	PList	parsing	http	download	eclipse	org	eclipse	downloads	drops	testresults	html	org	eclipse	jdt	debug	tests	linux	gtk	html	problem	Mac	specific	PList	parser	create	Mac	OSX	installs
+139152	Open	Window	Preferences	Java	Debug	error	disapears	Close	dialog	Open	Window	Preferences	Java	Debug	error	disapears	time	opening	dialog	attached	screenshot	platform	bug
+463252	Compile	log	warning	http	download	eclipse	org	eclipse	downloads	drops	compilelogs	plugins	org	eclipse	jdt	debug	dot	html
+49045	names	scrapbook	launch	configs	user	friendly	meant	display	current	format	names	displayed	console	title	bar	change	Console	snip	jpage	Scrapbook
+43927	build	version	content	assist	condition	work	Content	assist	auto	enabled	dot	pressing	Ctrl	Space	work
+49047	regression	scrapbook	suspend	uncaught	exceptions	turn	pref	suspend	work	expected	stack	trace	written	console	beleive	ignore	exception	scrapbook	VMs	source	code	exception	code	snippet	confusing	user	source	editor
+21400	fixed	bug	lost	fine	grain	detail	member	type	breakpoint	located	add	attributes	Java	breakpoint	memberStart	memberEnd	render	method	breakpoint	located
+73624	eclipse	build	Select	java	compilation	unit	Explorer	main	method	call	main	main	classes	click	menu	select	Java	Application	expect	dialog	time	asks	user	main	selected	method	main	avoid	bringing	redundant	dialog
+392607	Version	Build	current	form	JDI	test	suite	Mac	fails	load	fallback	correct	kind	determined
+43418	Installed	JRE	choose	Add	Click	Browse	JRE	directory	choose	JRE	folder	pressed	takes	seconds	evaluate	system	libraries	busy	cursor
+49052	Changing	properties	scrapbook	properties	dialog	restart	evaluation	chaning	JRE	launch
+49054	Create	Java	Application	launch	configuration	projetc	classpath	tab	defaults	showing	bootstrap	entries	user	entries	unable	add	user	entries	debug	button	disabled	Adding	user	entries	enable	Apply	button
+266651	Build	Steps	Reproduce	Updated	Sun	Java	SuSE	updater	usr	bin	java	alternatives	java	usr	lib	jvm	jre	sun	bin	java	usr	lib	jvm	SuSE	automatically	updated	system	Java	points	Restarted	computer	Eclipse	Opened	workspace	Projects	failed	Actual	result	Explorer	myproject	context	menu	Properties	Java	Build	Path	Libraries	JRE	System	Library	java	sun	correct	existing	Java	looked	find	Project	settings	Window	Preferences	couldn	referenced	Actual	result	Description	Resource	Path	Location	Type	Project	myproject	missing	required	library	usr	lib	jvm	java	sun	jre	lib	resources	jar	myproject	Build	path	Build	Path	Problem	Expected	result	Java	version	Workaround	Explorer	myproject	context	menu	Properties	Java	Build	Path	Libraries	click	JRE	System	Library	java	sun	dialog	Workspace	JRE	java	sun	check	Alternate	JRE	java	sun	click	Finish	button	Error	dialog	check	Workspace	JRE	error	setting	error	appeared	confirms	Eclipse	bug
+9122	performance	problem	debug	launch	junit	workspace	debug	mode	waited	minutes	worked	time	waited	launched	slow
+19363	Asked	image
+183206	Build	refactoring	failure	subsequently	caused	tests	fail	refactoring	tests	atomic	prevent	cascading	failures	reason	failure	test	canot	reproduced	good	tests	ensure	hagged
+179111	number	bugs	instances	references	features	bugs	issues	coalesced	bug	fixed	time	Issues	Global	actions	key	bindings	improved	style	instances	references	popups	functionality	user	informed	displayed	instances	references	limited	preference	settings	Miscellaneous	problems
+10154	Breakpoint	labels	icon	text	inform	user	breakpoint	thread	filter
+56235	time	open	dialog	resize	persist	resize
+49068	installed	JREs	preference	large	amount	empty	space	description	functional	widgets	amount	space	needed
+271785	addition	breakpointListeners	extension	support	handling	suspend	compilation	errors	uncaught	exceptions	migrated	extensions	breakpoint	specific	listeners
+9649	Eclipse	Clean	install	workspace	Turn	autobuild	Add	org	eclipse	swt	workspace	Copy	classpath	motif	classpath	Turn	autobuild	Progress	dialog	proceeds	closes	wwaux	reports	process	consuming	memory
+49077	create	config	jars	tacked	bootpath	command
+64951	IBM	condition	loop	breakpoint	selected	thread	debugging	paused	labels	update	variables	stack	frame	toString	details	work	attach	screen	shot
+108473	Bug	platform	problem	Windows	dependent	System	Windows	JDK	Sun	Eclipse	running	Tomcat	Eclipse	Sysdeo	launcher	running	Tomcat	times	huge	slow	Tomcat	CPU	time	allocated	thread	Eclipse	Tomcat	consuming	CPU	time	responding	correctly	Tomcat	process	debug	mode	Tomcat	debug	mode	runs	fine	debug	mode	running	correctly	restart	Eclipse
+234425	snippet	evaluation	Java	compiler	options	compiler	compliance	source	compliance	desired	level	options	ASTParser	create	smarter	entire	collection	options	reason	wasting	cycles	checking	warnings	evaluations	access	member	warning
+30650	Build	compilation	problem	breakpoint	condition	dialog	pops	runtime	correct	error	dialog	problems	text	entry	field	scroll	condition	doesn	fit	allotted	space	focus	text	entry	field	button	minor	nit	weird	entry	field	center	justified	fields	left	justified	dialog
+8634	start	workspace	exception	breakpoints	missing
+304057	Created	attachment	details	enable	check	hit	count	option	breakpoint	text	widget	focus	start	typing	mouse	clicks	enabling	condition
+300992	Suspend	Policy	option	missing	breakpoint	properties	dialog	option	Breakpoints	view	details	pane	dialog	latest	build
+49092	user	classpath	empty	launch	configuration	project	user	removes	User	entries	top	element	displayed	classpath	tab	recreated	problems	user	sees	won	User	entries	element	add	element	select	Restore	Entries	delete	boot	classpath	User	entries	displayed
+323020	
+60364	JDT	debug	plugins	code	Runtime	newly	deprecated	attaching	patch	based	eliminated	deprecations	informational	rigorous	testing
+109009	Add	tests	importing	exporting	breakpoints
+171984	nice	Breakpoint	Properties	action	bound	command	key	stroke
+178641	performance	test	conditional	breakpoints	worse	windows	appears	amount	side	work	overlapping	test	running	test	source	editor	open	open	test	suite	additional	views	activated	target	suspends	view	management	tests	test	intended	measure	time	conditional	breakpoint	evaluated	tight	loop
+27093	java	doc	location	standard	JREs	URL	point	apporpriate	location	Sun	website	investigate	legal	issues
+181204	context	launching	enhancement	bug	applies	resource	based	objects	enhanced	behavior	product	resource	objects	launch	remote	programs	request	context	launching	enhanced	handle	scenario	background	comments	extracted	bug	debug	launch	configuration	applies	remote	executable	object	process	debug	program	remote	host	debug	process	remote	host	Remote	object	IResource	advantage	proposed	context	launching	determine	context	mapping	IResource	conetxt	launching	resource	based	planned	enhancements	release	context	launching	resource	based	objects	Marking	fixed	verified	bugs	opened	issues	pertaining	context	launching
+64984	Inspect	doesn	work	Display	View	log
+212442	logic	causing	test	failures	breakpoint	tests	problem	comparing	String	Integer	clause	statement	breakpoints	equal
+112613	Breakpoint	actions	toggle	watchpoint	work	remote	files	open	editor	breakpoints	Breakpoints	view	basically	useless	clicking	Breakpoints	view	doesn	navigate	remote	file	actions	operate	files	write	log	dialog	JDT	actions	Title	Perform	Operation	Message	resource	build	path	Java	project	display	element	file	investigating	create	dummy	working	copy	remote	files	order	provide	Java	Outline	dialog	ugly
+218086	working	bug	bug	changed	constants	statics	actioned	filtered	view	logic	filter	variables	work	differently	user	filter	statics	statics	removed	including	constants	finals	constants	technically	statics	actions	named	Constants	Statics	Statics	turned	filter	constants
+8679	Suspend	breakpoint	Remove	breakpoint	hit	count	Resume	Notice	hit	count	breakpoint	suspends	time	hit	count	reached	situation	hit	count	respected	suspending	hit	count	reached	debug	session	freeze	update	problem
+42984	running	ant	script	JRE	select	working	directory	JVMs	process	script	prints	eclipse	install	directory	setting	Base	Directory	field	Main	tab	ant	dialog	working	directory	basedir	variable	overriding	basedir	variable	ant	defines	basedir	directory	script	running	project	target	echo	message	user	dir	user	dir	target	project
+18926	Windows	unable	add	Sun	JDK	list	Installed	JRE	select	JRE	steps	Window	Preferences	Java	Installed	JREs	Click	Add	JRE	Sun	JRE	directory	java	jdk	Click	Click	checkbox	error	window	pops	stating	Installed	JRE	location	longer	exists	JRE	removed	Reason	JRE	removed	pretty	big	problem	development	weird	workspace	working	workspace	current	builds	experiencing	problem	problem	JDK	add	clean	workspace
+380918	Build	Identifier	workspace	projects	Project	linked	Project	classpath	file	src	entry	optional	jar	Project	creates	classpath	Project	lib	entry	Project	closed	actively	worked	JUnit	tests	Project	launch	fails	message	Project	exist	Progress	view	fail	Project	optional	linked	debugging	purposes	source	linkage	classes	Project	jar	Project	Launching	Project	Servers	view	works	fine	don	types	launching	isolated	JUnit	attachment	projects	Reproducible	Steps	Reproduce	projects	attached	archive	Close	Project	Launch	Main	Java	application	Tests	JUnit	test	suite	Check	Progress	view	Project	exist
+29683	JRE	defined	workspace	Rename	JRE	Edit	dialog	build	path	project	explicit	container	Press	save	preferences	user	prompted	choose	JRE	build	project	classpath	container	project	refering	existant	JRE	info	classpath	free
+38387	Jared	cases	nls	internal	error	messages	pass	ensure	generate	internal	error	messages	log	language	understand
+290288	JDT	supply	breakpoint	editors	detail	panes	Java	breakpoints	breakpoint	view	supports	pluggable	detail	panes
+20468	creating	JRE	alocation	source	jar	source	attachment	path	guess	xxx	jre	src	jar	JAR	result	edit	JRE	image	jar	attached	source	image	find	JAR	attachemnt	uncheck	check	Source	attach	JAR	browse	file	system	JDT	documentation	Started	verifying	correct	JRE	installation	src	zip	drop	users	source	attachment	check	helpful	visual	indication	dummy	path	label	provider	exists	test
+22005	review	runnables	post	thread	calls	Display	asynchExec	Display	synchExec	Eclipse	performance	code	thread
+265714	breakpoint	coincides	location	step	Java	debugger	evaluate	condition	point	step	suspended	execution	support	breakpoint	listener	extensions	registered	specific	breakpoints	breakpoint	listeners	notified	breakpoint	hit	condition	Listeners	notified	condition	Java	debugger	evaluate	condition	breakpoint	listeners	registered	breakpoint	call	condition
+394225	Evaluates	display	window	fail
+5623	JDI	client	updated	JDK	specification
+16378	Build	Debug	time	Workbench	tabs	missing	icons	space	remains	attached	screen	shot
+110074	create	breakpoint	working	sets	create	breakpoint	breakpoint	working	category
+396795	Open	breakpoints	view	breakpoint	Click	breakpoint	times	Result	selection	background	colour	parent	sashform	colour	changed	based	detail	pane	colour	detail	pane	colour	depends	sash	form	colour	toggling	time	Solution	background	colour	explicitly
+57853	Display	view	closed	session	hidden	persist	contents	debugger	automatically	open	close	Display	view	worrying	losing

@@ -1,0 +1,51 @@
+209410	Bug	improve	file	comments	properties	feedback	documentation	attached	fixes	Bug
+275722	wiki	acts	org	gsoc
+198161	build	completion	Type	participants	Bug	HEAD	HEAD	letter	participants	Type
+240926	Logic	clean	docshare	closing	editor	closing	clean	Logic	leave	stopping
+269612	providers	Bug	locator	ended	containers	problem	container	ended	container	implement
+266539	happen	error	model	resource	iTunes	log	registered	services	ecf
+234803	ECF	ECF	jSLP	Discovery	ECF	Discovery	path	ECF	supported	jSLP
+198193	URI	patch	connection	appy	IRC	created	irc	support
+192574	Defaults	empty	Restore	affect	Apply	preference	Bug	isn	affect	isn
+371768	unpublish	needed	Harmless	watchmanager	service	Harmless	Bug	NPE	Bug	Harmless
+192573	incorrect	file	installing	fails	Open	dialog	dynamic	resources
+198731	underlined	fine	underline	recognition	hyperlink	text	Bug	Chatroom
+321354	client	jms	sequence	connect	JMS	timing	work	JMS	host	properly
+227939	Password	password	error	MSN	Bug	Wizard	rewrite	ocurr	Reproduce
+252002	support	https	bug	filetransfer	eclipse	difficulties	org	provider
+258916	service	SLP	reserved	Discover	property	star	HEXDIG
+292972	discuss	filetransfer	genuitec	patches
+222824	user	provider	Bug	talk	work	host	Talk	work	Host	user
+217971	Tests	bundle	preconditions	mode	Discovery	warn	settings	Discovery	Discovery	mode
+238970	sun	Java	ECF	Reproduce	MSN	wait	Ubuntu	guess
+198012	current	ECF	ecftcp	activation	connect	receive	Open	hyperlink	Bug
+211585	service	authority	naming	authority	code	Discovery	authority	parsing	parsing	problem
+318086	ecf	Discovery	problem	discovery	moment
+238976	Editor	side	remote	shared	Bug	editor	disconnected	Shared	modifications
+482434	version	calculated	incorrectly	exported	service	handling
+199309	Bug	bugs	net	Wizard	IRC	Steps	editor	hyperlink
+327060	location	mhonarc	URI	service	zookeeper	comment
+222865	empty	Nickname	Click	Reproduce	Bug	collaboration	Collaboration	Steps	Connect	Build
+222868	MSN	wizard	clicked	connection	entered	Reproduce	Steps	password
+447633	browse	stat	file	adding	filenames	documentation	file	documentation	command	issue
+198043	Bug	dialog	recognizer	entries
+172958	IRC	Container	mode	Patch	commands	command	Channel	Root
+273819	user	Bug	wizard	closed	wrong	disposed	bug	container	cancels
+259233	URI	URI	JMDNS	URI	JMDNS	Bug	Discovery	segment	path	lost
+218027	jSLP	jSLP	doesn	Bug	Provider	jSLP	doesn	doesn	services	doesn
+207530	Bug	applies	Editor	greater	character	Cola	modification	Shared	instance	sync
+199336	join	IRC	expert	fixes	seconds	forget	tab	IRC	Bug	tab
+274613	joins	wrong	Bug	doesn	talking	Wizard	IRC	code	fundamentally
+200630	messages	confirm	Bug	handled
+263613	Software	job	releasing	transport	cancelled	Expected	cancellation	contacting	jobs	behavior
+277176	click	osgiservices	ECF	view	remotesvcs	Neighborhood	Service
+196541	password	Passwords	text	cleared	input	cache	MSN	noticed
+206528	commands	wiki	Steps	eclipse	bug	KOS	Join	option	cgi	cgi
+183492	Application	launch	ECF
+196298	xmpp	recognised	hobbled	separate	joe	clients	Jabber	actual	GoogleTAlk	Bug
+202958	Select	Expected	Copy	Actual	output	root	selected	menu	copy	Copy
+221139	MSN	inserted	mail	field	address
+286934	removed	resource	details	patch	generated	entries	Disconnect	appears	entries	entries
+112599	dynamically	room	subject	chat	Bug	chat	XMPP	subject	subject	updated
+197604	IRC	version	parse	HEAD	kick	unban	error	commands	error	attached
+192756	entry	join	Bug	server	entered	tab	big	spam	messages	don

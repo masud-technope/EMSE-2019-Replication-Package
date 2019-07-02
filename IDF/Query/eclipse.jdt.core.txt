@@ -1,0 +1,42 @@
+337415	script	recreation	headless	metadata	dangerous	configurations	importing	launches	causing	steps
+385293	silently	grammar	accepts	accepted	stored	normal	changed	modifier	marker	parser
+471062	repo	mars	causing	installed	inserts	join	slash	items	white	started
+28951	functioning	older	manually	restarting	edited	rootpath	reason	attachment	projects	longer
+480029	submit	substitutions	sdk	install	windows	fresh	tested	win	builds	plug
+410402	investigate	failures	bug
+483895	dependent	disable	preferences	fixed	assist	completion	substring	content	remove	bugs
+11076	configs	favorites	favorite	configurations	remain	listed	dialog	launch	configuration	deleted
+421711	moment	rejects	ecj	rejected	difference	issue	javac	lambda	identifier	warning
+234074	elaborated	dcompliance	launched	jre	depending	account	fails	mismatch	log	compliance
+385132	verbatim	fixes	misplaced	arrow	bottom	grammar	colon	issue	reports	adding
+23162	rewriting	parallel	simply	asts	walk	control	modification	modified	modify	nodes
+442245	hangs	hang	paste	automatic	lead	portion	turned	attachment	editor	copied
+455042	drives	network	stands	subject	timestamp	cleared	recover	caches	archive	jars
+85384	proposed	writing	assist	content	declarations	bug	method
+424591	rev	reproducing	subdirectory	unzip	openjdk	beta	spurious	completes	javase	small
+252556	formatted	region	spaces	formatter	fails	removed	comment	unit	compilation	javadoc
+409236	dropping	constituents	beta	generator	dropped	intersection	point	cgi	https	bugs
+409245	accounting	moment	optimizations	routed	beta	writes	dropped	accepts	bridge	adds
+380313	latest	machine	windows	functionality	refer	inconsistent	msg	details	bit	thread
+413083	wrongly	requesting	user	debug	builder	full	info	build	bug
+399769	unambiguous	releases	keywords	proposed	issues	diagnostic	requires	trigger	keyword	modified
+420004	shortly	beta	restored	patch	meta	follow	calling	getannotations	properly	targets
+467618	formater	preceded	leads	didn	wrapping	attempts	feature	desired	affect	wrapped
+426678	shortly	showing	accessibility	vararg	issue	follow	release	regression	cgi	https
+485302	wildcards	missing	annotations	warnings	bug
+162740	website	equinox	coding	links	documents	dir	failed	directory	open	stream
+476859	traces	ejc	oracle	attachment	failures	attached	works	pass	command	details
+401848	introduced	attachment	astrewrite	reproduce	adds	details	rewrite	testcase	additional	created
+434630	switching	attachment	issue	reproduce	attached	details	generics	mismatch	work	unexpected
+65738	automatic	making	builds	automatically	notice	happen	occurs	running	occur	save
+180169	missbehaving	protection	protect	returning	containers	spec	log	reported	entries	container
+427218	crash	snippet	inference	varargs	verify	cgi	https	bugs	info	error
+391376	cleanly	assumptions	picture	corner	logic	leaving	situations	filtering	involving	produces
+413913	investigate	failures	bug
+369381	compiling	assertion	adding	mark	potential	unexpected	bug	compiler
+472815	mars	consisting	indented	blocks	formatter	lines	work	doesn	indent	option
+412650	incongruent	mentioned	small	compiling	extract	description	lambda	thrown	project	bug
+357110	reproducible	classfolder	circumstances	explorer	refactor	outputfolder	describe	steps	displayed	workaround
+479474	confirm	idea	initializes	leads	good	preference	attached	assumes	formatter	setting
+423409	click	press	alt	continuing	ctrl	deletes	choose	refactoring	inaccurate	attachment
+403705	investigate	attachment	failures	attached	details	failure	created	list	bug

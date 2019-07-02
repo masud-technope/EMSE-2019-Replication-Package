@@ -1,0 +1,366 @@
+270342	patch	click	reproduce	steps	template	details	combo	attachment	format	box
+244742	compliance	ideally	alternatively	status	inconsistent	behaviour	compiler	lead	ctrl	imported
+305155	sdk	win	windows	uncheck	explorer	click	finish	folder	project	nesting
+401418	bug	clean	add	test
+334864	opening	leads	click	reproduce	clicking	view	junit	warning	steps	sense
+28698	design	works	outline	ctrl	summary	read	tells	work	file	editor
+103450	quick	statement	surrounding	remove	option	assist	block	bug
+90140	quick	enum	qualified	labels	bug	constants
+321574	hierarchy	bold	call	dialog	scope	note	search	preference	bug	remove
+236582	formatter	preferences	edit	preference	dialog	code	bug
+217126	fingerprints	component	performance	impact	global	yellow	tests	verification	issue	hard
+272418	major	shipped	supports	latest	junit	waiting	release	sourceforge	net	support
+317474	tooltip	view	render	details	javadoc	image	declaration	attachment	open	link
+27687	manifest	inf	meta	export	jar	click	popup	details	specification	reproduce
+319532	smart	indent	disable	hitting	auto	typing	happen	alignment	bug	preference
+162856	subfolders	folders	folder	src	sources	automatically	projet	workspace	existing	project
+283697	suggestions	missing	useless	wanted	time	press	jdk	adding	creating	elem
+11317	named	txt	export	scripts	folder	won	jar	file	drag	manifest
+55349	outline	quick	box	front	deletes	press	editor	delete	place	cursor
+475198	unify	price	sort	members	excluding	fields	enum	initializers	bug	constants
+361535	properties	accessor	assists	affect	work	tooling	quick	xyz	inspect	solution
+284728	stays	browser	widget	misc	view	javadoc	empty	bug
+113731	bigger	difficult	component	thomas	strange	bit	behaviour	feature	bug	stuff
+26699	jar	overwrite	jardesc	read	warn	file	exists	displayed	invoke	fails
+239695	export	jar	folder	workspace	reproduce	directory	explorer	project	manually	asks
+258135	subpackages	confirm	delete	hitting	box	focus	deletion	dialog	toggle	check
+66646	explorer	filters	filter	inform	editor	filtered	doesn	focus	hint	don
+267358	drop	rearranging	dnd	explorer	working	sets	sense	inactive	drag	targets
+331864	importing	delimiters	skip	whitespace	trim	url	head	bug	junit
+305255	jsr	bytecode	strange	manually	attached	preferences	showing	details	building	compatibility
+140392	feature	rerun	bug	junit	work	failed	disabled	support	button
+323690	pressing	alt	ctrl	worry	hierarchy	call	refresh	press	refreshes	tree
+341109	filters	libraries	algorithm	explorer	removed	naive	external	removes	attempt	turn
+102512	peter	interesting	leaving	cut	log	junit	left	user	view	window
+204914	misc	bug	constant	values	fields	view	javadoc	display
+151668	issue	prefix	backup	people	copy	advantage	wanted	configurable	sense	reorg
+373885	myproject	ant	relative	script	directory	filename	jar	producing	saved	enter
+65659	highlighting	syntax	highlighted	inconsistent	declarations	constructor	calls	method	bug	java
+317563	latest	views	option	junit	enable	add	bug
+22655	generates	files	compiles	refresh	tool	precise	generated	batch	sun	produced
+313478	browse	clicking	broken	enter	explorer	junit	active	wizard	bug	test
+88195	precedence	outline	prefer	expanded	enclosing	nested	trees	completely	translate	types
+53383	running	search	match	deprecated	parenthesis	incorrect	workspace	plural	message	files
+374920	tab	preferences	checkboxes	order	consistent	highlighting	bracket	radio	editor	controls
+437398	paste	behave	scenarios	asks	follow	ccp	extension	file	select	dialog
+201878	closest	cursor	ctrl	jumps	jumping	improve	didn	quick	offers	error
+416915	barrier	helpful	initially	bug	tests	verify	clone	clean	execution	contribution
+285852	url	gtk	sun	docs	validating	javadoc	feedback	click	path	library
+321693	scroll	appearing	bars	sections	errors	matter	dynamically	vertical	improve	warnings
+310424	virtual	folder	good	inconsistent	follow	source	converted	select	behavior	browse
+309415	externalized	broken	ext	surrogates	reproduce	strings	unused	bug	tooling	properties
+91306	hit	ctrl	navigation	opens	selected	explorer	open	text	files	editor
+141492	copy	full	fully	path	paste	qualified	resources	bug	report	disabled
+81078	appearance	duplicates	defaults	restore	entries	color	options	preferences	editor	bug
+81083	occurences	mark	preference	marks	preferences	enablement	toolbar	defaults	restore	disabled
+373950	analysis	popup	turned	based	setting	annotation	warn	bug	compiler	enable
+54459	click	lot	clicking	search	trees	expect	good	reason	view	outline
+63675	browsing	adding	packages	view	update	bug	java
+373944	breadcrumb	info	child	bug	java
+460997	browser	intrusive	enriched	hover	view	hovering	issue	couldn	hard	middle
+32967	ctrl	hover	editors	externalized	preference	generated	version	don	constant	values
+430286	apis	islambda	lambda	rendering	render	adapt	bug	types
+365775	syntactic	option	validate	annotation	settings	fully	preferences	qualified	bug	correctness
+405704	adornment	gif	blue	colors	annotation	render	methods	overlay	icon	elements
+183507	occurences	mark	work	reproduce	switched	doesn	enabling	button	steps	press
+99540	locale	reproduce	javadoc	fact	argument	click	export	extra	command	finish
+303314	exposed	expose	formatter	constant	bug	fixed	options	preferences	code	preference
+316627	derived	refers	generated	warning	reproduce	regenerate	issued	classes	modifying	steps
+479440	propagate	popup	inspired	enter	setter	getter	rename	triggering	propose	feature
+297183	follow	methods	unimplemented	prefer	implement	patch	head	ordering	consistent	cases
+424166	quick	inplace	minor	accidental	github	manner	commit	fork	issue	extract
+121057	jres	environments	installed	sdk	leaving	execution	addition	compatible	jre	updated
+42208	black	affordance	hover	gray	source	text	bug
+66787	matched	filters	wrong	message	search	bug	capitalized
+235750	implementations	doesn	mention	clean	reproduce	annotation	save	manual	puts	manually
+189682	pulldown	navigate	menu	popup	explorer	enabled	startup	correct	disabled	project
+388342	box	stays	checked	nice	time	unchecked	main	behaviour	version	loads
+81140	positives	tooling	properties	determined	search	key	partitions	editor	filtered	matches
+46332	ctrl	tagging	longer	tagged	parallel	locked	pressing	couldn	explanation	versions
+401666	formatter	options	bug	lambda	code	java
+371968	enabling	pot	suggested	analysis	annotations	trigger	approach	situation	based	warning
+318734	obsolete	comments	performance	degradation	restart	bug	applied	tests	removed	bugs
+276744	markus	hashcode	feature	broken	blocks	bug	work	equals	working	wizard
+318731	obsolete	comments	performance	degradation	restart	applied	bug	tests	removed	bugs
+416022	encoding	product	details	crashes	threw	character	characters	features	formatter	mapped
+420116	jls	annotations	implemented	jsr	preparing	ignores	plan	methods	copies	operations
+339223	literals	relevance	quick	assists	easier	fixes	impossible	hardcoded	integer	compare
+81172	spell	checking	problems	report	enabling	preference	works	enabled	editor	doesn
+124182	highlighting	caret	unchanged	place	correct	expectation	loses	term	clearing	optimized
+335132	larger	saved	bring	implement	dialog	reproduce	clicking	position	subsequent	steps
+82204	shortcut	invokes	menu	pressing	open	declaration	correctly	perspective	bound	action
+228641	rich	spelling	session	hover	hovering	quick	ignore	fine	works	ctrl
+45349	press	typing	smart	enter	select	replace	bug	selection
+331053	importing	connection	doesn	cancel	download	url	head	working	details	click
+372013	manually	option	turn	bug	annotation	needed	warnings	missing	user	preferences
+102696	quick	comment	update	fails	fail	method	signature	bug
+9517	browser	perspective	doesn	view	project	pass	open	menu	select	bug
+318772	inclusion	exclusion	patterns	click	work	behavior	side	build	panel	corner
+236850	annotations	communicate	comments	javadoc	display	retention	pop	misc	outline	policy
+311603	library	unselected	properties	persistence	user	drops	choose	jar	build	editing
+153912	plan	synch	hiding	incoming	models	view	navigator	workspace	platform	sync
+295230	loads	opening	view	junit	preference	bug	blooper
+264504	explorer	reproduce	editor	touched	alt	rename	exist	misc	file	leading
+337209	launched	newly	views	head	lost	junit	exit	stored	enable	preferences
+232773	working	assign	projects	selecting	assignments	workaround	selected	explorer	pre	menu
+129354	focus	press	hover	javadoc	keybinding	popup	editor	view	bug	element
+210255	perspective	browsing	collapse	idea	good	button	view	explorer	projects	bug
+55628	persistent	ctrl	filters	menu	view	bug
+197969	rules	combine	notice	reproduce	undocumented	hit	steps	logical	access	checkbox
+259408	stay	compare	views	quick	head	editor	bug
+477523	severity	feature	level	details	users	bug	provide	start
+310609	abbreviation	screen	strange	spans	bar	rendering	pattern	define	render	details
+259413	conflicts	previews	press	handler	preview	head	refactoring	visible	select	rename
+41302	extract	indication	comment	calling	ends	method	quick	character	assist	selection
+312659	unused	bug	remove	nls
+165210	blank	lines	formatter	groups	preserved	option	number	precedence	bug	specifies
+18780	deleting	members	view	detected	cases	doesn	removed	build	working	member
+53603	collapse	convenient	expand	search	toolbar	work	tree	view	actions	action
+272737	locale	projects	language	working	starting	original	label	sets	workspace	start
+331116	shortest	reproduce	quick	declaration	join	removes	pre	message	assignment	removed
+342391	javase	compliance	head	compiler	selects	wizard	property	project	projects	support
+70005	getter	avaiable	setter	assist	reconciled	getf	takes	isn	enter	missing
+343422	utf	encoding	windows	generating	fails	javadoc	cus	names	launched	reading
+186754	explorer	menu	sense	regression	workingset	click	assign	empty	configure	context
+393602	hover	appears	ctrl	combined	problem	fonts	linux	press	values	fine
+176516	compliance	compiler	confused	bound	ees	settings	setting	caveat	follow	incompatible
+368015	encoding	classpath	attachments	refer	bug	details	stored	attachment	extra	source
+465293	opposed	annotationpath	configuring	editing	define	entire	path	classpath	annotation	containers
+489869	contribute	importer	detection	mechanism	detect	automatically	handled	projects	configure	framework
+201096	proposed	details	computer	attachment	findtype	templates	proposal	created	call	bug
+320916	head	assist	fields	delay	advanced	ant	desired	accessibility	preferences	reads
+430487	breaks	overwrites	lambda	rename	expressions	refactoring	parameters	method	bug	list
+202129	pane	click	working	element	existing	sets	edit	add	dialog	bug
+313751	bug	code	modfier	typo
+335249	grouping	improve	programming	potential	errors	affect	warnings	problems	order	options
+245140	templates	loss	removes	defaults	specific	restore	nodes	properties	disables	completely
+390546	arrow	yellow	marker	rulers	warning	opening	react	pops	appears	ruler
+215448	working	reopen	doesn	newly	created	select	list	dialog	bug
+199064	reordering	dnd	formats	comments	expected	fields	methods	format	bug	field
+90528	decoration	icon	problem	window	tab	editor	errors	open	warnings	missing
+265645	dialog	configure	sort	font	working	sets	box	checkbox	bug	check
+276906	prompt	ext	bin	click	deleted	output	improved	folder	telling	steps
+62896	indicators	decorator	outline	prefs	matter	quick	misc	indicator	install	disabled
+8624	click	stable	comment	entire	misc	select	automatically	auto	build	start
+215473	hyperlink	clicking	opened	hover	region	detect	detected	navigation	exist	modifier
+260528	carets	side	strange	head	regression	compare	caret	enhanced	wrong	build
+252340	minor	schema	clean	documentation	head	infrastructure	issues	ext	cleanup	comments
+70079	indicators	rulers	classes	anonymous	function	bug	override
+58817	minutes	locked	cpu	improve	indication	searched	matches	front	usage	ide
+394692	visibility	quick	issues	fixed	bug	top	level	bugs
+51653	members	outline	showing	navigation	inherited	interfaces	quick	target	bug	type
+59845	indicators	overriding	consuming	compute	opening	indicator	editor	relative	bug	background
+243147	projects	breadcrumb	simple	folders	bug	files	elements	java	dropdown
+403917	render	hover	annotations	view	javadoc	type	bug
+403927	asts	jls	bug
+306646	differentiate	helpful	columns	adhere	editors	margin	print	style	files	editing
+387536	ignores	setting	generate	comments	stub	main	adds	wizards	method	wizard
+233941	metadata	history	plugins	year	fresh	workspace	details	refactor	attachment	zip
+30169	bookmarks	overview	ruler	bookmark	hovering	hover	bug	message
+255448	table	click	multiselection	serve	preferences	style	appears	purpose	button	ctrl
+458200	adding	annotations	pointing	library	external	completely	annotate	sibling	attached	hide
+251356	surfaced	drops	download	linux	gtk	breaks	broken	bug	selections	inline
+251362	odd	bottom	menu	placement	working	explorer	strange	sets	view	fact
+344544	parameters	tags	alt	disabled	ignore	shift	javadoc	type	method	generation
+188910	ugly	idea	clean	bullet	dialog	tab	space	custom	move	folder
+344552	remains	cleared	menu	irrelevant	displayed	reproduce	closed	steps	project	relevant
+31214	explorer	simple	editor	activate	fails	project	called	visible	select	target
+153079	cleared	boxes	search	checkboxes	disabled	remembered	button	ctrl	click	expected
+14837	putting	shouldn	folder	actions	search	icon	creating	menu	packages	build
+44535	consequence	misc	bug	details	applied	opening	displayed	wrong	problem	full
+300542	click	library	libary	aid	external	user	choosing	reproduce	path	jar
+202239	lowercase	names	javadoc	template	templates	swt	context	bug	java
+421383	high	displays	scale	difficult	impossible	pro	smaller	resolution	issues	correctly
+144902	sequence	explorer	alt	bind	press	navigate	ctrl	navigation	key	category
+267776	qualification	strange	post	wrong	include	assist	anonymous	completion	type	constructor
+303617	alt	menu	shift	constant	reproduce	annotation	inconsistent	extract	steps	press
+383491	application	jar	loc	relative	maintained	external	path	reproduce	drop	attachment
+35339	consistently	rendered	javadoc	isn	inheritdoc	tags	completion	bug	code	param
+396808	hovering	hover	multiple	jars	displayed	hyperlinks	window	links	javadoc	included
+52750	boxes	indentation	correct	comment	bug	messes
+321035	compliance	compiler	enable	revert	bug
+396809	hovering	feature	testcases	write	bug	junit	junits
+252432	difficult	ideal	referenced	distinguish	jar	jars	render	manifest	clause	displayed
+462352	clicking	wrong	cancel	library	external	annotations	deletes	press	define	persisted
+329252	delay	mention	activation	mentioned	today	auto	assist	time	preferences	content
+329248	reproduce	inappropriate	steps	exist	folder	appears	build	rename	press	dialog
+331311	syntax	coloring	classes	colors	reproduce	assign	steps	highlighting	built	isn
+267829	alphabetically	working	sorted	explorer	resorted	sets	dialog	menu	properties	configure
+13877	displayed	notation	values	windows	escaped	correctly	happen	tool	bug	nls
+67124	paste	minor	chose	dirty	rare	prompted	situation	copy	couldn	prompt
+296498	step	prompt	redo	appears	happy	click	launching	dirty	prompts	save
+165434	structure	confused	stale	updates	compare	comparison	safe	reconcile	views	option
+178744	sync	behavior	txt	contextual	refresh	linux	easy	scenarios	refreshing	menu
+79419	component	framelist	pushing	mechanism	linking	views	sort	preferences	preference	bug
+331320	hyperlink	confusing	jump	head	usage	solution	navigation	disable	bug	open
+375354	screen	toolbar	buttons	tips	shift	read	refactor	click	accessible	work
+52801	hovers	press	spell	checking	work	focus	bug
+263751	explorer	patch	suggested	drag	assertion	attached	navigator	common	bug	failed
+242244	reproduce	annotation	generate	extract	sun	steps	offer	bug	option	removed
+266831	hyperlink	methods	overridable	navigation	constructors	open	overridden	bug	implementation
+108115	submit	easy	jdtastmatcher	astmatcher	invocations	workaround	bug	specific	matching	extract
+289362	xml	buried	cocoa	drops	macosx	download	builds	server	ability	junit
+262746	rsrc	loader	zip	jar	builder	head	jarpackagerfat	relevant	exporter	separate
+133731	delay	popup	colors	assist	mimic	art	reasonable	generally	activation	investigated
+13921	ant	build	properties	ideal	xml	nice	values	property	files	feature
+274023	build	icon	folders	closer	nested	folder	path	good	rendered	decoration
+436832	duplicate	quick	methods	fixes	calls	error	add	bug	method	override
+357997	rectangle	collapse	hierarchy	startup	parts	clicks	reproduce	respond	button	view
+262766	rsrc	jar	loader	zip	ant	exporter	zipfileset	option	file	absolute
+422506	adornment	outline	problematic	worse	methods	identify	regular	didn	bit	solution
+64108	keywords	longer	realized	javadoc	highlighted	stay	unchanged	color	work	reset
+62062	interesting	occurrences	mark	annotation	steps	tooltip	press	marked	caret	guess
+262763	exporter	fat	ant	built	jar	generated	files	attribute	script	standard
+298603	nice	filter	hard	large	failures	tests	toolbar	junit	menu	additional
+47731	leaks	colors	repeated	view	closing	opening	junit	time	bug	swt
+262768	jardesc	fatjar	exporter	jar	builder	normal	benefit	launchconfig	plain	config
+28277	decorators	turned	clicking	view	cvs	refreshes	perspective	click	types	refresh
+211578	subsequent	slow	faster	click	hangs	classpath	extend	reproduce	development	party
+194175	search	filter	imports	references	searches	persisted	enabled	result	disable	filters
+297593	warning	folder	discouraged	fine	incorrect	source	project	message	src	build
+216707	diff	underscore	reproduce	lot	toggle	compare	gray	steps	versions	braces
+321157	navigate	overridable	navigation	clicks	reproduce	call	goal	won	steps	select
+312966	black	hovering	attach	colors	hover	background	visible	view	javadoc	display
+317057	paste	snippet	working	pasting	explorer	work	project	bug	source	add
+254603	sets	working	constantly	reconfigure	presses	obvious	explorer	defined	user	configure
+37513	outline	remember	nice	windows	misc	navigate	window	ctrl	position	accessible
+395919	coloring	syntax	variables	parameter	preview	reproduce	strike	references	setting	steps
+247433	threshold	completion	reasonable	support	coming	indexes	solve	prevent	timeout	bug
+267918	center	dialog	widgets	bug	tostring	string
+492173	theme	dark	styling	people	missing	details	wizard	attachment	side	style
+432781	explorer	menu	facet	click	project	delete	issue	occur	projects	customize
+398995	dereferencing	safest	quick	bug	solution	proposed	nullable	attached	field	local
+416401	blocks	inline	option	compliance	compiler	wrong	specific	select	incorrectly	preference
+19097	outline	filters	refreshing	applying	filter	large	ide	cursor	busy	files
+304792	function	move	reproduce	interfaces	single	steps	press	fine	works	outline
+32412	ctrl	pasting	prompt	dialog	ccp	progress	monitor	choose	explorer	canceled
+126625	formatting	annotation	formatter	sharing	options	declaration	declarations	consistent	header	indent
+167590	settings	store	behavior	normal	box	check	anonymous	time	convert	bug
+7845	feature	combo	windows	raised	usability	appearing	setbounds	perspectives	visible	systems
+21159	cvs	repository	outline	blind	feel	nice	view	misc	doubleclick	browsing
+330415	parenthesize	reproduce	inline	fails	produces	inlining	steps	functions	difference	attached
+289455	junit	view	active	fresh	explorer	workspace	simple	start	bug	tests
+252591	lib	jar	external	explorer	chained	fine	works	jars	render	correctly
+274091	siblings	constructors	expand	behavior	wrong	multi	offer	applies	hierarchy	works
+290491	bottom	icon	compliance	jre	easily	fit	pointing	compiler	front	solution
+12996	jar	export	thread	exporting	editor	file	access	invalid	leave	click
+19145	wider	sized	bigger	scrollbars	nice	fit	checkbox	wizards	names	assume
+312014	screen	press	export	folders	tree	projects	arrows	focused	opened	reproduce
+338638	externalization	quick	snapshots	fixes	clicking	pressing	compared	ctrl	invoked	relevance
+67274	explorer	confirmation	read	ccp	linked	file	drag	moving	dnd	click
+244431	outgoing	modifying	equinox	prefs	click	cvs	didn	patch	bundles	attach
+24271	folders	sorted	packages	simple	folder	source	project	sort	bug	eclipse
+185043	money	press	repainted	animation	undo	enter	nasty	samples	character	ctrl
+108247	projects	scope	disabled	selected	expect	resources	press	ctrl	computed	editor
+41688	outliner	reconciling	misc	outline	incorrect	tree	note	editor	bug	open
+465630	skipped	previous	buttons	work	failed	disabled	don	solution	enabled	green
+308957	filtered	wizards	protect	bug	creating	resources	wizard	check	file	jdt
+333541	toggled	tweak	notice	whitespace	characters	click	option	checkbox	reproduce	clicking
+338656	offer	matching	quick	head	details	arguments	type	attachment	change	linked
+392931	javase	docs	oracle	checkbox	prefer	apis	toggled	wrongly	annotations	implementing
+94951	development	prevents	steps	bug	build	compiler	error	text	jdt	implementation
+450286	introduce	parameter	parameters	scrolled	large	view	opened	dialog	scroll	table
+258792	longer	sorted	working	assignments	created	dialog	explorer	bug	assignemnts
+150249	concatenation	paste	quote	pasting	contents	copy	typing	empty	starting	code
+162541	save	called	participants	misc	bug
+120560	jme	logging	attached	accessing	javadoc	bug	add	implementation
+58098	positioning	names	equally	smart	cursor	constant	work	linux	designed	methodnames
+392946	unused	fixes	quick	documentation	parameters	clean	remove	don	existing	add
+398076	cases	master	bug	add	test
+263935	zzz	synchronize	compare	discarded	deleted	repository	occur	workingcopy	problem	caused
+267002	working	assignments	explorer	chose	assign	hamcrest	sets	projects	appears	introduced
+99072	easy	explain	ctrl	assistant	item	modifier	preferences	bug	code	add
+368390	analysis	redundant	surfaced	pot	fields	work	respect	bug	preferences	pointer
+185102	working	assign	sets	offer	button	invoke	dialog	defined	actions	select
+288529	compliance	implies	compiler	behavior	specific	support	order	target	handle	start
+249620	configurable	severity	problem	setting	strictly	strict	compatible	launching	jre	bound
+381714	couldn	export	documentation	jar	documented	answer	runnable	wizard	question	msg
+185113	assign	working	sets	revealed	uncheck	project	invoke	explorer	reveal	projects
+264997	compiler	current	preferences	bug
+328481	improved	detection	adjust	usages	fixes	quick	unused	problem	variable	bug
+334625	relative	jar	export	exporter	starting	destination	workspace	wizard	broken	dir
+271139	clipped	rename	negative	numbers	caused	cut	bottom	refactor	alignment	buttons
+317224	extract	checking	precondition	enablement	refactorings	selections	annotation	bug	condition	menu
+338731	jump	fixes	quick	wrong	head	linked	mode	scenario	position	details
+443191	quick	assist	master	adapted	bug	adapt	bare	loop	ast	argument
+276285	grow	favorites	vertically	assist	resize	edit	content	button	preferences	list
+333631	additional	tooling	properties	steps	bug	attached	property	rename	workspace	refactor
+165689	menu	quick	works	ctrl	spell	spelling	checking	editors	problems	enable
+20288	directory	thought	helpful	export	myproject	jar	explain	asks	explanation	answer
+368452	rebuild	asked	compiler	reproduce	build	pointing	asks	full	option	steps
+143171	save	appears	workarounds	editor	reason	completed	conflicts	misc	works	saving
+179018	externalized	hyperlinking	modifier	hover	editors	hovering	alt	hovers	key	hyperlink
+457547	ocurrences	extract	quick	occurrences	replace	magic	assist	local	selecting	number
+230222	closed	breadcrumb	triangle	click	leaving	window	issue	alt	bit	severe
+100174	fixing	font	editor	dialog	bug	pref	link	preferences	preference	java
+239442	drop	breadcrumb	idea	downs	reproduce	major	clicking	close	configs	gtk
+185172	working	menu	sets	project	missing	context	select	create	selected	action
+341851	refactor	reproduce	project	steps	rename	proj	exists	error	upper	box
+256867	working	assignements	choosing	clicking	checking	sets	hidden	assign	dialog	explorer
+300901	hit	counter	colour	fonts	color	alt	mac	hierarchy	colors	ctrl
+369510	attachment	unable	encoding	jar	encodings	dismissed	box	source	jars	kind
+246635	screen	press	projects	reproduce	steps	build	button	project	mark	tab
+266092	appears	pull	superclass	refactor	extract	cuts	snap	box	push	menus
+419692	bug	leak	reported	bugs	decorator	indicator	cgi	https	image	comment
+367465	libraries	jar	export	steps	appears	handling	select	tar	library	warning
+256879	assign	box	explorer	working	sets	setting	preserved	preserve	dialog	check
+294763	scrollbar	resize	details	attachment	errors	doesn	warnings	compiler	created	preference
+328554	refactor	manually	receive	unhandled	performing	move	occurred	reproduce	doesn	steps
+285556	grandparent	clear	view	adding	node	occurred	progress	fails	bug	items
+291716	jar	notice	working	reproduce	explorer	expand	hides	expects	properties	steps
+239490	working	explorer	sets	reproduce	project	steps	incompatible	created	newly	plugin
+418692	detecting	semicolon	difference	occurences	depends	details	includes	attachment	duplicates	span
+479109	aligned	divided	alignment	whitespace	restarted	restart	formatter	fields	blank	blocks
+149382	alphabetical	setters	getters	order	nice	generating	setter	getter	attributes	generated
+224132	breadcrumbs	opened	jar	inf	meta	breadcrumb	manifest	resources	bug	java
+422792	loop	raw	collection	convert	iterator	work	quick	assist	bug
+424852	respect	delimiter	creating	pasting	preference	paste	clipboard	explorer	bug	project
+269201	ant	script	export	reproduce	facility	directory	absolute	jar	paths	xml
+51093	curly	brace	repeatedly	pressing	enter	opening	closes	closing	front	press
+82839	breakpoint	breakpoints	icons	major	margins	appears	misc	longer	icon	file
+61338	solaris	loses	buttons	bottom	lot	search	pressing	dialog	times	testing
+299928	hover	specific	problem	hovering	asks	severity	head	javadoc	configure	project
+329626	nice	statements	quick	uncheck	populate	ctrl	enum	box	option	space
+262050	directory	files	unclear	reproduce	suggesting	directions	panel	steps	frame	project
+64419	web	tomcat	app	lookup	attribute	require	jsp	launching	extra	requires
+374689	difficult	selecting	reach	leads	limit	tabbing	locations	nice	search	grouping
+17317	screen	windows	resize	big	reach	trims	appearance	bigger	fit	resizing
+179109	ast	creating	concurrently	threads	produced	dump	good	time	computing	waiting
+9127	exported	folder	files	wrong	appears	define	correctly	packager	path	resource
+436141	dev	users	quick	problem	making	severity	configure	press	ide	lists
+275370	reproduce	maxlen	steps	appended	suffixes	generator	prefixes	len	limit	variable
+125872	serial	levels	clean	valid	bug	source
+186291	classpathentry	app	established	web	output	build	classes	machine	src	folders
+393143	linking	usable	icon	sync	views	input	user	clear	view	info
+251824	trailing	whitespace	hit	blank	indented	indentation	comments	correcting	isn	save
+224183	hit	popup	equally	sufficient	popups	hover	hovering	scrollbar	forced	mouse
+55221	mapper	javadoc	includes	bug	extended	range	node	comment	test	code
+187316	pref	reproduce	editors	steps	occurences	general	mark	color	link	annotations
+13243	browsing	remains	types	delete	deselect	longer	select	perspective	deleted	units
+339896	varargs	preview	parameter	reproduce	signature	steps	bottom	incorrect	adding	trigger
+432056	urls	anchor	javadoc	strange	replacing	breaks	loading	attached	adapt	guess
+285637	happy	discoverability	single	improve	ability	patch	solution	propose	shortcut	candidate
+411585	reports	numbers	ruler	rulers	sdk	mark	jump	search	view	actual
+329677	abbreviation	hierarchy	easier	reduce	view	setting	steps	respect	enable	works
+32714	expanded	logical	packages	upto	flickers	hierarchical	flickering	view	subtrees	collapsed
+443341	quick	lambda	anonymous	convert	bug
+336841	synchronize	explorer	doesn	work	head	view	classpath	details	attachment	open
+13269	manifest	jardesc	saving	overwrite	choose	jar	failed	incorrect	notes	chose
+304083	apis	attachments	patch	release	jars	ready	details	automatically	libraries	fixes
+140248	launched	support	scenario	junit	disable	work	disabled	workbench	bug
+139231	sdk	quick	generates	surrounding	clause	duplicate	version	build	add	bug
+265188	black	popup	bottom	refactor	border	missing	select	rename	menu	note
+190438	grey	doc	working	sets	forgets	assign	plugins	platform	ins	checked
+210918	overview	ruler	rulers	hovering	number	annotation	location	bug
+411636	delay	notice	cycles	explorer	trace	stack	slow	seconds	large	attached
+328694	clearing	view	history	hierarchy	call	steps	clear	works	correctly	calling
+51187	difficult	caps	real	setter	getter	setters	displayed	attributes	constants	defined
+276466	improve	reproduce	constructors	hierarchy	expand	menu	configuring	call	steps	href
+314354	library	explorer	click	refresh	manually	steps	project	build	removing	newly
+69623	works	browser	javadocs	hovering	external	javadoc	delay	libraries	jre	cases
+422908	organize	prefer	skip	manually	dialog	resolve	automatically	preserve	wrong	cancel
+329720	desktop	theme	popup	dark	hover	background	color	debug	leads	independently
+364539	generate	modifier	fields	constructor	perfectly	access	reproduce	globally	steps	disabled
+313339	unused	deprecated	remove	code	bug	internal
+395257	indentation	split	literal	formatter	typing	bug	string
+60415	damage	sessions	participant	search	generates	consistent	extension	remove	disabled	participants

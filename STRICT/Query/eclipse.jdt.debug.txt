@@ -1,0 +1,179 @@
+170502	string	dialog	launch	source	bootpath	lookup	variables	stay	Bug	tab
+335363	text	dialog	Java	Exception	size	checkboxes	Breakpoint	font	truncated	Bug
+229380	tab	classpath	buttons	enabled	Bug	entry	Select	incorrectly	button	bootstrap
+13834	source	breakpoints	external	I	t	ruler	m	code	Bug	action
+12300	INSTALL	launch	config	Sharing	JRE	difficult	Bug	reason	Environment	figure
+23568	Space	Ctrl	Scrapbook	working	Bug	menu	Content	assist	activation	Assist
+286229	Object	usages	URL	host	Bad	Bug	UI	http	javase	lookups
+5653	Debugger	exception	uncaught	DCR	post	Bug	trace	Uncaught	Java	VM
+321043	compliance	compiler	Bug	bug	Enable	HEAD	revert	details	comment	attachment
+112670	selection	variables	toggle	treeitem	content	Bug	platform	pane	blocks	view
+43554	method	breakpoint	entry	Creating	signature	Bug	margin	M	expect	left
+43555	breakpoint	method	entry	Conditional	receiver	Bug	expressions	arguments	M	Method
+399913	JREs	location	search	Mac	installed	VM	JRE	file	Bug	pref
+13364	condition	breakpoint	indication	Bug	visual	properties	a	dialog
+22580	spy	TCP	Release	Bug	tcp	released	ip	general
+255031	project	EEs	build	Missing	projects	Bug	prevent	warning	Foundation	level
+37942	JARs	dialog	classpath	config	full	determine	Launch	location	tab	launch
+500794	hcr	enable	disable	code	Hot	machine	Code	workspace	developer	reload
+16446	launch	java	Linux	programs	javaw	Java	Bug	executable	option	JRE
+10817	output	configs	java	folder	copied	Bug	packages	config	copying	a
+22081	array	Eval	AST	Exp	declaration	don	variable	Bug	variables	type
+300614	field	pane	Settings	Hit	count	Bug	Win	detail	small	Details
+162902	button	search	jres	cancel	JRE	Bug	JREs	pressed	dialog	progress
+149076	pref	step	workbench	preferences	restart	filtering	Bug	view	shortcut	persisted
+189012	Change	dialogs	Bug	change	command	variables	Object	expressions	Primitive	view
+9825	icon	Action	inconsistencies	action	Bug	plan	view	color	debugger	launch
+33893	JREs	Preference	existant	Bug	plug	code	preference	launching	updates	update
+124522	Bug	View	Display	Undo	perspective	undo	display	view	debug	functionality
+268393	String	change	Debugger	Bug	letting	Image	text	attempt	attachment	Steps
+8301	panes	context	menus	actions	Evaluation	Bug	details	view	variables	Inspect
+78449	error	message	project	Bug	Closed	problems	configuration	X	classpath	Ant
+88689	JLS	references	Remove	JSL	Bug	dependancies	compliant	parser	covers	remove
+29297	folders	output	Debug	honor	multiple	Bug	folder	code	Hot	version
+412786	JREs	Contributed	Bug	preference	Classpath	recognizable	text	entries	contributed	items
+30837	breakpoint	Loss	suspended	Bug	code	NPE	variables	object	result	evalution
+173187	Breakpoint	refactoring	unclear	method	user	Bug	breakpoints	type	Breakpiont	breakpoint
+280192	regression	display	Error	scrapbook	Bug	inspecting	expression	Problmes	text	error
+74885	Threads	Review	created	daemon	Bug	VM	threads	review	thread	creation
+30344	error	scrapbook	Insertion	unhelpful	messages	text	message	Bug	result	code
+77449	monitor	user	info	target	unavailable	option	dialog	Bug	support	check
+37514	breakpoint	global	retargettable	Bug	action	toggle	actions	debuggers	platform	method
+138377	console	Java	lookup	patch	trace	source	hyperlink	perfomance	stack	Clicking
+142476	TVT	boxes	borders	File	TCT	Text	project	ovelap	Bug	xml
+54417	parameter	Applet	Bug	quoted	t	characters	applet	Parameter	a	I
+324246	classpath	project	pass	builders	external	defined	Bug	programs	java	builder
+64663	Variables	variables	Change	hex	Bug	accept	g	e	fails	x
+352413	literals	support	Debugger	underscores	window	binary	Bug	integer	Java	setting
+506014	variables	view	node	constantly	bug	method	t	Bug	row	feature
+275614	Debug	threads	view	expanded	visible	REGRESSION	auto	perspective	code	Bug
+1695	process	thread	DCR	support	breakpoints	Bug	specific	GIYJTQ	request	user
+85665	JRE	dialog	combo	container	empty	Bug	button	project	a	radio
+23716	formatter	Reporting	error	message	Bug	errors	details	area	a	prefix
+92838	API	api	missing	cycles	Bug	add	tags	plug	field	IDebugUIConstants
+324268	progress	action	Clipboard	Open	Bug	report	type	search	time	cursor
+244395	refactoring	config	launch	project	rename	Bug	undo	Ctrl	press	Explorer
+53929	Classpath	path	tree	entries	resource	Bug	jars	jar	FULL	libraries
+57515	search	configs	java	launch	participant	Bug	references	a	types	contribute
+16046	launch	configuration	dialog	doesn	cancel	Bug	user	t	button	Launch
+72371	exception	Streams	left	Bug	open	locations	stream	a	occurs
+7859	method	Feature	exit	breakpoints	adapter	Bug	developers	debug	require
+350918	parameters	eclipse	java	unusual	Applet	Bug	characters	launching	parameter	applet
+35525	breakpoint	step	evaluation	suspended	unable	Bug	scrapbook	RC	view	actions
+254677	setters	getters	step	patch	filtering	bean	filter	feature	Patch	Add
+13015	breakpoint	stepping	conditional	Bug	condition	thread	a	evaluates	step	I
+50909	bootpath	options	breaking	launch	Bug	VM	change	attributes	setting	attribtues
+58078	detail	code	hint	formatter	missing	dialog	assist	area	Bug	works
+7392	startup	JDIThreads	responding	Bug	frames	thread	code	incompatible	exception	synch
+310511	font	Dialog	Breakpoints	view	Bug	breakpoint	horro	Colors	Appearance	General
+74477	display	view	Empty	Bug	persisted	document	persists	empty
+330987	version	bundle	tags	increment	Bug	Missing	methods	bug	jdt	debug
+32494	menu	scrapbook	actions	Insp	Bug	Display	enabled	Select	enable	Context
+124147	compliance	compiler	JRE	installed	Changing	compatible	Java	jres	Bug	doesn
+248054	breakpoint	annotation	Highlighted	breakpoints	version	Bug	annoyance	Eclipse	Breakpoints	hilighting
+94452	exceptions	Timeout	Bug	step	target	requests	UI	start	views	update
+276723	project	launch	Applet	launching	Bug	config	fro	configs	s	EE
+400636	codeassist	work	view	Display	Bug	OSX	Kepler	Application	regression	Eclipse
+52474	Java	Perspective	CVS	check	UI	Blocked	Bug	opening	point	dialog
+33534	Ant	indication	range	Bug	Editor	supported
+57598	Scrapbook	button	toolbar	Remove	Bug	JDT	Element	Java	menu	remove
+40707	hit	count	Breakpoint	enabled	Bug	breakpoint	remains	disabling	properties	setting
+34052	CTRL	EOF	program	Z	Java	Bug	Recognized	m	console	input
+77064	console	clear	trace	stack	Bug	work	button	Pressing
+8458	variables	action	Inspect	Bug	view
+6411	Auto	Bug	Install	detect	required
+94474	attachment	change	JRE	source	Unable	Bug	jar	JREs	Edit	pref
+125196	preference	problems	layout	Installed	Bug	sash	JREs	dialog	move	Java
+24863	Detail	Formatters	pref	Bug	F
+21792	arguments	backslash	problems	vm	Duser	argument	space	Bug	configuration	order
+29474	menu	visibility	contributions	Contributions	Context	support	element	elements	Step	Bug
+164650	thread	ITerminate	Bug	groups	implement	launch	select	group	view	a
+40744	tab	Classpath	Java	huge	Bug	classpath	heightHint	screen	size	projects
+223530	hyperlink	Selection	broken	Step	Bug	support	multi	I	suspect	investigated
+24873	Formatters	Detail	Misc	preference	Bug	formatter	Add	removed	Details	Formatter
+15662	Bug	Display	display	a	result	I	variable	Select	inspect	work
+84271	font	Dialog	dialog	Java	Add	structure	Code	logical	Bug	variables
+10035	Launcher	support	variables	Bug	path	projects	files	directory	application	projectdir
+372030	thread	resume	suspended	single	VM	threads	Debug	Bug	launch	Application
+15678	Drop	frames	stack	Frame	Bug	updating	b	step	test	jdk
+167740	menu	details	array	variables	formatter	Bug	types	views	Edit	checks
+9026	breakpoints	Compilation	Bug	error	view	showing	Summary
+77125	breakpoint	Preference	VM	suspending	Bug	concurrency	tracking	thread	properties	a
+125771	method	source	external	unable	Bug	breakpoints	create	breakpoint	siganture	retrieving
+30028	actions	Java	work	snippet	keybindings	action	navigate	Bug	binding	ids
+369480	JRE	bug	compatible	builds	launchingsupport	jar	Fixed	workspace	latest	Bug
+27989	launch	API	configuration	verification	Provide	time	check	Bug	group	checks
+12636	evaluation	Scrapbook	Unable	context	individual	Bug	work	Java	problem	scrapbook
+9057	event	API	CHANGE	codes	Bug	label	children	target	a	s
+206693	description	JRE	location	c	Bug	eclipse	ee	j	wrong	PWD
+18792	selection	Minor	uncaught	enabled	caught	Bug	selections	single	breakpoints	toggles
+120170	breakpoints	source	external	menu	jar	file	Breakpoint	Bug	action	ruler
+33644	Java	Project	add	Unable	preferences	jar	lib	jre	directory	JAVA
+34670	Java	lists	classpath	DELETE	event	Bug	Configs	Launch	launch	key
+67439	launch	launches	Support	view	hidden	Bug	debug	target	don	wrapper
+112503	background	color	change	Display	text	Bug	view	type	defaults	colors
+144253	source	lookup	CHANGE	force	Frame	Bug	events	Eclipse	Stack	fire
+18306	Bug	listeners	launch	code	platform	configuration	runnables	PDE	untrusted	runtime
+53634	libraries	JRE	running	application	work	Bug	don	JREs	Java	additional
+463236	evaluations	projects	fail	Scrapbook	Bug	compliance	pre	debug	ui	jar
+31110	Source	Lookup	variables	Debbugger	source	work	Bug	debugger	claims	lookup
+34190	stacktrace	exception	Evaluation	view	evaluation	Bug	validation	problem	code	message
+197011	JRE	system	modifications	Add	library	Bug	libraries	retain	JAR	JREs
+401815	PList	tests	parser	failures	test	eclipse	Mac	VM	OSX	Bug
+139152	Debug	Java	preferences	fields	preference	uninitialized	Window	validates	dialog	platform
+463252	log	warning	Compile	Debug	Bug	JDT	debug	plugins	ui	dot
+49045	Scrapbook	launch	user	friendly	config	names	bar	Bug	title	snip
+43927	work	Content	breakpoint	assist	properties	Bug	content	dot	Space	Ctrl
+49047	scrapbook	uncaught	exceptions	Bug	exception	code	trace	suspends	source	user
+21400	member	Breakpoints	Loss	text	breakpoint	details	bug	Bug	grain	Start
+73624	main	Don	selected	Bug	prompt	dialog	method	java	Java	compilation
+392607	JDI	Mac	suite	test	OSX	VM	work	Bug	form	kind
+43418	JRE	directory	cursor	busy	Bug	base	seconds	choosing	system	choose
+49052	arg	properties	scrapbook	restart	Bug	VM	changing	dialog	JRE	evaluation
+49054	Bootpath	incorrect	project	Bug	entries	user	tab	configuration	button	Java
+266651	Java	JRE	jre	Library	System	u	java	Path	links	symbolic
+9122	debugging	slow	latest	Bug	extremally	debug	junit	performance	workspace	launch
+19363	container	library	banner	Missing	wizard	Bug	image	Asked
+183206	refactoring	tests	failure	caused	fail	Bug	Mysterious	canot	test	N
+179111	features	Instances	fixes	References	references	instances	Numerous	bugs	Bug	actions
+10154	Breakpoints	thread	Bug	icon	labeled	filter	Breakpoint	text	a	labels
+56235	dialog	size	Favorites	Organize	Bug	remember	time	resize	I	open
+49068	space	JREs	Large	Bug	top	amount	Installed	pref	description	functional
+271785	extension	compilation	breakpoint	uncaught	error	listener	Bug	handling	Migrate	exception
+9649	returns	rebuild	Bug	classpath	dialog	process	MB	Eclipse	wwaux	workspace
+49077	bootpath	jar	append	Bug	config	jars	I	command	tacked	a
+64951	thread	labels	condition	Bug	suspended	details	screen	String	variables	evaluating
+108473	time	Bug	eclipse	performance	Performance	Tomcat	Eclipse	XP	mode	severely
+234425	evaluations	options	compiler	relevant	Bug	debug	warnings	compliance	evaluation	access
+30650	dialog	problem	compilation	breakpoint	usability	condition	Conditional	text	Bug	field
+8634	Exception	breakpoints	Bug	workspace	persisted	exception	start	I	missing
+304057	widget	count	focus	hit	Breakpoint	Bug	enabled	typing	start	attachment
+300992	dialog	breakpoint	properties	option	problems	Bug	target	s	latest	Breakpoints
+49092	classpath	entries	User	element	empty	top	displayed	user	Bug	Entries
+323020	test	Bug	failure	Mac
+60364	code	debug	deprecated	runtime	Bug	patch	eliminated	Runtime	JDT	plugins
+109009	breakpoint	export	Tests	Bug	tests	exporting	breakpoints	importing	Add
+171984	Breakpoint	Properties	key	stroke	Bug	Open	dialog	action	a	nice
+178641	performance	test	breakpoint	conditional	failure	Bug	management	side	amount	view
+27093	location	Javadoc	Bug	initial	JREs	java	Sun	point	website	URL
+181204	launching	context	resource	objects	debug	bug	based	Bug	object	IResource
+64984	Inspect	doesn	work	Bug	View	Display	t	log
+212442	tests	Failing	Bug	importbreakpoints	failures	String	statement	breakpoints	Integer	clause
+112613	actions	Breakpoint	remote	Debug	files	Java	Breakpoints	stuff	Bug	Message
+218086	constants	statics	Filtering	filters	Bug	filter	bug	Statics	Constants	filtered
+8679	count	Hit	breakpoints	breakpoint	hit	Bug	session	UI	time	debug
+42984	directory	Ant	working	ant	script	Bug	args	Base	processes	target
+18926	JRE	Preferences	JDK	Installed	add	unable	problem	window	Bug	workspace
+380918	Launching	project	optional	Project	projects	view	Progress	failing	JUnit	Bug
+29683	JRE	naming	prompt	Bug	project	classpath	resolution	VM	dialog	container
+38387	messages	NLS	internal	ing	error	Bug	language	cases	a	pass
+290288	panes	Detail	Java	Bug	editors	breakpoints	detail	breakpoint	supply	view
+20468	JRE	attachment	Source	location	source	jar	JAR	Installed	path	Bug
+22005	Review	runnables	UI	Bug	code	thread	Exec	synch	Display	performance
+265714	breakpoint	step	conditional	Bug	condition	listeners	debugger	Java	extensions	notified
+394225	Display	Bug	evaluates	display	incorrectly	Evaluates	s	window	fail
+5623	JDK	swap	Bug	hot	client	JDI	specification	updated
+16378	tabs	launch	icons	config	creation	Missing	screen	time	Bug	space
+110074	breakpoint	Breakpoints	working	Bug	sets	create	category	a	I
+396795	colour	background	detail	selection	breakpoint	panes	Prevent	Bug	changing	times
+57853	session	view	contents	Display	Persist	Bug	debugger	closed	hidden	worrying

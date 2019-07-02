@@ -1,0 +1,51 @@
+209410	comments	bot	patch	improve	commands	attachment	misc	attached	feedback	handling
+275722	abstraction	acts	bug	wiki	project	details	main	ecf	eclipse	http
+198161	completion	irc	tab	broken	latest	letter	hit	channel	participants	build
+240926	editor	improper	insufficient	closed	editing	stopping	logic	properly	leave	cleanup
+269612	cdc	idca	design	ida	locator	ended	filters	providers	problem	implement
+266539	latest	zeroconf	iana	happen	discovery	needed	resource	notices	head	tcp
+234803	jslp	slp	correctly	path	pass	discovery	bug	supported	uri	ecf
+198193	irc	patch	connecting	special	didn	chars	bug	characters	nick	parsing
+192574	affect	buttons	restore	defaults	communications	isn	settings	apply	preference	bug
+371768	npe	watchmanager	unpublish	zoodiscovery	needed	bug	thrown	service	unpublishing	harmless
+192573	collaboration	project	menu	opens	dynamic	incorrect	resource	invoking	open	web
+198731	irc	ctrl	foobar	recognition	steps	click	fine	works	mouse	move
+321354	timing	jms	sequence	meaning	balancing	causing	lookups	problem	manage	fail
+227939	overflow	msn	patch	restored	steps	rewrite	mail	password	logout	issue
+252002	ntlmv	discussion	bug	bugs	comment	support	httpclient	track	cgi	starting
+258916	hexdig	tag	htab	bad	safe	slp	escape	attr	discover	character
+292972	patch	bug	additions	relevant	pieces	track	apply	fixes	filetransfer	application
+222824	talk	google	puts	ignores	port	gmail	user	xmpp	doesn	work
+217971	warn	restrictions	jslp	slp	settings	mode	tests	bug	port	bundle
+238970	cpu	stays	guess	msn	increases	seconds	hour	steps	chosen	report
+198012	hyperlink	ecftcp	hyperlinks	localhost	activation	behavior	connect	dialog	bug	server
+211585	naming	authority	parsing	jmdns	problem	defines	bug	parser	discovery	code
+318086	figure	disabling	moment	discovery	unit	build	project	problem	tests	bug
+238976	side	editor	modifications	initiated	notification	originator	broken	shared	closed	disconnected
+482434	incorrectly	calculated	exported	handling	implemented	bug	service	version	type
+199309	freenode	click	irc	foobar	steps	bugs	ctrl	modlost	appears	problems
+327060	dev	zookeeper	include	solution	bug	interest	posting	comment	lists	location
+222865	collaboration	click	button	toolbar	nickname	steps	finish	build	reproduce	connect
+222868	entered	clicked	msn	steps	mail	password	finish	button	build	reproduce
+447633	stat	spaces	files	issue	directory	command	thought	scp	cover	capability
+198043	contacts	groups	recognize	doesn	open	entries	users	dialog	bug	list
+172958	patch	commands	containers	channel	acceptable	mark	irc	work	command	mode
+273819	wizard	opens	cancels	instantiated	runs	closes	bug	opened	disposed	wrong
+259233	lost	segment	discovery	path	uri	jmdns	bug
+218027	correctly	scope	jslp	doesn	discovered	don	slp	bug	discovery	services
+207530	deletions	character	cola	texts	modification	atomic	units	single	discard	clipboard
+199336	irc	tab	forget	nice	steps	command	prepend	chatroom	join	foobar
+274613	irc	wizard	ids	leaves	guess	handling	talking	asks	supposed	nickname
+200630	handled	confirm	irc	messages	bug	disturbing
+263613	site	networking	unresponsive	jobs	releasing	cancelling	contacting	install	cancelable	cancellation
+277176	osgiservices	iana	machine	tcp	bring	click	working	view	option	menu
+196541	noticed	field	wizards	moment	cleared	behaviour	passwords	appears	changing	username
+206528	kos	mos	commands	wiki	mapped	prevents	alternatively	steps	bugs	join
+183492	launch	application	bug	config	server	ecf
+196298	talk	google	bloggs	googlemail	joe	ensure	existence	separately	assume	separate
+202958	irc	incorrectly	select	channel	bring	freenode	click	output	selected	works
+221139	validation	mail	weak	wizards	inserted	xmpps	address	checked	msn	field
+286934	resource	patch	attachment	steps	randomly	disconnected	ids	roster	user	appears
+112599	updated	dynamically	remotely	xmpp	room	subject	title	bug	chat	server
+197604	deop	unban	irc	ban	kick	attached	head	commands	bug	parse
+192756	entered	irc	freenode	channel	big	rid	join	tab	xxx	don

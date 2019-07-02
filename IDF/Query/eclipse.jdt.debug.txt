@@ -1,0 +1,179 @@
+170502	boothpath	app	moved	bootpath	close	tab	apply	lookup	user	entries
+335363	checkboxes	colors	notice	basic	question	click	checkbox	general	doesn	attachment
+229380	incorrectly	moving	bottom	buttons	bootstrap	tab	reflect	ensure	button	select
+13834	examining	nthe	click	managed	includes	jars	ruler	menu	debugging	remote
+12300	hard	team	reason	locally	tabs	edited	build	environment	installed	execute
+23568	ctrl	attempting	activation	menu	scrapbook	space	longer	provide	assist	auto
+286229	head	lookups	fixing	dns	scenario	urls	click	host	updated	resolves
+5653	isn	post	making	click	response	unexpected	background	behavior	debugging	debugger
+321043	head	revert	compliance	comment	attachment	details	compiler	enable	bug
+112670	ctrl	treeitem	invokes	windows	normal	blocks	focus	space	commands	assist
+43554	front	body	expect	simply	margin	statement	creating	build	left	created
+43555	involving	expressions	receiver	conditional	build	arguments	bug	entry	breakpoint	method
+399913	describe	logic	latest	notice	debugged	causing	steps	plist	grab	parsing
+13364	indication	condition	properties	bug	dialog	breakpoint
+22580	tcp	released	spy	release	general	bug
+255031	cdc	foundation	ees	prevent	compiled	longer	compile	director	warning	projects
+37942	nicely	listed	jars	included	located	option	details	displayed	determine	setting
+500794	selectively	deploy	minutes	noteworthy	developer	ant	causing	making	connecting	reload
+16446	linux	appears	debugged	leave	exe	fall	click	app	javaw	option
+10817	copying	copied	configs	packages	shared	folder	config	selected	output	bug
+22081	exp	manage	work	declaration	don	ast	variables	bug	current	eval
+300614	small	wide	win	pixels	pane	details	character	settings	enable	select
+162902	chosen	pressed	cancel	jres	installed	search	button	jre	progress	preference
+149076	reverts	restart	shortcut	filtering	persisted	preferences	pref	step	view	workbench
+189012	contexts	expressions	accessible	command	dialogs	view	change	variables	bug	primitive
+9825	prefer	consistent	icon	showing	depending	hover	color	debugger	matches	active
+33893	incorrectly	existant	plug	updates	ignore	jres	exist	defined	invalid	preference
+124522	undo	perspective	functionality	view	display	bug	debug
+268393	letting	steps	quotes	attempted	box	attempt	expressions	literal	debugger	attachment
+8301	panes	menus	needed	details	inspect	expression	view	actions	variables	display
+78449	incorrectly	initially	remains	red	ant	cleared	problems	closed	correct	tab
+88689	compliant	jls	parser	references	bug	remove
+29297	honor	folders	searches	compiled	debugger	hot	folder	properties	multiple	build
+412786	locked	disables	items	contributed	jres	button	select	jre	delete	entries
+30837	loss	npe	select	view	suspended	variables	bug	variable	breakpoint	result
+173187	renaming	differences	entires	refactored	distinguish	eventually	identical	ended	showing	expand
+280192	inspecting	regression	appears	windows	evaluating	scrapbook	inspect	installed	select	title
+74885	review	mark	correctly	daemon	creation	threads	created	terminate	bug	thread
+30344	alternatively	developer	leaving	inserts	selecting	insertion	mechanism	interpreted	displaying	syntax
+77449	inform	menu	unavailable	box	drop	option	don	options	select	support
+37514	retargettable	global	shared	toggle	watchpoint	actions	platform	bug	action	breakpoint
+138377	acceptable	seconds	click	builds	hyperlink	resolution	console	lookup	trace	bug
+142476	transform	boxes	tester	templates	adjust	blocking	hand	steps	icon	language
+54417	getparameter	quoted	blank	configured	characters	applet	parameters	parameter	read	bug
+324246	good	expand	works	pass	jvm	builder	enter	called	external	build
+64663	hex	accept	fails	change	variables	bug
+352413	underscores	literals	paste	doesn	debugger	setting	accept	binary	supports	window
+506014	availability	thought	observed	row	jumps	signal	icon	holder	depending	feature
+275614	screen	regression	explorer	introduced	steps	expanded	builds	expand	paste	session
+1695	notes	executing	debugging	conditional	multi	process	support	user	specific	bug
+85665	combo	radio	alternate	adding	button	jre	selected	container	bug	dialog
+23716	qualify	formatter	reporting	displays	area	details	prefix	errors	detail	bug
+92838	head	review	tagged	random	cycles	ins	tags	properly	plug	idebuguiconstants
+324268	clipboard	opening	indicator	cursor	busy	report	search	time	progress	open
+244395	explorer	press	refactored	ctrl	steps	undo	rename	build	refactoring	config
+53929	showing	jars	zip	common	tree	libraries	properties	jar	multiple	full
+57515	contribute	configs	participant	references	search	bug	types	launch	java
+16046	forced	didn	presses	respond	shouldn	fact	ability	cancelled	completes	operations
+72371	streams	occurs	left	locations	stream	open	bug	exception
+7859	require	feature	exit	adapter	bug	breakpoints	method	debug
+350918	ill	won	steps	passing	unexpected	general	characters	applet	bar	area
+35525	scrapbook	disabled	step	view	unable	suspended	actions	display	bug	evaluation
+254677	head	suggested	checkboxes	recognition	bean	easier	turned	couldn	feature	setters
+13015	resumes	evaluated	evaluates	stepping	condition	conditional	step	bug	breakpoint	thread
+50909	appending	prepending	avoids	breaking	making	proper	delegates	vmrunner	bootpath	responsible
+58078	works	formatter	assist	area	details	missing	hint	detail	editor	bug
+7392	jdithreads	responding	showing	synch	startup	incompatible	frames	threads	suspended	bug
+310511	colors	basic	question	click	bit	general	attachment	details	close	edit
+74477	persists	persisted	document	view	display	bug	empty
+330987	incremented	applied	newly	increment	tags	missing	bundle	methods	version	bug
+32494	toolbar	insp	global	bindings	menu	scrapbook	inspect	execute	enable	select
+124147	discover	won	reduce	warn	potential	selects	alert	changing	compliance	global
+248054	isn	colors	pick	latest	steps	icon	syntax	annotation	background	annotations
+94452	produce	holding	attempting	views	vector	stepping	displayed	logical	exceptions	structure
+276723	configs	applet	config	changed	bug	project	launch	launching
+400636	regression	difference	appears	codeassist	osx	worked	debugging	work	application	view
+52474	investigate	cvs	repository	scenario	opening	fact	requires	perspective	opened	attempt
+33534	indication	ant	range	supported	editor	bug
+57598	toolbar	appears	correctly	menu	scrapbook	place	creation	button	group	actions
+40707	press	remains	disabling	opening	disable	setting	properties	enable	note	watchpoint
+34052	contact	unix	ctrl	eof	free	windows	applies	comment	properly	generated
+77064	work	console	clear	button	trace	bug	stack
+8458	inspect	view	variables	bug	action
+6411	detect	auto	required	install	bug
+94474	press	deselect	attachment	libraries	edit	jres	jar	installed	select	pref
+125196	sash	problems	tree	move	jres	build	installed	left	time	layout
+24863	formatters	pref	detail	bug
+21792	reverse	spaces	happen	works	problems	specifies	space	ends	passed	dir
+29474	viewercontribution	thought	contributions	hide	visibility	items	menu	contribution	debugger	inspect
+164650	iterminate	implement	groups	select	group	view	terminate	bug	launch	thread
+40744	screen	expands	large	heighthint	libraries	projects	height	tab	binary	build
+223530	hyperlink	multi	support	step	bug	selection
+24873	listed	misc	formatter	formatters	details	removed	button	detail	preference	selected
+15662	work	inspect	select	display	bug	variable	result
+84271	hand	side	structures	buttons	logical	structure	preferences	font	title	window
+10035	ini	drive	workingdirectory	configuring	workingdir	relative	libraries	testing	dir	generate
+372030	investigate	haven	workaround	pretty	debugged	expanded	click	work	performed	remote
+15678	dropping	appears	fixed	latest	correctly	updating	drop	frames	vms	note
+167740	menu	formatter	views	contribution	details	checks	arrays	edit	variables	root
+9026	showing	summary	view	compilation	bug	breakpoints	error
+77125	tracking	suspending	problems	suspends	configure	properties	build	preference	hit	change
+125771	appears	properly	retrieving	external	created	unable	bug	breakpoints	source	breakpoint
+30028	navigate	definitions	binding	work	declaration	correct	definition	registered	hierarchy	service
+369480	older	fresh	launchingsupport	latest	fixed	builds	major	work	environments	compatible
+27989	chance	suggestion	scenario	usage	expensive	good	candidate	verification	require	entire
+12636	individual	users	scrapbook	work	problem	retrieve	fails	working	unable	bug
+9057	usable	fires	codes	children	detail	update	change	label	changed	bug
+206693	wiki	copied	simply	installing	configured	bin	column	resolves	relative	jres
+18792	selections	toggles	minor	caught	uncaught	multi	single	view	enabled	bug
+120170	notice	buildpath	archives	ruler	menu	toggle	external	jar	level	jre
+33644	apis	sdk	mechanism	expand	endorsed	versions	jars	located	times	xml
+34670	uncheck	configs	lists	needed	tab	select	config	delete	key	hit
+67439	hidden	listens	wrapper	dynamically	daemon	connections	special	launches	correct	don
+112503	won	highlighting	colors	windows	syntax	background	color	pane	defaults	tab
+144253	behaviour	longer	force	fire	lookup	events	change	bug	stack	frame
+18306	prevents	runnables	shouldn	opening	delegates	safe	npe	listeners	errors	config
+53634	switching	additional	bootclasspath	newly	removing	work	adding	libraries	don	jres
+463236	snippetsupport	compliance	moved	scrapbook	compiled	fail	evaluations	pre	projects	jar
+31110	advanced	points	work	debugger	archive	build	lookup	select	selected	variables
+34190	stacktrace	scenario	describes	validation	executed	functionality	including	detect	debugging	doesn
+197011	lost	retain	steps	additional	ide	click	works	jars	windows	adding
+401815	download	linux	failing	failures	drops	plist	osx	parsing	windows	installs
+139152	uninitialized	validates	opening	attached	close	preferences	time	window	preference	fields
+463252	download	drops	dot	compile	warning	log	bug	jdt	debug	http
+49045	meant	jpage	configs	scrapbook	bar	displayed	console	config	title	names
+43927	ctrl	dot	work	space	assist	auto	condition	properties	build	content
+49047	regression	confusing	turn	written	scrapbook	work	suspends	exceptions	uncaught	ignore
+21400	memberend	memberstart	loss	lost	fixed	render	located	details	member	detail
+73624	explorer	redundant	asks	expect	click	prompt	menu	avoid	don	call
+392607	fallback	osx	determined	work	mac	form	correct	build	load	fails
+43418	choosing	takes	seconds	browse	click	cursor	busy	pressed	base	choose
+49052	restart	changing	scrapbook	properties	jre	arg	bug	evaluation	dialog	launch
+49054	showing	incorrect	bootpath	adding	bootstrap	disabled	defaults	application	tab	apply
+266651	explorer	usr	workaround	restarted	symbolic	links	steps	couldn	updater	click
+9122	minutes	latest	waited	worked	debugging	performance	launched	problem	time	mode
+19363	asked	wizard	missing	image	library	container	bug
+183206	subsequently	atomic	failures	good	prevent	reason	caused	fail	failure	build
+179111	issues	improved	popups	fixes	features	fixed	limited	global	functionality	bindings
+10154	inform	labeled	icon	labels	user	filter	bug	breakpoints	text	breakpoint
+56235	remember	persist	resize	time	open	bug	dialog	size
+49068	amount	large	space	needed	jres	installed	pref	preference	description	top
+271785	migrated	breakpointlisteners	migrate	handling	addition	extensions	exceptions	uncaught	listeners	errors
+9649	rebuild	autobuild	proceeds	motif	reports	turn	closes	clean	memory	process
+49077	jars	bootpath	jar	config	command	append	bug	create
+64951	screen	labels	debugging	evaluating	work	attach	details	condition	loop	selected
+108473	restart	responding	dependent	allocated	windows	correctly	performance	times	runs	problem
+234425	cycles	checking	reason	relevant	astparser	desired	compliance	entire	evaluations	warning
+30650	fit	center	pops	minor	problems	focus	space	scroll	doesn	correct
+8634	persisted	missing	workspace	bug	start	breakpoints	exception
+304057	typing	enabling	mouse	focus	attachment	option	details	condition	widget	enable
+300992	latest	problems	pane	option	details	properties	missing	build	policy	view
+49092	won	problems	boot	displayed	restore	removes	tab	select	delete	user
+323020	mac	failure	bug	test
+60364	newly	attaching	deprecated	testing	based	bug	code	runtime	jdt	debug
+109009	exporting	export	importing	bug	breakpoints	breakpoint	tests	add
+171984	stroke	bound	properties	command	key	open	bug	dialog	action	breakpoint
+178641	measure	overlapping	appears	amount	management	additional	side	windows	evaluated	views
+27093	investigate	issues	doc	url	jres	point	bug	standard	location	sun
+181204	issues	marking	scenario	enhancements	pertaining	comments	fixed	enhanced	verified	release
+64984	work	doesn	inspect	view	display	log	bug
+212442	failing	logic	failures	comparing	causing	clause	statement	problem	equal	bug
+112613	outline	navigate	stuff	dummy	work	provide	remote	doesn	order	toggle
+218086	logic	turned	statics	named	filtering	including	work	filtered	filters	removed
+8679	freeze	situation	notice	reached	session	suspending	suspends	problem	time	resume
+42984	basedir	overriding	jvms	echo	ant	defines	prints	processes	base	dir
+18926	pretty	big	development	steps	builds	click	pops	reason	checkbox	windows
+380918	isolated	failing	steps	works	purposes	optional	worked	debugging	linked	fail
+29683	press	prompted	existant	naming	free	explicit	prompt	resolution	rename	choose
+38387	language	pass	cases	generate	ensure	log	bug	error	messages	nls
+290288	panes	supply	editors	supports	detail	view	bug	breakpoints	breakpoint	java
+20468	helpful	uncheck	indication	documentation	browse	verifying	dummy	guess	installation	users
+22005	review	runnables	post	calls	synch	performance	exec	display	bug	thread
+265714	coincides	notified	debugger	extensions	registered	condition	call	conditional	evaluate	listeners
+394225	incorrectly	evaluates	fail	window	display	bug
+5623	swap	updated	client	hot	specification	jdk	bug	jdi
+16378	screen	remains	icons	tabs	space	attached	creation	missing	build	time
+110074	category	working	sets	bug	breakpoints	breakpoint	create
+396795	panes	solution	sash	toggling	sashform	depends	click	prevent	changing	explicitly
+57853	hidden	session	persist	automatically	debugger	closed	close	contents	view	display

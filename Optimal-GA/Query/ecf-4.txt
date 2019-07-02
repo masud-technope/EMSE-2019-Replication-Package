@@ -1,0 +1,51 @@
+209410	bot	fixes	simply	handling	feedback	simply	improved	properties	Bug	commands
+275722	wiki	http	abstraction	eclipse	acts	gsoc
+198161	ECF	channel	tab	tab	repro	participants	IRC	HEAD	completed	IRC
+240926	docshare	docshare	editor	stopping	improper	closed	closing	sender	closing	editor
+269612	add	Bug	locator	interfaces	IDCA	containers	ended	interfaces	containers	Composite
+266539	model	org	Discovery	factory	resource	latest	log	info	tcp	zeroconf
+234803	jSLP	ECF	Bug	ECF	Discovery	Discovery	path	pass	URI	discovery
+198193	chars	irc	URI	server	IRC	created
+192574	Restore	empty	Apply	isn	preference	Bug
+371768	watchmanager	Harmless	unpublishing	needed	unpublish	annoying	service
+192573	Open	open	Open	Project	web	dynamic	action	fails	Resource	open
+198731	move	text	Wrong	Bug	hyperlink
+321354	registration	meaning	properly	bug	services	load	manage	message	remote
+227939	mail	issue	Password	ocurr	error	password	Wizard	Overflow	MSN	won
+252002	https	NTLMv	filetransfer	difficulties	eclipse	Bug	provider	starting
+258916	HTAB	SLP	reserved	star	property	service
+292972	patches	genuitec	Genuitec	discuss	filetransfer	additions
+222824	ignores	port	Host	talk	Bug	puts	puts	Host	puts	talk
+217971	jSLP	port	jSLP	bundle	settings	warn	Tests	jSLP	Bug	port
+238970	process	java	wait	Steps	Java	MSN	connect	Reproduce
+198012	Open	hyperlink	receive	ECF	activation	connect
+211585	stumbles	Discovery	Discovery	Discovery	parser	naming	problem	service	code	problem
+318086	discovery	ecf	Discovery	org	build	problem	moment
+238976	editor	modifications	initiated	remote	Editor	shared	originator
+482434	version	exported	service	handling	calculated
+199309	hyperlink	Connection	Click	chatroom	irc	Wizard	connection	bugs	Wizard	Open
+327060	service	bug	solution	zookeeper	problem	URI	location	Note
+222865	Nickname	toolbar	Reproduce	empty	Steps	dialog	dialog	Collaboration	Build	nickname
+222868	password	wizard	Build	clicked	MSN	entered	Reproduce
+447633	SCP	thought	remotely	bash	list	initial	command	command	bash	properties
+198043	Bug	doesn	dialog	recognizer	users	entries	recognize
+172958	Container	Containers	mode	work	setup	IRC	IRC	command	IRC	Container
+273819	wizard	bug	container	feels	cancels
+259233	Discovery	Discovery	URI	discovery	Bug	Bug	path	JMDNS	path	segment
+218027	scope	don	services	Bug	jSLP	Discovery
+207530	editing	marking	sync	clipboard	hitting	session	Shared	applies	Editor
+199336	nice	close	Connect	won	error	prepend	chatroom	tab	tab	input
+274613	minutes	channel	IRC	wizard	connecting	immutable	joins	server	typed
+200630	messages	handled	disturbing	confirm	Bug
+263613	Software	behavior	mark	Progress	view	transport	cancellation	Install	main	networking
+277176	machine	Neighborhood	osgiservices	bring	click	Service	iana
+196541	behaviour	text	password	load	cache	start	MSN	field	providers
+206528	option	msg	Note	list	wiki	responds	provider	bug	provider	wiki
+183492	ECF	launch	config	Bug	Application
+196298	connect	server	override	common	googlemail	Google	issue	hobbled	assume	user
+202958	chat	Choose	chat	Select	menu	selected	Select	incorrectly	output	text
+221139	field	validation	Bug	address	MSN
+286934	appears	user	Test	removed	Disconnect	Reproduce	users	Reproduce	host	attached
+112599	Bug	updated	chat	subject	updated	XMPP	XMPP	Room	room	chat
+197604	error	IRC	parse	unban	attached	version	kick	HEAD	commands
+192756	freenode	messages	tab	clients	messages	freenode	entry	net	big	rid
