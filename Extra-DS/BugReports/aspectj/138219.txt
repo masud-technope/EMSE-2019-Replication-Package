@@ -1,0 +1,2 @@
+Can't use a FQ Reference pointcut in any pointcut expression referenced by a per-clause
+A pointcut expression for a per-clause fails to resolve if it contains any reference pointcuts referring to pointcut expressions defined in other types. (Even if that is indirectly, through a local named pointcut).

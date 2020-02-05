@@ -1,0 +1,1 @@
+java serializable bean serializable string string get name getname set name setname string

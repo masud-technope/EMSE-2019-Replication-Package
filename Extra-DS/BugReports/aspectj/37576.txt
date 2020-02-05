@@ -1,0 +1,2 @@
+Ant task switches {boot}classpath entities in 1.1rc2
+The AjcTask (iajc) task takes nested bootclasspath entities as classpath and vice-versa.

@@ -1,0 +1,1 @@
+copyright palo alto center incorporated rights reserved figures java awt java awt geom figure element figureelement min max move rectangle get bounds getbounds point paint graphics

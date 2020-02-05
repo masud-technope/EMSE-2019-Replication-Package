@@ -1,0 +1,3 @@
+org.eclipse/swt/widgets/ScrollBar.java
+org.eclipse/swt/widgets/Scrollable.java
+org.eclipse/swt/widgets/Table.java

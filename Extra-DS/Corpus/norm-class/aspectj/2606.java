@@ -1,0 +1,1 @@
+circle test base cyclic inheritance ibottom type reflexive derived i derivedi base type reflexive ibottom derived i derivedi

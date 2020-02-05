@@ -1,0 +1,5 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/ast/AccessForInlineVisitor.java
+org.aspectj/modules/tests/bugs151/pr123901/A.java
+org.aspectj/modules/tests/bugs151/pr123901/B.java
+org.aspectj/modules/tests/bugs151/pr125475/TestEmptyPointcutAtAspect.java
+org.aspectj/modules/tests/src/org/aspectj/systemtest/ajc151/Ajc151Tests.java

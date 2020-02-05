@@ -1,0 +1,20 @@
+227939	Bug	wizards	restoring	password	Stack	Overflow	error	ocurrs
+252002	Bug	filetransfer	support	NTLMv	authentication	httpclient	provider
+229921	Bug	Missing	javadoc	statements	compiler	error
+318086	Bug	Discovery	discovery	tests	build	ecf	project	org
+238976	Bug	Shared	Editor	notification	connect	disconnect	connection
+183492	Bug	ECF	Server	Application	launch	config
+258916	Bug	Discover	SLP	invalid	service	property	SLP
+198731	Bug	Wrong	underline	hyperlink	recognition
+292972	Bug	filetransfer	apply	additions	fixes	genuitec	patch
+207530	Bug	Collab	Cola	Real	Time	Shared	Editor	support	multi	character	operations
+259273	Bug	Discovery	Zeroconf	JMDNS	doesn	translate	scope	protocols	naming	authority	internal	vice	versa
+275722	Bug	abstraction	ECF
+327060	Bug	discovery	zookeeper	location	URI	include	port
+221139	Bug	wizards	Weak	mail	address	validation	User	field
+192756	Bug	IRC	channel	join	rid	entered	spam
+287666	Bug	releng	filetransfer	Removed	javax	microedition
+256980	Bug	ecf	collab	contribute	presence	container
+198043	Bug	open	contacts	dialog	doesn	recognize	users	groups
+277176	Bug	Service	Discovery	view	working	osgiservices
+198012	Bug	provider	connect	receive	hyperlink

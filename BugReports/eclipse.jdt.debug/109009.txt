@@ -1,2 +1,0 @@
-Bug 109009 – Tests for breakpoint import/export
-Add tests for importing and exporting breakpoints

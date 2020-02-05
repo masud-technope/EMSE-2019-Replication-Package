@@ -1,0 +1,2 @@
+ajc crashes when compiling the following program (binding this() and target())
+class Test { public static void main(String args[]) { new Test().method(); } public void method() { new Test2().method2(); } } class Test2 { public void method2() {} } aspect Plain { before(Test x): call(void *.* (..)) && (this(x) || target(x)) { } }

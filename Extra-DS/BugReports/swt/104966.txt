@@ -1,0 +1,2 @@
+Link displays as enabled when setText called after setEnabled
+VE 1.1 Running with XP manifest 1. Create a new Visual bean (SWT) 2. Drop a link on the composite 3. Set the enabled property on the link to be disabled 4. Note: the link is now disabled in the preview 5. Close the editor 6. Re-open the editor 7. Observe: link now shows as enabled When you run the application the link shows as enabled, but is actually disabled. If you change the order of the initialization such that the enabled status is set after the text is set it displays correctly. This could be an SWT bug.

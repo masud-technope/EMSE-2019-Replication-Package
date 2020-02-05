@@ -1,0 +1,2 @@
+Bad injar aspect name on Linux
+If you checkout the "JarUsingProject" project from "org.eclipse.ajdt.test/manual testing" in the AJDT 1.1.12 tree, and look at the advised-by entries in the outline view and the context menu of the gutter annotation, on Windows you get "injar aspect: AbstractAspect.aj", but on Linux you get "injar aspect: C:\eclipse30AJDTPluginTest\eclipse\workspace\JarGeneratingProject\src\p1\AbstractAspect.aj". The Windows-style path indicates the location of the original class files in the JAR file, which was clearly built on Windows.

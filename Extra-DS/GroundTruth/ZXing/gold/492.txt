@@ -1,0 +1,5 @@
+com.google/zxing/common/AbstractBlackBoxTestCase.java
+com.google/zxing/negative/FalsePositivesBlackBoxTestCase.java
+com.google/zxing/negative/PartialBlackBoxTestCase.java
+com.google/zxing/negative/UnsupportedBlackBoxTestCase.java
+com.google/zxing/qrcode/QRCodeBlackBox2TestCase.java

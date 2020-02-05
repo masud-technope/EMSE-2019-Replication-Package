@@ -1,0 +1,2 @@
+Some Pointcut PatternNodes are missing getters to traverse syntax tree
+In order to find out which other pointcuts are referenced by a pointcut definition i need to access the private members of the CflowPointcut, IfPointcut and NotPointcut PatternNodes found in the weaver module. Unlike the OrPointcut and AndPointcut classes, they are missing the appropriate getter methods.

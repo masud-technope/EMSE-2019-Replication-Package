@@ -1,0 +1,63 @@
+173187	Bug	Breakpoint	unclear	refactoring
+53634	Bug	JRE	libraries	don	work	running	application
+40707	Bug	Breakpoint	remains	enabled	disabling	setting	hit	count
+335363	Bug	Add	Java	Exception	Breakpoint	dialog	truncated	text	checkboxes	font	size	increased
+31110	Bug	Debbugger	Source	Lookup	work	variables
+229380	Bug	buttons	incorrectly	enabled	classpath	tab
+13834	Bug	breakpoints	external	source
+94474	Bug	Unable	change	source	attachment	JRE	jar
+142476	Bug	TVT	TCT	Text	boxes	ovelap	borders
+324246	Bug	pass	project	classpath	external	programs	defined	builders
+139152	Bug	preferences	Java	Debug	preference	validates	uninitialized	fields
+321043	Bug	Enable	compiler	compliance
+64663	Bug	variables	Variables	Change	accept	hex
+43927	Bug	Content	assist	work	breakpoint	properties
+506014	Bug	constantly	method	node	variables	view
+73624	Bug	Don	prompt	main	main	selected
+275614	Bug	REGRESSION	threads	longer	expanded	Debug	view	visible
+392607	Bug	JDI	test	suite	work	Mac	OSX
+43418	Bug	busy	cursor	choosing	JRE	base	directory
+112670	Bug	toggle	selection	treeitem	variables	view
+21792	Bug	arguments	backslash	problems
+9122	Bug	debugging	extremally	slow	latest
+19363	Bug	Missing	wizard	banner	library	container
+124203	Bug	View	management	respect	debug	context	manager
+16046	Bug	Launch	configuration	dialog	doesn	cancel	launch
+15662	Bug	Display
+9649	Bug	rebuild	returns
+72371	Bug	Streams	left	open	exception
+13364	Bug	visual	indication	breakpoint	condition
+255031	Bug	Missing	EEs	prevent	project	build
+108473	Bug	Performance	performance	eclipse	severely	degrades	time
+8634	Bug	Exception	breakpoints	persisted
+300614	Bug	Hit	count	field	small	Settings	detail	pane
+9026	Bug	Compilation	error	breakpoints	showing	breakpoints	view
+323020	Bug	test	failure	Mac
+125771	Bug	unable	create	method	breakpoints	external	source
+60364	Bug	debug	deprecated	runtime	code
+369480	Bug	Fixed	bug	launchingsupport	jar	compatible	JRE	recognized	latest	builds
+189012	Bug	Change	dialogs
+181204	Bug	launching	context	launching	resource	based	objects
+13015	Bug	stepping	conditional	breakpoint
+212442	Bug	Failing	importbreakpoints	tests
+9825	Bug	Action	icon	inconsistencies
+33893	Bug	Preference	existant	JREs
+206693	Bug	JRE	location	wrong	installing	description	file
+42984	Bug	working	directory	args	Ant	processes
+7404	Bug	Add	Filter	step	filtering	broken
+268393	Bug	Debugger	letting	change	String
+330987	Bug	Missing	tags	increment	bundle	version
+32494	Bug	Insp	Display	actions	menu	enabled	scrapbook
+34670	Bug	Java	Launch	Configs	DELETE	key	event	lists	classpath	tab
+18926	Bug	unable	add	JDK	Installed	JRE	Preferences
+29297	Bug	Debug	honor	multiple	output	folders
+248054	Bug	breakpoint	annotation	Highlighted
+94452	Bug	Timeout	exceptions
+394225	Bug	Display	evaluates	incorrectly
+187000	Bug	Debugger	looses	selection	focus	lot	thread	stack	debug
+400636	Bug	codeassist	work	Display	view
+52474	Bug	Blocked	opening	Java	Perspective	CVS	check
+16378	Bug	Missing	icons	launch	config	creation	tabs
+110074	Bug	Breakpoints	breakpoint	working
+33534	Bug	Ant	Editor	range	indication	supported
+144253	Bug	source	lookup	Stack	Frame	CHANGE	events	longer	force	source	lookup

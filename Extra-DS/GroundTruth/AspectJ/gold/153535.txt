@@ -1,0 +1,3 @@
+org.aspectj/modules/weaver/src/org/aspectj/weaver/reflect/ReflectionWorld.java
+org.aspectj/modules/weaver/testsrc/org/aspectj/weaver/reflect/ReflectionBasedReferenceTypeDelegateTest.java
+org.aspectj/modules/weaver5/java5-testsrc/org/aspectj/weaver/reflect/ReflectionBasedReferenceTypeDelegateTest.java

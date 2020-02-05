@@ -1,0 +1,6 @@
+org.aspectj/modules/tests/bugs/intertypeOverrides/Aspect1.java
+org.aspectj/modules/tests/bugs/intertypeOverrides/Aspect2.java
+org.aspectj/modules/tests/bugs/intertypeOverrides/IntertypeOverrides.java
+org.aspectj/modules/tests/bugs/intertypeOverrides/IntertypeOverrides2.java
+org.aspectj/modules/tests/bugs/intertypeOverrides/Subclass.java
+org.aspectj/modules/tests/bugs/intertypeOverrides/Superclass.java

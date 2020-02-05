@@ -1,0 +1,102 @@
+421383	Eclipse	high	resolution	high	DPI	monitor	display	Lenovo	Yoga	Pro	elements	image	buttons	scale	correctly	display	smaller	impossible	Eclipse	high	DPI	displays	difficult
+99072	polish	item	add	Easy	Approving
+144902	preference	bind	key	sequence	Ctrl	Alt	Explorer	Navigate	category	Java	editor	press	key	sequence
+244742	Build	project	compiler	compliance	reference	code	Status	STATUS	Status	imported	cursor	STATUS	Ctrl	Shift	intention	Status	field	Status	STATUS	illegal	based	compiler	compliance	source	code	compile	error	insert	compliance	Ideally	understand	lead	inconsistent	behaviour	depending	compliance	setting	alternatively
+303617	Build	Identifier	select	string	annotation	Extract	constant	Refactor	menu	Shift	Alt	quick	menu	inconsistent	menu	string	constants	annotations	Reproducible	Steps	Reproduce	Select	string	constant	Annotation	string	constant	Press	Shift	Alt	Menu	item
+305155	Build	workspace	rcjsuen	eclipse	SDK	win	folder	Windows	Explorer	rcjsuen	eclipse	SDK	win	test	File	General	Project	Uncheck	location	rcjsuen	eclipse	SDK	win	test	project	Click	Finish	Check	Windows	Explorer	folder	created	correctly	project	file	generated	File	Java	Project	Uncheck	location	rcjsuen	eclipse	SDK	win	test	project	Click	Finish	Check	Windows	Explorer	project	ends	created	rcjsuen	eclipse	SDK	win	rcjsuen	eclipse	SDK	win	test	folder
+318734	Degradation	comments	dvpt	performance	bugs	bug	bug	performance	tests	restart	shortly	obsolete	comments	removed
+35339	Javadoc	code	completion	understands	inheritdoc	isn	rendered	consistently	javadoc	tags	param
+52750	
+318731	Degradation	comments	dvpt	performance	bugs	bug	performance	tests	restart	shortly	obsolete	comments	removed
+416022	Performed	code	formatting	project	level	Java	files	Expected	code	formatted	template	Actual	formatter	threw	exception	characters	mapped	character	encoding	change	encoding	remove	characters	supported	character	encoding	problems	root	exception	exception	details	doesn	file	exception	occurred	dig	files	Configuration	Details	Product	Eclipse	org	eclipse	epp	jee	product	Installed	Features	org	eclipse	jdt
+81172	disabled	Java	editor	preference	report	problems	type	enabling	spell	checking	java	editor	doesn	spell	checking	problems	preference	enabled	spell	checking	enable	preference
+249620	bug	Support	org	eclispe	jdt	launching	configurable	problem	severity	project	bound	strict	match	workspace	severity	setting	WARNING	configurable	setting	compiler	settings	problem
+381714	answer	question	http	eclipse	org	forums	php	msg	couldn	context	sensitive	Runnable	Jar	File	Export	wizard	couldn	find	documentation
+28698	summary	tells	Works	file	read	design
+329252	Today	IRC	mentioned	clear	unit	time	Auto	activation	delay	Java	Editor	Content	Assist	preferences
+217126	Scenario	Status	Table	JDT	component	performance	tests	appears	tests	standard	error	strong	impact	tests	reliability	verification	hard	accurate	global	result	regression	noticed	component	fingerprints	good	large	number	tests	fingerprints	red	yellow	IMO	users	negative	feeling	global	performance	component	real	performance	issue
+45349	enter	select	press
+329248	Build	Identifier	Version	Build	Inappropriate	error	message	file	folder	exist	appears	empty	input	Resource	Rename	dialog	Reproducible	Steps	Reproduce	Steps	reproduce	Create	file	Press	Delete	text	opened	Rename	Resource	dialog	Inappropriate	error	message	file	folder	exist
+271139	Eclipse	select	java	file	refactor	rename	note	buttons	bottom	cancel	finish	edge	cut	Kevin	problem	caused	JDT	negative	numbers	horizonal	alignment
+102696	quick	method	signature	comment	method	fails	update
+162856	folder	subfolders	subfolders	thera	subfolders	source	folders	main	folder	git	git	src	git	src	git	src	git	src	folder	git	workspace	project	create	project	folder	git	Eclipse	find	src	folders	automatically	open	Project	wizard	select	Java	Project	choose	Create	project	existing	source	browse	folder	git	type	Project	error	click	desabled	message	create	project	content	workspace	problem	sources	workspace	Eclipse	create	project	file	report	bug	strange	Eclipse	steps	everithing	work	correctly	move	folder	git	eclipse	workspace	create	projet	existing	source	Eclipse	automatically	source	folders	Eclipse	create	project	file	classpath	file	git	folder	create	project	test	workspace	source	folders	close	eclipse	move	files	subfolders	folder	git	folder	test	eclipse	workspace	open	eclipse	project	source	folders
+9517	Test	pass	open	eclipse	browser	perspective	open	context	menu	project	view	select	Project	create	JUnit	project	observe	project	doesn	project	view
+283697	JDK	press	control	elem	missing	override	warning	Add	missing	Override	list	bunch	time	useless	suggestions	renaming	creating	methods	Adding	Override	wanted	time
+55349	place	cursor	editor	front	text	invoke	Quick	Outline	press	Delete	Quick	Outline	text	box	Text	editor	deleted
+13877	values	displayed	happen	windows	displayed	escaped	notation
+67124	copy	paste	failure	specific	rare	situation	java	file	java	project	file	open	Java	editor	dirty	copy	file	java	project	error	stating	operation	couldn	performed	file	unsaved	expect	prompted	save	file	proceeding	perform	step	chose	java	paste	takes	place	prompt	save	dirty	editor
+296498	Build	Create	JUnit	test	test	method	test	passes	happy	editor	dirty	typing	stuff	test	JUnit	view	Save	Resource	prompt	appears	hit	ESC	key	cancel	Save	Launch	prompt	appears	Dismiss	launching	operation	canceled	completely	Redo	step	Redo	step	click	Cancel	button	result	step	Redo	step	Redo	step	click	button	result	step	prompt	appeared
+153912	Build	simple	Java	project	workspace	eclipse	platform	text	plan	html	incoming	change	plan	html	synch	view	Models	selected	eclipse	plan	html	platform	text	parent	folder	filtered	Java	Workspace	model	disabled	problem
+178744	Scenario	create	file	test	txt	project	edit	leave	Eclipse	touch	test	txt	launch	Eclipse	answer	File	Changed	prompt	editor	display	Resource	sync	refreshing	Navigator	easy	refresh	resource	editor	find	intuitive	Note	behavior	general	scenarios	enable	display	file	contents	Resource	sync	disclaimer	contextual	menu	menu	refresh	item	Checked	behavior	Linux
+333631	Renaming	property	key	field	Java	editor	result	additional	property	Steps	start	workspace	JRE	attached	ZIP	Existing	Project	Workspace	open	type	Test	select	Test	Refactor	Rename	Bug	entry	properties	file	additional	BUG	BUG
+264504	Build	Reproduce	Create	Close	editor	reveal	explorer	Start	rename	refactoring	explorer	context	menu	edit	location	alt	left	observe	editor	opened	file	exist	observe	explorer	resource	exist	open	file	error	editor	existant	file	open	explorer	start	rename	refactoring	rename	observe	error	observe	editor	existant	file	dirty	observe	exists	touched	observe	references	files	change	leading	compile	errors
+52801	Press	focus	work	spell	checking	hovers
+113731	Component	report	bug	outsider	difficult	determine	Component	strange	behaviour	bug	Calling	refactoring	Rename	Window	bit	bigger	time	IBM	RAD	feature	extra	stuff	IBM	Cheers	Thomas
+232773	select	projects	Explorer	context	menu	Assign	Working	Java	expected	selected	projects	Working	content	list	list	empty	Workaround	create	working	selecting	check	working	Working	Assignments	dialog
+129354	Java	persepective	editor	focus	hover	javadoc	popup	Press	focus	focus	view	annd	hover	element	javadoc	Press	focus	javadoc	focus	eclipse	OSX
+108115	JDT	Core	bug	specific	instance	problem	easy	workaround	JdtASTMatcher	submit	Jdt	ASTMatcher
+41302	select	code	character	extract	method	error	dialog	indication	Selection	ends	comment	foo	comment
+185172	create	Java	project	add	working	select	working	context	menu	Java	Project	create	Java	project	working	sets	doomed	context	menu	missing
+18780	Build	detected	cases	deleting	memeber	method	Members	view	doesn	removed	list
+19043	Build	Open	Javadoc	wizard	export	Javadoc	Press	Select	JRE	press	Configure	dialog	ugly	entry	field	small	attached	pic	dialog
+274023	nested	folders	build	path	source	folders	normal	resource	tree	library	decoration	wrong	good	folder	build	path	icon	closer	source	folder
+38499	MacOS	Java	Editor	preferences	configure	source	hover	activate	pressing	modifier	key	activate	source	hover	moving	mouse	Observe	seconds	hover	disappears	reappears	oszillates	indefinitetly	Mac
+419692	bug	reported	bug	comment	https	bugs	eclipse	org	bugs	bug	cgi
+64108	build	noticed	Javadoc	keywords	tag	names	javadoc	comments	longer	highlighted	preferences	reset	realized	color	style	Javadoc	keywords	stay	unchanged
+62062	Mark	Occurrences	annotation	interesting	Tooltip	Description	Steps	enable	Mark	Occurrences	caret	variable	wait	occurrences	marked	hover	variable	press	expected	type	javadoc	guess	Annotation	text
+294763	Created	attachment	details	screenshot	Dear	JDT	scrollbar
+47731	Repeated	opening	closing	JUnit	view	leaks	SWT	Colors	time
+28277	build	CVS	decorators	turned	Java	browing	perspective	click	Types	view	decorators	view	undergo	visible	refresh	reappear
+151668	add	issue	contradicts	issue	issue	advantage	prefix	wanted	create	copy	backup	copy	file	annoying	remove	prefix	people	sense	prefix	configurable
+211578	Build	Steps	Reproduce	big	party	repository	hard	disk	folders	define	jdt	classpath	variable	point	base	folder	configure	classpath	java	project	libraries	tab	click	Add	Variable	click	select	click	Extend	classpath	variable	defined	eclipse	hangs	seconds	dialog	opens	Subsequent	faster	slow	optimize	subsequent	openings	editing	classpath	file	direct	text	editor	faster	windows	file	system	prove	linux	machine	don	work	development	computers	hardware
+216707	Created	attachment	details	screenshot	cluttered	diff	Build	Steps	Reproduce	Toggle	comment	block	code	Compare	versions	diff	view	cluttered	lot	braces	changed	constants	includes	underscore	Expected	spaces	tabs	changed	highlight	gray	comment	markers
+313478	Broken	Explorer	active	selection	File	JUnit	Test	enter	test	clicking	Browse
+393602	Created	attachment	details	Combined	hover	values	missing	ctrl	hover	Arch	Linux	KDE	problem	appeared	hover	problem	isn	imported	combined	hover	appears	values	press	ctrl	appears	fine	create	change	attach	pictures
+224132	breadcrumbs	dropdown	Java	resources	jar	opened	jar	META	INF	MANIFEST
+267918	dialog	center	widgets
+492173	Created	attachment	details	Screenshot	Java	project	wizard	bad	dark	theme	investigate	missing	dark	theme	JDT	people	style	side
+437398	Follow	bug	scenarios	Eclipse	asks	file	behave	Rename	dialog	copy	paste	file	Explorer	dialog	pre	select	file	extension
+313751	
+51093	Pressing	enter	opening	curly	brace	closes	curly	brace	repeatedly	define	method	open	curly	brace	completion	closing	curly	brace	automatically	press	enter	front	opening	curly	brace	adds	closing	brace	repeatedly
+82839	Open	file	breakpoint	breakpoint	icon	appears	left	margins	Close	file	Open	file	Note	breakpoint	icons	longer	breakpoint	icons	don	select	major	problem	breakpoints	clear	breakpoints	time	debug	session
+390546	java	multiple	markers	yellow	warning	marker	arrow	marker	opening	declaration	general	annotation	preferences	yellow	warning	marker	left	margin	appears	arrow	opening	supertype	declaration	click	arrow	pops	proposals	warning	Eclipse	simply	react	displayed
+215448	Newly	created	working	doesn	Working	List	reopen	Select	Working	dialog
+199064	Reordering	fields	formats	expected	Methods
+304792	Build	Identifier	Move	function	interfaces	works	fine	Moving	single	function	message	refactoring	move	methods	Reproducible	Steps	Reproduce	Select	single	function	outline	Press	refactor	move
+32412	build	explorer	select	Ctrl	Ctrl	progress	dialog	dialog	prompting	choose	dialog	progress	monitor	dialog	canceled
+299928	HEAD	Java	project	project	specific	Javadoc	preferences	project	specific	Java	Errors	Warnings	hover	Javadoc	problem	focus	hover	click	Configure	Problem	Severity	hover	toolbar	dialog	asks	project	specific	settings	settings	dialog
+90528	open	java	file	errors	warnings	editor	tab	icon	problem	decoration	Window	Window	open	file	window	editor	tab	icon	missing	problem	decoration
+17317	build	preference	big	fit	screen	menu	Windows	Preferences	Java	Editor	Tab	Appearance	preference	big	screen	resize	move	order	reach	Button	Close	instance	Java	Editor	resize	Table	bottom	Appearance	color	options	hidden	dacing	preference	resizing	moving	change	guess	option	test	replace	table	Combo	split	options	tabpage	Note	problem	Windows	Motif	Motif	borders	trims	bigger	windows
+179109	Build	Open	Type	time	open	editor	clicked	finish	produced	stack	dump	waiting	noticed	threads	creating	AST	time	generating	AST	good	avoid	creating	AST	multiple	times	editor	opened
+252591	Created	attachment	details	Screenshot	Explorer	external	jar	lib	jar	references	external	jar	lib	jar	Path	manifest	explorer	lib	jar	works	fine	lib	jar	lib	jar	internal	project
+260528	HEAD	regression	build	enhanced	compare	left	side	strange	prominent	carets
+55221	code	extended	range	includes	Javadoc	Test	Test
+54459	search	view	happen	click	lot	expand	trees	click	method	element	open	editor	expect	doouble	clicking	type	opens	editor	irritated	doesn	propably	views	explorer	hierarchy	outline	good	reason	offering	cut
+13243	open	Java	Browsing	Perspective	select	select	types	delete	types	agree	delete	compilation	units	list	deselect	reselect	project	longer	list
+59845	Relative	bug	file	editor	compute	overriding	indicators	background	time	consuming	resolve	methods	hierarchy	update	indicator
+329677	Created	attachment	details	screenshot	abbreviation	easier	parse	Java	views	reduce	clutter	Type	Hierarchy	view	respect	setting	irritating	Call	Hierarchy	works	correctly	Steps	Enable	qualified	type	names	Type	Hierarchy	view	menu	Enable	abbreviation	Open	type	hierarchy
+312014	Build	Identifier	tested	JAWS	NVDA	result	workaround	JAWS	cursor	mapping	project	folder	names	selected	boring	task	tree	views	eclipse	red	JAWS	window	customize	perstective	Reproducible	Steps	Reproduce	Create	projects	exercise	test	file	export	java	jar	file	press	focused	tree	view	displays	projects	folders	select	Press	arrows	Expected	screen	reader	project	folder	tree	view	item	closed	opened	checkbox	Actual	screen	reader	select	projects	folders	export	tree	view	item	closed	opened	checkbox
+338638	order	string	externalization	quick	fixes	invoked	clicking	marker	left	margin	compared	pressing	Ctrl	NLS	string	snapshots
+67274	Create	projects	Create	file	linked	file	file	system	click	file	explorer	Properties	check	read	Drag	drop	file	project	simlpy	moved	read
+244431	Created	attachment	details	Outgoing	modifying	Build	Checkout	project	CVS	cvsroot	org	eclipse	equinox	bundles	org	eclipse	equinox	tests	Open	Properties	dialog	project	Click	arrow	visit	JDT	property	Click	close	dialog	modifying	Expected	outgoing	preference	files	didn	modify	Actual	jdt	core	prefs	jdt	prefs	outgoing	attach	patch	showing	outgoing
+24271	Eclipse	packages	simple	folders	sorted	Project	source	folder	Packages	sorted	simple	folders	sorted	Eclipse	packages	simple	folders	sorted	Project	source	folder	Source	Folders	packages	source	folders	sorted	Eclipse	packages	simple	folders	sorted	Source	Folder
+233941	Created	attachment	details	history	fresh	workspace	Extract	zip	workspaces	metadata	plugins	folder	Start	eclipse	Refactor	History	history	empty	workspace	refactoring
+108247	Open	press	Ctrl	Selected	resources	scope	disabled	Enlcosing	projects	scope	projects	computed	selected	resources	editor	active	expect	selected	resources	resources	editor	input
+30169	hovering	bookmarks	overview	ruler	bookmark
+139231	Eclipse	SDK	Version	Build	Add	clause	surrounding	Quick	generates	code	error
+42208	Source	hover	affordance	text	black	gray
+66787	message	Filters	matched	Filters	Matched
+94951	Build	JDT	Text	counterpart	bug	steps
+150249	copy	code	Open	empty	string	Paste	code	ends	string	concatenation	copy	code	Open	string	empty	string	Select	contents	string	starting	quote	paste	code	code	string	concatenation
+344552	Build	Identifier	project	opened	Problems	Javadoc	Declarations	display	relevant	data	project	closed	tab	fields	cleared	irrelevant	data	remains	displayed	remains	displayed	project	deleted	Edit	menu	Reproducible	Steps	Reproduce	create	project	Close	Project	menu	Delete	Edit	menu
+58098	Smart	cursor	positioning	java	names	don	work	CONSTANT	NAMES	moving	deleting	Ctrl	Delete	assume	CONSTANT	NAMES	equally	Java	naming	standard	methodNames	works	designed	option	changed	accurately	describe	actual	function	Linux	method	Names
+411636	Created	attachment	details	Stack	trace	noticed	saved	Java	file	unresponsive	seconds	stack	trace	attached	noticed	main	thread	hung	project	explorer	unchecked	Link	Editor	delay	action	exact	workspace	Indigo	notice	delay	workspace	large	projects	files	Version	Build
+388342	version	Eclipse	Java	IDE	checked	box	main	String	args	generate	main	method	time	created	wizard	box	checked	version	noticing	check	box	stays	checked	annoying	time	creating	don	main	special	unchecked	previous	box	nice	behaviour	returned	original	box	starts	unchecked
+51187	classes	constants	defined	staticd	caps	don	getter	setter	constants	displayed	Generate	getter	setter	dialog	real	esteate	difficult	find	real	attributes
+14837	Build	Create	folder	Java	project	creating	putting	icon	Open	context	menu	Observe	actions	search
+314354	Steps	Workspace	Java	project	Project	Explorer	click	java	project	Build	Path	Configure	Build	Path	Libraries	tab	Add	Library	add	JUnit	click	close	dialog	newly	library	Project	Explorer	Manually	refresh	project	Library	step	Auto	refresh	happen	library	removed
+44535	error	consequence	applied	bug	bug	comment	full	details	problem
+263935	build	checkout	org	eclipse	jdt	core	add	type	org	eclipse	jdt	core	ZZZ	java	select	org	eclipse	jdt	core	synchronize	repository	synchronize	view	open	ZZZ	java	compare	editor	synchronize	view	select	ZZZ	java	Override	Update	ctrl	shift	type	ZZZ	ZZZ	java	open	ZZZ	java	error	window	deleted	type	visible	explorer	problem	occur	open	ZZZ	java	compare	editor	problem	caused	workingcopy	ZZZ	java	discarded
+46332	Build	tagging	JDT	Core	projects	versions	background	modify	map	file	parallel	pressed	ctrl	save	edited	map	file	busy	cursor	appeared	couldn	longer	change	tagged	time	explanation	save	action	locked	tagging	completed
+329720	background	color	debug	hover	popup	Linux	Lucid	Lynx	inherited	desktop	theme	dark	color	schemes	leads	black	text	dark	grey	background	preference	setting	background	color	debug	hover	popup	Eclipse	independently	desktop	theme
+364539	Build	Identifier	Generate	Constructor	fields	enum	field	access	modifier	disabled	perfectly	access	modifier	Generate	Constructor	fields	Eclipse	remember	access	modifier	disabled	Reproducible	Steps	Reproduce	Create	Enum	Create	field	Generate	Constructor	fields	create	constructor	Create	Create	field	Generate	Constructor	fields	create	constructor	access	modifier	previous	setting

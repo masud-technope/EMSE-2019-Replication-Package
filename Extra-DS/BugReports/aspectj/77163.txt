@@ -1,0 +1,2 @@
+Load time weaver default verbose setting
+The default setting for the load time weaver is (as of 1.2.1rc1) to produce weaving messages rather than ignore them. I think the default should be changed to ignore them. Also, I cannot override the default setting with -Daj.weaver.versose="False". This is the implied syntax from docs/examples/build.xml. If this has changed then build.xml should be updated. Otherwise, the weaver should be fixed to use it!

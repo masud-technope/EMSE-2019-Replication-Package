@@ -1,0 +1,1 @@
+my interface myinterface bar string

@@ -1,0 +1,2 @@
+out of memory error when compiling
+Getting an out of memory error when compiling with Ajc 1.1 RC1. I know this is not very descriptive, but maybe you can point me into a direction of getting more output. here some additional information though: Code base is medium size (about 1500 classfiles) I removed all my aspects and still receive the error. Running it from the command line: ajc -classpath whateveritis -sourceroots whateveritis -d whateveritis

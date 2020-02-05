@@ -1,0 +1,1 @@
+org aspectj apache bcel denote instruction consume stack version stack consumer stackconsumer java aclement exp author href mailto markus dahm berlin dahm stack consumer stackconsumer consumed stack consume stack consumestack constant pool gen constantpoolgen cpg

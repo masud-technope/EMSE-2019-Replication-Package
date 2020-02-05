@@ -1,0 +1,6 @@
+org.aspectj/modules/bridge/src/org/aspectj/bridge/Constants.java
+org.aspectj/modules/loadtime/src/org/aspectj/weaver/loadtime/ClassLoaderWeavingAdaptor.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/ajc/BuildArgParser.java
+org.aspectj/modules/org.aspectj.ajdt.core/testsrc/org/aspectj/ajdt/ajc/BuildArgParserTestCase.java
+org.aspectj/modules/taskdefs/testsrc/org/aspectj/tools/ant/taskdefs/AjcTaskTest.java
+org.aspectj/modules/tests/src/org/aspectj/systemtest/incremental/tools/MultiProjectIncrementalTests.java

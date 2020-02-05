@@ -1,0 +1,2 @@
+[Consistency] DropTarget event.dataType field not alwys set on DragEnter
+On Windows in DragEnter the event.dataType field is set to the first value in the event.dataTypes array. On Carbon, GTK and Motif, the event.dataType field is null.

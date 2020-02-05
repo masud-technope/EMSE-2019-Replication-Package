@@ -1,0 +1,2 @@
+NPE compiling without aspectjrt.jar
+Compiling spacewar without specifying aspectjrt.jar on the classpath causes a NPE. Expected an error message "aspectjrt.jar required". Steps to reproduce 1) install latest 2) cd doc/examples 3) java -jar ../../lib/aspectjtools.jar -verbose @spacewar/debug.lst RESULT:NPE in attached log

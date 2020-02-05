@@ -1,0 +1,1 @@
+com.google/zxing/oned/ITFWriter.java

@@ -1,0 +1,4 @@
+org.eclipse/swt/SWT.java
+org.eclipse/swt/internal/image/FileFormat.java
+org.eclipse/swt/internal/image/OS2BMPFileFormat.java
+org.eclipse/swt/internal/image/WinBMPFileFormat.java

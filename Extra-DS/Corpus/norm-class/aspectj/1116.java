@@ -1,0 +1,1 @@
+combined annotation combinedannotation simple annotation simpleannotation annotated with combined annotation annotatedwithcombinedannotation

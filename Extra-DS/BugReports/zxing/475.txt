@@ -1,0 +1,2 @@
+Incorrect comment in Intent Class
+The source code for the Intents class in the Android app has the following comment in WifiConnect: public static final class WifiConnect { /** * Use Google Book Search to search the contents of the book provided. */ public static final String ACTION = "com.google.zxing.client.android.WIFI_CONNECT"; A comment that is about Wifi not book search What version of the product are you using? On what operating system? Latest SVN Sure, fixed. Status: FixedOwner: srowenLabels: -Priority-Medium Priority-Low

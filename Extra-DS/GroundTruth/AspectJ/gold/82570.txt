@@ -1,0 +1,2 @@
+org.aspectj/modules/tests/bugs150/PR82570_1.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/LazyMethodGen.java

@@ -1,0 +1,1 @@
+org aspectj testing tester interface and class interfaceandclass main string args tester check equal checkequal type type

@@ -1,0 +1,191 @@
+270342	patch	click	reproduce	steps	template	details	combo	attachment	format	box
+368390	analysis	redundant	surfaced	pot	fields	work	respect	bug	preferences	pointer
+401666	formatter	options	bug	lambda	code	java
+267776	qualification	strange	post	wrong	include	assist	anonymous	completion	type	constructor
+383491	application	jar	loc	relative	maintained	external	path	reproduce	drop	attachment
+276744	markus	hashcode	feature	broken	blocks	bug	work	equals	working	wizard
+185102	working	assign	sets	offer	button	invoke	dialog	defined	actions	select
+396808	hovering	hover	multiple	jars	displayed	hyperlinks	window	links	javadoc	included
+321035	compliance	compiler	enable	revert	bug
+420116	jls	annotations	implemented	jsr	preparing	ignores	plan	methods	copies	operations
+339223	literals	relevance	quick	assists	easier	fixes	impossible	hardcoded	integer	compare
+334864	opening	leads	click	reproduce	clicking	view	junit	warning	steps	sense
+288529	compliance	implies	compiler	behavior	specific	support	order	target	handle	start
+124182	highlighting	caret	unchanged	place	correct	expectation	loses	term	clearing	optimized
+462352	clicking	wrong	cancel	library	external	annotations	deletes	press	define	persisted
+335132	larger	saved	bring	implement	dialog	reproduce	clicking	position	subsequent	steps
+103450	quick	statement	surrounding	remove	option	assist	block	bug
+185113	assign	working	sets	revealed	uncheck	project	invoke	explorer	reveal	projects
+90140	quick	enum	qualified	labels	bug	constants
+82204	shortcut	invokes	menu	pressing	open	declaration	correctly	perspective	bound	action
+321574	hierarchy	bold	call	dialog	scope	note	search	preference	bug	remove
+228641	rich	spelling	session	hover	hovering	quick	ignore	fine	works	ctrl
+334625	relative	jar	export	exporter	starting	destination	workspace	wizard	broken	dir
+317474	tooltip	view	render	details	javadoc	image	declaration	attachment	open	link
+27687	manifest	inf	meta	export	jar	click	popup	details	specification	reproduce
+331053	importing	connection	doesn	cancel	download	url	head	working	details	click
+317224	extract	checking	precondition	enablement	refactorings	selections	annotation	bug	condition	menu
+338731	jump	fixes	quick	wrong	head	linked	mode	scenario	position	details
+318772	inclusion	exclusion	patterns	click	work	behavior	side	build	panel	corner
+267829	alphabetically	working	sorted	explorer	resorted	sets	dialog	menu	properties	configure
+443191	quick	assist	master	adapted	bug	adapt	bare	loop	ast	argument
+11317	named	txt	export	scripts	folder	won	jar	file	drag	manifest
+311603	library	unselected	properties	persistence	user	drops	choose	jar	build	editing
+276285	grow	favorites	vertically	assist	resize	edit	content	button	preferences	list
+361535	properties	accessor	assists	affect	work	tooling	quick	xyz	inspect	solution
+295230	loads	opening	view	junit	preference	bug	blooper
+284728	stays	browser	widget	misc	view	javadoc	empty	bug
+337209	launched	newly	views	head	lost	junit	exit	stored	enable	preferences
+331320	hyperlink	confusing	jump	head	usage	solution	navigation	disable	bug	open
+375354	screen	toolbar	buttons	tips	shift	read	refactor	click	accessible	work
+20288	directory	thought	helpful	export	myproject	jar	explain	asks	explanation	answer
+368452	rebuild	asked	compiler	reproduce	build	pointing	asks	full	option	steps
+143171	save	appears	workarounds	editor	reason	completed	conflicts	misc	works	saving
+263751	explorer	patch	suggested	drag	assertion	attached	navigator	common	bug	failed
+179018	externalized	hyperlinking	modifier	hover	editors	hovering	alt	hovers	key	hyperlink
+26699	jar	overwrite	jardesc	read	warn	file	exists	displayed	invoke	fails
+266831	hyperlink	methods	overridable	navigation	constructors	open	overridden	bug	implementation
+239695	export	jar	folder	workspace	reproduce	directory	explorer	project	manually	asks
+55628	persistent	ctrl	filters	menu	view	bug
+457547	ocurrences	extract	quick	occurrences	replace	magic	assist	local	selecting	number
+230222	closed	breadcrumb	triangle	click	leaving	window	issue	alt	bit	severe
+100174	fixing	font	editor	dialog	bug	pref	link	preferences	preference	java
+239442	drop	breadcrumb	idea	downs	reproduce	major	clicking	close	configs	gtk
+259408	stay	compare	views	quick	head	editor	bug
+258135	subpackages	confirm	delete	hitting	box	focus	deletion	dialog	toggle	check
+310609	abbreviation	screen	strange	spans	bar	rendering	pattern	define	render	details
+259413	conflicts	previews	press	handler	preview	head	refactoring	visible	select	rename
+66646	explorer	filters	filter	inform	editor	filtered	doesn	focus	hint	don
+165210	blank	lines	formatter	groups	preserved	option	number	precedence	bug	specifies
+267358	drop	rearranging	dnd	explorer	working	sets	sense	inactive	drag	targets
+341851	refactor	reproduce	project	steps	rename	proj	exists	error	upper	box
+300901	hit	counter	colour	fonts	color	alt	mac	hierarchy	colors	ctrl
+305255	jsr	bytecode	strange	manually	attached	preferences	showing	details	building	compatibility
+369510	attachment	unable	encoding	jar	encodings	dismissed	box	source	jars	kind
+272737	locale	projects	language	working	starting	original	label	sets	workspace	start
+436832	duplicate	quick	methods	fixes	calls	error	add	bug	method	override
+357997	rectangle	collapse	hierarchy	startup	parts	clicks	reproduce	respond	button	view
+246635	screen	press	projects	reproduce	steps	build	button	project	mark	tab
+266092	appears	pull	superclass	refactor	extract	cuts	snap	box	push	menus
+331116	shortest	reproduce	quick	declaration	join	removes	pre	message	assignment	removed
+140392	feature	rerun	bug	junit	work	failed	disabled	support	button
+262766	rsrc	jar	loader	zip	ant	exporter	zipfileset	option	file	absolute
+367465	libraries	jar	export	steps	appears	handling	select	tar	library	warning
+256879	assign	box	explorer	working	sets	setting	preserved	preserve	dialog	check
+323690	pressing	alt	ctrl	worry	hierarchy	call	refresh	press	refreshes	tree
+328554	refactor	manually	receive	unhandled	performing	move	occurred	reproduce	doesn	steps
+341109	filters	libraries	algorithm	explorer	removed	naive	external	removes	attempt	turn
+285556	grandparent	clear	view	adding	node	occurred	progress	fails	bug	items
+102512	peter	interesting	leaving	cut	log	junit	left	user	view	window
+342391	javase	compliance	head	compiler	selects	wizard	property	project	projects	support
+70005	getter	avaiable	setter	assist	reconciled	getf	takes	isn	enter	missing
+373885	myproject	ant	relative	script	directory	filename	jar	producing	saved	enter
+65659	highlighting	syntax	highlighted	inconsistent	declarations	constructor	calls	method	bug	java
+343422	utf	encoding	windows	generating	fails	javadoc	cus	names	launched	reading
+194175	search	filter	imports	references	searches	persisted	enabled	result	disable	filters
+297593	warning	folder	discouraged	fine	incorrect	source	project	message	src	build
+22655	generates	files	compiles	refresh	tool	precise	generated	batch	sun	produced
+186754	explorer	menu	sense	regression	workingset	click	assign	empty	configure	context
+291716	jar	notice	working	reproduce	explorer	expand	hides	expects	properties	steps
+321157	navigate	overridable	navigation	clicks	reproduce	call	goal	won	steps	select
+239490	working	explorer	sets	reproduce	project	steps	incompatible	created	newly	plugin
+312966	black	hovering	attach	colors	hover	background	visible	view	javadoc	display
+418692	detecting	semicolon	difference	occurences	depends	details	includes	attachment	duplicates	span
+317057	paste	snippet	working	pasting	explorer	work	project	bug	source	add
+176516	compliance	compiler	confused	bound	ees	settings	setting	caveat	follow	incompatible
+53383	running	search	match	deprecated	parenthesis	incorrect	workspace	plural	message	files
+395919	coloring	syntax	variables	parameter	preview	reproduce	strike	references	setting	steps
+368015	encoding	classpath	attachments	refer	bug	details	stored	attachment	extra	source
+201096	proposed	details	computer	attachment	findtype	templates	proposal	created	call	bug
+432781	explorer	menu	facet	click	project	delete	issue	occur	projects	customize
+374920	tab	preferences	checkboxes	order	consistent	highlighting	bracket	radio	editor	controls
+430487	breaks	overwrites	lambda	rename	expressions	refactoring	parameters	method	bug	list
+202129	pane	click	working	element	existing	sets	edit	add	dialog	bug
+398995	dereferencing	safest	quick	bug	solution	proposed	nullable	attached	field	local
+245140	templates	loss	removes	defaults	specific	restore	nodes	properties	disables	completely
+416401	blocks	inline	option	compliance	compiler	wrong	specific	select	incorrectly	preference
+285852	url	gtk	sun	docs	validating	javadoc	feedback	click	path	library
+19097	outline	filters	refreshing	applying	filter	large	ide	cursor	busy	files
+285854	docs	reopen	sun	urls	url	resolves	javadoc	domain	location	property
+61338	solaris	loses	buttons	bottom	lot	search	pressing	dialog	times	testing
+310424	virtual	folder	good	inconsistent	follow	source	converted	select	behavior	browse
+329626	nice	statements	quick	uncheck	populate	ctrl	enum	box	option	space
+262050	directory	files	unclear	reproduce	suggesting	directions	panel	steps	frame	project
+309415	externalized	broken	ext	surrogates	reproduce	strings	unused	bug	tooling	properties
+64419	web	tomcat	app	lookup	attribute	require	jsp	launching	extra	requires
+167590	settings	store	behavior	normal	box	check	anonymous	time	convert	bug
+374689	difficult	selecting	reach	leads	limit	tabbing	locations	nice	search	grouping
+7845	feature	combo	windows	raised	usability	appearing	setbounds	perspectives	visible	systems
+9127	exported	folder	files	wrong	appears	define	correctly	packager	path	resource
+265645	dialog	configure	sort	font	working	sets	box	checkbox	bug	check
+330415	parenthesize	reproduce	inline	fails	produces	inlining	steps	functions	difference	attached
+91306	hit	ctrl	navigation	opens	selected	explorer	open	text	files	editor
+289455	junit	view	active	fresh	explorer	workspace	simple	start	bug	tests
+436141	dev	users	quick	problem	making	severity	configure	press	ide	lists
+276906	prompt	ext	bin	click	deleted	output	improved	folder	telling	steps
+275370	reproduce	maxlen	steps	appended	suffixes	generator	prefixes	len	limit	variable
+274091	siblings	constructors	expand	behavior	wrong	multi	offer	applies	hierarchy	works
+62896	indicators	decorator	outline	prefs	matter	quick	misc	indicator	install	disabled
+300981	paste	pasted	follow	ccp	jar	jars	click	enabled	bug	explorer
+125872	serial	levels	clean	valid	bug	source
+186291	classpathentry	app	established	web	output	build	classes	machine	src	folders
+215473	hyperlink	clicking	opened	hover	region	detect	detected	navigation	exist	modifier
+393143	linking	usable	icon	sync	views	input	user	clear	view	info
+224183	hit	popup	equally	sufficient	popups	hover	hovering	scrollbar	forced	mouse
+187316	pref	reproduce	editors	steps	occurences	general	mark	color	link	annotations
+81078	appearance	duplicates	defaults	restore	entries	color	options	preferences	editor	bug
+81083	occurences	mark	preference	marks	preferences	enablement	toolbar	defaults	restore	disabled
+373950	analysis	popup	turned	based	setting	annotation	warn	bug	compiler	enable
+63675	browsing	adding	packages	view	update	bug	java
+373944	breadcrumb	info	child	bug	java
+339896	varargs	preview	parameter	reproduce	signature	steps	bottom	incorrect	adding	trigger
+432056	urls	anchor	javadoc	strange	replacing	breaks	loading	attached	adapt	guess
+290491	bottom	icon	compliance	jre	easily	fit	pointing	compiler	front	solution
+58817	minutes	locked	cpu	improve	indication	searched	matches	front	usage	ide
+460997	browser	intrusive	enriched	hover	view	hovering	issue	couldn	hard	middle
+394692	visibility	quick	issues	fixed	bug	top	level	bugs
+12996	jar	export	thread	exporting	editor	file	access	invalid	leave	click
+32967	ctrl	hover	editors	externalized	preference	generated	version	don	constant	values
+411585	reports	numbers	ruler	rulers	sdk	mark	jump	search	view	actual
+243147	projects	breadcrumb	simple	folders	bug	files	elements	java	dropdown
+365775	syntactic	option	validate	annotation	settings	fully	preferences	qualified	bug	correctness
+32714	expanded	logical	packages	upto	flickers	hierarchical	flickering	view	subtrees	collapsed
+336841	synchronize	explorer	doesn	work	head	view	classpath	details	attachment	open
+183507	occurences	mark	work	reproduce	switched	doesn	enabling	button	steps	press
+403927	asts	jls	bug
+185043	money	press	repainted	animation	undo	enter	nasty	samples	character	ctrl
+99540	locale	reproduce	javadoc	fact	argument	click	export	extra	command	finish
+387536	ignores	setting	generate	comments	stub	main	adds	wizards	method	wizard
+13269	manifest	jardesc	saving	overwrite	choose	jar	failed	incorrect	notes	chose
+303314	exposed	expose	formatter	constant	bug	fixed	options	preferences	code	preference
+316627	derived	refers	generated	warning	reproduce	regenerate	issued	classes	modifying	steps
+304083	apis	attachments	patch	release	jars	ready	details	automatically	libraries	fixes
+41688	outliner	reconciling	misc	outline	incorrect	tree	note	editor	bug	open
+465630	skipped	previous	buttons	work	failed	disabled	don	solution	enabled	green
+308957	filtered	wizards	protect	bug	creating	resources	wizard	check	file	jdt
+140248	launched	support	scenario	junit	disable	work	disabled	workbench	bug
+297183	follow	methods	unimplemented	prefer	implement	patch	head	ordering	consistent	cases
+251356	surfaced	drops	download	linux	gtk	breaks	broken	bug	selections	inline
+121057	jres	environments	installed	sdk	leaving	execution	addition	compatible	jre	updated
+333541	toggled	tweak	notice	whitespace	characters	click	option	checkbox	reproduce	clicking
+265188	black	popup	bottom	refactor	border	missing	select	rename	menu	note
+251362	odd	bottom	menu	placement	working	explorer	strange	sets	view	fact
+190438	grey	doc	working	sets	forgets	assign	plugins	platform	ins	checked
+235750	implementations	doesn	mention	clean	reproduce	annotation	save	manual	puts	manually
+344544	parameters	tags	alt	disabled	ignore	shift	javadoc	type	method	generation
+338656	offer	matching	quick	head	details	arguments	type	attachment	change	linked
+450286	introduce	parameter	parameters	scrolled	large	view	opened	dialog	scroll	table
+258792	longer	sorted	working	assignments	created	dialog	explorer	bug	assignemnts
+188910	ugly	idea	clean	bullet	dialog	tab	space	custom	move	folder
+31214	explorer	simple	editor	activate	fails	project	called	visible	select	target
+162541	save	called	participants	misc	bug
+189682	pulldown	navigate	menu	popup	explorer	enabled	startup	correct	disabled	project
+328694	clearing	view	history	hierarchy	call	steps	clear	works	correctly	calling
+81140	positives	tooling	properties	determined	search	key	partitions	editor	filtered	matches
+153079	cleared	boxes	search	checkboxes	disabled	remembered	button	ctrl	click	expected
+276466	improve	reproduce	constructors	hierarchy	expand	menu	configuring	call	steps	href
+392946	unused	fixes	quick	documentation	parameters	clean	remove	don	existing	add
+300542	click	library	libary	aid	external	user	choosing	reproduce	path	jar
+267002	working	assignments	explorer	chose	assign	hamcrest	sets	projects	appears	introduced
+395257	indentation	split	literal	formatter	typing	bug	string
+60415	damage	sessions	participant	search	generates	consistent	extension	remove	disabled	participants

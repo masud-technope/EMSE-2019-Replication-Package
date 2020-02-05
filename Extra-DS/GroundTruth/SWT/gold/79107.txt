@@ -1,0 +1,4 @@
+org.eclipse/swt/custom/CCombo.java
+org.eclipse/swt/custom/PopupList.java
+org.eclipse/swt/widgets/Combo.java
+org.eclipse/swt/widgets/List.java

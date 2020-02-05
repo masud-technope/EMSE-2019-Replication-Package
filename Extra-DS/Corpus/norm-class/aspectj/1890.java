@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples adapter aspectj system out printer systemoutprinter prints argument string code system code pattern context specific request specificrequest method adaptee param string printed writer write string adapted method print to system out printtosystemout string system println

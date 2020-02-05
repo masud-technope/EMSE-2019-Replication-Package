@@ -1,0 +1,1 @@
+aspectj test org aspectj lang annotation aspect org aspectj lang annotation org aspectj lang annotation pointcut aspect base pointcut execution aspectj test base main method method test

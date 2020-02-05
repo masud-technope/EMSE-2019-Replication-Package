@@ -1,0 +1,2 @@
+Missing superclass for java.io.Serializable in reflection 1.5 delegate impl
+See attached patch for a failing junit test case.

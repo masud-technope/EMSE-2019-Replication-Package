@@ -1,0 +1,5 @@
+interface InterfaceAndInnerHelper {
+
+    class C {
+    }
+}

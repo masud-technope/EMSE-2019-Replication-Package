@@ -1,0 +1,77 @@
+84609	parent getColumn elements call existing getColumns getColumns call JDK data
+79107	setItems String String Check consistency String elements consistency elements setItems
+94467	bogus appears lay empty columns Table size ctrl columns Table
+78854	data tdata free leak copies ClipboardProxy Memory getFunc
+94598	IBM List Build Chinese properly Result
+104966	called property text Observe Link SWT displays correctly initialization text
+107145	releaseHandle java warning methods releaseWidget releaseChild remove Eclipse
+78856	SWT saving format image Image ins clipboard bitmap memory
+94603	UpDown SWT puts control SWT Spinner text puts puts text
+102794	column untidy needed spanning labelData Turning CENTER GridLayout spanning args
+88717	Bookmark showing thought enables vnd drags automatic Bookmark DND expand
+108813	Lines ways noticed href SWT opening produce System level styles
+97678	drag Eclipse items longer drag sash Eclipse CustomControlExample longer SashForm
+90258	setItemCount fine items reproduce display TableItem verified current getDisplayString display
+80276	slow Control CBannerLayout layout interactive good
+96916	spinner setToolTipText widget Spinner
+91159	dataType field GTK GTK alwys DropTarget dataType dataTypes GTK DropTarget
+86294	search escape Mac java Illegal
+97177	eclipse window misc status IME eclipse lost Chinese editor Chinese
+119192	CCombo MouseTrack CCombo CCombo MouseTrack listener respond Text throught respond
+111259	Insertion mark problem   viewer insertion drop
+93724	signal data time time DragSource handle defined signal code creates
+100387	tab Eclipse disposes create temporary hover disposes tooltips created CTabFolder
+90018	disposed maximize perspectives maximize tooltips assuming disposed eclipse tooltip Hover
+79268	stderr GNOME MIME triggers Program workbench suspect
+87460	setSize rendered location width change Caret adjusted eclipse getText Toolkit
+103976	digits provide provide pageIncrement individually individually Slider pageIncrement digits Spinner
+78634	incorrect alphaData ImageData specifies code opaque javadoc wrong appears getTransparencyMask
+81834	Open Options Hiro swt language Numbers win SWT Arabic WinXP
+82346	flag setLayoutData Linux CLabel gtk constructor setAlignment CENTER Eclipse Eclipse
+84012	scroll marginHeight confuse quick remain text swt vertical word
+105772	enabled label SWT background color color search label background correct
+87855	Workbench callWindowProc Table adaptor process Method swt
+106289	times antialiasing Tree snippet sample applied text columns Blurry Blurry
+99376	PDE existent width missing problems Plug Registry increased
+113971	internal internalRefresh Tree quot runTests createItem tests jface viewers launcher
+95410	generally drawString altered funny predict funny chars String GDI funny
+91317	negavtive Spinner negative Version
+96053	free spinner comment behaviour cgi focus   select
+87997	owning item widgetDisposed columns org TableItem exception result
+89533	Colors entries color Fonts funny
+80830	filed GTK limitation simply draws correctly XOR solid
+83262	string Pasting terminator gedit field xterm problem rxvt   length
+87363	sendEvent Bug open addListener Menu change dispose opens getMenu Widget
+99266	table empty Bogus code table reproduce lines top reproduce rows
+82500	surfaces widget TabFolder getClientArea widgets PtCalcCanvas nature   area
+92612	equal tabfolder drag isn view shrink slot integration number chevron
+93380	number usage editor processing navigator drag navigator DnD Build navigator
+117574	sleep isDisposed Rect Listener getClipping BUFFERED win shell build String
+99145	link link link disabled wiget content disables disabled disables mixed
+84557	Table list linux running table brings handy
+108236	keeping parent buying maximum working Spinner max buying SWT choose
+92241	implementation copying hurts big selection content bug RESOLVED
+97745	releasing Location quot click wrong Resource column release press table
+85072	trimmed trashing board YaBB Mozilla Microsoft bring display prevents
+92757	listener StyledText listener caret caret listener listener Add StyledText caret
+78548	OSX Button ControlExample Selection click fires
+104150	table clicked cell problem cursor getLinesVisible getLinesVisible problem kinds closely
+75739	cases type Variant quot Variant returns getString cases quot type
+78559	href thumb cgi events Slider ControlExample win turn OSX win
+108769	javadocs filter attached gleaned created additional GTK filter gleaned adapted
+102756	combos render applications edit widget dialog match properly
+86631	stream code Image doesn Javadoc doc determine
+115947	Table compliant tooltip image Alt Accessibility
+101354	ImageDataLoader details title bug ImageDataLoader FIXED title javadoc ImageLoader closed
+81265	disabled change background remains tree names Control checbox
+81264	TableItem succeed scroll Table Display testcase top working correct scrolls
+86000	bad test graphics JPEG attached produced output fileout
+83699	Shell runEventLoop PlatformUI setFont hit basicRun build EclipseStarter Composite
+97651	copied item Shell tree Button root open guess problem args
+79481	SMOOTH Display Main SMOOTH dispose setLayout SashForm String Grab size
+80120	item border cuts account corner corner account top top item
+108792	replaceStyleRanges lass Foo caret lass position Foo enable Occurences Foo
+80506	hasn gtk org swt loses Shell hasn setActive Shell dispose
+88829	start positions shifted changed SWT swapped columns fire Move
+77948	keyboard onMnemonic MESSAGE findMnemonic Composite iteration filterEvent gtk reflect Widget
+87676	event column Build works column clicking column clicking brings works

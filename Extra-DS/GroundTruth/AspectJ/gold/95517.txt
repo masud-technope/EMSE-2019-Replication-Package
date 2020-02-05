@@ -1,0 +1,2 @@
+org.aspectj/modules/build/src/$installer$/org/aspectj/Main.java
+org.aspectj/modules/docs/dist/doc/examples/ltw/HelloWorld.java

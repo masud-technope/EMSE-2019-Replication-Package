@@ -1,0 +1,2 @@
+Bogus CTabFolder tab sizes
+Running the code in head, 20050421 In the default Java perspective, drag the problems view to the right of the JavaDoc view. The resulting CTabFolder tab sizes are wrong.

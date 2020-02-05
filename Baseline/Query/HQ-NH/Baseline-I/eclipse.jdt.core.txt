@@ -1,0 +1,34 @@
+434630	Bug	generics	Unexpected	type	mismatch	error	nested	types	generics
+337415	Bug	External	folders	project	created
+176320	Bug	linear	progress	open	type	dialog
+222080	Bug	assist	Wrong	proposals	order	completing	item	array
+455042	Bug	Enable	Java	model	caches	recover	errors
+373953	Bug	FUP	bug	java	eclipse	core	runtime	recognized	org	eclipse	core	runtime
+421711	Bug	compiler	identifier	lambda	parameter	rejected
+180169	Bug	Add	protection	missbehaving	container	returning	entries
+403147	Bug	compiler	FUP	bug	consolidate	interaction	unboxing	NPE	deferred	checking
+252556	Bug	formatter	Spaces	removed	formatted	region	compilation	unit
+471062	Bug	Formatter	inserts	space	comment
+409236	Bug	compiler	Type	annotations	intersection	types	dropped	code	generator
+427218	Bug	compiler	Verify	error	varargs	inference
+391376	Bug	check	interaction	methods	bridge	methods	generics
+363293	Bug	resource	leaks	org	eclipse	jdt	compiler	tool	tests
+480029	Bug	formatter	Comments	indentation	error	javadoc	statements
+409245	Bug	compiler	Type	annotations	dropped	call	routed	synthetic	bridge	method
+413083	Bug	Builder	debug	info	wrongly	accuses	user	requesting	full	build
+399769	Bug	compiler	identifier	trigger	diagnostic
+369381	Bug	compiler	Adding	potential	mark	unexpected	assertion	compiling
+420004	Bug	compiler	Target	meta	annotations	restored	properly	binary	annotation	types
+467618	Bug	formater	Empty	lines	affect	indentation	wrapped	elements
+24934	Bug	Move	top	level	doesn	optimize	imports	refactoring
+472815	Bug	formatter	Indent	Empty	lines	option	doesn	work	empty	blocks
+412650	Bug	compiler	Incongruent	Lambda	Exception	thrown
+426678	Bug	compiler	issue	vararg	type	element	accessibility
+341296	Bug	classpath	file	read	modifications	write	error
+29621	Bug	Wrong	Delta	Adding	Filtered	Folder
+479474	Bug	formatter	Problems	doc	comment	support	disabled
+90612	Bug	Forbidden	types	Code	Assist
+423409	Bug	search	Search	references	fields	potential	matches
+401790	Bug	compiler	Follow	bug	explicit	constructor	calls	allocation	expressions	updates
+23162	Bug	DOM	clients	control	bindings	AST	modified
+401848	Bug	ASTRewrite	type	annotations	adds	additional

@@ -1,0 +1,547 @@
+49536	webapps deployed accessing URL returns content
+50306	Detect stuck threads
+43142	webapp expanded FOLDER named webapps xxx war loaded
+49030	Processing Tomcat Connector configuration leave connectors uninitialized
+46471	Compiled tag files tag libraries share
+52488	common typo exipre
+48266	Patch generics catalina
+48139	Tomcat Javadoc unthrown exception fixes
+48267	Patch generics javax packages
+37515	smap generated JspC Ant precompilation Jsp
+58508	role tomcat users xml invalid character
+50189	AJP connector sends BODY CHUNK reading response closed
+48660	Connector compression overwrites Vary header
+55958	Tomcat deploy dir zip archive directory ends war
+38553	Wrong HTTP code failed CLIENT CERT authentication
+51739	landingpage XHTML JSF CDI nullpointer exception
+18462	System err overriden output System
+49567	starting thread startAsync Runnable infinite amount doPosts generated start Async Posts
+52387	org catalina tomcat startup Tomcat silence method doesn host add applications
+52135	Global error handled
+48296	Generics fixes
+55469	Missing HTML closing tags Manager application
+48176	Fields
+57136	Parser escaping dollar sign
+49075	User doesn check argument roles
+28852	failonerror attribute Ant tasks
+52792	Incomplete error message lookup resource bound naming
+56248	Automatic deployment TCD deletes customized context xml file
+46264	Shutting tomcat large number contexts slow
+49721	Fail access resources jsp files jar file supported servlet
+49340	Webapp unavailable deploy start
+40901	listings escape XML characters
+49991	Tomcat JAAS problem CDI
+56777	configuration resources loaded places straight filesystem
+58187	Tomcat manager incorrect deployment status
+51276	Startup time high JARs lib webapps
+48973	Don create SESSIONS ser session exists
+49104	raw types
+49234	JMX Descriptor Modifications
+47827	Tomcat API methods declare Exception
+49757	correcting generics warnings
+48861	Files headers
+49758	Patch Generics warnings rawtypes
+51294	work option unpackWARs WARs appBase unpack WARs app Base
+54624	Form authenticator hangs authentication POST request mod proxy ajp
+37984	JNDIRealm java handle password
+53090	Servlet superclass injection targets
+54370	NPE mapping method
+56418	Manager incorrectly reports deployment failed
+55267	NIO thread locked
+49892	Wrong JNDI Method Resource Injections
+43366	Session Statistics command manager fails Unknown command sessions
+48870	avoid parallel arrays base types
+49000	Cookie parsing bug empty equal sign
+57708	Patch Authentication reverse proxy authorization Tomcat
+54382	Nullpointer Exception activating SSI loading html file specific comment
+41327	Jasper display full path file error
+50929	patch Ensure rethrown exceptions retain original
+41074	Output tag jsp plugin conform XHTML
+49909	jstl support
+42361	POST content type incorrect multipart forms login
+52474	load listeners declared blank spaces tld file
+48443	context path empty tomcat startup FileNotFoundException File Exception
+49184	bounds exception thrown dynamically adding Filter
+49207	Filter dynamically
+49240	Error thrown detection ServletContainerInitializer Servlet Container Initializer
+49522	Complete Server status status stack trace
+49865	ExceptionUtils NoClassDefFoundError startup Exception Utils Def Error
+49883	java lang UnsupportedOperationException getName method called Unsupported Operation Exception
+50027	NullPointerException context xml Resource Pointer Exception
+50087	metadata complete illegal JVM CONSTANT
+50252	ClassCastException occurs context xml ResourceLink Exception Resource Link
+50358	Embedded stopInternal sets STARTING STOPPING Internal
+50591	NPE ReplicationValve Replication Valve
+50597	newInstance Dynamic instance filters causing InstantiationException Instance Instantiation Exception
+50720	jsp mapped servlet web xml cyrillic characters allowed web xml
+51095	NPE AprEndpoint java Apr Endpoint
+51277	NPE form authentication form login config missed
+51340	Intermittent java lang IllegalArgumentException session config element limited occurrence Illegal Argument Exception
+51401	java lang IllegalArgumentException session config element limited occurrence Illegal Argument Exception
+51403	Avoid NullPointerException JULI FileHandler formatter misconfigured Pointer Exception File Handler
+51494	NPE StandardContextValve invoke webapp redeployed request processed Standard Context Valve
+51584	Crash infinite loop files starting library tree
+51586	ContextConfig checkHandlesTypes doesn check VerifyError loading Context Config check Handles Types Verify Error
+51610	Context fails reload error web xml corrected
+51630	java lang IllegalStateException Calling asyncComplete Illegal Exception async Complete
+51644	Unable deploy applications xml
+51654	NullPointerException startup org apache catalina startup HostConfig filterAppPaths missing app base Pointer Exception Host Config filter App Paths
+51713	Bad Connector protocol NullPointerException Executor Pointer Exception
+51774	java lang NoSuchMethodException thrown starting tomcat security enabled tracking mode web xml Method Exception
+51910	NPE comet processing shutting Tomcat
+52208	NullPointerException tribes transport nio NioReceiver listen test Pointer Exception Nio Receiver
+52461	java lang IllegalArgumentException URI scheme file thrown ContextConfig getDefaultWebXmlFragment Illegal Argument Exception Context Config Web Xml Fragment
+52480	AntCompiler problems whitespace pathname Ant Compiler
+52543	Exception
+52587	NPE authenticator realm resource defined
+52591	UnsupportedOperationException logged fetching BasicDataSource loginTimeout Unsupported Operation Exception Basic Data Source login Timeout
+52671	NIO Connector Exception invoking method readBufSize writeBufSize JMX Proxy Servlet read Buf Size write Buf Size
+52833	NPE
+52926	NPE processSocket process Socket
+52957	ClassCastException removing Valve Exception
+52974	NameNotFoundException thrown field method annotated Resource annotation Exception
+53225	IllegalStateException zip file closed resource webfragment jar JreMemoryLeakPreventionListener removed Illegal Exception Jre Memory Leak Prevention Listener
+53266	ServletContainerInitializer crash catalina dependcy Servlet Container Initializer
+53354	filter mapping doesn find WebFilter filterName Web Filter filter
+53450	Deployment application ROOT context hangs
+53871	java lang StackOverflowError deploying web application Stack Overflow Error
+53993	NPE AccessLogValve Access Log Valve
+54249	JSP compilation problem application context root white spaces
+54256	Enhance Exception reporting JAR file error
+54338	exception tagPlugin generated code tag Plugin
+54371	java FileNotFoundException deploying web application white space context root File Exception
+54507	Notification expired session initializing servlet context
+54702	File descriptor leak web xml loading
+55180	connectionTimeout timeout negative connection Timeout
+55210	SEVERE ServletContentInitializer Licensed Apache Software Foundation ASF created Servlet Content Initializer
+55333	JDBCRealm Digest authentication Flow working Function sequence error
+55494	JNDIRealm exception timeout Connection reset
+55524	Deadlock produced Websocket write operation org apache catalina websocket WsOutbound Outbound
+55778	JNDIRealm Authentication GSSAPI LDAP SSL connection exception
+55973	Failure parse MergedWebXml validation enabled Jasper Merged Web Xml
+56010	JspFactory getPageContext JspWriter BUFFER IllegalArgumentException Jsp Factory Context Jsp Writer Illegal Argument Exception
+56039	JmxRemoteLifecycleListener work SSL Jmx Remote Lifecycle Listener
+56045	start embedded container Jasper
+56409	file called StackOverflowError tldScanResourcePaths startup Stack Overflow Error tld Scan Resource Paths
+56441	Misleading error message FilterBase invalid regex Filter Base
+56545	Examples app security exceptions
+56577	websocket Inappropriate executor WsServerContainer Server Container
+56665	XML schema validation exception effective web xml generated servlet mapping empty url pattern
+56857	Thread safety issue ApplicationContextFacade invokeMethod Application Context Facade invoke Method
+56910	maxConnections AprEndpoint init error max Connections Apr Endpoint
+57011	Exception writing HTTP response AsyncListener onTimeout method servlet HTTP NIO Async Listener Timeout
+57047	Occasional failure TestWsWebSocketContainer testSmallTextBufferClientTextMessage test Test Web Socket Container test Small Text Buffer Client Text Message
+57281	Tomcat fails call method filter configured Servlet API running SecurityManager Security Manager
+57420	Wrong names generated URL ENCODER DirContextURLConnection thread safe Dir Context URLConnection
+57504	Jasper task JspC NPE taglibs Jsp
+57546	Memory Leak SecureNioChannel Secure Nio Channel
+57643	jasper ant task fails space uriroot
+57683	Crash stockticket async caused aborted client request
+57779	Deadlock separate thread write ServletOutputStream Servlet Output Stream
+57833	NIO connector fails SSL handshake uppercase letters keyAlias key Alias
+57959	Deadlock FileHandler java log rotated File Handler
+58110	JSP compiler points error wrong number statements
+58157	RecycleRequiredException missing AsyncListener onTimeout call Recycle Required Exception Async Listener Timeout
+58192	ImageIO based applications fail deploy Tomcat worked Image
+38570	docBase path webapps backslash inserted doc Base
+39592	SSI correctly process HEAD request
+40817	servlet cgi bounds exception cgi
+42436	service qname soap header parsed correctly
+42530	ManagerBase backgroundProcess NullPointerException Manager Base background Process Pointer Exception
+42650	PooledParallelSender sendMessage NullpointerException Pooled Parallel Sender send Message Nullpointer Exception
+43285	Missing Coercion argument type mismatch
+44558	cite attempted address throwing assign requested address
+44562	HEAD requests request dispatch include
+44633	jar wrong throwing UnsupportedClassVersionError Unsupported Version Error
+44986	JSP compilation exception pageEncoding utf file order marks Encoding
+45427	Unmatched quotes JSP parser
+45453	JDBCRealm getRoles bad synchronization hangs DIGEST authentication Roles
+46381	Coerce expression java lang Object breaks expression concatenation
+47499	provide insight BindException assign requested address Bind Exception
+47502	clustering fails serializing javax security subject
+47866	NullPointerException embedded tomcat Pointer Exception
+48007	ClassNotFoundException deserializing custom object FileStore Exception File Store
+48454	Bad file descriptor IOException CGIServlet programs
+48498	ArrayIndexOutOfBoundsException Jasper compilation error CDATA block Array Bounds Exception
+48661	inconsistent error behavior
+48843	Tomcat Acceptor Thread wait
+49209	AccessControlException undeploying application Access Control Exception
+50138	Lack synchronization org apache catalina security SecurityUtil Security Util
+50394	InternalAprInputBuffer fill doesn deal correctly EOF Internal Apr Input Buffer
+50600	ConcurrentModificationException removing WAR FarmWarDeployer Concurrent Modification Exception Farm War Deployer
+50737	Error war deploy archive malformed Tomcat releases IBM iSeries System Series
+51124	ArrayIndexOutOfBoundsException setting org apache jasper runtime BodyContentImpl LIMIT BUFFER Array Bounds Exception Body Content Impl
+52384	URL parameter parsed logging level DEBUG
+54087	HTTP Connector incorrectly Exception Invalid Modified Header
+54475	SMAP broken Java JSP compile
+54497	RuntimeException WebappClassLoader checkThreadLocalMapForLeaks LifecycleException Runtime Exception Webapp Loader check Thread Local Map Leaks Lifecycle Exception
+55749	Disabling SSLEngine AprLifecycleListener leads misleading error message startup SSL Connector delcared Apr Lifecycle Listener
+55996	Async context timeout HTTP NIO connector
+56736	IllegalStateException calling AsyncContext dispatch Illegal Exception Async Context
+57490	Websocket client connect Tomcat servlet SecurityManager place Security Manager
+57509	maxHttpHeaderSize ArrayIndexOutOfBoundsException max Http Header Size Array Bounds Exception
+57544	Server CPU maxed core randomly hours
+57943	NioEndpoint poller thread died Nio Endpoint
+58357	Read failed APR error code
+59015	Endless loop APR poller connector shutdown
+59054	CrawlerSessionManagerValve serializable exception passing sessionAttribute Crawler Session Manager Valve session Attribute
+29936	XML parser loading problems container
+31804	setParent called nested tags tag file tagx Parent
+33356	Incorrect parsing tag attributes
+36923	Deactivated expressions parsed jsp expressions scriptlets
+37326	error reported jsp include existent target
+37509	ClassLoaderLogManager remove logging properties values Loader Log Manager
+37929	invalidated session pageContext methods fail Context
+39724	Bug StandardPipeline removeValve Valve valve Standard Pipeline remove Valve
+39769	Wrong loader myServlet destroy called myServlet shared directory Servlet Servlet
+39875	RealmBase init cleanup Realm Base
+40380	Potential syncro problem StandardSession expire Standard Session
+40551	Sticky sessions PersistentManager enter indeterminate node failover Persistent Manager
+40771	read POST data filter valve
+40929	Misleading comments StandardClassLoader Standard Loader
+41606	jspInit method called jsp Init
+41608	log level messages
+41666	Unmodified failure
+41869	Expression Language expressions result TagData REQUEST TIME object Tag Data
+42039	Tomcat doesn output stack trace UnavailableException Unavailable Exception
+42071	JSP UnavailableException IllegalStateException occurs Unavailable Exception Illegal Exception
+42072	call jspDestroy method violates Java Servlet Specification SRV jsp Destroy
+42119	request getCharacterEncoding misparses charset UTF xyz Character Encoding
+42444	Potential NullPointerException org apache catalina valves AccessLogValve Pointer Exception Access Log Valve
+42503	ServletContext getResourceAsStream returns stale data Servlet Context Resource Stream
+42579	Patch JNDIRealm fails parse absolute names
+42648	SWAP increases cluster Tomca
+42693	JSP Generation error recursive tagfile structure
+42747	Context className attribute contexts deployed descriptors web META INF context xml
+43117	Dangerousness workDir setting Context work Dir
+43216	ACTIVITY CHECK work correctly Tomcat restarted
+43236	Response setCharacterEncoding fails Response getWriter Response reset Character Encoding Writer
+43435	AbstractReplicatedMap memberDisappeared executed necessity Replicated Map member Disappeared
+43617	attribute values tag file properly escaped
+43706	litmus warning WebdavServlet Webdav Servlet
+43868	MBeanServer invoke issue MBean Server
+43893	WebdavServlet returns incorrect values href property mapped url prefix Webdav Servlet
+43909	EvaluationContext wrapper hides locale Evaluation Context
+44223	Tomcat ignores javax net ssl trustStoreType system property trust Store Type
+44529	RealmBase authorization hasResourcePermission fully servlet spec compliant Realm Base Resource Permission
+44620	infinit loop nio connector code
+45101	DirContextURLConnection Format Header Values HTTP spec Dir Context URLConnection
+45212	AbstractReplicatedMap entrySet returns values entries Replicated Map entry
+45272	Version cookie persisted
+45279	McastServiceImpl leaks sockets Mcast Service Impl
+45285	RESOURCES DECLARED PARENT CLASSES INJECTED
+45419	Accept Ranges DefaultServlet Servlet
+45441	Matching relevant servlet filters fails request forwarded
+45618	Selector closed
+45628	ExtensionValidator doesn handle wrapped lines MANIFEST Extension Validator
+45977	Duplicate comment code CoyoteAdapter java Coyote Adapter
+46051	Servlet response writer respect separator system property
+46096	DefaultAnnotationProcessor processAnnotations doPrivileged call getDeclaredFields Annotation Processor process Annotations Privileged Declared Fields
+46105	URIEncoding doesn affect form authentication redirect
+46357	FarmWarDeployer nonsense condition Farm War Deployer
+46403	Persistent cookies written work Internet Explorer Safari
+46462	JSPWiki JSP compilation prevented org apache jasper Constants JSP
+46564	tagx files don compile document encoding casing differs
+46666	disableUploadTimeout KeepAliveTimeout correlated Http Connector disable Upload Timeout Alive Timeout
+46915	Unable ResourceBundle Tomcat Resource Bundle
+46958	manager XML hard coded path XSL transformation
+46967	ManagerBase setRandomFile error handling Manager Base Random File
+46985	Impossible condition coyote http Http Processor process Socket socket
+46988	JMXAccessorTask String constants JMXAccessor Task
+46998	small TaskThreadFactory Task Thread Factory
+47050	StandardHostValve status unnecessarily HTML escapes error message Standard Host Valve
+47111	caching resources docu StringManager String Manager
+47158	AccessLogValve race condition problem Access Log Valve
+47216	NPE Http Processor action
+47237	hard limit Http NioProcessor objects Nio Processor
+47320	Decoding jsessionid bug
+47331	translation error messag template text
+47343	Fails deploying update context xml
+47364	HttpServletRequest getAttributeNames names attributes Http Servlet Request Attribute Names
+47462	annotation doesn effective metadata complete effective
+47478	DeltaSession ignores notifyListenersOnReplication BackupManager Delta Session notify Listeners Replication Backup Manager
+47515	Tomcat replicate session started
+47518	Valve Javadocs invoke method references existent method
+47568	TestTomcat fails delete work directory Test Tomcat
+47744	Memory leak SSL Java security manager
+47826	logging statement error org apache catalina startup Bootstrap java
+47828	Change Tomcat setSilent setSilent Silent Silent
+47881	org apache catalina startup Bootstrap main method handles startd stopd wrongly
+47930	PersistentManager filestore session objects linked session Tomcat restarted Persistent Manager
+47987	memory caused notFoundResources org apache catalina loader WebappClassLoader Resources Webapp Loader
+47997	NamingContextListener fails add PropertyChangeListener namingResources Naming Context Listener Property Change Listener naming Resources
+48049	org apache naming NamingContext destroySubcontext method doesn invoke recursively invoke unbind method Naming Context destroy Subcontext
+48050	org apache naming NamingContext createSubcontext method returns Context wrong Naming Context create Subcontext
+48102	Bootstrap misspelled Boostrap javadoc org apache catalina startup Bootstrap
+48104	javadoc org apache catalina startup Catalina complete usage method
+48113	Member hostname components printed signed bits
+48117	misspellings javadoc org apache catalina startup ContextConfig Context Config
+48120	misspelling javadoc org apache catalina startup SetNextNamingRule Naming Rule
+48121	misspellings javadoc org apache catalina startup TldConfig Tld Config
+48123	misspellings javadoc org apache catalina startup WebRuleSet Web Rule
+48172	JspRuntimeContext synch problems Jsp Runtime Context
+48173	org apache catalina tribes ChannelData EMPTY DATA ARRAY Channel Data
+48174	org apache tomcat jni Address APR ANYADDR
+48197	XByteBuffer privatize fields Javadoc XByte Buffer
+48234	org apache catalina core ContainerBase getLogger thread safe Container Base Logger
+48249	org apache tomcat util net NioBlockingSelector BlockPoller Nio Blocking Selector Block Poller
+48282	NPE org apache tomcat util modeler Registry
+48287	ApplicationContextFacade generics fixes Application Context Facade
+48297	webservices ServiceRefFactory initHandlerChain adds wrong items list Service Factory init Handler Chain
+48318	WebDAV servlet returns files readable Web DAV
+48324	Javadoc fixes connector Request java
+48345	Session time shorter setting web xml PersistentManager Persistent Manager
+48387	RemoteIpFilter parameters consistent RemoteIpValve Remote Filter Remote Valve
+48523	Duplicate property files
+48613	AprLifecycleListener initialize configured server xml Apr Lifecycle Listener
+48629	JNDIRealm roleNested doesn work roleSearch member role Nested role Search
+48647	RemoteIpFilter request secure request scheme forced http Forwarded Proto http Remote Filter
+48648	Blank dropped connection running TCnative APR
+48678	org apache catalina startup Catalina incorrectly duplicates member
+48729	JNDIRealm java parsing roles correctly
+49014	Add RemoteIpFilter test Remote Filter
+49018	Timeout argument misprocessed expiring sessions Tomcat Manager
+49082	ExpressionFactory newInstance privileged Expression Factory Instance
+49089	ChannelData SECURE RANDOM UUID mutable field Channel Data
+49091	Util specialCharactersRepresentation special Characters Representation
+49092	util IntrospectionUtils PATH SEPARATOR Introspection Utils
+49095	org apache tomcat util net AprEndpoint unlockAccept wakeup accepts deferred accept BSD filters Apr Endpoint unlock Accept
+49110	runtime JspFactoryImpl PageContextPool Jsp Factory Impl Context Pool
+49116	Memory leak HttpSession Http Session
+49118	Inefficient String concatenation loop
+49129	DigestAuthenticator Helper incorrect lazy initialisation Digest Authenticator
+49132	JNDI working
+49141	Impossible naming factory SendMailFactory getObjectInstance Send Mail Factory Object Instance
+49144	Incorrect lazy initialization update fields
+49150	primary sessions deleted BackupManager stopInternal Backup Manager Internal
+49151	ClassCastException BackupManager stopInternal Exception Backup Manager Internal
+49170	Transmission duplicated session DeltaManager handleGET SESSIONS Delta Manager handle
+49221	javax servlet http Cookie setDomain charset Domain
+49235	ServletContainerInitializer onStartup classSet expect Servlet Container Initializer Startup
+49428	WebDAV mounts Windows Mini Redirector clients Web DAV
+49503	Connectors bind ports Catalina load start
+49525	Unabled store data HttpSession root context Http Session
+49530	Context correctly stopped shutdown
+49550	PATCH Response isSpace deprecated isWhiteSpace Space White Space
+49613	Request getAttributeNames slows applications Attribute Names
+49625	Tomcat doesn send Vary consistently gzip enabled
+49655	ExpressionFactoryImpl createMethodExpression Spec conform Expression Factory Impl create Method Expression
+49669	reference javax security Policy contextClassLoader prevents undeployed Web application garbage collected context Loader
+49670	org apache catalina authenticator SingleSignOn valve function Single Sign
+49714	annotation process Jar impact distributable web xml
+49749	SSO cookie HttpOnly Http
+49750	WebappClassLoader validate validate javax servlet Webapp Loader
+49890	Nio Selector issue linux platform
+49937	Problems AsyncListener resource injection Async Listener
+49956	Resource Normalization JNDI
+49957	Work directories deployed webapps deleted shutdown
+49978	WebappLoader exception workDir exists unpackWARs Webapp Loader work Dir unpack WARs
+49998	ParserController hasJspRoot detect JSP XML syntax jsp root namespace declaration delimiters Parser Controller Jsp Root
+50021	ExceptionUtils missing bootstrap jar Exception Utils
+50059	Resources served WEB INF lib jar META INF resources metadata complete web xml
+50063	Latest trunck configure context metadata complete version
+50107	StandardPipeline destroyed times Standard Pipeline
+50127	NPEs SimpleTCPCluster Simple TCPCluster
+50129	ContextConfig unnecessary checks Context Config
+50184	RpcChannel sends answer requesting ACK Rpc Channel
+50201	StandardEngine defaultAccessLog stale ROOT webapp redeployed Standard Engine Access Log
+50232	org apache catalina session StoreBase hidden dependency PersistentManager Store Base Persistent Manager
+50293	javax CompositeELResolver synchronization issue Composite ELResolver
+50310	Manager detailed status display servlets
+50411	invalid sessions removed PersistenManager store Persisten Manager
+50459	StandardContext bindThread unbindThread symmetrical limited current thread Standard Context bind Thread unbind Thread
+50503	Engine level Clustering work correctly web application version
+50541	JNDIRealm support configuring LDAP sizeLimit countLimit SearchControls size Limit count Limit Search Controls
+50547	CHANGE SESSION message received cluster session synchronization dropped
+50550	PropFind error MkCol succes Prop Find Col
+50554	Bad getClass lead concurrency bugs
+50598	Sample build xml wrong manager url
+50606	Error running CGI executable Tomcat
+50631	InternalNioInputBuffer honor maxHttpHeadSize Internal Nio Input Buffer max Http Head Size
+50646	Tribes ByteMessage corrupted message size exceeds underlying buffer size Message
+50680	NPE TagFileProcessor tag file expanded directory jar Tag File Processor
+50683	Servlet annotations scanned unpackWars unpack Wars
+50700	Context parameters overridden parameters web application deployment descriptor
+50709	org apache catalina core ApplicationContextFacade Application Context Facade
+50726	Jasper generate uncompilable source code genStringAsCharArray turned gen String Array
+50747	CometProcessor flush close HTTP requests Comet Processor
+50780	AjpConnectionHandler connections causing memory leak Ajp Connection Handler
+50984	Manager application fails report stranded artifacts undeploying
+51099	SPNEGO loginConfigName work login Config
+51154	Spurious deprecated tags ServletContext Servlet Context
+51212	QueryStats synchornisation issues Query Stats
+51229	async examples work correctly
+51310	Connector destroyInternal Execution destroy Internal
+51324	OutputBuffer doFlush Exception doFlush stuck Output Buffer Flush Flush
+51344	org apache catalina startup Embedded overrides Lifecycle incorrectly
+51348	Potential NullPointerException org apache catalina servlets WebdavServlet Pointer Exception Webdav Servlet
+51447	Session type Backup Primary
+51453	Requests open URL include Authorization header reach servlet
+51466	typos comments HostManagerServlet Host Manager Servlet
+51467	usage method start start thread
+51503	Additional error checking required connector port attribute port
+51518	absolute ordering include element
+51532	Performance Issue retriving JAR files TLD file parsing
+51614	PersistentManager loads session Store calls session expire Persistent Manager
+51615	org apache tomcat jdbc pool PooledConnection assignment typo Pooled Connection
+51640	clearReferencesJdbc causing leaks oracle ojdbc driver clear References Jdbc
+51641	Http NioProcessor correct release Nio Processor
+51650	nullpointer exception RequestUtil parseParameters Request Util parse Parameters
+51658	Potential NPE CoyoteAdapter log Coyote Adapter
+51712	Regression cache control headers requests security constraints
+51758	Setting logger specific overrides logging properties working
+51860	HTTP SSL NIO won work
+51905	Infinite loop shutting AprEndpoint Apr Endpoint
+51972	sendRedirect support protocol relative URLs send Redirect
+52042	NullPointerException DefaultInstanceManager processAnnotations Pointer Exception Instance Manager process Annotations
+52113	Tomcat reports missing context xml wrong location JMX deployment
+52156	ServletContext getResource path doesn accept Servlet Context Resource
+52173	Add drop additional clarification doc delegate setting WebappClassLoader Webapp Loader
+52213	Field org apache catalina tribes transport bio util FastQueue enabled Fast Queue
+52303	NonLoginAuthenticator honour session timeout SingleSignOn Valve Login Authenticator Single Sign
+52316	AccessLog log size files sendfile Access Log
+52326	log level failed loading
+52356	Prevent potential data races org apache catalina tribes transport bio util FastQueue size Fast Queue
+52511	Exception logged annotation scanning web apps WEB INF classes
+52586	requests forwarded request attribute javax servlet path info assigned incorrect
+52669	Annotation processing WEB INF classes Servlets Listeners Filters skipped web app extracted classes packages embedded scenarios
+52719	incomplete resource leak bug WebappClassLoader java Webapp Loader
+52725	org apache jasper compiler JspUtil getTagHandlerClassName org apache jasper Constants TAG FILE Jsp Util Tag Handler
+52758	Jasper illegally org eclipse jdt internal compiler env ICompilationUnit Eclipse ICompilation Unit
+52770	Potential Bug Inconsistency NioBlockingSelector java Nio Blocking Selector
+52772	JspC checking uriRoot option validness Jsp uri Root
+52776	Generator JspFragment invoke implementation reset ELContext JspContext Jsp Fragment Jsp Context
+52846	Programmatic login UserDatabaseRealm returns error User Database Realm
+52858	High CPU load NIO connector client breaks connection unexpectedly
+52953	BASIC Authentication DIGEST mode work hash stored uppercase
+53067	WebSocket implementation issue wrapped requests Web Socket
+53081	WebappClassLoader java lang OutOfMemoryError findResourceInternal Webapp Loader Memory Error find Resource Internal
+53138	download file size NIO connector tomcat version configuration download tomcat
+53180	DefaultInstanceManager populateAnnotationsCache incomplete check validating setter method Instance Manager populate Annotations Cache
+53322	Odd decapitalization inferring JavaBean property setter injection target Java Bean
+53342	starting Tomcat fail BindException Bind Exception
+53366	Running SecurityManager jsp returns blank accessed Security Manager
+53398	Incorrect tag XML response calling manager status XML
+53535	memory performing ContextConfig webConfig Context Config web Config
+53624	sendRedirect doesn work dispatch AsyncContext send Redirect Async Context
+53641	Wrong websocket subprotocol implementation
+53654	JSP file recompiled file based TLD URL
+53725	GZipped responses result java IOException Corrupt GZIP trailer gunzip
+53758	Dynamic Filter Registration mapping logic inverted
+53800	Infinte loop FileDirContext CDI Weld project Eclipse Server modules publishing File Dir Context
+53828	StreamInbound closeOutboundConnection WsFrame closes opcode status Stream Inbound close Outbound Connection Frame
+53863	Unable override servlet Tomcat embedded mode
+54011	Code generation error jstl tagPlugin escapeXml tagPlugin tag Plugin escape Xml tag Plugin
+54017	String instance generated constant string Generator convertString convert String
+54022	CometEvent event suspended socket disconnect running Tomcat tcnative dll Windows Vista Windows Server newer Comet Event
+54045	ReplicatedMap don TcpFailureDetector configuration Replicated Map Tcp Failure Detector
+54067	Upgrade Response Transfer Encoding chunked invalid
+54124	wrong javax servlet async request uri javax servlet async path info missing
+54141	Configuration Realms nested levels deep
+54190	TestNonLoginAndBasicAuthenticator test session timeout properly Test Login Basic Authenticator
+54207	javaURLContextFactory javadoc refers defunct names initial context properties java URLContext Factory
+54380	MapperListener lifecycleEvent check parent calling registerWrapper Mapper Listener lifecycle Event register Wrapper
+54381	Websocket StreamInbound reports receipt Pong Stream Inbound
+54438	Bug introduces NullPointerException RealmBase java user JDBC Pointer Exception Realm Base
+54456	ChunkedInputFilter returning EOF client closes connection sending chunk Chunked Input Filter
+54458	DataSourceRealm provide info SQLException Data Source Realm
+54496	tribes membership MemberImpl toString getClass getName Member Impl String
+54585	WebappLoader doesn honor delegate attr constructing jsp classpath Webapp Loader
+54599	DataSource password exposed applications toString method Data Source String
+54612	Fatal Error send data WebSocket conection closed Web Socket
+54628	wrong send binary data websocket
+54638	manager status XML
+54660	AccessLogValve fileDateFormat changed JMX Access Log Valve file Format
+54851	Folder web fragment xml impact status distributable
+54888	TagPlugin ForEach doesn support CSV items Tag Plugin
+54939	logging maxHeaderCount hit max Header Count
+54955	Mapping application context root returns reload
+54964	loading issue TagPlugin TagPluginManager Tag Plugin Tag Plugin Manager
+54968	JspEngineInfo getSpecificationVersion returns Jsp Engine Info Specification Version
+54999	JSESSIONIDSSO created authentication request logout login username password
+55035	Deploy ROOT webapp version text manager Ant
+55071	structure masks original exception JDBCRealm getPassword Password
+55073	wasted work ValidateVisitor isExpression Validate Visitor Expression
+55108	Wasted work AbstractReplicatedMap excludeFromSet Replicated Map exclude
+55110	Wasted work TestNonLoginAndBasicAuthenticator doTestBasic Test Login Basic Authenticator Test Basic
+55125	Tomcat shut LifecycleListener exception Lifecycle Listener
+55158	Wasted work AttributeNamesEnumerator constructor Attribute Names Enumerator
+55159	Wasted work ErrorReportValve getPartialServletStackTrace Error Report Valve Partial Servlet Stack Trace
+55160	NIO connectionUploadTimeout work connection Upload Timeout
+55177	connectionTimeout high CPU connection Timeout
+55179	Incorrect Parameter RemoteIpValve Examples Remote Valve
+55230	DirContextURLConnection getInputStream fails reopen resources ProxyDirContext Dir Context URLConnection Input Stream Proxy Dir Context
+55309	Concurrent issue TagPluginManager Tag Plugin Manager
+55342	Lost interruption
+55354	JNDIRealm getPrincipal context username gssCredential corrupts realm context Principal gss Credential
+55570	SpnegoAuthenticator Resource file missing placeholders exceptions Spnego Authenticator
+55582	Concurrent issue TagFileProcessor Tag File Processor
+55629	StatusManagerServlet remove JMX notification listener Status Manager Servlet
+55656	Server ClassLoader Server creation Loader
+55684	WebappClassLoader getThread access root ThreadGroup Webapp Loader Thread Thread Group
+55804	SPNEGOAUTHENTICATOR GSSCredential renewed RemainingLifeTime Remaining Life Time
+55851	Tomcat SPNEGO authenticator incompatible IBM JDK Accept Security Context wrapped Privileged Action order server side authentication
+55905	Error message unhelpful web xml references tld file doesn exist
+56013	SpnegoAuthenticator working IBM JDK Kerberos incorrect credential lifetime Spnego Authenticator
+56025	Order invocation method ServerEndpointConfig Configurator Server Endpoint Config
+56096	Setting rmiBindAddress JmxRemoteLifecycleListener prevents tomcat starting rmi Bind Address Jmx Remote Lifecycle Listener
+56172	AjpNioProtocol corrupts ignores request body Ajp Nio Protocol
+56213	KeyReference Objects CMS remark Times Key Reference
+56293	WebappClassLoader cache META INF services leads performance issues Webapp Loader
+56321	ServletContextListener contextDestroyed completely executed updating war Servlet Context Listener context Destroyed
+56339	session listener invalidate session
+56369	BaseModelMBean clean attributeBroadcaster removeNotificationListener Base Model MBean attribute Broadcaster remove Notification Listener
+56406	VirtualDirContext setExtraResourcePaths incorrect separator semicolon comma Virtual Dir Context Extra Resource Paths
+56449	WebSocket session closed onOpen sendText sync mode Web Socket Open send Text
+56472	classes remain memory web application LDAP
+56523	SPNEGO failures leading stack trace prints PrivilegedActionExceptions Privileged Action Exceptions
+56536	HttpSessionBindingListener valueUnbound wrong classloader SingleSignOn valve Http Session Binding Listener Unbound Single Sign
+56606	Tomcat Installer attribute generated tomcat users xml
+56608	WatchedResource configured TomcatHome conf Catalina localhost context XML file triggering context reload working days Watched Resource Tomcat
+56657	Parallel deployment sessionid belongs latest version webapp latest version
+56677	ApplicationHttpRequest override javax servlet ServletRequestWrapper getServletContext Application Http Request Servlet Request Wrapper Servlet Context
+56746	Webssocket secure client thread access webapp resources
+56771	Avoid throwing NameNotFoundException BaseDirContext lookup Exception Base Dir Context
+56780	IBM Java server startup error java lang IllegalArgumentException TLS protocol enabl strict mode Illegal Argument Exception
+56801	Avoid duplicated String CharArray conversion loop Matcher matchName Array match
+56902	DefaultServlet leak resource method copy CID Servlet
+56905	Unable destroy WebSocket thread group warning reloading examples webapp Web Socket
+56907	Threads leak
+57016	PersistentValve deletes sessions creates Persistent Valve
+57180	CorsFilter support PATCH method Cors Filter
+57208	NullPointerException JNDIRealm search finds org apache catalina realm JNDIRealm Pointer Exception
+57209	JNDIRealm userSearch work active directory roles user Search
+57323	Correct display outdated sessions sessions count listing Manager application
+57331	ExpiresFilter year synonym years configuration Expires Filter
+57340	NioConnector caches corrupted concurrent comet close Nio Connector
+57377	Incorrect standard SSL properties JMX JMXRemoteLifecycleListener JMXRemote Lifecycle Listener
+57581	request getBytesRead Bytes Read
+57723	incomplete invalid context paths StandardContext java JNDI fails Standard Context
+57765	autodeploy fails redeploy latest war
+57931	NIO connector incorrectly closes connection client certificate verification fails
+57977	original loader isn bound thread PersistentValve invoke Persistent Valve
+58023	Memory Leak WebappClassLoader Webapp Loader
+58119	Compiled tags correct directory
+58166	Tomcat support application specific close codes
+58179	Atomicity violation
+58275	TLS prefixed ciphers discarded IBM JRE
+58296	memory leak JspRuntimeContext Jsp Runtime Context
+58342	org apache tomcat websocket WsSession repeated conditional tests Session
+58497	Unable custom implementation AbstractHttp Processor methods Http
+58522	concurrency problem corrupts WARDirContext Entry children WARDir Context
+58568	WebappClassLoaderBase exposes system instance member Webapp Loader Base
+58603	RemoteIpFilter adjust getRequestURL Remote Filter Request URL
+58701	JSP Reloading Initialization Problem
+59043	SingleSignOn valve warns missing session invoking HttpServletRequest logout Single Sign Http Servlet Request
+59123	JNDIRealm close NamingEnumeration Naming Enumeration
+59138	checkThreadLocalMapForLeaks positives check Thread Local Map Leaks
+59145	Incorrect warning logging invalidate session SingleSignOn valve Single Sign
+59206	catalina base ConfigFileLoader NPE initializer Config File Loader
+59217	Duplication recycling path ServerCookie Server Cookie
+59849	initSQL executed JDBC connection created load init SQL
+59850	StatementCache interceptor close ResultSets Statement Cache Result Sets
+59908	Tomcat reports empty close reason send operation timed
+59923	validationInterval attribute validation Interval
+60008	Tomcat CORS filter allowing origin file resource access WebView Web View
+60041	NPE WebappClassLoaderBase Webapp Loader Base
+60043	suspectTimeout work expected removeAbandoned match documentation suspect Timeout remove Abandoned

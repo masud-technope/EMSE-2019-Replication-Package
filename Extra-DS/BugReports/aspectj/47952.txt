@@ -1,0 +1,2 @@
+SoftException.printStackTrace(..) should print wrapped throwable too
+SoftExceptions should print not only their trace but also that of the wrapped throwable. We should be able to set a flag on class initialization whether we are running under 1.4 and then implement it under 1.4 using initCause() and otherwise by direct delegation. I can do this fix if we're agreed.

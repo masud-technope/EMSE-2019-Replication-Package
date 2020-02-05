@@ -1,0 +1,4 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/lookup/EclipseSourceType.java
+org.aspectj/modules/tests/bugs153/pr158412/dao/Foo.java
+org.aspectj/modules/tests/bugs153/pr158412/layering/SystemArchitektur.java
+org.aspectj/modules/tests/src/org/aspectj/systemtest/ajc153/Ajc153Tests.java

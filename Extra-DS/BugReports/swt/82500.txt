@@ -1,0 +1,2 @@
+TabFolder should not use PtCalcCanvas in getClientArea
+Due to the nature of the widget PtPanelGroup, you cannot use PtCalcCanvas to get the widgets drawing area. There is a limitation in photon where you cannot draw a surface outside of a widgets canvas. The tabs are control surfaces. Therefore if you use PtCalcCanvas to determine the drawing area, you will overwrite the tabs. I will attach a patch to fix this.

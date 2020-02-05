@@ -1,0 +1,5 @@
+org.aspectj/modules/loadtime/src/org/aspectj/weaver/loadtime/ClassLoaderWeavingAdaptor.java
+org.aspectj/modules/loadtime/src/org/aspectj/weaver/loadtime/definition/Definition.java
+org.aspectj/modules/loadtime/src/org/aspectj/weaver/loadtime/definition/DocumentParser.java
+org.aspectj/modules/loadtime/testsrc/org/aspectj/weaver/loadtime/test/DocumentParserTest.java
+org.aspectj/modules/tests/java5/ataspectj/ataspectj/ConcreteAtAspectTest.java

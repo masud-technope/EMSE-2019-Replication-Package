@@ -1,0 +1,2 @@
+ajc -outjar jarfile does not contain MANIFEST.MF
+I call ajc -sourceroots <mydir> -outjar <my.jar> and an output file is created with a .jar extension, but it is not a valid jar file because there is no MANIFEST.MF file. I see that the text for ajc says: -outjar <file> put output classes in zip file <file> which might imply that it is supposed to be a zip file, but a parameter called - outjar which creates a zip file doesn't really make sense. If -outjar is used, the resulting file should be a valid jar file, i.e. with a META-INF/MANIFEST.MF file inside.

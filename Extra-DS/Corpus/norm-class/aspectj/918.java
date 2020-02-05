@@ -1,0 +1,1 @@
+org aspectj testing tester user main string args receiver receiver tester check some field somefield introduced field

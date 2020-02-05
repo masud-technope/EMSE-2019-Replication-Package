@@ -1,0 +1,1 @@
+test java lang annotation retention retention policy retentionpolicy runtime my annotation myannotation

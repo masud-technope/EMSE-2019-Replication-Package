@@ -1,0 +1,4 @@
+org.eclipse/swt/widgets/Table.java
+org.eclipse/swt/widgets/Text.java
+org.eclipse/swt/widgets/Tree.java
+org.eclipse/swt/widgets/Widget.java

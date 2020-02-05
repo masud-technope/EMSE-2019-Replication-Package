@@ -1,0 +1,63 @@
+173187	renaming	differences	entires	refactored	distinguish	eventually	identical	ended	showing	expand
+53634	switching	additional	bootclasspath	newly	removing	work	adding	libraries	don	jres
+40707	press	remains	disabling	opening	disable	setting	properties	enable	note	watchpoint
+335363	checkboxes	colors	notice	basic	question	click	checkbox	general	doesn	attachment
+31110	advanced	points	work	debugger	archive	build	lookup	select	selected	variables
+229380	incorrectly	moving	bottom	buttons	bootstrap	tab	reflect	ensure	button	select
+13834	examining	nthe	click	managed	includes	jars	ruler	menu	debugging	remote
+94474	press	deselect	attachment	libraries	edit	jres	jar	installed	select	pref
+142476	transform	boxes	tester	templates	adjust	blocking	hand	steps	icon	language
+324246	good	expand	works	pass	jvm	builder	enter	called	external	build
+139152	uninitialized	validates	opening	attached	close	preferences	time	window	preference	fields
+321043	head	revert	compliance	comment	attachment	details	compiler	enable	bug
+64663	hex	accept	fails	change	variables	bug
+43927	ctrl	dot	work	space	assist	auto	condition	properties	build	content
+506014	availability	thought	observed	row	jumps	signal	icon	holder	depending	feature
+73624	explorer	redundant	asks	expect	click	prompt	menu	avoid	don	call
+275614	screen	regression	explorer	introduced	steps	expanded	builds	expand	paste	session
+392607	fallback	osx	determined	work	mac	form	correct	build	load	fails
+43418	choosing	takes	seconds	browse	click	cursor	busy	pressed	base	choose
+112670	ctrl	treeitem	invokes	windows	normal	blocks	focus	space	commands	assist
+21792	reverse	spaces	happen	works	problems	specifies	space	ends	passed	dir
+9122	minutes	latest	waited	worked	debugging	performance	launched	problem	time	mode
+19363	asked	wizard	missing	image	library	container	bug
+124203	introduced	respect	management	global	longer	based	active	view	provider	platform
+16046	forced	didn	presses	respond	shouldn	fact	ability	cancelled	completes	operations
+15662	work	inspect	select	display	bug	variable	result
+9649	rebuild	autobuild	proceeds	motif	reports	turn	closes	clean	memory	process
+72371	streams	occurs	left	locations	stream	open	bug	exception
+13364	indication	condition	properties	bug	dialog	breakpoint
+255031	cdc	foundation	ees	prevent	compiled	longer	compile	director	warning	projects
+108473	restart	responding	dependent	allocated	windows	correctly	performance	times	runs	problem
+8634	persisted	missing	workspace	bug	start	breakpoints	exception
+300614	small	wide	win	pixels	pane	details	character	settings	enable	select
+9026	showing	summary	view	compilation	bug	breakpoints	error
+323020	mac	failure	bug	test
+125771	appears	properly	retrieving	external	created	unable	bug	breakpoints	source	breakpoint
+60364	newly	attaching	deprecated	testing	based	bug	code	runtime	jdt	debug
+369480	older	fresh	launchingsupport	latest	fixed	builds	major	work	environments	compatible
+189012	contexts	expressions	accessible	command	dialogs	view	change	variables	bug	primitive
+181204	issues	marking	scenario	enhancements	pertaining	comments	fixed	enhanced	verified	release
+13015	resumes	evaluated	evaluates	stepping	condition	conditional	step	bug	breakpoint	thread
+212442	failing	logic	failures	comparing	causing	clause	statement	problem	equal	bug
+9825	prefer	consistent	icon	showing	depending	hover	color	debugger	matches	active
+33893	incorrectly	existant	plug	updates	ignore	jres	exist	defined	invalid	preference
+206693	wiki	copied	simply	installing	configured	bin	column	resolves	relative	jres
+42984	basedir	overriding	jvms	echo	ant	defines	prints	processes	base	dir
+7404	hitting	attempting	define	filtering	editable	work	button	step	filter	bug
+268393	letting	steps	quotes	attempted	box	attempt	expressions	literal	debugger	attachment
+330987	incremented	applied	newly	increment	tags	missing	bundle	methods	version	bug
+32494	toolbar	insp	global	bindings	menu	scrapbook	inspect	execute	enable	select
+34670	uncheck	configs	lists	needed	tab	select	config	delete	key	hit
+18926	pretty	big	development	steps	builds	click	pops	reason	checkbox	windows
+29297	honor	folders	searches	compiled	debugger	hot	folder	properties	multiple	build
+248054	isn	colors	pick	latest	steps	icon	syntax	annotation	background	annotations
+94452	produce	holding	attempting	views	vector	stepping	displayed	logical	exceptions	structure
+394225	incorrectly	evaluates	fail	window	display	bug
+187000	collapsed	linux	older	press	expands	stacktrace	pretty	mouse	steps	windows
+400636	regression	difference	appears	codeassist	osx	worked	debugging	work	application	view
+52474	investigate	cvs	repository	scenario	opening	fact	requires	perspective	opened	attempt
+16378	screen	remains	icons	tabs	space	attached	creation	missing	build	time
+110074	category	working	sets	bug	breakpoints	breakpoint	create
+33534	indication	ant	range	supported	editor	bug
+144253	behaviour	longer	force	fire	lookup	events	change	bug	stack	frame

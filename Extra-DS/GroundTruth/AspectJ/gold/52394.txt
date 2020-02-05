@@ -1,0 +1,2 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/ast/AspectClinit.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelClassWeaver.java

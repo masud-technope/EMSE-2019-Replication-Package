@@ -1,0 +1,20 @@
+227939	password	stack	msn	error	overflow	bug	mail	restoring	login	reproduce
+252002	bug	ntlmv	provider	discussion	bugs	support	httpclient	based	cgi	org
+229921	bugs	bug	javadoc	cgi	org	missing	statements	https	compiler	error
+318086	discovery	tests	unit	figure	problem	disabling	bug	build	org	ecf
+238976	shared	editor	side	notification	broken	disconnect	initiated	code	session	source
+183492	server	application	bug	ecf	launch	config
+258916	tag	bad	reserved	slp	safe	hexdig	val	discover	star	character
+198731	irc	ctrl	foobar	underlined	hyperlink	move	works	underline	recognition	channel
+292972	bug	genuitec	filetransfer	patch	additions	apply	patches	ecf	fixes	relevant
+207530	character	modification	cola	single	insertions	multi	text	support	deletions	operations
+259273	zeroconf	ecf	scope	doesn	internal	vice	translate	naming	authority	protocols
+275722	bug	abstraction	ecf	gsoc	org	wiki	project	http	main	details
+327060	dev	bug	ecf	mailing	include	zookeeper	list	uri	port	location
+221139	address	mail	weak	user	validation	wizards	msn	xmpp	xmpps	inserted
+192756	channel	irc	entered	messages	join	big	server	don	clients	rid
+287666	microedition	javax	removed	ihttpconnection	replacing	httpconnection	filetransfer	releng	buckminster	bug
+256980	contribute	collab	presence	container	reuse	created	ecf	project	menu	users
+198043	contacts	groups	open	doesn	dialog	entries	bug	recognizer	recognize	list
+277176	tcp	osgiservices	iana	view	service	discovery	machine	remotesvcs	bring	ecf
+198012	connect	localhost	hyperlink	server	ecftcp	receive	ecf	dialog	current	form

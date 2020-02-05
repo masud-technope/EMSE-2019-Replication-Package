@@ -1,0 +1,78 @@
+18306	launch	configuration	platform	bug	code	prevents	error	delegate	dialog	defend
+463236	evaluations	projects	scrapbook	fail	jar	pre	debug	org	level	moved
+170502	dialog	string	tab	classpath	launch	entries	bootpath	add	stay	variable
+280192	error	execution	installed	internal	select	expression	inspecting	ubuntu	display	appears
+34052	ctrl	program	recognized	java	eclipse	eof	questions	feel	properly	running
+77064	clear	console	stack	trace	button	pressing	bug	work
+138377	console	perfomance	bug	lookup	hyperlink	acceptable	lastest	stack	unusably	source
+6411	auto	bug	install	detect	required
+12300	jre	launch	install	reason	installed	configuration	tabs	button	locally	trivial
+125196	preference	installed	move	jres	dialog	sash	wider	tree	layout	view
+34190	exception	evaluation	code	view	problem	stacktrace	validation	displayed	doesn	console
+23568	assist	ctrl	scrapbook	space	content	working	attempting	auto	code	edit
+197011	jre	click	add	system	lost	adding	modifications	edit	libraries	external
+286229	bad	docs	host	usages	javase	api	url	bug	equals	http
+54417	module	bug	parameter	selfmodule	parameters	applet	configured	read	blank	getparameter
+401815	plist	eclipse	tests	mac	linux	html	org	parser	parsing	download
+5653	debugger	uncaught	post	exception	breakpoint	stack	view	java	click	eclipse
+12695	breakpoint	breakpoints	thread	temporary	java	hit	debug	adapter	user	don
+49047	scrapbook	exception	uncaught	code	source	suspend	exceptions	suspends	snippet	beleive
+21400	member	breakpoint	bug	located	add	memberend	method	start	type	memberstart
+49052	properties	restart	changing	scrapbook	evaluation	dialog	bug	arg	launch	chaning
+49054	entries	user	button	configuration	projetc	project	bootstrap	bootpath	unable	java
+24863	formatters	bug	pref	detail
+266651	java	jre	sun	path	build	lib	usr	system	myproject	library
+85665	jre	container	combo	empty	dialog	project	alternate	screenshot	radio	button
+23716	error	formatter	message	detail	area	prefix	runtime	displays	nice	bug
+183206	tests	refactoring	failure	caused	fail	reason	failures	ensure	test	hagged
+179111	references	instances	issues	features	bugs	bug	miscellaneous	numerous	bindings	global
+324268	bug	progress	fup	cursor	indicator	type	clipboard	opening	search	busy
+244395	launch	config	project	rename	undo	java	refactoring	ctrl	launching	refactored
+40744	classpath	tab	viewer	workspace	projects	configuration	reasonable	unreasonably	screen	dialog
+223530	broken	hyperlink	selection	step	bug	suspect	support	investigated	multi
+56235	dialog	resize	favorites	remember	size	bug	organize	time	persist	open
+271785	breakpoint	uncaught	extension	listeners	compilation	handling	exception	suspend	breakpointlisteners	listener
+399913	jres	file	installed	search	location	mac	hit	jre	bug	workspace
+49077	bootpath	tacked	bug	create	jars	jar	config	append	command
+64951	thread	labels	condition	paused	variables	stack	string	work	update	screen
+30650	dialog	entry	field	justified	problem	text	breakpoint	condition	compilation	conditional
+372030	resume	thread	single	remote	selected	threads	suspended	bug	workspace	select
+304057	widget	count	focus	breakpoint	hit	enabling	created	start	check	enabled
+16446	java	launch	javaw	jre	executable	exception	select	appears	program	occurs
+15678	drop	stack	frames	jdk	bug	step	frame	resume	note	test
+167740	menu	formatter	array	details	variables	types	edit	contribution	checks	bug
+10817	output	copied	java	folder	config	configs	shared	resources	launch	packages
+22081	don	type	declaration	array	variable	variables	ast	work	implementation	manage
+350918	applet	parameter	unusual	eclipse	parameters	您好	reasonable	unexpected	foo	adventurous
+77125	preference	breakpoint	suspends	change	configure	thread	tracking	concurrency	hit	bug
+300992	dialog	breakpoint	properties	option	suspend	target	view	bug	build	missing
+49092	user	entries	classpath	element	displayed	empty	top	add	select	restore
+35525	evaluation	step	suspended	breakpoint	unable	view	bug	display	disabled	scrapbook
+30028	work	action	actions	open	snippet	navigate	correct	hierarchy	registered	binding
+178641	test	conditional	performance	breakpoint	open	suspends	additional	appears	source	tight
+19412	jres	project	launch	create	jre	config	lookup	projects	source	bootpath
+27093	location	standard	website	initial	jres	investigate	sun	issues	url	point
+149076	step	filtering	restart	pref	workbench	keyboard	reverts	preferences	debug	check
+64984	doesn	view	work	display	inspect	bug	log
+12636	scrapbook	evaluation	context	individual	work	users	newsgroup	wrong	reproduce	unable
+58078	code	assist	formatter	hint	missing	detail	area	editor	works	keybinding
+7392	responding	startup	synch	exception	stack	code	frames	threads	thread	suspended
+112613	remote	actions	breakpoints	files	dialog	view	file	java	breakpoint	log
+218086	statics	constants	filter	bug	variables	named	including	turned	work	filters
+8679	count	hit	breakpoint	reached	suspend	resume	suspends	debug	session	update
+18792	enabled	caught	uncaught	single	selections	selection	breakpoints	exception	minor	toggles
+124522	view	undo	display	debug	bug	perspective	functionality
+310511	dialog	view	font	breakpoints	click	breakpoint	window	select	sized	screenshot
+120170	external	bug	breakpoints	broken	editor	archives	workspace	debug	level	toggle
+74477	view	display	empty	bug	document	persists	persisted
+33644	jar	java	jre	lib	directory	xalan	endorsed	xerces	project	path
+78449	error	message	configuration	classpath	ant	project	launch	tab	closed	correct
+124147	jre	compliance	compiler	installed	warning	link	java	problem	selected	preference
+380918	project	projects	launching	view	optional	junit	jar	exist	entry	tests
+29683	jre	project	container	classpath	build	workspace	save	choose	refering	resolution
+38387	internal	error	messages	nls	ing	cases	ensure	pass	log	understand
+20468	source	jar	jre	attachment	path	image	src	check	attachemnt	drop
+30837	breakpoint	suspended	npe	exception	variables	debug	code	select	thread	result
+112503	background	color	display	java	text	unreadable	change	black	bright	main
+265714	breakpoint	condition	listeners	step	notified	debugger	registered	java	evaluate	execution
+396795	colour	breakpoint	background	detail	pane	selection	parent	explicitly	changing	prevent

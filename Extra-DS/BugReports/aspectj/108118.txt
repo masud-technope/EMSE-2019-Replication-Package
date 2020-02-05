@@ -1,0 +1,2 @@
+Complete implementation of @SuppressAjWarnings
+ensure that @SuppressAJWarnings are indeed suppressed during pointcut operations. This requires wrapping major pointcut operations with calls to Lint from the associated advice.

@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation org eclipse swt internal win notifyicondataa notifyicondata sz tip sztip sz info szinfo sz info title szinfotitle sizeof notifyicondataa size

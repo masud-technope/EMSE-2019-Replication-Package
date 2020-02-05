@@ -1,0 +1,2 @@
+performance improvements for runtime library
+I am heavily using the runtime signature information from thisJoinPoint.getSignature() and the toString() method of it. This causes heavy String operations each time the toString method is called. Would it be possible to cache the resulting string for example in MethodSignatureImpl and similar classes for other signatures?

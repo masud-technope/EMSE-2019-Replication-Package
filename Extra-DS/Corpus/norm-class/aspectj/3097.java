@@ -1,0 +1,1 @@
+fluffy java ioexception derived base only derived onlyderived ioexception clone not supported exception clonenotsupportedexception only derived non static onlyderivednonstatic both non static bothnonstatic only derived onlyderived derived

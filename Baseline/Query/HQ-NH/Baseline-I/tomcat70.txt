@@ -1,0 +1,33 @@
+50306	Detect	stuck	threads
+40901	listings	escape	XML	characters
+43142	webapp	expanded	FOLDER	named	webapps	xxx	war	loaded
+49030	Processing	Tomcat	Connector	configuration	leave	connectors	uninitialized
+46471	Compiled	tag	files	tag	libraries	share
+49991	Tomcat	JAAS	problem	CDI
+52488	common	typo	exipre
+37515	smap	generated	JspC	Ant	precompilation	Jsp
+58187	Tomcat	manager	incorrect	deployment	status
+51276	Startup	time	high	JARs	lib	webapps
+50189	AJP	connector	sends	BODY	CHUNK	reading	response	closed
+48973	Don	create	SESSIONS	ser	session	exists
+55958	Tomcat	deploy	dir	zip	archive	directory	ends	war
+51739	landingpage	XHTML	JSF	CDI	nullpointer	exception
+51294	work	option	unpackWARs	WARs	appBase	unpack	WARs	app	Base
+49758	Patch	Generics	warnings	rawtypes
+49567	starting	thread	startAsync	Runnable	infinite	amount	doPosts	generated	start	Async	Posts
+37984	JNDIRealm	java	handle	password
+54624	Form	authenticator	hangs	authentication	POST	request	mod	proxy	ajp
+56418	Manager	incorrectly	reports	deployment	failed
+53090	Servlet	superclass	injection	targets
+52387	org	catalina	tomcat	startup	Tomcat	silence	method	doesn	host	add	applications
+49892	Wrong	JNDI	Method	Resource	Injections
+43366	Session	Statistics	command	manager	fails	Unknown	command	sessions
+49000	Cookie	parsing	bug	empty	equal	sign
+57708	Patch	Authentication	reverse	proxy	authorization	Tomcat
+55469	Missing	HTML	closing	tags	Manager	application
+57136	Parser	escaping	dollar	sign
+41074	Output	tag	jsp	plugin	conform	XHTML
+46264	Shutting	tomcat	large	number	contexts	slow
+56248	Automatic	deployment	TCD	deletes	customized	context	xml	file
+42361	POST	content	type	incorrect	multipart	forms	login
+49721	Fail	access	resources	jsp	files	jar	file	supported	servlet

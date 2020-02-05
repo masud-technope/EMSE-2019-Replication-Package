@@ -1,0 +1,11 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/ajc/AjdtCommand.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/ajc/BuildArgParser.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/core/builder/AjBuildManager.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/tools/ajc/Main.java
+org.aspectj/modules/org.aspectj.ajdt.core/testdata/DumpTestCase/src/HelloWorld.java
+org.aspectj/modules/org.aspectj.ajdt.core/testsrc/org/aspectj/ajdt/internal/compiler/batch/AjdtBatchTests.java
+org.aspectj/modules/org.aspectj.ajdt.core/testsrc/org/aspectj/ajdt/internal/compiler/batch/CompilerDumpTestCase.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/Dump.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/World.java
+org.aspectj/modules/weaver/testsrc/org/aspectj/weaver/BcweaverTests.java
+org.aspectj/modules/weaver/testsrc/org/aspectj/weaver/DumpTestCase.java

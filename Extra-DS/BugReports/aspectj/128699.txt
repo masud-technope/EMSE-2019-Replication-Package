@@ -1,0 +1,2 @@
+"Incorrect error on ""declare"" statements"
+The error associated with the declare construct is incorrect. The current message is: "expected one of error, warning, parents, soft, dominates" dominates should be changed to "precendence" and new annotation related declararions should be mentioned. Here is a suggestion: "expected one of error, warning, parents, soft, precedence, @type, @method, @constructor, @field"

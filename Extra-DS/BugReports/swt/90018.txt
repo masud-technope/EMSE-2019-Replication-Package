@@ -1,0 +1,2 @@
+Native tooltips left around on CTabFolder
+Hover over the PartStack CTabFolder inside eclipse until some native tooltip is displayed. For example, the maximize button. When the tooltip appears, change perspectives using the keybinding. the CTabFolder gets hidden, but its tooltip is permanently displayed and never goes away. Even if that CTabFolder is disposed (I'm assuming) when the perspective is closed.

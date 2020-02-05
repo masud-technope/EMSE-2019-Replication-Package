@@ -1,0 +1,1 @@
+enum rainbow red orange yellow green blue indigo violet

@@ -1,0 +1,2 @@
+[Viewers] Bogus empty rows at the beginning of a table
+RC1: To reproduce this issue run the attached code. The table gets displayed with few blank lines at the top.

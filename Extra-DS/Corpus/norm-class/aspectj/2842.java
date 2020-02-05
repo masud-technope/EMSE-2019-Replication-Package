@@ -1,0 +1,1 @@
+org aspectj testing tester scopes and fields scopesandfields main string args scopes and fields scopesandfields real main realmain args real main realmain string args tester check equal checkequal tester check equal checkequal tester check equal checkequal string string object string object string tester check equal checkequal tester check equal checkequal

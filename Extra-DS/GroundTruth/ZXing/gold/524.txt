@@ -1,0 +1,1 @@
+com.google/zxing/qrcode/detector/Detector.java

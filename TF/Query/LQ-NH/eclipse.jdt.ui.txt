@@ -1,0 +1,102 @@
+421383	high	dpi	display	displays	eclipse	image	scaling	smaller	buttons	yoga
+99072	explain	add	preferences	item	code	bug	ctrl	modifier	assistant	polish
+144902	sequence	explorer	key	navigate	editor	ctrl	preference	alt	navigation	bind
+244742	status	compliance	code	compiler	add	cursor	ctrl	shift	project	insert
+303617	string	constant	menu	annotation	select	shift	alt	extract	identifier	quick
+305155	project	win	rcjsuen	eclipse	sdk	test	file	windows	folder	explorer
+318734	comments	performance	bug	obsolete	tests	applied	restart	degradation	bugs	perfs
+35339	javadoc	rendered	consistently	inheritdoc	completion	code	bug	isn	param	inheritedoc
+52750	boxes	indentation	messes	correct	bug	comment
+318731	comments	performance	obsolete	tests	bug	applied	restart	degradation	bugs	perfs
+416022	exception	encoding	eclipse	code	character	characters	file	details	product	org
+81172	spell	checking	preference	problems	editor	type	enabled	java	report	doesn
+249620	severity	problem	setting	bug	configurable	settings	preferences	workspace	org	eclispe
+381714	couldn	runnable	jar	wizard	export	msg	question	org	documentation	sensitive
+28698	file	read	summary	tells	editor	outline	works	bug	ctrl	work
+329252	preferences	auto	content	unit	delay	assist	time	activation	editor	clear
+217126	performance	tests	component	global	fingerprints	standard	strong	accurate	reliability	yellow
+45349	select	selection	bug	typing	replace	enter	press	smart
+329248	file	dialog	resource	exist	folder	rename	error	empty	reproduce	inappropriate
+271139	rename	cancel	note	select	cut	numbers	horizonal	button	dialog	edge
+102696	quick	method	update	comment	fail	bug	signature	fails
+162856	project	git	eclipse	folder	workspace	create	source	folders	src	subfolders
+9517	project	view	doesn	browser	perspective	open	junit	select	test	pass
+283697	override	missing	add	suggestions	time	elem	renaming	quick	methods	control
+55349	text	editor	quick	outline	box	delete	cursor	deletes	invoke	deleted
+13877	displayed	values	escaped	correctly	happen	nls	bug	notation	windows	tool
+67124	java	file	paste	copy	save	project	dirty	editor	minor	error
+296498	step	redo	junit	test	save	prompt	cancel	appears	launching	button
+153912	java	html	plan	parent	workspace	platform	view	model	text	eclipse
+178744	resource	file	editor	refresh	sync	behavior	test	display	menu	eclipse
+333631	bug	additional	workspace	property	key	test	field	rename	properties	tooling
+264504	observe	editor	file	explorer	rename	error	refactoring	create	resource	start
+52801	spell	checking	work	focus	press	hovers	bug
+113731	bigger	bug	component	refactoring	ibm	preview	determine	difficult	bit	strange
+232773	working	projects	list	selected	assign	pre	select	assignments	sets	expected
+129354	focus	javadoc	editor	hover	press	keybinding	annd	eclipse	popup	view
+108115	bug	jdt	don	constant	instance	submit	methods	astmatcher	specific	easy
+41302	method	extract	selection	comment	quick	select	code	foo	error	dialog
+185172	working	project	java	sets	menu	context	create	add	select	bug
+18780	view	deleting	members	doesn	cases	method	list	memeber	removed	bug
+19043	dialog	javadoc	wizard	press	small	select	bad	ugly	configure	pic
+274023	path	build	source	folder	folders	icon	nested	normal	lib	resource
+38499	hover	source	oszillates	activate	editor	preferences	indefinitetly	modifier	configure	disappears
+419692	bug	bugs	indicator	image	decorator	cgi	org	type	eclipse	leak
+64108	javadoc	keywords	longer	settings	editor	preferences	comments	color	work	highlighted
+62062	occurrences	annotation	mark	interesting	tooltip	description	variable	text	marked	wait
+294763	doesn	scrollbar	created	warnings	preference	screenshot	attachment	bug	resize	details
+47731	leaks	junit	view	colors	swt	closing	bug	time	repeated	opening
+28277	view	decorators	types	cvs	visible	turned	reappear	refresh	click	refreshes
+151668	prefix	copy	issue	add	backup	contradicts	advantage	reorg	sense	people
+211578	classpath	variable	click	faster	extend	slow	dialog	file	subsequent	build
+216707	compare	diff	comment	cluttered	toggle	changed	code	tabs	screenshot	braces
+313478	test	junit	browse	broken	file	selection	bug	explorer	active	wizard
+393602	hover	problem	ctrl	values	appears	combined	cut	isn	link	pictures
+224132	jar	java	resources	opened	inf	breadcrumb	bug	meta	manifest	breadcrumbs
+267918	dialog	center	widgets	string	bug	tostring
+492173	project	java	missing	dark	wizard	theme	side	bad	created	screenshot
+437398	file	extension	select	paste	dialog	bug	don	pre	scenarios	follow
+313751	modfier	typo	code	bug
+51093	brace	curly	repeatedly	opening	enter	closes	pressing	closing	completion	method
+82839	breakpoint	icons	file	breakpoints	open	margins	note	don	select	debug
+390546	warning	arrow	marker	yellow	opening	declaration	quick	supertype	vertical	appears
+215448	working	doesn	list	newly	dialog	select	bug	created	reopen
+199064	reordering	dnd	comments	formats	field	bug	methods	expected	format	fields
+304792	move	function	single	interfaces	identifier	works	select	method	reproducible	work
+32412	dialog	progress	ctrl	monitor	select	choose	ccp	canceled	file	bug
+299928	project	specific	hover	problem	javadoc	severity	settings	preferences	configure	dialog
+90528	editor	icon	problem	window	decoration	file	tab	open	instance	warnings
+17317	preference	screen	windows	big	java	options	motif	table	editor	appearance
+179109	ast	editor	creating	time	open	stack	waiting	generating	type	good
+252591	jar	lib	external	explorer	displayed	internal	works	references	created	manifest
+260528	compare	side	caret	prominent	carets	strange	wrong	head	enhanced	bug
+55221	javadoc	test	bug	node	code	grabs	range	comment	mapper	includes
+54459	search	click	type	view	editor	open	reason	cut	trees	good
+13243	types	browsing	select	list	delete	project	remains	agree	units	longer
+59845	editor	indicators	compute	file	bug	overriding	indicator	resolve	methods	hierarchy
+329677	type	hierarchy	view	abbreviation	setting	enable	qualified	works	honor	screenshot
+312014	tree	projects	view	folders	screen	export	jaws	select	reader	project
+338638	quick	externalization	string	fixes	margin	ctrl	relevance	empty	snapshots	pressing
+67274	file	read	project	explorer	create	linked	drop	projects	simlpy	moved
+244431	outgoing	jdt	project	dialog	equinox	modifying	preferences	org	change	click
+24271	folders	sorted	source	packages	simple	folder	eclipse	project	java	bug
+233941	history	workspace	refactoring	zip	ltk	metadata	refactorings	year	created	plugins
+108247	resources	selected	projects	scope	editor	disabled	computed	ctrl	active	enclosing
+30169	bookmarks	overview	ruler	hover	bookmark	bug	hovering	message
+139231	add	quick	exception	clause	surrounding	code	generates	duplicate	error	version
+42208	hover	affordance	black	source	text	gray	bug
+66787	filters	matched	message	search	bug	capitalized	wrong
+94951	bug	development	build	implementation	counterpart	prevents	jdt	text	compiler	error
+150249	string	code	empty	concatenation	paste	contents	copy	open	doesn	select
+344552	project	menu	data	remains	displayed	edit	closed	cleared	irrelevant	tabs
+58098	names	constant	java	cursor	don	smart	positioning	work	standard	works
+411636	stack	workspace	project	trace	noticed	delay	explorer	projects	saved	save
+388342	box	main	checked	time	method	unchecked	check	version	stays	wizard
+51187	getter	real	constants	setter	displayed	don	classes	difficult	setters	content
+14837	search	java	folder	actions	putting	icon	project	shouldn	packages	menu
+314354	project	library	refresh	explorer	path	java	add	click	build	workspace
+44535	bug	displayed	consequence	applied	classapth	message	error	opening	wrong	file
+263935	zzz	java	compare	type	synchronize	org	eclipse	core	jdt	open
+46332	tagging	ctrl	save	file	map	longer	cursor	projects	explanation	couldn
+329720	color	hover	background	debug	popup	preference	desktop	dark	theme	lynx
+364539	constructor	create	generate	access	modifier	fields	field	enum	disabled	identifier

@@ -1,0 +1,1 @@
+org aspectj apache bcel denotes push instruction produces literal stack sipush bipush iconst version constant push instruction constantpushinstruction java aclement exp author href mailto markus dahm berlin dahm iconst sipush constant push instruction constantpushinstruction push instruction pushinstruction typed instruction typedinstruction number get value getvalue

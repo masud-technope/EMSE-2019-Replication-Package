@@ -1,0 +1,15 @@
+org.eclipse/swt/SWT.java
+org.eclipse/swt/custom/StyleRange.java
+org.eclipse/swt/custom/StyledText.java
+org.eclipse/swt/custom/StyledTextRenderer.java
+org.eclipse/swt/graphics/TextLayout.java
+org.eclipse/swt/graphics/TextStyle.java
+org.eclipse/swt/internal/ole/win32/COM.java
+org.eclipse/swt/internal/win32/OS.java
+org.eclipse/swt/widgets/Canvas.java
+org.eclipse/swt/widgets/Caret.java
+org.eclipse/swt/widgets/Control.java
+org.eclipse/swt/widgets/Display.java
+org.eclipse/swt/widgets/Event.java
+org.eclipse/swt/widgets/Shell.java
+org.eclipse/swt/widgets/Widget.java

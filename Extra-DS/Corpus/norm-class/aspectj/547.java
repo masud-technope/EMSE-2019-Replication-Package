@@ -1,0 +1,1 @@
+ajdoc source ajdoc source do assert doassert

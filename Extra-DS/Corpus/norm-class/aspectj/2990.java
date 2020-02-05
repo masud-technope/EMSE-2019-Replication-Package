@@ -1,0 +1,1 @@
+java lang annotation org aspectj lang annotation aspect after throwing afterthrowing pointcut execution foo throwing runtime exception runtimeexception missing binding of throwing formal missingbindingofthrowingformal system println failure foo bar runtime exception runtimeexception

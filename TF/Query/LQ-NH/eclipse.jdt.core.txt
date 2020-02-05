@@ -1,0 +1,19 @@
+442245	files	source	java	eclipse	hang	project	copy	lead	workspace	turned
+410402	failures	bug	investigate
+11076	favorites	configuration	remain	configurations	launch	add	configs	list	delete	dialog
+385293	modifiers	normal	type	compiler	silently	read	references	accepts	modifier	accepted
+385132	colon	arrow	error	token	syntax	tokens	compiler	reports	issue	caused
+424591	graal	java	errors	spurious	workspace	resolution	projects	eclipse	attached	code
+85384	proposed	method	writing	assist	declarations	bug	content
+65738	save	build	change	occur	automatic	time	happen	making	automatically	project
+483895	bug	completion	preferences	disable	remove	substring	bugs	code	assist	fixed
+485302	bug	warnings	missing	wildcards	annotations
+357110	error	src	bin	sourcefolder	problem	create	classes	file	editor	project
+162740	org	documents	eclipse	php	html	equinox	referer	website	main	failed
+28951	source	attachment	rootpath	field	jar	eclipse	longer	bug	files	reason
+234074	current	compliance	jre	test	log	expected	error	launched	depending	bug
+380313	msg	java	stack	org	thread	functionality	error	windows	bit	inconsistent
+476859	error	attachment	oracle	traces	jdk	unit	tests	internal	works	code
+438875	project	encodings	file	bug	doesn	projects	correct	org	utf	encoding
+413913	failures	bug	investigate
+403705	failures	list	attachment	bug	created	failure	attached	details	investigate

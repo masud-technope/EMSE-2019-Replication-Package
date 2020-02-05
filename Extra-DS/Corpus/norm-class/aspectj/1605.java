@@ -1,0 +1,1 @@
+plus equals cant assign to object plusequalscantassigntoobject main string args object bye

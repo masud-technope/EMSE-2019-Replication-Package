@@ -1,0 +1,1 @@
+testcase declaration permitted local method scope local interface ce localinterfacece method allowed local allowed local static method staticmethod allowed local method allowed local

@@ -1,0 +1,1 @@
+java util simple generics usage simplegenericsusage main string argv array list arraylist string fruits array list arraylist string fruits add oranges fruits add apples fruits add pears system err println fruits size fruits defined

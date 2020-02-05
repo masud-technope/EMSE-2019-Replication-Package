@@ -1,0 +1,1 @@
+spacewar timer thread time ticks millis tick period game game game get game getgame game timer game the game thegame timer game the game thegame tdiff system current time millis currenttimemillis get game getgame clock tick clocktick tdiff system current time millis currenttimemillis tdiff tick period sleep math max tick period tdiff interrupted exception interruptedexception

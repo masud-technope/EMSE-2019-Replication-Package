@@ -1,0 +1,1 @@
+moody enum mood happy sad jolly grumpy

@@ -1,0 +1,2 @@
+ajc pseudo LTW not consistent with LTW
+docs says ajc provides LTW things, but that one does not at all go thru aop.xml lookups and so on Needs to be removed or made consistent in some way

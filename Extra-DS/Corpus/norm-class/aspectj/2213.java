@@ -1,0 +1,1 @@
+testcase abstract method error abstractmethoderror introduced methods orderings input files main main string args set next setnext set next setnext do it doit

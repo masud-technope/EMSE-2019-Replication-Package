@@ -1,3 +1,0 @@
-Bug 331864 – [JUnit] Importing from URL should trim whitespace and skip line delimiters
-HEAD
-Importing from URL should trim whitespace and skip line delimiters.

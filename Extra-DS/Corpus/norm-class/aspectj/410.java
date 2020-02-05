@@ -1,0 +1,1 @@
+nested synchronized nestedsynchronized object lock a locka object object lock b lockb object bug lock a locka lock b lockb main string args bug

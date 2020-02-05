@@ -1,0 +1,1 @@
+org aspectj apache bcel denotes unparameterized instruction produce top stack iload ldc sipush dup iconst version push instruction pushinstruction java aclement exp author href mailto markus dahm berlin dahm iload iconst ldc dup sipush getstatic push instruction pushinstruction stack producer stackproducer

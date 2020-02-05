@@ -1,0 +1,139 @@
+232706	Bug	Organize	Manifest	Mark	internal	internal	pattern
+206081	Bug	Source	Locations	included	directories	target	platform
+247553	Bug	Export	version	creating	Plug	existing	JAR	archives
+262918	Bug	org	eclipse	core	runtime	auto	start
+184068	Bug	PDE	Tooling	support	Exports
+182277	Bug	Plug	Dependencies	View	System	packages	distinguished	framework	packages
+169480	Bug	MANIFEST	editor	display	plug	names	commas
+188168	Bug	Errors	Workspace	dialog	displayed
+231688	Bug	filter	error	MANIFEST
+215314	Bug	manifest	editor	content	assist	additional	info	wrong	status	text
+206610	Bug	build	fresh	workspace
+173072	Bug	Wrong	plugin	editor	opened	clicking	plugin
+394260	Bug	Feature	Manifest	editors	don	respect	delimiters
+155158	Bug	Product	editor	doesn	support	delete	key
+211477	Bug	Preference	opened	Plug	Wizard	wrong	parent
+177177	Bug	Extension	points	dependencies
+441883	Bug	bidi	Compare	editors	MANIFEST	plugin	xml	enforce	LTR
+354586	Bug	API	Errors	Warnings	severity	fishy
+139037	Bug	PDE	resolve	translated	names	plugins	directory	format
+119843	Bug	Exporting	plug	leaves	file	javaCompiler	args	java	Compiler
+222753	Bug	Prompted	rebuild
+150305	Bug	Combo	box	lose	cursor	Linux
+183073	Bug	Manifest	Editors
+206887	Bug	Building	workspace	IES	target	large	number	plugins	takes	longer
+208164	Bug	Regression	Extension	search	longer	highlighted	plugin	editor
+230447	Bug	Invalid	warning	bundle	classpath
+226349	Bug	Eclipse	logs	seemingly	useless	install	bundle	error	bundle
+266548	Bug	target	Move	target	button	targets	moved	top
+172080	Bug	Quick	broken	Externalize	manifest	header
+280630	Bug	API	Baseline	dialog	resize	vertically
+198961	Bug	Feature	dependency	calculations	include
+171838	Bug	Environment	Target	editor	slow	initialize
+251970	Bug	tooling	OSGi	Declarative	Services	template	generates	invalid	MANIFEST
+229441	Bug	invalid	flagging	internal	extension	points
+118850	Bug	PDE	Launcher	program	arguments	command	arguments
+184646	Bug	Launchers	Add	Required	Plug	ins	acts	weird
+97605	Bug	Dialog	cut	High	Contrast
+184644	Bug	Feature	Editor	Sorting	incorrect
+166984	Bug	Eclipse	Application	launch	config	fails	SWT	fragment	workspace
+151112	Bug	Organize	Manifests	adds	settings	META	INF	Export
+218697	Bug	dynamic	plug	project	API	description	API	component
+235336	Bug	compile	plugins	referenced	link	files
+267848	Bug	PDE	illegally	complains	externalized	strings
+252751	Bug	tag	tests	mysteriously	failed
+186701	Bug	Target	Environment	Amnesia
+172374	Bug	Launch	Eclipse	Application	clears	target	workspace	determines
+164438	Bug	Signed	features	mistaken	plug	ins
+201044	Bug	pde	fragment	wizard	doesn	transfer	host	maximum	version	wizard	manifest
+163161	Bug	PDE	Extension	Wizard	creates	bad	plugin	xml	file
+418392	Bug	PDE	Build	dependency	runtime	compatibility	optional
+140381	Bug	Convert	produces	warnings	build	properties	existing
+203356	Bug	target	platform	looses	previous	bundles	adding	directory	target	plugins
+261474	Bug	Manifest	Editors	Quick	Diff	Numbers	don	work	build	properties	editor
+50018	Bug	update	path	prompt	save	plugin	xml
+149604	Bug	Amnesia	opening	manifest	JARd	plug
+293474	Bug	Editing	extensions	PDE	editor	creates	invalid	plugin	xml
+153195	Bug	Create	OSGI	Bundle	Manifest	generates	exports	CVS	metadata
+247663	Bug	outline	view	displayed	garbled	text	editor	overview	displayed
+113004	Bug	Plug	dependencies	element	disappears	working
+370536	Bug	Creating	product	plugin	Extension	tab	empty	editor	closed	opened
+183405	Bug	Manifest	Editors	Required	Plug	ins	title	missing	Dependencies
+277611	Bug	target	Target	Platform	brings	plugins	previous	installations
+138093	Bug	Adding	Imported	Provide	Version
+154739	Bug	PDE	editor	tab	tooltip	fully	qualified	opened	plugin	deps	view
+34165	Bug	Manifest	builder	build	properties	plugin	xml	sync	mark	inconsistencies
+130424	Bug	Registry	view	fragments
+264057	Bug	target	warning	target	selected	preference
+154493	Bug	plugin	xml
+225148	Bug	PDE	target	doesn	work	easily
+150916	Bug	Plug	wizard	resizes	full	screen	height
+138127	Bug	Dependecy	Analysis	side	edit	plugin	xml	file
+149900	Bug	PDE	Locks	adding	ton	required	plugins	sweet	time
+209554	Bug	check	problems	platform
+173712	Bug	Plug	Project	jar	wizard	fails	enable	Finish	button
+167313	Bug	File	System	Target	Provisioner	wizard	glitches
+155796	Bug	Patch	jface	text	deprecation
+201369	Bug	Deleting	Extension	Point	file	problems
+108954	Bug	Error	project	creation	manifest	file	created	classpath
+228765	Bug	existing	config	ini	product	editor
+94366	Bug	Feature	appears	feature	selection	dialog
+221852	Bug	export	features	enabled	SDK
+324773	Bug	patch	feature	xml	editor	Recompute	check	box	dependencies	tab	stay
+344996	Bug	API	Freeze	check	leads	NPE
+268966	Bug	binary	plug	ins	update	source	attachment	replacing	existing	jared	plug	ins
+209056	Bug	config	ini	generated	eclipse	launch	configuration	work	target
+229024	Bug	meta	attribute	schema	insensitive
+266144	Bug	doc	Missing	topics	schema	editor
+128683	Bug	Organize	Manifest	detect	remove	exported	bundles
+264106	Bug	target	Provide	careful	handling	Remove	button	pressed
+176045	Bug	Extension	editor	doesn	remember	field
+116919	Bug	Plug	Manifest	Editor	loses	dependency	addition
+381875	Bug	Javadoc	errors	org	eclipse	pde	core	target
+163258	Bug	Bundle	Localization	Manifest	Header	honored	plugin	xml	editor
+171962	Bug	translatable	attribute
+264383	Bug	target	target	definition	wizard	resets	contents
+224447	Bug	change	internal	manifest	file	picked
+215743	Bug	schema	errors	displayed	problems	explorer	views
+380857	Bug	mixed	delimiters
+143293	Bug	TVT	TCT	English	string	Sample	Table	Contents
+283588	Bug	target	target	editor	acting	strange	incorrect	context	hookup
+436418	Bug	Regression	Plug	ins	view	Find	References
+180420	Bug	Plug	wizard	defaults	biased	plug	development
+475855	Bug	patch	TVT	IES	Platform	String	concatenation	appeared	Polish	Language
+307149	Bug	Adding	packages	Manifest	rebuild
+109003	Bug	editing	plugin	xml	located	subfolder	plugin	project	edits	MANIFEST	root
+443338	Bug	Errors	saving	plugin	descriptor	file
+113870	Bug	PDE	editor	improperly	process	extension	points	defined	fragments
+151501	Bug	Vertical	layout	weird	Extensions
+182483	Bug	Plug	Dependencies	View	sorting	lost	changing	presentation	mode
+270549	Bug	tooling	Services	label	rendered
+274646	Bug	Progress	reporting	API	comparison	hits
+201681	Bug	Manifest	Editors	Weird	character	representing	open	bracket	tree	table	viewers
+229584	Bug	Compute	dependencies	feature	broken
+197077	Bug	Schema	Editors	Read	description	writable
+223194	Bug	failing	test
+199129	Bug	Bundle	Localization	header	Fragments	externalized
+199896	Bug	Wizard	layout	express	wasteful
+173791	Bug	PDE	Tools	Organize	Manifest	incorrectly	identifes	externalized	Bundle	Category	unused
+154593	Bug	PDE	Tools	Update	Classpath	deletes	Access	Rules
+137700	Bug	Product	editor	generates	plugin	list	feature	based	product
+154853	Bug	Missing	border	Extensions	tab
+228840	Bug	Invalid	Plug	error	severity	warning
+443114	Bug	extension	editor	longer	custom	icons
+201966	Bug	Schema	Editors	Buttons	enabled	editor	editable
+272107	Bug	target	Minor	issues	content	tab
+209138	Bug	host	plugin	presented	Automated	Management	Dependencies	Add	dialog	fragment
+298742	Bug	Duplicate	unordered	problems	build	properties
+231409	Bug	Conversion	org	eclipse	update	core	causing	weird
+252913	Bug	tooling	ensure	component	xml	files	included	bin	includes
+164337	Bug	exceptions	PDE	refactoring	participant
+226800	Bug	xml	docs	parsed	correctly
+152054	Bug	tooltip	description
+226037	Bug	initialization	policy	target	platform	based	location
+229626	Bug	changing	unsupported	API	tag	severity	update	problems
+496382	Bug	Eclipse	app	layout	Add	API	Baseline	doesn	accept	app	bundle
+229624	Bug	Text	wrapped	cutted	plugins	wizard
+274687	Bug	target	Reloading	target	platform	delta	pack	synch
+264696	Bug	target	current	target	backing	target	definition	file	deleted
+185597	Bug	Errors	creating	school	plug	ins

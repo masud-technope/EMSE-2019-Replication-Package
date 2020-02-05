@@ -1,0 +1,1 @@
+org aspectj testing small comment smallcomment main string args small comment smallcomment real main realmain args real main realmain string args tester check compiled

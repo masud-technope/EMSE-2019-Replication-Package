@@ -1,0 +1,1 @@
+ambiguous class reference ambiguousclassreference testcase purejava ambiguous type reference types testcase main string args error expecting compiler error compile duplicate type foo duplicate type foo

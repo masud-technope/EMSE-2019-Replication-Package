@@ -1,0 +1,26 @@
+439431	strategy	reconciling	reconcileworkingcopyoperation	reconciler	compilationunitproblemfinder	dumptargettypecontents	reconcile	javamodeloperation	mono	composite
+301894	memory	issues	large	reproducible	appeared	sees	product	patch	compiling	follow
+277382	parser	consumerule	consume	equinox	consumeclassheadername	editors	parse	team	synchronize	strange
+124099	otherinits	patch	xlarge	xlargetest	inits	flow	extradefiniteinits	complains	lot	receiver
+46084	lexstream	lex	diagnose	diagnoseparser	events	abstractimagebuilder	image	javabuilder	incrementalimagebuilder	parser
+405889	getjavalanginvokemethodhandleslookup	review	beta	resilience	handles	bugs	invoke	npe	needed	codegen
+29516	regressions	failing	refactoring	responsible	searchengine	engine	search	tests	bug
+483467	realm	workbench	eclipsestarter	starter	app	swt	rendering	adaptor	launcher	equinox
+456395	attachment	sample	details	map	mismatch	compile	convert	created	code	object
+228691	isassignable	assignable	overview	language	transformations	primitive	annotating	wrapper	assignment	issubtype
+41554	assertion	failure	searching	easier	olivier	search	sourcetype	debugging	attached	included
+421469	intfunction	codecomplete	resolvestatements	localdeclaration	computer	ctrl	completionengine	abstractmethoddeclaration	completion	proposal
+418843	strategy	reconciling	reconcileworkingcopyoperation	reconciler	npes	compilationunitproblemfinder	reconcile	javamodeloperation	testenum	fiel
+31261	errors	strange	limit	error	behavior	compilation	reported	full	max	expected
+431963	nonnull	confusion	nullable	stub	gettypeannotations	invoked	snippet	auto	varargs	parameter
+388634	chooses	route	compliance	dcompliance	failure	runjdtcoretests	misses	jdtcore	preview	levels
+165346	operatorexpression	nullstatus	conservative	covered	conditional	flowinfo	flow	status	operators	expression
+25377	view	selected	select	error	mismatch	task	compile	object	convert	correct
+92005	workbench	popup	widget	assistant	starter	eclipsestarter	widgets	swt	computecompletionproposals	completionparser
+126180	member	causing	npe	raised	access	reporting	object	enclosing	invalid	main
+448043	mainscreen	screen	syso	proposal	compilationunitresolver	importrewrite	press	astconverter	astparser	rewrite
+396139	beta	javadoctestforclass	jre	functions	team	coordinate	reproduce	upgrade	commits	regressions
+145202	analyzer	positive	raises	negated	element	err	negative	reference	println	system
+149562	val	complains	covers	small	enumerations	enumeration	types	statements	initialized	bug
+17531	save	select	plan	rename	assumptions	entering	happening	refactoring	actions	file
+488888	abstracttexteditor	compareeditorinput	contentmergeviewer	dosetinput	viewer	javaeditor	texteditor	editor	pde	modal

@@ -1,0 +1,4 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/ast/AspectDeclaration.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/lookup/AjLookupEnvironment.java
+org.aspectj/modules/tests/bugs/OverloadedPointcutsInAspect.java
+org.aspectj/modules/tests/bugs/OverloadedPointcutsInClass.java

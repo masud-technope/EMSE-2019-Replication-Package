@@ -1,0 +1,2 @@
+SWT StyledText does not support inline Input method
+On MacOS X, When the user turns on Japanese Input Method and types japanese characters on SWT StyledText, the floating Input Window shows up. Since the inline IM window shows up on SWT Text widget, SWT StyledText widget should also display the inline IM on the widget. This happens also on Chinese and Korean Input method.

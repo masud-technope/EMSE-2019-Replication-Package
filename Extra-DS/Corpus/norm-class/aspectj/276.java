@@ -1,0 +1,1 @@
+testcase purejava compile problems loading classes names suffixes names prefix

@@ -1,0 +1,2 @@
+Use GtkComboBox instead of GtkCombo
+Attached are 2 screenshots using Fedora Core 3 (GNOME 2.8, GTK 2.4.14). goodcombo.png is GTK's native Open File dialog. badcombo.png is Eclipse's Team preferences page. You can see that Eclipse does not render the read only Combo properly. Rendering combos this way is confusing because it implies you can edit the values when you actually can't. It also doesn't match the combos in other native applications. Please render the Combo widget to match the native GTK platform. Thanks!

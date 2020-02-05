@@ -1,0 +1,1 @@
+inner members innermembers static i statici string foo foo err constant integer int value intvalue err constant err constant string foo foo err constant err constant err constant string foo foo

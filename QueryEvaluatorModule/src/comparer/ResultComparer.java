@@ -66,11 +66,10 @@ public class ResultComparer {
         this.populateSTRICTResults();
     }
 
-    protected void populateSelectedBugsV2() {
+	protected void populateSelectedBugsV2() {
 
-        this.selectedBugs = SelectedBugs.getNLSelectedBugs(repoName);
-    }
-
+		this.selectedBugs = SelectedBugs.getAll3Bugs(repoName);
+	}
   
     protected void populateBaseResultsV2() {
 

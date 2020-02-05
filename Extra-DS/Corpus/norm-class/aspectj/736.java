@@ -1,0 +1,1 @@
+anonymous method lookup anonymousmethodlookup main string args foo foo

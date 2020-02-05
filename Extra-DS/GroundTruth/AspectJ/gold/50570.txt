@@ -1,0 +1,4 @@
+org.aspectj/modules/tests/bugs/HandlerSig.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/Member.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/ResolvedMember.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelShadow.java

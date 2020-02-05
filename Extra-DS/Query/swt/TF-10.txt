@@ -1,0 +1,77 @@
+84609	table column pack lvttable getcolumn tablecolumn lvt columns npe caught 
+79107	elements setitems string ignore check consistency items platforms 
+94467	list bogus editor lay ctrl columns shift bring appears layouts 
+78854	clipboardproxy data clipboard proxy getfunc func function memory pvalue freed 
+94598	quot eclipse search input scope iimf hangs dbcs click select 
+104966	link enabled disabled displays swt text editor drop preview note 
+107145	eclipse swt org widget widgets plugins release isv platform java 
+78856	clipboard swt image support copy render bitmaps access memory isn 
+94603	standard border buttons inset windows spinner puts swt box control 
+102794	text layout swt box data label shell display grid width 
+88717	eclipse org viewcvs swt scrolling item bottom tree snippets snippet 
+108813	quot bug closed span array style cgi xml href text 
+97678	sash drag item lose custom control sashform customcontrolexample eclipse longer 
+90258	item table data current count event swt proposal image clearall 
+80276	update layout cbanner control calls cbannerlayout code interactive resizing good 
+96916	spinner settooltiptext text tool doesn widget work tooltip appears 
+91159	data event type field datatype dragenter drag enter drop types 
+86294	find replace illegal mac unsupported quot escape dialog search java 
+97177	ime chinese open eclipse editor lost closed text window misc 
+119192	mouse ccombo fired move listeners throught responde display mousemove listener 
+111259	drop viewer outline insertion mark gtk don tree click treeviewer 
+93724	drag buffer quot signal data converter connect address wcs control 
+100387	hover shell mouse mousehover folder ctabfolder ctab temporary created tooltip 
+90018	folder ctabfolder ctab tooltip displayed stack hidden change appears keybinding 
+79268	warning libgnomevfs deprecated mime output database function modifications longer gecko 
+87460	text style swt shell display font styles eclipse org listener 
+103976	values method setvalues increment spinner slider pain widget picky pageincrement 
+78634	mask transparency data image imagedata implementation gettransparencymask code javadoc receiver 
+81834	quot text styled number styledtext arabic widget european shell numbers 
+82346	data clabel label swt griddata grid center setlayoutdata shadow fill 
+84012	text swt shell layout display wrap font styled styledtext quot 
+105772	color background search label strange swt correct tab bocks text 
+87855	java eclipse org main method swt workbench core internal table 
+106289	snippet columns tree blurry text item applied column sample antialiasing 
+99376	column width view table registry select increased tree runtime opened 
+113971	eclipse java org test tree viewer viewers jface core main 
+95410	string gdi drawstring draw triggered large previous bad painted consistent 
+91317	values spinner negative negavtive build support version 
+96053	spinner text standard select focus windows bug span note cgi 
+87997	table dispose editor item text shell tableeditor disposed listener npe 
+89533	themes preferences entries color fonts icons colors funny 
+80830	focus drawfocus draw drawing gtk bug span limitation cgi wontfix 
+83262	pasting rxvt terminator string styled clipboard button mouse protocol problem 
+87363	menu event shell display detect menudetect swt item amp showmenu 
+99266	table displayed bogus code blank issue rows empty reproduce viewers 
+82500	canvas ptcalccanvas area calc tabs widgets drawing limitation widget getclientarea 
+92612	number tabs chevron hidden view top narrow folder ctabfolder ctab 
+93380	cpu navigator dragging file thread usage event views doesn explorer 
+117574	display shell swt event clipping buffered left string listener paint 
+99145	link text quot widget disabling mixed configure screenshot disables content 
+84557	table editor item ctrl list handy empty running brings esc 
+108236	spinner maximum setmaximum max min setminimum minimum parent code activity 
+92241	selection change areas clipboard selecting bug span big note cgi 
+97745	quot column mouse table release button view header location note 
+85072	http org cgi dev href eclipse application mozilla windows problem 
+92757	styledtext add caret listener styled text 
+78548	mouse selection mouseup button controlexample listeners control turn consistency click 
+104150	table selection cursor lines space empty swt visible grid snippet 
+75739	string variant tostring getstring type empty quot exception cases gettype 
+78559	selection mouse mousedown slider consistency events fired click fires bug 
+108769	patch swt code filedialog additional javadoc dialog file adds method 
+102756	gtk combo combos render png match eclipse widget values box 
+86631	javadoc stream doesn image code determine correct apply streams pattern 
+115947	tooltip image text table images accessibility column alt compliant 
+101354	image data loader bug span cgi imagedataloader imagedata imageloader title 
+81265	background tree colour incorrect tabletree change control remains entire enabled 
+81264	table top shell quot settopindex item display items gettopindex calling 
+86000	quot loader image files string jpeg imageloader save dir swt 
+83699	font update updatefont object composite workbench method display main styled 
+97651	tree quot item root shell display insert button swt treeitem 
+79481	swt layout child form sash shell display composite quot button 
+80120	top layout folder ctabfolder ctab pixel border item puts toolbar 
+108792	caret occurences arrow foo position press styledtext wait ranges lass 
+80506	shell display active widgets swt org eclipse forceactive force setactive 
+88829	columns move column fired setcolumnorder table events order displayed auto 
+77948	eclipse java org swt widgets event widget workbench composite gtk 
+87676	column click clicking works log tree listener dialog notification view 

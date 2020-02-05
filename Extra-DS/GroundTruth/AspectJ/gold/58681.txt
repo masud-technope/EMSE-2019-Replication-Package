@@ -1,0 +1,4 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/ajc/AjdtCommand.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/ajc/BuildArgParser.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/tools/ajc/Main.java
+org.aspectj/modules/org.aspectj.ajdt.core/testsrc/org/aspectj/tools/ajc/MainTest.java

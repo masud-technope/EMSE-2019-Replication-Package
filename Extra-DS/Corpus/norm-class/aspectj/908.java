@@ -1,0 +1,1 @@
+org aspectj testing tester anonymous with inner anonymouswithinner main string args anonymous with inner anonymouswithinner foo called to string tostring tester check events checkevents string foo object object tester event string to string tostring object to string tostring tester check equal checkequal to string tostring

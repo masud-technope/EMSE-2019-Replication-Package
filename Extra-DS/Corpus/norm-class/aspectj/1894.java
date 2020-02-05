@@ -1,0 +1,1 @@
+copyright palo alto center incorporated rights reserved figures java awt java awt geom mistakes caught invariant checkers slothful point slothfulpoint shape figure element shapefigureelement slothful point slothfulpoint set x setx set y sety move string to string tostring slothful point slothfulpoint shape get shape getshape ellipse

@@ -1,0 +1,19 @@
+442245	hangs	hang	paste	automatic	lead	portion	turned	attachment	editor	copied
+410402	investigate	failures	bug
+11076	configs	favorites	favorite	configurations	remain	listed	dialog	launch	configuration	deleted
+385293	silently	grammar	accepts	accepted	stored	normal	changed	modifier	marker	parser
+385132	verbatim	fixes	misplaced	arrow	bottom	grammar	colon	issue	reports	adding
+424591	rev	reproducing	subdirectory	unzip	openjdk	beta	spurious	completes	javase	small
+85384	proposed	writing	assist	content	declarations	bug	method
+65738	automatic	making	builds	automatically	notice	happen	occurs	running	occur	save
+483895	dependent	disable	preferences	fixed	assist	completion	substring	content	remove	bugs
+485302	wildcards	missing	annotations	warnings	bug
+357110	reproducible	classfolder	circumstances	explorer	refactor	outputfolder	describe	steps	displayed	workaround
+162740	website	equinox	coding	links	documents	dir	failed	directory	open	stream
+28951	functioning	older	manually	restarting	edited	rootpath	reason	attachment	projects	longer
+234074	elaborated	dcompliance	launched	jre	depending	account	fails	mismatch	log	compliance
+380313	latest	machine	windows	functionality	refer	inconsistent	msg	details	bit	thread
+476859	traces	ejc	oracle	attachment	failures	attached	works	pass	command	details
+438875	unix	encodings	delimiter	projects	utf	encoding	doesn	correct	files	project
+413913	investigate	failures	bug
+403705	investigate	attachment	failures	attached	details	failure	created	list	bug

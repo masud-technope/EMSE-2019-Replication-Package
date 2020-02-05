@@ -1,0 +1,65 @@
+167426	Bug	InstructionPointerContext	reference	closed	editor	Instruction	Pointer	Context
+76675	Bug	Pattern	Matching	independent	IOConsole	IOConsolePartitioner	IOConsole	Partitioner
+24839	Bug	TimeoutException	debugging	org	eclipse	tests	Timeout	Exception
+21769	Bug	Invalid	code	stepping	junit	code
+217736	Bug	Unhandled	event	loop	exception
+93578	Bug	java	lang	ArrayIndexOutOfBoundsException	ConsoleDocumentAdapter	Array	Bounds	Exception	Console	Document	Adapter
+27276	Bug	instance	filter	tests	working
+53135	Bug	NPE	variable	substitution
+229394	Bug	CellEditors	NPE	JFace	cell	editor	variables	view	Cell	Editors
+145553	Bug	variables	modify	String	variable	empty	string	Change	dialog
+455199	Bug	debug	Debugging	doesn	work	properly	classes
+102427	Bug	inspect	display	methods
+47003	Bug	NFE	crash	debugging
+184862	Bug	evaluation	evaluation	method	generics	work
+114589	Bug	NPE	invoking	content	assist	view
+23328	Bug	Resume	fails	suspend	breakpoint	stepping	BUG
+16930	Bug	Eval	incompatible	thread
+472612	Bug	NullPointerException	PopupInspectAction	close	Pointer	Exception	Popup	Inspect	Action
+28195	Bug	NPE	shutdown	debug	remote	launch
+491299	Bug	Classpath	tab	Java	application	wrong	colors
+57257	Bug	ArrayOutOfBoundsException	debug	event	dispatch	Array	Bounds	Exception
+137513	Bug	Internal	error	stepping
+15792	Bug	VMDisconnectedExceptions	log	VMDisconnected	Exceptions
+18100	Bug	Internal	error	Lauch	Configurations	dialog
+90805	Bug	Drop	frame	failed	evaluation	message	error	dialog	evaluation	flag	cleared
+165174	Bug	viewers	selection	lost	launch	view	stepping	sync	block
+428862	Bug	Unable	install	breakpoint
+145592	Bug	Debugger	confused	watchpoints	fields
+22842	Bug	NPE	adding	variable	view
+296505	Bug	applet	parameters	trailing	spaces
+80191	Bug	Link	exception	console
+172989	Bug	NPE	disabling	breakpoint
+53952	Bug	type	local	variables	displayed
+18115	Bug	IllegalArgumentException	Duplicate	Illegal	Argument	Exception
+53959	Bug	Nested	type	names	correctly	displayed
+120651	Bug	Display	Content	Assist	work	consistently	Variables	View
+134865	Bug	VMDisconnectedException	caught	breakpoint	VMDisconnected	Exception
+13525	Bug	Error	evaluating
+161364	Bug	Evaluating	Code	Generics	work	debugging
+78422	Bug	test	failure	testSimpleLineCounter	test	Simple	Counter
+127195	Bug	Problems	project	rename
+63323	Bug	Marker	clicking	ruler
+16219	Bug	setting	classpath	work
+94047	Bug	ActionSets	classpath	Toolbar	shudders	opening	Classpath	Variables	preference	Action	Sets
+169565	Bug	NPE	JDIDebugTarget	quering	supportsInstanceRetrieval	JDIDebug	Target	supports	Instance	Retrieval
+12640	Bug	Workspace	runnable	correctly
+88674	Bug	NPE	validating	breakpoint	location
+105573	Bug	suspend	uncaught	exception	compiler	warning
+74085	Bug	Exception	hyperlink	conflicts	stack	trace
+506863	Bug	NPE	AbstractVMInstallType	findVMInstallByName	VMInstall	Type	find	VMInstall
+345196	Bug	NPE	saving	file	debugging	ant	task
+8683	Bug	NPE	suspending	attempting	step	system	thread
+29036	Bug	NPE	debugging
+231790	Bug	NPE	opening	Configuration	Dialog	linux	gtk
+80879	Bug	NPE	JavaLogicalStructures	Java	Logical	Structures
+10096	Bug	Eclipse	aware	launched	JVM	JRockit
+232699	Bug	TVT	TCT	TVT	Space	missing	colon	sign	French
+12665	Bug	ClassNotLoaded	JDI	exception	conditional	breakpoint	Loaded
+53115	Bug	Contribute	remote	Ant	support	extraClasspathEntry	extra	Classpath	Entry
+4348	Bug	ResourceMarkerAnnotaionModel	unnecessary	fireModelChange	Resource	Marker	Annotaion	Model	fire	Model	Change
+191486	Bug	breakpoints	Alt	Enter	java	breakpoint	properties	command	exceptions
+404731	Bug	Launch	configuration	refactoring	exceptions	Entries	Configuration	vanish	usage	Eclipse	IDE
+157055	Bug	variables	view	click	variable	produces	ClassNotLoadedErrors	Loaded	Errors
+18174	Bug	Quotes	execution	arguments	Java	launch
+53247	Bug	Timeout	exception	exiting	program	caused	block

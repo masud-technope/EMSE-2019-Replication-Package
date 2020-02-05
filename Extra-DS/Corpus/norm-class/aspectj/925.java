@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples interpreter aspectj boolean constant booleanconstant boolean expression booleanexpression constant boolean constant booleanconstant evaluates expression context param context evaluate expression expression evaluate variable context variablecontext

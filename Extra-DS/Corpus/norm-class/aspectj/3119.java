@@ -1,0 +1,1 @@
+coordination coordination actions passed guarded entry guardedentry methods coordinator coordination actions passed anonymous classes simply implement doit method coordination action coordinationaction method called coordinator guarded entry guardedentry coordinator guarded exit guardedexit changing coordination entering exiting methods doit

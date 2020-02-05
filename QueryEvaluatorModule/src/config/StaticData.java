@@ -7,10 +7,12 @@ public class StaticData {
 	// public fields
 	public static int TOURNAMENT_SIZE = 10;
 	public static int MAX_QTERM_SUGGESTION = 10;
-	public static int INDIVIDUAL_GENE_SIZE = 10;
+	public static int INDIVIDUAL_GENE_SIZE = 5;
 	public static int MAX_GENERATION_COUNT = 100;
 	public static int POPULATION_SIZE = 100;
-	public static int PRF_SIZE=10;
+	public static int PRF_SIZE = 10;
+	public static double UNIFORM_CROSSOVER_RATE = 0.5;
+	public static double MUTATION_RATE = 0.015;
 
-	public static int MAX_QUERY_LEN=1024;
+	public static int MAX_QUERY_LEN = 1024;
 }

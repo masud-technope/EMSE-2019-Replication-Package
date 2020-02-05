@@ -1,0 +1,2 @@
+[Tasks] No summary shown in status line
+build I20030625 The old tasks view showed a summary of the number of tasks, errors, warnings and infos in the status line. This is missing in the reworked view.

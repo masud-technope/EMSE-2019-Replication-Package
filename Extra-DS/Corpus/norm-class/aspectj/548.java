@@ -1,0 +1,1 @@
+org aspectj lang annotation aspect org aspectj lang annotation pointcut aspect test empty pointcut at aspect testemptypointcutataspect pointcut scope pointcut scope

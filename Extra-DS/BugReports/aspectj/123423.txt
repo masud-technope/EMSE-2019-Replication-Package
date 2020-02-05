@@ -1,0 +1,2 @@
+RFE: Expose withinType for pertypewithin aspects
+Per type within aspects have a generated field ajc$withinType. Almost any time I ever use one of them, I'd like to access this field. Sometimes, e.g., for deferred initialization, I have to create a duplicate field that initializes this as such: private Class managedClass; after() returning: staticinitialization(*) { managedClass = thisJoinPointStaticPart.getSignature().getDeclaringType(); ... It would be nice if there were a method with the signature Class getWithinType() defined on any pertypewithin aspect.

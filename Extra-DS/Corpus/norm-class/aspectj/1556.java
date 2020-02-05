@@ -1,0 +1,1 @@
+figures main main string args system println starting figures figure fig figure point point set x setx set x setx system println get x getx point fig make point makepoint system println finished

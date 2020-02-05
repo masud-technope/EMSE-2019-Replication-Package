@@ -1,0 +1,2 @@
+"annotations and ""circularity in declare precedence"""
+The following example declare precedence : (@PremiumPartner *), *; results in the error message circularity in declare precedence, ''*'' occurs more than once It is the same example (apart form the name) as in the developers notebook. (see also http://dev.eclipse.org/mhonarc/lists/aspectj-dev/msg01326.html)

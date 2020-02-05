@@ -1,0 +1,1 @@
+copyright xerox corporation palo alto center incorporated parc rights reserved program accompanying materials terms common license accompanies distribution http eclipse org legal cpl html contributors xerox parc initial implementation org aspectj ajde author mik kersten ide uiadapter ideuiadapter display status information displaystatusinformation string message

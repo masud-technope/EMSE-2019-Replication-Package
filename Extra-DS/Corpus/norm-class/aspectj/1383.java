@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples proxy aspectj alternate output implementation alternateoutputimplementation prints argument string code system code param string print alternate request alternaterequest string system println alternate subject alternatesubject safe request saferequest

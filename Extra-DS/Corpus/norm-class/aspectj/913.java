@@ -1,0 +1,1 @@
+org aspectj testing tester java util inner access inneraccess main string args tester check equal checkequal get count getcount string runnable runnable get count getcount object length map entry object get key getkey object get value getvalue object set value setvalue object middle middle

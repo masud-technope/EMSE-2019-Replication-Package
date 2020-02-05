@@ -1,0 +1,19 @@
+442245	hang	lead	hangs	files	paste	automatic	portion	turned	attachment	editor
+410402	investigate	failures	bug
+11076	favorites	configurations	remain	configs	launch	configuration	favorite	listed	dialog	deleted
+385293	normal	silently	modifiers	grammar	accepts	accepted	stored	changed	modifier	marker
+385132	colon	arrow	verbatim	syntax	tokens	fixes	token	misplaced	bottom	grammar
+424591	spurious	beta	rev	resolution	reproducing	attached	subdirectory	unzip	errors	workspace
+85384	proposed	writing	assist	declarations	content	method	bug
+65738	automatic	save	occur	change	making	build	builds	time	automatically	notice
+483895	disable	preferences	completion	substring	dependent	bug	fixed	remove	assist	content
+485302	wildcards	missing	annotations	warnings	bug
+357110	outputfolder	sourcefolder	editor	reproducible	workaround	src	bin	classfolder	circumstances	explorer
+162740	equinox	documents	website	coding	links	dir	failed	directory	open	stream
+28951	rootpath	attachment	functioning	older	longer	manually	restarting	edited	jar	reason
+234074	elaborated	jre	dcompliance	launched	compliance	depending	account	fails	mismatch	current
+380313	msg	latest	machine	windows	functionality	refer	inconsistent	details	bit	thread
+476859	traces	oracle	attachment	ejc	jdk	failures	attached	works	pass	command
+438875	encodings	unix	project	delimiter	projects	utf	encoding	doesn	correct	bug
+413913	investigate	failures	bug
+403705	failures	investigate	attachment	attached	details	failure	list	created	bug

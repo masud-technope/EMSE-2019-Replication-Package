@@ -1,0 +1,4 @@
+org.aspectj/modules/loadtime/src/org/aspectj/weaver/loadtime/ClassLoaderWeavingAdaptor.java
+org.aspectj/modules/loadtime/src/org/aspectj/weaver/loadtime/WeavingURLClassLoader.java
+org.aspectj/modules/tests/src/org/aspectj/systemtest/ajc153/Ajc153Tests.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/tools/WeavingAdaptor.java

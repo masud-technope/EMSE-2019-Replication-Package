@@ -1,0 +1,12 @@
+org.aspectj/modules/weaver/src/org/aspectj/weaver/WeaverMessages.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/AnnotationPointcut.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/ArgsAnnotationPointcut.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/DeclareAnnotation.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/ThisOrTargetAnnotationPointcut.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/WildAnnotationTypePattern.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/WithinAnnotationPointcut.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/WithinCodeAnnotationPointcut.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/tools/WeavingAdaptor.java
+org.aspectj/modules/weaver/testsrc/org/aspectj/weaver/patterns/AnnotationPatternMatchingTestCase.java
+org.aspectj/modules/weaver/testsrc/org/aspectj/weaver/patterns/AnnotationPatternTestCase.java
+org.aspectj/modules/weaver/testsrc/org/aspectj/weaver/patterns/ParserTestCase.java

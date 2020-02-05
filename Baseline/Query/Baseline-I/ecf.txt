@@ -1,0 +1,199 @@
+209410	Bug bot improve documentation feedback error handling
+211585	Bug Discovery JMDNS parsing problem service type defines naming authority
+318086	Bug Discovery discovery tests build ecf project org
+238976	Bug Shared Editor notification connect disconnect connection
+193415	Bug Contacts view menu entries disabled logged
+482434	Bug handling exported service version
+275722	Bug abstraction ECF
+199309	Bug IRC Wrong connection click hyperlink
+327060	Bug discovery zookeeper location URI include port
+198161	Bug IRC tab completion broken
+222865	Bug connect collaboration nickname empty
+19733	Bug content assist Code assist closes list filter items
+222868	Bug MSN mail password entered Finish button clicked
+447633	Bug SCP file browse capability files
+198043	Bug open contacts dialog doesn recognize users groups
+172958	Bug IRC Patch commands Root Channel Containers
+240926	Bug docshare insufficient cleanup editor closing
+236828	Bug Discovery Composite container register registered services providers
+273819	Bug Containers instantiated time wizard opens
+229921	Bug Missing javadoc statements compiler error
+259233	Bug Discovery JMDNS URI path lost discovery
+269612	Bug Discovery Composite CDC add container locator list
+218027	Bug Discovery jSLP Provider doesn handle scope correctly SLP
+207530	Bug Collab Cola Real Time Shared Editor support multi character operations
+199336	Bug IRC Unable close chatroom tab wrong join command
+266539	Bug Discovery zeroconf services
+234803	Bug Discovery jSLP path supported SLP
+274613	Bug Wizard handling IRC IDs fundamentally wrong special chatroom handling code
+198193	Bug IRC support special characters connecting IRC server
+200630	Bug IRC messages handled
+287666	Bug releng filetransfer Removed javax microedition
+263613	Bug transport Update site contacting downloading cancelable
+192574	Bug Communications preference isn empty
+277176	Bug Service Discovery view working osgiservices
+371768	Bug Zoodiscovery NPE unpublishing service
+192573	Bug Send Request Open Resource fails incorrect message
+196541	Bug wizards Passwords reset user input username field
+199366	Bug IRC Connection Wizard filters character
+183492	Bug ECF Server Application launch config
+198731	Bug Wrong underline hyperlink recognition
+196298	Bug xmpp Google talk provider hobbled existence gmail string
+259273	Bug Discovery Zeroconf JMDNS doesn translate scope protocols naming authority internal vice versa
+202958	Bug irc channel output copy select works incorrectly
+321354	Bug jms connect sequence timing problem
+221139	Bug wizards Weak mail address validation User field
+286934	Bug xmpp Disconnected users resource IDs removed roster
+112599	Bug XMPP Room subject updated xmpp chat
+256980	Bug ecf collab contribute presence container
+227939	Bug wizards restoring password Stack Overflow error ocurrs
+252002	Bug filetransfer support NTLMv authentication httpclient provider
+258916	Bug Discover SLP invalid service property SLP
+197604	Bug IRC kick ban unban deop commands parse error
+292972	Bug filetransfer apply additions fixes genuitec patch
+222824	Bug XMPP doesn work port Google Talk Host
+192756	Bug IRC channel join rid entered spam
+238970	Bug MSN CPU usage increases connecting
+342782	Bug TCK RSA events properties incorrectly
+198012	Bug provider connect receive hyperlink
+146622	Bug deserializeSharedObjectMessage custom problem deserialize Shared Object Message
+195275	Bug connect MSN
+197049	Bug NPE contacts browse dialogt
+237726	Bug patch Smack ECF discards ASCII VCard data
+254687	Bug Discovery SLP ClassCircularityError bundle activation Circularity Error
+259471	Bug Discovery JMDNS JMDNSServiceIDTest testServiceIDFactory fails JMDNSService IDTest test Service IDFactory
+265010	Bug Discovery Composite junit framework AssertionFailedError registered service Assertion Failed Error
+266118	Bug Discover Composite Test listener received expected discovery event expected
+266262	Bug Discovery SLP Improve robustness broken SLP devices
+303125	Bug Discovery JmDNS Timer canceled early DNS
+317919	Bug Discovery DNS NPE SRV record accompanying TXT records
+318070	Bug Discovery DNS NPE system sets search path
+318074	Bug Discovery DNS NPE test comparator expected property missing
+319259	Bug Discovery jSLP ServiceName illegal characters SLP Service
+323208	Bug Distribution Provider exceeds startup time limit existing services
+326033	Bug ClassCastException handling osgi event handler topics Exception
+327749	Bug OSGi NPE shutdown TCPChannelFactory TCPChannel Factory
+328130	Bug DNS Tests fail missing listener implementation
+331878	Bug Discovery Zookeeper Zookeeper unit tests crash system exit FileNotFoundException File Exception
+342686	Bug ClassCastException RSA intents String Exception
+343780	Bug Infinite recursive call Zookeeper DiscoveryActivator Discovery Activator
+348487	Bug JMDNS Discovery Thread slowing shutdown
+385395	Bug JMDNS provider shutdown fails NPE connect successful
+411935	Bug filetransfer httpclient Timeout unit test org eclipse ecf tests filetransfer URLRetrievePauseResumeTest testReceiveFile URLRetrieve Pause Resume Test test Receive File
+411936	Bug filetransfer httpclient Test failures org eclipse ecf tests filetransfer URLRetrieveTest URLRetrieveTestWithConnectJob testFTPReceiveFile URLRetrieve Test URLRetrieve Test Connect Job test FTPReceive File
+420897	Bug OSGi NPE uninstall proxy bundle
+147269	Bug send file functionality fails launches exception org eclipse ecf core SharedObjectCreateException Shared Object Create Exception
+168382	Bug Regression Exception thrown preview report design
+222864	Bug room tab clicked NullPointerException occurred Pointer Exception
+264963	Bug resolution confused typedef
+267035	Bug ReplicaSharedObjectDescription toString thread safe Replica Shared Object Description String
+273138	Bug NPE thrown shutting Eclipse connection provider
+339024	Bug Zoodiscovery ArrayIndexOutOfBoundsException ECF Discovery View Array Bounds Exception
+358317	Bug server bundle shutdown NPE
+425868	Bug NullPointerException PollingInputStream readPendingInput Pointer Exception Polling Input Stream read Pending Input
+125572	Bug ECF provider thread interlock
+134483	Bug Standalone ClientApplication breaks ContainerFactory ECFPlugin Client Application Container Factory
+165815	Bug Local access local remoteservicereference implemented
+174480	Bug Missing NLS message
+195824	Bug JMDNSDiscoveryContainer doesn getProperty JMDNSDiscovery Container Property
+198334	Bug messages view CTabFolders doesn follow appearance settings CTab Folders
+202772	Bug Broken statement pubsub
+207670	Bug msn NotificationSession IllegalArgumentException NLN notifications Notification Session Illegal Argument Exception
+208667	Bug msn MSNContainer sendPresenceUpdate NullPointerException UNAVAILABLE send Presence Update Pointer Exception
+221053	Bug message XMPP Server displayed
+222878	Bug Confirm Close Collaboration dialog wrong
+224095	Bug FileTransferInfo shares properties instances File Transfer Info
+229237	Bug presence xmpps accounts contacts list
+233808	Bug Discovery SLP org eclipse ecf tests discovery DiscoveryTest testAddServiceListenerIServiceTypeIDIServiceListener fails SLP provider Discovery Test test Add Service Listener IService Type IDIService Listener
+236812	Bug Discovery JMDNS connect swallows root JMDNS exception
+242950	Bug IRCChannelContainer NPE disconnect connection timeouts IRCChannel Container
+254833	Bug Discovery SLP org eclipse ecf internal provider jslp Activator start BundleContext activate jSLP eagerly Bundle Context SLP
+255191	Bug RemoteServices MethodInvocationDialog parameter setting clumsy unwieldy Remote Services Method Invocation Dialog
+255347	Bug Discovery SLP optional IServiceID getServiceName isn service discovery registration IService Service
+255352	Bug Discovery JMDNS JMDNS exchanges priority weight
+256580	Bug org eclipse ecf core ContainerFactory getContainer returns caller hang indefinitely Container Factory Container
+256853	Bug remoteservices insufficient cleanup RegistrySharedObject handleCallResponse Registry Shared Object handle Call Response
+256985	Bug ShowImageShell appears leak Image Image Shell
+257926	Bug Discovery SLP JSLPServiceInfo IServiceInfo doesn SecurityException JSLPService Info IService Info Security Exception
+259917	Bug Bittorrent bencode decoder parse dictionary list
+265269	Bug ServiceTypeID EMF URI conversion broken Service Type
+265412	Bug Discovery Composite Clear nested discovery containers unset targetID CompositeDiscoveryContainer disposed target Composite Discovery Container
+265413	Bug Discovery JMDNS Intermittent dead lock issues JMDNSDiscoveryContainer JMDNSDiscovery Container
+265551	Bug pause reads entire resource HttpClient provider Http Client
+266120	Bug Discovery JmDNS IServiceTypeID naming authority DNS IService Type
+267481	Bug server supporrt remoteservice container adapter server
+270332	Bug called DocShares ECF group handling Doc Shares
+273135	Bug LogService implementation misses details logging Log Service
+282667	Bug remotesrvs osgi parsing exception ethz iks osgi impl CodeAnalyzer Code Analyzer
+299849	Bug remotesvcs RegistrySharedObject handle NPE Registry Shared Object
+302407	Bug remotesrvs osgi remote method invocation fails mismatch caused parameter type inheritance org eclipse ecf internal provider osgi RemoteServiceImpl callSync Remote Service Impl call Sync
+317931	Bug Discovery DNS DnsSdDiscoveryException subclass ECFRuntimeException Dns Discovery Exception ECFRuntime Exception
+318075	Bug Discovery Whitespaces allowed property
+320799	Bug Discovery JmDNS JmDNS binding loopback DNS DNS
+328542	Bug RemoteSrvs Change InetAddress getLocalHost getCanonicalHostName localhost Remote Srvs Inet Address Local Host Canonical Host
+328772	Bug org eclipse ecf core status SerializableStatus STATUS exception org eclipse ecf core status SerializableStatus checkForSerializable Throwable Serializable Status Serializable Status check Serializable
+328998	Bug Discovery Composite CompositeDiscoveryContainer advertisers locator Composite Discovery Container
+328999	Bug Discovery resilient broken hostnames
+329054	Bug Discovery Composite org eclipse ecf provider discovery CompositeDiscoveryContainer connect IConnectContext handle ContainerConnectExceptions nested discovery providers Composite Discovery Container IConnect Context Container Connect Exceptions
+329247	Bug Discovery DNS NPE org eclipse ecf provider dnssd DnsSdDiscoveryContainerAdapter getSRVRecord Lookup Comparator record PTR SRV record Dns Discovery Container Adapter SRVRecord
+331740	Bug Discovery Composite CompositeDiscoveryContainer misses DiscoveryContainers Composite Discovery Container Discovery Containers
+332852	Bug Discovery ZooDiscovery Slow Zookeeper startup timeout BundleActivator start Zoo Discovery Bundle Activator
+337624	Bug Discovery ZooDiscovery silencing zookeeper startup publish shutdown Zoo Discovery
+369023	Bug NullPointerException tracing org eclipse ecf core util Trace catching Pointer Exception
+397877	Bug slp Invalid service type unhandled exception thrown
+406064	Bug Discovery ZooDiscovery high cpu percentage server client zookeeper Zoo Discovery
+408030	Bug RestClientService ignores content encoding Client Service
+418684	Bug org eclipse ecf server GenericServerContainerGroupFactory isSSLTransportSpecified Map API compatible bundle BREE Server Container Group Factory SSLTransport
+419902	Bug OSGi NPE ethz iks osgi impl ChannelEndpointImpl updateTopics String String Channel Endpoint Impl update Topics
+420433	Bug OSGi NPE ethz iks osgi impl ChannelEndpointImpl handleMessage RemoteOSGiMessage SERVICE MODIFIED received SERVICE Channel Endpoint Impl handle Message Remote OSGi Message
+426497	Bug org eclipse ecf internal discovery DiscoveryServiceListener register IServiceTyped listener type wildcards Discovery Service Listener IService Typed
+464701	Bug Discovery Zookeeper Auto reconnect issue
+472661	Bug add TRACEALL option debugging equinox DebugOptions frameworks Debug Options
+204329	Bug remoteservice registry updated adapter accessed connect
+234342	Bug Improved retrieval remote filename
+256767	Bug Discovery view incapable handling duplicate elements
+261438	Bug filetransfer add defeat protocol factory extension contributions
+268281	Bug Discovery jmdns protocol incorrectly uri protocol
+270516	Bug IRemoteFileInfo getLastModified doesn behave IRemote File Info Modified
+272317	Bug Illegal reference URI compareTo URI org eclipse ecf identity compare
+273343	Bug SharedObjectDatashareContainerAdapter dispose IChannel removeChannel called Shared Object Datashare Container Adapter remove Channel
+273718	Bug ColaDocumentChangeMessage constants hard coded integers Cola Document Change Message
+273823	Bug IRC provider doesn fire IContainerDisconnectingEvents IContainer Disconnecting Events
+274604	Bug ColaSynchronizationStrategy instantiates Booleans unnecessarily Cola Synchronization Strategy
+278222	Bug core improve error message container type
+280601	Bug removePresenceListener adds listener removing remove Presence Listener
+308908	Bug irc bot Bot forgets preset commands fails write browseable version
+310554	Bug remoteservices RegistrySharedObject handleCallRequest Registry Shared Object handle Call Request
+313029	Bug HttpClient http content ISO UTF Http Client
+327582	Bug osgi simplify implementation getRemoteServiceReferences Remote Service References
+327994	Bug remoteservices test TwitterRemoteServiceTest failing connect twitter service Twitter Remote Service Test
+336365	Bug remoteserviceadmin IOException readEndointDescriptions error creation read Endoint Descriptions
+337345	Bug remoteserviceadmin Service Info publish endpointDescription endpoint Description
+337643	Bug remoteserviceadmin classloader proxy creation access IRemoteServiceProxy IRemote Service Proxy
+338107	Bug remoteserviceadmin org eclipse ecf osgi services remoteserviceadmin sets jre compilation profile API
+339291	Bug server add convenience api
+339616	Bug remoteservices AbstractClientContainer registerCallables problem Client Container register Callables
+339790	Bug remoteservices registry start remote service ids
+341820	Bug ContainerFactoryTracker tracks wrong Container Factory Tracker
+342002	Bug RestClientService invokeRemoteCall exception successful HTTP operation returns HTTP status Client Service invoke Remote Call
+384431	Bug Provider prints error message log unnecessarily conditions
+408185	Bug TCK Bug handling multiple versioned exports single
+411543	Bug Imports org xml javax xml manifest
+414337	Bug RestNamespace getInitFromExternalForm Namespace Init External Form
+414448	Bug RemoteServiceAdmin importService robust face matching configs Remote Service Admin Service
+426423	Bug SSLServerSOContainerGroup close ServerSocket disposing SSLServer SOContainer Group Server Socket
+463008	Bug OSGi add system property prevent usage InetAddress getLocalHost getCanonicalHostname Inet Address Local Host Canonical Hostname
+471213	Bug bug Activator registry
+471541	Bug ClassCastException JUnit integration tests Exception
+473443	Bug Base classname disambiguated Java
+473558	Bug Discovery jmdns JMDNSDiscoveryContainer implementation JMDNSDiscovery Container
+476180	Bug Add utility methods BaseContainerInstantiator Base Container Instantiator
+478452	Bug NPE AbstractTopologyManager shutdown Topology Manager
+479629	Bug RemoteCallParameter Builder preserve parameter order Remote Call Parameter
+485482	Bug remove code org eclipse ecf provider discovery
+490090	Bug ClassCastException SOContainerGroup SSLServerContainerGroup Exception SOContainer Group SSLServer Container Group
+496963	Bug AbstractConsumerContainerSelector matchSupportedConfigs test empty array Consumer Container Selector match Supported Configs
+497876	Bug remote exported configs String Collection String
+259072	Bug Remotesvcs OSGi ServiceUIComponent violates Foundation Service UIComponent
+264242	Bug Remove Serializable org eclipse ecf core util Event interfac
+486675	Bug ecf Improve server side keepAlive handling Alive

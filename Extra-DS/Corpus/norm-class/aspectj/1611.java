@@ -1,0 +1,1 @@
+client lib abstract a abstracta org aspectj lang client main string args system println abstract a abstracta marker system println system println abstract a abstracta get private value getprivatevalue foo mark me foomarkme foo mark me foomarkme system println abstract a abstracta marker system println foo mark me foomarkme system println

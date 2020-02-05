@@ -1,2 +1,0 @@
-Bug 396809 – [hovering] Write JUnits for the package hovering feature
-Write JUnit testcases for the package hovering feature.

@@ -1,0 +1,121 @@
+53250	Bug	ObjectCollectedException	shutting	tests	Object	Collected	Exception
+151808	Bug	VMDefinitionsContainer	parse	ascii	VMDefinitions	Container
+24579	Bug	Deadlock	checkout	java	project
+476930	Bug	NullPointerException	AbstractJavaLaunchConfigurationDelegate	getDefaultWorkingDirectory	AbstractJavaLaunchConfigurationDelegate	java	Pointer	Exception	Java	Launch	Configuration	Delegate	Working	Directory	Java	Launch	Configuration	Delegate
+350733	Bug	Breakpoint	condition	editor	height	hint
+320269	Bug	update	JRE	javadoc	links	Sun	Oracle
+33292	Bug	Source	selected	element	Java	Snippet	Editor
+167182	Bug	JDIDebugTarget	handleDebugEvents	getAdapter	identifying	event	source	JDIDebug	Target	handle	Debug	Events	Adapter
+86028	Bug	JDIDebugTarget	adds	breakpoints	terminated	disconnect	JDIDebug	Target
+21776	Bug	Evaluate	action	enabled	java	stack	frames
+33297	Bug	Unneccessary	error	logging	detail	formatter	manager
+180496	Bug	ClasspathContainerInitializer	API	JRE	Classpath	Container	Initializer
+78866	Bug	registry	API
+442645	Bug	Missing	Java	project	context	stratum	breakpoints
+301584	Bug	sun	jdi	ObjectCollectedException	breakpoint	condition	evaluation	Object	Collected	Exception
+182807	Bug	breakpoints	NPE	attempting	breakpoint
+103700	Bug	ClassCastException	evaluating	assigment	array	interfaces	Exception
+46871	Bug	Console	buffer	size	limit
+63256	Bug	NPE	adding	breakpoint	external	Java	file
+10009	Bug	Creating	image	descriptor	registry	shutdown
+164376	Bug	NPE	JavaDetailFormatterManager	Java	Detail	Formatter	Manager
+468252	Bug	NullPointerException	JavaAppletLaunchConfigurationDelegate	buildHTMLFile	Pointer	Exception	Java	Applet	Launch	Configuration	Delegate	build	HTMLFile
+17691	Bug	DisplayView	registers	document	listener	removes	Display	View
+37918	Bug	Console	format	Japanese
+47390	Bug	deprecated	API	SearchEngine	Search	Engine
+153122	Bug	CCE	performing	eval	statement
+491302	Bug	Java	Debug	Logical	Structure	pref	wrong	colors
+84259	Bug	ArrayIndexOutOfBoundsException	debugging	Array	Bounds	Exception
+148006	Bug	console	deadlock	ConsoleDocument	ant	execution	autobuild	Console	Document
+434722	Bug	error	ConditionalJump	Instruction	Conditional	Jump
+297248	Bug	NPE	setting	breakpoint
+153124	Bug	CCE	performing	evaluation	autobox
+89643	Bug	step	filters	confuse	stepping	JSP	stratum
+311848	Bug	statement	missing	JavaBreakpointListenerProxy	installingBreakpoint	Java	Breakpoint	Listener	Proxy	installing	Breakpoint
+260402	Bug	Conflits	JRE	solved	correctly
+375856	Bug	Launching	failing	missing	optional	project
+404784	Bug	Open	popup	suspended	exception	doesn	work
+432190	Bug	Update	Javadoc	locations	docs	api
+10811	Bug	Deregistered	launches	removed	JavaHCRManager	Java	HCRManager
+76860	Bug	watch	expression	tests	fail
+16702	Bug	Unhandled	NPE	HCR	manager
+147773	Bug	debugger	determineIfDaemon	exception	determine	Daemon
+171075	Bug	Java	Editor	Disconnecting	Debug	Session
+16193	Bug	NPE	JavaConnectTab	Java	Connect	Tab
+80707	Bug	breakpoint	mode	check	debug	model	specific
+169542	Bug	ThreadGroup	Threads	displayed	Debug	view	parent	didn	threads	Thread	Group
+478019	Bug	StringIndexOutOfBoundsException	BinaryBasedSourceGenerator	getReturnStatement	BinaryBasedSourceGenerator	java	String	Bounds	Exception	Binary	Based	Source	Generator	Statement	Binary	Based	Source	Generator
+388172	Bug	JDI	ArrayIndexOutOfBoundsException	debugging	deleted	breakpoints	Array	Bounds	Exception
+443727	Bug	NPE	JDIDebugTarget	ThreadStartHandler	handleEvent	JDIDebug	Target	Thread	Start	Handler	handle	Event
+86863	Bug	API	Move	selected	structure	API	Debug
+109392	Bug	JavaRuntime	detectDefaultVM	options	Java	Runtime	detect
+462932	Bug	Gracefully	handle	partial	absence
+297808	Bug	resolve	compatibility	issues	Eclipse	constant	internals	JDT
+12633	Bug	NPE	evaluating	context
+162399	Bug	Problem	implementation	support	JSR
+446040	Bug	Invalid	thread	access	RuntimeClasspathViewer	preferenceChange	err	grp	Runtime	Classpath	Viewer	preference	Change
+287834	Bug	JavaLineBreakpoint	thread	safe	CPU	Java	Breakpoint
+371300	Bug	JavaRuntime	computeVMInstall	method	returns	workspace	compatible	version	launch	configuration	Java	Runtime	compute	VMInstall
+62564	Bug	runnable	previous	exception
+368483	Bug	Mac	OSX	JDT	launching	plugin	check	locations	Snow	Leopard	Lion
+86887	Bug	Conditions	work	JSP	breakpoints
+287084	Bug	Failing	HCR	test	Mac	Cocoa
+296552	Bug	ExpressionInputDialog	dispose	called	Expression	Input	Dialog
+356712	Bug	Monitor	stack	depth	read	JDWP	interchanged
+72305	Bug	JDIModelPresentation	resource	IJavaStratumLineBreakpoint	JDIModel	Presentation	IJava	Stratum	Breakpoint
+66417	Bug	VMDisconnectedException	logged	source	lookup	VMDisconnected	Exception
+77680	Bug	HCR	failed	message	terminated
+297840	Bug	Strange	Code	ExpressionInputDialog	dispose	Expression	Input	Dialog
+33144	Bug	UnsupportedOperationException	Unsupported	Operation	Exception
+228985	Bug	JREsPreferencePage	java	resizing	problem	JREs	Preference
+414076	Bug	CME	Running	test	suite
+65149	Bug	Resource	exception	JavaDebugOptionsManager	initializeProblemHandling	Java	Debug	Options	Manager	initialize	Problem	Handling
+13957	Bug	LaunchingPlugin	specification	resourceCopyExclusionFilter	Launching	Plugin	resource	Copy	Exclusion	Filter
+148615	Bug	JUnit	JUnit	recognize	JunitTestCase	Test	superclass	Junit	Test
+422016	Bug	reference	expressions	lambdas	file	triggers	warning	missing	numbers
+77190	Bug	nightly	test	failures	empty	stack	exception	eval	engine
+68233	Bug	Pointer	JavaBreakpoint	Java	Breakpoint
+386188	Bug	ParserConfigurationException	load	JREs	Mac	Parser	Configuration	Exception
+217994	Bug	patch	launching	Debug	honors	JRE	args	Launcher	args
+308879	Bug	Surrogate	support	JavaWordFinder	Java	Word	Finder
+383625	Bug	JDT	version	sun	jdi	event	EventSet	doesn	extend	java	util	Event
+267914	Bug	Error	removing	JRE
+383637	Bug	EventRequestManagerImpl	addRequestIDMapping	removeRequestIDMapping	handle	VMDeathRequests	Event	Request	Manager	Impl	add	Request	IDMapping	remove	Request	IDMapping	VMDeath	Requests
+342681	Bug	ProjectCreationDecorator	test	fails	Java	Project	Creation	Decorator
+197282	Bug	org	eclipse	jdt	debug	test	stepping	ForceReturnTests	depend	specific	behaviour	Force	Tests
+204455	Bug	ConnectionType	remembered	Remote	Java	Application	Launch	Config	Connection	Type
+11947	Bug	NPE	JavaUISourceLocator	remote	debugging	Java	UISource	Locator
+125868	Bug	Invalid	Thread	Access	launching
+47281	Bug	Don	log	VMDisconnectedException	VMDisconnected	Exception
+403383	Bug	failing	tests	candidate	caused	ConditionalBreakpointsWithGenerics	testBreakpointWithGenericCondition	Conditional	Breakpoints	Generics	test	Breakpoint	Condition
+7858	Bug	Feature	IJavaClassType	IJava	Type
+342962	Bug	setter	getter	step	filter	test	failures	Mac
+136638	Bug	NPE	debug
+151487	Bug	Variable	hover	incorrect	members	type	object
+80069	Bug	NPE	SocketConnection	Socket	Connection
+273858	Bug	Edit	Remove	buttons	incorrectly	enabled
+78534	Bug	ConcurrentModificationException	ThreadMonitorManager	Concurrent	Modification	Exception	Thread	Monitor	Manager
+261837	Bug	RuntimeProcess	synchronize	access	fTerminated	fExitValue	Runtime	Process	Terminated	Exit
+73680	Bug	Array	bounds	HCR
+33746	Bug	Error	adding	JRE	Windows	Preferences	Java	Installed	JREs	settings
+339414	Bug	HeapWalking	manager	support	debug	targets	provide	IJavaDebugTarget	adapter	Heap	Walking	IJava	Debug	Target
+465363	Bug	SISPSIE	JavaDebugHover	findLocalVariable	Java	Debug	Hover	find	Local	Variable
+261846	Bug	hcr	NPE	hot	code	replace
+94687	Bug	Exception	renaming	project	shared	config
+89566	Bug	Searching	installed	JREs	broken
+178912	Bug	IVMInstallType	api	AbstractVMInstallType	impl	thread	safe	IVMInstall	Type	VMInstall	Type
+312038	Bug	JREContainer	hasChildren	locks	Children
+13028	Bug	Java	editor	caused	NPE	snippet	editor
+126437	Bug	Incorrect	error	reporting	AbstractJavaLaunchConfigurationDelegate	Java	Launch	Configuration	Delegate
+72169	Bug	debug	context	thread
+394220	Bug	JREContainer	RuleEntry	equals	returns	early	Rule	Entry
+220654	Bug	EEVMPage	creates	file	times	selecting	file
+241394	Bug	Console	input	text	properly	eclipse	console	panel
+403700	Bug	Selecting	Ant	Build	launch	configuration	External	Tools	Configuration	dialog	NPE
+13042	Bug	NPE	killing	Java	process
+506865	Bug	Race	condition	AbstractVMInstallType	createVMInstall	VMInstall	Type	create	VMInstall
+42487	Bug	NPE	ctrl	dbl	click	JavaDetailFormattersPreferencePage	Java	Detail	Formatters	Preference
+249593	Bug	compiler	level	product
+337658	Bug	java	lang	reflect	InvocationTargetException	thrown	invoking	Open	Clipboard	Invocation	Target	Exception
+101118	Bug	eclipse	SDK	win	Exception	processing	async	thread	queue
+472568	Bug	ClassCastException	JavaApplicationLaunchShortcut	findTypes	Exception	Java	Application	Launch	Shortcut	find	Types

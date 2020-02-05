@@ -1,0 +1,2 @@
+SashForm - can lose sash for item on far right
+Eclipse 3.1 RC1 In the CustomControlExample, drag the sash between the items on the far right as far right as it will go. It should stop about 20 pixels from the end. However, it lets you drag the sash right off the end and then you can no longer drag the sash back.

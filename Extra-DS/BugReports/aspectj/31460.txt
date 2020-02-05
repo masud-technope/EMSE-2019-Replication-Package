@@ -1,0 +1,2 @@
+Weaving class loader
+Hi! As discussed on the mailing list a few days ago I implemented a weaving class loader to enable bytecode based weaving at class loading time. The class loader is based on the URLClassLoader and can be used like any other URLClassLoader. In addition to that you can add aspects to the weaving loader. These aspects got woven into each class that is loaded. The test cases for the class loader aren't implemented yet, I am still thinking about how to implement them. I will contribute them later, okay? -Martin

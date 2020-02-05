@@ -1,0 +1,2 @@
+org.eclipse/swt/graphics/Device.java
+org.eclipse/swt/graphics/GC.java

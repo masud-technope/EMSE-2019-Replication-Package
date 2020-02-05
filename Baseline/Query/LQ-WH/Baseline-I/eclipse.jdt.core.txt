@@ -1,0 +1,26 @@
+439431	Bug	compiler	AIOOBE	ClassFile	dumpTargetTypeContents	File	dump	Target	Type	Contents
+301894	Bug	OutOfMemory	error	building	large	project	annotations	Memory
+277382	Bug	NPE	failures	Parser
+124099	Bug	compiler	incorrect	merge	flowInfo	UnconditionalFlowInfo	addInitializationsFrom	flow	info	flow	Info	Unconditional	Flow	Info	add	Initializations
+46084	Bug	ArrayIndexOutOfBoundsException	compiler	feeding	real	java	code	Array	Bounds	Exception
+405889	Bug	compiler	codegen	Resilience	NPE	needed	Scope	getJavaLangInvokeMethodHandlesLookup	Java	Lang	Invoke	Method	Handles	Lookup
+29516	Bug	SearchEngine	regressions	Search	Engine
+483467	Bug	Stackoverflow	autocomplete	lambdas
+456395	Bug	compile	Java	code
+228691	Bug	JDT	impl	sun	mirror	util	Types	isAssignable	returns	wrapper	primitive	assignment	Assignable
+41554	Bug	Assertion	failure	search
+421469	Bug	code	assist	NPE	LocalDeclaration	resolve	anonymous	lambda	body	Local	Declaration
+418843	Bug	NPE	enum	missing	contructor
+31261	Bug	Strange	behavior	errors	max	errors	compilation	unit
+431963	Bug	DOM	Confusion	type	annotations	varargs	method	parameter
+388634	Bug	Test	failure	Compliance	compliance
+165346	Bug	compiler	org	eclipse	jdt	internal	compiler	ast	OperatorExpression	nullStatus	FlowInfo	conservative	Expression	Status	Flow	Info
+25377	Bug	Error	location	correct	empty	array	initializer
+92005	Bug	AIOBE	content	assist
+126180	Bug	compiler	NPE	reporting	invalid	enclosing	type
+448043	Bug	IllegalStateException	Bad	AST	node	structure	ASTConverter	Illegal	Exception
+396139	Bug	define	JRE	build	targeting	BETA	JAVA
+145202	Bug	positive	reference	analyzer	negated
+149562	Bug	Small	problem	enumerations	statements
+17531	Bug	GlobalActions	File	Save	fails	entering	valid	file	Global	Actions
+488888	Bug	Resource	exist

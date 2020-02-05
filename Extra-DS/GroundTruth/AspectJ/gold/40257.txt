@@ -1,0 +1,6 @@
+org.aspectj/modules/ajde/src/org/aspectj/ajde/ui/swing/CompilerMessagesCellRenderer.java
+org.aspectj/modules/org.aspectj.ajdt.core/testdata/bug-40257/d1/A.java
+org.aspectj/modules/org.aspectj.ajdt.core/testdata/bug-40257/d1/d2/B.java
+org.aspectj/modules/org.aspectj.ajdt.core/testdata/bug-40257/d3/C.java
+org.aspectj/modules/org.aspectj.ajdt.core/testsrc/org/aspectj/ajdt/ajc/AjdtAjcTests.java
+org.aspectj/modules/org.aspectj.ajdt.core/testsrc/org/aspectj/ajdt/ajc/BuildArgParserTestCase.java

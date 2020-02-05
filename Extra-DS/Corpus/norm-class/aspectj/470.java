@@ -1,0 +1,1 @@
+main string args equals lib lib error

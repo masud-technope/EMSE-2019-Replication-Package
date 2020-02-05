@@ -1,1 +1,0 @@
-ui/org.eclipse.pde.core/src/org/eclipse/pde/internal/core/product/ProductFeature.java

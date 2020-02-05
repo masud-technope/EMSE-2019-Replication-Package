@@ -1,0 +1,2 @@
+[consistency] setItems(String[]) with null elements
+Check if all platforms stop at null or ignore null elements.

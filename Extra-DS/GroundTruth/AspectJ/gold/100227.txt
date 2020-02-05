@@ -1,0 +1,2 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/lookup/EclipseFactory.java
+org.aspectj/modules/tests/src/org/aspectj/systemtest/ajc150/Ajc150Tests.java

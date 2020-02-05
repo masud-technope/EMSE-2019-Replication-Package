@@ -1,0 +1,1 @@
+simple type simpletype integer set i seti integer integer get i geti

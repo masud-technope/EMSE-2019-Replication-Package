@@ -1,0 +1,2 @@
+VerifyError with LTW and @AJ style aspects
+I get "VerifyError: Incompatible object argument for function call" error when using LTW with @Aspect stype aspects. Interestingly enough, LTW works as expected with equivalent .aj style aspect. Compile time weaving works with both aspect styles. Tested on Linux with AspectJ 1.5.0, 1.5.1 and DEVELOPMENT-20060404163823 and SUN 1.5.0_06 and IBM 1.5.0SR1 JVMs. I will attach example project shortly.

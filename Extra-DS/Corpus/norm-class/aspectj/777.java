@@ -1,0 +1,1 @@
+org aspectj testing tester each object target eachobjecttarget main string args each object target eachobjecttarget each object target eachobjecttarget foo foo tester check dummy test

@@ -1,0 +1,1 @@
+org aspectj testing tester combined logic combinedlogic main string args test test object foo baz foobaz baz foo baz foobaz tester check tester check

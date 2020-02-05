@@ -1,0 +1,2 @@
+Need a way to create a new Color based on an existing color
+We need a way to create a new color from an existing color by varying the hue, saturation or brightness.

@@ -1,0 +1,19 @@
+442245	source	copy	eclipse	files	compiler	hang	Bug	java	setup	lead
+410402	failures	Investigate	Bug
+11076	remain	list	configs	Deleted	configuration	Bug	launch	configurations	favorite	favorites
+385293	compiler	modifiers	arguments	normal	type	Bug	accepts	T	X	report
+385132	COLON	error	compiler	ARROW	shouls	lines	syntax	tokens	Bug	failure
+424591	resolution	inference	capture	array	workspace	code	graal	Bug	General	error
+85384	proposed	method	writing	assist	declarations	Bug	content	I
+65738	builder	save	Build	Bug	CU	automatically	time	Eclipse	automatic	build
+483895	Disable	content	Preferences	completion	substring	Bug	assist	bug	remove	bugs
+485302	warnings	Missing	Wildcards	Bug	annotations
+357110	type	classes	Problem	referenced	folders	jars	error	file	resolved	src
+162740	Error	website	Bug	eclipse	org	documents	dir	html	php	open
+28951	attachment	rootpath	field	Source	Bug	Eclipse	source	src	missing	root
+234074	Compliance	JRE	test	Dcompliance	error	Bug	fails	compiler	launched	current
+380313	Java	error	Inconsistent	stack	bit	m	Bug	thread	eclipse	org
+476859	error	oracle	works	jdk	method	EJC	compiler	enclosing	attachment	fine
+438875	file	project	delimiter	encodings	Bug	correct	Unix	UTF	org	core
+413913	failures	Investigate	Bug
+403705	failures	Investigate	Bug	Failure	attachment	List	details	list	Attached	b

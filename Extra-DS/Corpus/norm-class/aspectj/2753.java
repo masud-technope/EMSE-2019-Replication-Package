@@ -1,0 +1,1 @@
+enum simple enum simpleenum black white

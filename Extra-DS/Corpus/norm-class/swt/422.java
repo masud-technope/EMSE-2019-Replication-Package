@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation org eclipse swt internal win tbbutton i bitmap ibitmap id command idcommand fs state fsstate fs style fsstyle dw data dwdata i string istring sizeof

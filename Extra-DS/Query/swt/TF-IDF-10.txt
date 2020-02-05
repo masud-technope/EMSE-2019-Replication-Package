@@ -1,0 +1,77 @@
+84609	pack tablecolumn column getcolumn table columns caught getcolumns refresh jdk 
+79107	consistency elements setitems ignore items platforms check string 
+94467	lay bring layouts editor columns ctrl sizes list appears shift 
+78854	proxy func clipboard function pvalue freed gtk copies free memory 
+94598	scope dbcs search sdk jdk pop click steps input activate 
+104966	enabled link disabled editor displays setenabled visual correctly status property 
+107145	plugins javadoc tag doc refer src warning comments find destroywidget 
+78856	clipboard render isn capability requirements saving plug support pastes awt 
+94603	spinner inset puts buttons standard updown border windows box text 
+102794	makecolumnsequalwidth griddata grid editor labels helps label box columns gridlayout 
+88717	snippet scrollbars dev scrolling amp tree appearing dnd href expand 
+108813	span xml href question closed bug appears title grows literally 
+97678	sash lose drag sashform form items pixels longer custom item 
+90258	clearall works tableitem table updated filtered item setdata snippet setitemcount 
+80276	cbanner cbannerlayout calls update layout good resizing fixed resize time 
+96916	spinner settooltiptext tool doesn tooltip appears work text widget 
+91159	datatype dragenter consistency enter motif drag datatypes carbon gtk droptarget 
+86294	mac unsupported replace escape find working build search dialog illegal 
+97177	ime open lost editor closed status window text eclipse chinese 
+119192	ccombo mouse respond fired problem mousemove track listeners button move 
+111259	insertion gtk outline mark logic drop exit view problem click 
+93724	wcstombcs connect wcs mbcs drag names getaddress signals buffer dragend 
+100387	hover mousehover ctabfolder ctab showtooltip folder shell mouse tooltips tooltip 
+90018	ctabfolder ctab folder tooltip keybinding assuming tooltips stack maximize displayed 
+79268	modifications function warning deprecated reads development output gtk supported longer 
+87460	stylerange styledtext caret styled shell styles font bold toolkit addlinestylelistener 
+103976	spinner setvalues increment individually digits pageincrement slider values maximum minimum 
+78634	transparency javadoc gettransparencymask imagedata mask opaque incorrect image alphadata fully 
+81834	arabic styledtext numbers styled language convert panel abc number shell 
+82346	clabel griddata grid label shadow setlayoutdata center working gtk setalignment 
+84012	styledtext wrap styled filllayout auto shell mouse layout font handling 
+105772	strange search label background color correct enabled tab support text 
+87855	main impl sun reflect runtime java lang stack invoke kill 
+106289	snippet columns sample selecting tree times applied running column text 
+99376	column view plug missing registry runtime tablecolumn problems opened dragging 
+113971	model main test provider refresh tree treeitem element java runtime 
+95410	gdi drawstring altered triggered ways bad generally compressed painted consistent 
+91317	spinner build values negative support version negavtive 
+96053	spinner span pressing standard href comment bug behaviour select focus 
+87997	tableeditor editor tableitem table columns leaves dispose shell disposal item 
+89533	preferences themes icons fonts entries colors color funny 
+80830	drawfocus span gtk limitation javadoc drawing xor href focus chance 
+83262	pasting terminator protocol pastes motif gtk middle behaviour clipboard exists 
+87363	menudetect menu amp showmenu detect shell updated menuitem setlocation sendevent 
+99266	attached issue rows blank table lines displayed empty top code 
+82500	calc canvas tabs limitation drawing nature attach panel photon overwrite 
+92612	tabs chevron ctabfolder ctab view isn folder assuming hidden number 
+93380	cpu usage dragging doesn explorer guess file build files external 
+117574	buffered clipping getclipping shell broken drawstring display main readanddispatch build 
+99145	disabling link mixed configure linked disables disabled content text widget 
+84557	gtk brings editor esc ctrl table running list empty window 
+108236	spinner setmaximum setminimum maximum activity scenario keeping minimum working build 
+92241	span selecting areas clipboard filling copying href selection big performance 
+97745	column view restores pressing stays sorted mouse releasing sort table 
+85072	dev href microsoft solution swapping working jvm settings problem variants 
+92757	styledtext caret styled add text listener 
+78548	mouseup mouse consistency button selection turn click tab listeners control 
+104150	table lines cursor grid snippet setlinesvisible regions separated selection getlinesvisible 
+75739	getstring variant gettype tostring cases empty string type call version 
+78559	slider consistency span mousedown fired mouse selection href click turn 
+108769	javadoc filedialog additional wasn numbers extensions attached working details reading 
+102756	gtk combo render preferences implies png team attached match doesn 
+86631	javadoc accept places doesn doc stream pattern apply closed wrong 
+115947	tooltip table alt accessibility column images image text compliant 
+101354	span javadoc loader imagedataloader href details imageloader bug image closed 
+81265	background tree node tabletree incorrect uncheck remains disabled names entire 
+81264	settopindex gettopindex table println scrolls shell expected opened tableitem calling 
+86000	jpg files jpeg loader imageloader dir save test produces proper 
+83699	updatefont main impl font styledtext update styled build peek invoke 
+97651	root treeitem tree mark insert shell guess button item problem 
+79481	sash filllayout smooth pane sashform form setlayout main label layout 
+80120	ctabfolder ctab puts folder cuts attachment account pixel toolbar corner 
+108792	caret press replacestyleranges arrow wait ranges lost mark updated disable 
+80506	forceactive setactive active shell isn forced hasn consistency mac inconsistent 
+88829	setcolumnorder columns fired swapped fire column shifted auto positions widths 
+77948	gtk translatemnemonic clabel main impl sun reflect java press mnemonic 
+87676	clicking column click works build brings view log notification tree 

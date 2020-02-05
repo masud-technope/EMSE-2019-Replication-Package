@@ -1,0 +1,1 @@
+sample base iface base foo

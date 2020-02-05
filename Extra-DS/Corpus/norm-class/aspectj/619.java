@@ -1,0 +1,1 @@
+org aspectj lang annotation aspect test empty pointcut at aspect testemptypointcutataspect pointcut scope scope system err println string main string args foo foo

@@ -1,0 +1,1 @@
+inheritance bar foo string to string tostring bar foo

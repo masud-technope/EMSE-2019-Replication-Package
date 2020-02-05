@@ -1,0 +1,1 @@
+copyright contributors program accompanying materials terms common license accompanies distribution http eclipse org legal cpl html contributors parc initial implementation org aspectj weaver test version author hello world helloworld main string args system println system println

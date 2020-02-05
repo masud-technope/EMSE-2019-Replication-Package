@@ -1,0 +1,1 @@
+generate my jar myjar jar tests main string args system println

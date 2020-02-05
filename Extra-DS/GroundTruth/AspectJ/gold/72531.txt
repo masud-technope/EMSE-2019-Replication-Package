@@ -1,0 +1,6 @@
+org.aspectj/modules/tests/bugs/pr72531/de/rohith/HelloWorld.java
+org.aspectj/modules/tests/bugs/pr72531/de/rohith/HelloWorldAspect.java
+org.aspectj/modules/tests/bugs/pr72531/de/rohith/PrinterWorld.java
+org.aspectj/modules/tests/src/org/aspectj/systemtest/ajc121/Ajc121Tests.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/WildTypePattern.java
+org.aspectj/modules/weaver/testsrc/org/aspectj/weaver/patterns/TypePatternTestCase.java

@@ -1,0 +1,1 @@
+org aspectj testing array method arraymethod main string args array method arraymethod tester check compiled array array array array array length tester check equal checkequal array tester check equal checkequal array exception array exception array exception

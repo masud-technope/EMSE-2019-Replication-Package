@@ -1,0 +1,2 @@
+Table.setColumnOrder() may not fire enough Move events
+- start with five columns, all different widths - do Table.setColumnOrder(new int[] {4,1,2,3,0}); - SWT.Move events are fired for columns 0 and 4 because they swapped positions -&gt; but Move should have been fired for all of the columns since the width of the first displayed column changed, and therefore all of the other columns are auto-shifted accordingly

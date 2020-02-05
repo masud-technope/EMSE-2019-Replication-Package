@@ -1,0 +1,2 @@
+error Type mismatch: cannot convert from java.lang.String to java.lang.String
+When compiling a binary concrete aspect library (for later LTW) consisting of more than one aspect that performs an ITD on a target class not exposed to the weaver I get the following error: error Type mismatch: cannot convert from java.lang.String to java.lang.String The error does not oocur if a complete build & weave is performed. Testcase attached.

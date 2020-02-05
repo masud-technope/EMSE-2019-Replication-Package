@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples visitor aspectj binary tree leaf binarytreeleaf visitable stored leaf binary tree leaf binarytreeleaf accessor leaf leaf get value getvalue

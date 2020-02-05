@@ -1,0 +1,1 @@
+java lang annotation my annotation myannotation program main string argv program program my annotation myannotation system err println method system err println method retention retention policy retentionpolicy runtime my annotation myannotation

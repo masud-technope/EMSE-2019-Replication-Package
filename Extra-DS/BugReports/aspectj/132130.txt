@@ -1,0 +1,2 @@
+Missing relationship for declare @method when annotating a co-located method
+For this program (when all entered into *one* file) I don't see a marker from the declare to the annotated method. If the annotated method is in another file, I do... (not sure if fields/ctors/types are also a problem..) public aspect basic { declare @method: * debit(..): @Secured(role="supervisor"); } class BankAccount { public void debit(long accId,long amount) { } } @interface Secured { String role(); }

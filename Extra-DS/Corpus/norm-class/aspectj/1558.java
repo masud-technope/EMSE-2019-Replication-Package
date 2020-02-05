@@ -1,0 +1,1 @@
+annotation enum element annotationenumelement enumval simple enum simpleenum red annotated with enum class annotatedwithenumclass

@@ -1,0 +1,63 @@
+173187	Breakpoint	refactoring	unclear	method	user	Bug	breakpoints	type	Breakpiont	breakpoint
+53634	libraries	JRE	running	application	work	Bug	don	JREs	Java	additional
+40707	hit	count	Breakpoint	enabled	Bug	breakpoint	remains	disabling	properties	setting
+335363	text	dialog	Java	Exception	size	checkboxes	Breakpoint	font	truncated	Bug
+31110	Source	Lookup	variables	Debbugger	source	work	Bug	debugger	claims	lookup
+229380	tab	classpath	buttons	enabled	Bug	entry	Select	incorrectly	button	bootstrap
+13834	source	breakpoints	external	I	t	ruler	m	code	Bug	action
+94474	attachment	change	JRE	source	Unable	Bug	jar	JREs	Edit	pref
+142476	TVT	boxes	borders	File	TCT	Text	project	ovelap	Bug	xml
+324246	classpath	project	pass	builders	external	defined	Bug	programs	java	builder
+139152	Debug	Java	preferences	fields	preference	uninitialized	Window	validates	dialog	platform
+321043	compliance	compiler	Bug	bug	Enable	HEAD	revert	details	comment	attachment
+64663	Variables	variables	Change	hex	Bug	accept	g	e	fails	x
+43927	work	Content	breakpoint	assist	properties	Bug	content	dot	Space	Ctrl
+506014	variables	view	node	constantly	bug	method	t	Bug	row	feature
+73624	main	Don	selected	Bug	prompt	dialog	method	java	Java	compilation
+275614	Debug	threads	view	expanded	visible	REGRESSION	auto	perspective	code	Bug
+392607	JDI	Mac	suite	test	OSX	VM	work	Bug	form	kind
+43418	JRE	directory	cursor	busy	Bug	base	seconds	choosing	system	choose
+112670	selection	variables	toggle	treeitem	content	Bug	platform	pane	blocks	view
+21792	arguments	backslash	problems	vm	Duser	argument	space	Bug	configuration	order
+9122	debugging	slow	latest	Bug	extremally	debug	junit	performance	workspace	launch
+19363	container	library	banner	Missing	wizard	Bug	image	Asked
+124203	context	management	debug	View	manager	respect	Bug	view	API	internal
+16046	launch	configuration	dialog	doesn	cancel	Bug	user	t	button	Launch
+15662	Bug	Display	display	a	result	I	variable	Select	inspect	work
+9649	returns	rebuild	Bug	classpath	dialog	process	MB	Eclipse	wwaux	workspace
+72371	exception	Streams	left	Bug	open	locations	stream	a	occurs
+13364	condition	breakpoint	indication	Bug	visual	properties	a	dialog
+255031	project	EEs	build	Missing	projects	Bug	prevent	warning	Foundation	level
+108473	time	Bug	eclipse	performance	Performance	Tomcat	Eclipse	XP	mode	severely
+8634	Exception	breakpoints	Bug	workspace	persisted	exception	start	I	missing
+300614	field	pane	Settings	Hit	count	Bug	Win	detail	small	Details
+9026	breakpoints	Compilation	Bug	error	view	showing	Summary
+323020	test	Bug	failure	Mac
+125771	method	source	external	unable	Bug	breakpoints	create	breakpoint	siganture	retrieving
+60364	code	debug	deprecated	runtime	Bug	patch	eliminated	Runtime	JDT	plugins
+369480	JRE	bug	compatible	builds	launchingsupport	jar	Fixed	workspace	latest	Bug
+189012	Change	dialogs	Bug	change	command	variables	Object	expressions	Primitive	view
+181204	launching	context	resource	objects	debug	bug	based	Bug	object	IResource
+13015	breakpoint	stepping	conditional	Bug	condition	thread	a	evaluates	step	I
+212442	tests	Failing	Bug	importbreakpoints	failures	String	statement	breakpoints	Integer	clause
+9825	icon	Action	inconsistencies	action	Bug	plan	view	color	debugger	launch
+33893	JREs	Preference	existant	Bug	plug	code	preference	launching	updates	update
+206693	description	JRE	location	c	Bug	eclipse	ee	j	wrong	PWD
+42984	directory	Ant	working	ant	script	Bug	args	Base	processes	target
+7404	step	Filter	Add	Bug	broken	filter	filtering	entry	button	list
+268393	String	change	Debugger	Bug	letting	Image	text	attempt	attachment	Steps
+330987	version	bundle	tags	increment	Bug	Missing	methods	bug	jdt	debug
+32494	menu	scrapbook	actions	Insp	Bug	Display	enabled	Select	enable	Context
+34670	Java	lists	classpath	DELETE	event	Bug	Configs	Launch	launch	key
+18926	JRE	Preferences	JDK	Installed	add	unable	problem	window	Bug	workspace
+29297	folders	output	Debug	honor	multiple	Bug	folder	code	Hot	version
+248054	breakpoint	annotation	Highlighted	breakpoints	version	Bug	annoyance	Eclipse	Breakpoints	hilighting
+94452	exceptions	Timeout	Bug	step	target	requests	UI	start	views	update
+394225	Display	Bug	evaluates	display	incorrectly	Evaluates	s	window	fail
+187000	focus	thread	debug	looses	selection	Debugger	lot	step	times	Bug
+400636	codeassist	work	view	Display	Bug	OSX	Kepler	Application	regression	Eclipse
+52474	Java	Perspective	CVS	check	UI	Blocked	Bug	opening	point	dialog
+16378	tabs	launch	icons	config	creation	Missing	screen	time	Bug	space
+110074	breakpoint	Breakpoints	working	Bug	sets	create	category	a	I
+33534	Ant	indication	range	Bug	Editor	supported
+144253	source	lookup	CHANGE	force	Frame	Bug	events	Eclipse	Stack	fire

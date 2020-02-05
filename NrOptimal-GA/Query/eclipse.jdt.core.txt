@@ -1,0 +1,146 @@
+470535	User	Code	User	time	entries	Bug	http	Bug	http	eclipse
+337415	created	headless	script	external	external	ANT	metadata	External	jdt	created
+42243	Build	misleading	main	Syntax	syntax	main	misleading	keyword	String	flagged
+46084	Bounds	Code	JavaBuilder	Syntax	BuildManager	annotations	Job	jdt	Scanner	Diagnose
+268802	Useless	build	build	convertAnnotations	annotation	Source	annotation	Converter	Source	call
+403457	util	lang	compiler	compiler	Wildcard	annotation	lang	foo	Marker	util
+385293	report	Marker	Type	grammar	type	arguments	check	accepted	Bug
+424718	acceptance	Annotation	Type	changed	dim	code	base	lombok	method	Type
+70665	jdt	MethodDeclaration	org	JLS	type	type	core	javadoc	parameters	constructor
+488461	Participant	interested	process	BuildContext	Annotations	Processor	participant	CompilationParticipant	Compilation	participant
+471062	installed	column	formatter	formatter	space	havoc	column	havoc	repo	inserts
+425493	Compiler	compiles	util	add	java	getDefault	regression	getDefault	code	Compiler
+28951	edited	edited	classpath	attachment	longer	attachment	file	Eclipse	bug	root
+363293	raises	tool	Manager	eclipse	leaks	tool	org	file	eclipse	leak
+480029	substitutions	formatting	ticket	bug	formatter	Bug	substitutions	Windows	original	separate
+69658	typo	latest	javadoc	latest	Creation	Instance	Note	existed	JLS	Instance
+418843	Enum	works	saving	loop	FIEL	button	JavaReconcilingStrategy	missing	NPE	noticed
+31261	errors	max	unit	Bug	Strange	Create
+388634	levels	Bug	compiler	log	Tests	tests	expected	specific	Compliance
+25377	convert	initializer	Error	empty	build	Type
+410402	Bug	Bug	Bug	Investigate	Bug	Investigate	Investigate	Bug	Bug	Bug
+448800	initializeBounds	Variable	didn	lowerBound	insufficiently	Capture	follow	substitute	Inference	Inference
+448043	Block	Auto	Imports	AbstractJavaCompletionProposal	Bad	eclipse	structure	internalCreateAST	Compilation	Screen
+483895	completion	Disable	substring	dependent	bug	assist
+145202	Bug	negated	code	negated	positive	negative	println	analyzer	raises	System
+104245	newCompilationUnit	children	syntax	automatically	Javadoc	tree	compilation	getRoot	Unit	AST
+30516	Archive	fragment	IPackageFragmentRoot	Fragment	fragment	Fragment	fragment	Fragment	Archive	Fragment
+341296	file	Build	entries	classpath	error	front
+208186	encoding	deal	Don	setting	difference	encoding	EncodedFileOutputStream	Don	Output	problems
+405051	call	ends	JavaCore	files	container	Manager	Path	work	simply	LOCATION
+190268	exception	EncodedFileOutputStream	save	StreamEncoder	org	EncodedFileOutputStream	encoding	Project	Encoder	Close
+416313	internal	eliminate	JavaLangFunctionalInterface	duplicates	JavaLangFunctionalInterface	Framework	cherry	values	lookup	JunitFrameworkAssert
+158274	nightly	interfere	tomorrow	List	error	nightly	thought	Field	Configuration	Block
+301894	annotations	APT	annotations	APT	running	adopters	Reproducible	memory	issues	Reproducible
+401989	Bug	test	warning	type	analysis	analyze	expressions	perform	hook	Local
+11076	list	Add
+421711	discuss	bug	Javac	code	lambda	rejected	compiler	Bug	compiler	Javac
+451660	String	compiler	pointer	couple	toString	args	warning	println	removed	String
+29516	Search
+228691	attachment	sun	Kind	desired	returning	language	autoboxing	Sun	unboxing
+41554	field	Log	core	searching	debugging	SourceType	workspace	hierarchy	Type
+234074	Bug	error	test	expected	compiler	fails
+170843	org	CoreException	encountered	Exception	severe	Resource	reported	FileSystemUtil	IResource	instances
+403036	content	accessible	correct	attached	javadoc	Bug	Inaccessible	Note	location
+421469	Compilation	local	complete	codeassist	IntFunction	compiler	AbstractMethodDeclaration	Integer	Java	codeComplete
+186457	CharsetDecoder	test	warning	produce	CharsetEncoder	System	erasure	java	erasure	error
+451677	Integer	arg	function	apply	util	operation	Integer	operationOnCreated	size	javac
+438875	correct	projects	files	core	comment	project	file
+431963	Type	TODO	parameter	varargs	annotations	Object
+83297	bindings	don	IType	declared	ITypeBinding	returns	String	declared	don	Annotation
+418919	type	source	Annotations	LookupEnvironment	sourceLevel	Level	point	code	global	typeSystem
+92005	Bounds	Filter	Node	resumeOnSyntaxError	SourceViewer	runEventLoop	Recovery	Bug	Message	contentassist
+24934	Bug	Move	top	errors	Bug	doesn	level	doesn	top	doesn
+385132	grammar	compiler	syntax	shouls
+417388	TypeBinding	Type	parameter	doesn	foo	type	Reference	binding	resolved
+148328	javadoc	javadoc	JdtApt	jdt	unescaped	Jdt	defective	apt	XML	unescaped
+396139	BETA	process	coordinate	regressions	Examples	version	HEAD	Bug	environment
+483690	String	solution	Ide	solution	encoding	charset	charset	Ide	Java	IdeJavaSourceOutputStream
+430451	CompilerInvocationTests	Iterable	compiler	toString	Compiler	details	Patch	compiler	JRE	tests
+423280	JavaProjectTests	start	Add	Cases	org	EclipseTestRunner	classpath	Expected	testAddNonJavaResourcePackageFragmentRoot	launcher
+401790	handled	explicit	JAVA	sends	Bug	address	overlooked	updates	expressions	calls
+23162	nodes	start	tree	modified	parallel	AST	modification	modify	tree	simply
+55930	IProgressMonitor	encoding	Bug	execute	File
+406396	Bug	program	foo	don	report	solace	implemented	field
+17531	plan	GlobalActions	Bug	java
+429949	link	Rewrite	ICompilation	link	Note	method	subject	method	Javadoc	Bug
+150655	version	parameterized	parameterized	accepts	error	overloaded	error	compile	method	choose
+439431	sudden	generate	Declaration	TypeDeclaration	generateTypeAnnotation	Annotations	execute	Attribute	ast	generateRuntimeTypeAnnotations
+277382	editors	internal	jdt	project	consumeClassHeaderName	equinox	Parser	open	file
+222080	attached	Unzip	Unzip	ASTNode	Completion	array	proposals	assist	find	order
+442245	compiler	paste	Created	create	Bug	copied
+417669	Marker	lang	Type	dom	appears	Marker	doesn	Marker	ParameterizedType	range
+405125	Bug	ctrl	appearing	code	assist	lambda	Bug	lambda	Bug	assist
+455042	jar	modified	network	jars	stands	timestamp	recover	Java	modified	build
+405889	Method	getJavaLangInvokeMethodHandlesLookup
+424591	Building	inference	error	reproducing	clone	rev	zip	test
+85384	assist	assist	method	assist	assist	proposed	content	assist	method	declarations
+168331	main	bugs	args	compile	time	list
+393356	fails	launcher	Manager	fails	latest	Failures	file	javac	Location	build
+483467	lang	Bug	Errors	Starter	runWithDefault	Failed	application	Lambda
+474762	adaptor	generics	Error	equinox	Bug	invokeFramework	runtime	basicRun	download	invoke
+424075	Compiler	compiles	works	piece	main	pred	String	String	String	Bug
+430987	compile	clazz	faced	compile	compile	Compile	create	works	clazz	worked
+252556	Javadoc	bug	fails	Bug	Javadoc	formatted	removed	unit	formatter	Javadoc
+409236	Type	intersection	constituents	intersection	point	eclipse	point	generator	constituents	Type
+181393	DefaultASTVisitor	Marker	ASTNode	visit	Bug	AST	Marker	endVisitNode	Bug	MarkerAnnotation
+409245	optimizations	bridge	synthetic	eclipse	call	bug	routed	synthetic	method	Bug
+380313	org	Bug	eclipse	Xtext
+413083	debug	bug	full	accuses	requesting	debug	full	requesting	Bug	full
+399769	trigger	point	reserved	Bug	warning	keyword	error	identifier
+415911	method	annotation	java	lang	compiler	Target	Type	Element	JAVA	type
+420004	restored	type	annotation	JAVA	compiler	shortly	Annotations	type	Target	Target
+421796	bugs	cgi	executing	compiler	cgi	Method	JAVA	program	test	Method
+467618	Empty	properly	lines	duplicate	leads	feature	didn	wrapped	didn	lines
+217002	Options	OPTION	processing	Processors	apt	enable	Processor	sentence	supported	AptPreferenceConstants
+431275	BTW	DeltaProcessingState	runApplication	bugs	endOperation	updateRoots	JDT	started	utility	product
+426678	accessibility	eclipse	https	Follow	bugs	showing	compiler	bug	showing	vararg
+485302	annotations	Bug
+88757	list	start	exist	doesn	doesn	SwitchCase	type	SwitchGroups	statement	groups
+29621	path	Add	icons	Delta	delta	Wrong	Folder	Add	project	Start
+162740	open	documents	referer	Bug	eclipse	org
+460465	enum	search	Created	Project	references	Shift	statically	references	statically	doesn´t
+476859	error	EJC	enclosing	failures	oracle	Bug	fine	compiled	tests
+15036	output	pre	Simple	Visit	CompilationUnit	postVisit	getResource	Declaration	Post
+464570	showing	Stack	ThreadPool	TypeDeclaration	Compilation	caused	Array	jsp	Locals	Label
+401848	Annotation	type	introduced	attachment	ASTRewrite	Created	rewrite	ASTRewrite	ASTRewrite	annotations
+488888	compilation	repository	violates	check	code	Operation	Indicator	Participants	unacceptable	annotations
+434630	generics	issue	types	code	mismatch	bug	types	bug	type	type
+79809	type	accessing	TagElement	includes	javadoc	Simple	ranges	bracket	Javadoc	param
+176320	type	jobs	occurring	striked	format	jobs	migrating	format	filled	opening
+126914	parameter	mismatch	bounded	declaration	GenericTypeTest	single	inverting	inverting	test	mismatch
+435397	creation	removed	lazy	Eclipse	Boot	eager	error	Function	Module	Base
+373953	lang	org	runtime	bug	core	java
+426434	output	input	javadoc	crashes	passes	output	doesn	EclipseCompiler	input	input
+429763	parameter	compile	args	Integer	lambda	Main	args	expression	lambda	Test
+399567	Integer	Object	inherited	bin	Ambiguous	windows	compiler	location	declared	AmbiguousMethodTest
+180169	containers	container	log	Bug	reported	returning	containers	entries	protect	protection
+65738	Bug	project	builder
+403147	checked	deferred	NPE	bit	structures	deferred	Bug	code	Bug	bug
+176591	convert	type	Bug	type	Steps	works	Type	Type	Typed	mismatch
+456395	code	Object	Map	compile	Bug	Type	String
+427218	bugs	https	inference	snippet	compiler	bug	Bug
+412882	Java	setRawclaasspath	project	optional	captured	Content	validateLibraryContents	JavaModelOperation	ZipFile	verifyArchiveContent
+391376	hold	Bug	enter	verifier	verifier	bugs	interaction	longer	bugs	code
+427216	update	varargs	eclipse	Error	foo	Add	Support	basic	compiles	week
+412639	Potential	ERROR	html	main	Closeable	Test	java	drops	runNegativeTest	html
+478427	Processing	consumes	VMVersion	Err	Manager	UnsupportedClassVersionError	warning	report	Unsupported	output
+432603	discussed	getValue	Test	Nullable	discussed	fromNullable	Stackoverflow	error	reports	fromNullable
+422107	Ctrl	proposals	proposals	code	doit	result	Invoking	Invoking	java	Bug
+413913	Investigate	Bug	Investigate	Bug	Bug	Bug	Investigate	Bug	Bug	Bug
+369381	compiler	assertion	assertion	Adding	potential	compiling	mark	compiling	Adding	mark
+165346	conditional	result	integrating	Bug	conservative	Eclipse
+327143	consequence	Exit	jar	Restart	jar	call	awaiting	waiting	manager	job
+396258	introduce	Annotation	Bug	Type	type	Test	Bug	NonNull	simplify	Bug
+126180	problem	field	String	compiler	type	method
+472815	Mars	create	empty	blocks	Mars	Mars	indented	formatter	Indent	lines
+412650	test	bug	Incongruent	thrown	Incongruent	test	compiling	compiling	bug	Lambda
+357110	removing	wrong	settings	core	Reproducible	Bug	parse	Problem	Build
+479474	jdt	org	declaration	core	core	comment	reported	doc	eclipse	formatter
+90612	code	Assist	choices	code	project	classpath	Forbidden	accessible	types	project
+423409	attached	project	matches	Search	result	project	delete	view	inlined	Continuing
+193784	Processors	Copyright	apt	Proprietary	org	servlet	dtd	AnnotationProcessors	Bug	Copyright
+441338	Binding	Array	NonNull	Function	ArrayList	type	String	ArrayList	Main	Main
+471034	ExternalAnnotationUtil	Runner	Thread	runtime	Signature	Ctrl	computeQuickAssistProposals	runtime	internal	util
+341499	fixes	handling	locals	locals	released	allocate	UnconditionalFlowInfo	markAsDefinitelyNonNull	UnconditionalFlowInfo	mark
+403705	Investigate	list	List

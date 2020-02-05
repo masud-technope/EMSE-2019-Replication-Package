@@ -1,0 +1,1 @@
+top top toptop another public method anotherpublicmethod another protected method anotherprotectedmethod

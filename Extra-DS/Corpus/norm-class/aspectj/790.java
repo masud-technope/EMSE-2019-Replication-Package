@@ -1,0 +1,1 @@
+mainpackage main class mainclass amethod

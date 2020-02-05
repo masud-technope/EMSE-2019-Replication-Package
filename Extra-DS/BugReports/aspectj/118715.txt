@@ -1,0 +1,2 @@
+Load Time Weaving wipes out Xlint files if no Xlint values
+In ClassLoaderWeavingAdaptor if weaverOption.lint is null, then a loaded Xlint properties file gets overwritten by the default Xlint properties. See attached patch to fix this problem.

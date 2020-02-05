@@ -1,0 +1,1 @@
+java lang annotation retention retention policy retentionpolicy runtime color string color red annotated type annotatedtype main string argv annotated type annotatedtype system err println running

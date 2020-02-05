@@ -1,0 +1,1 @@
+org aspectj testing tester default cons and inner defaultconsandinner main string args test tester check test string tester note

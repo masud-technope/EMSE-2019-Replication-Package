@@ -1,0 +1,2 @@
+AspectJ Error: ConncurrentModificationException thrown: null
+In AspectJ 1.1.11 for Eclipse, build ID 1.2.0 (and also in the previous 1.1.10) on Eclipse version 3.0.0, build ID 200406351208: If I enable incremental compilation and make a change to a file (typing a space and deleting it, or editing a comment), I get a "ConncurrentModificationException thrown: null" error.

@@ -1,0 +1,2 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/ast/InterTypeMethodDeclaration.java
+org.aspectj/modules/tests/bugs160/pr173602/X.java

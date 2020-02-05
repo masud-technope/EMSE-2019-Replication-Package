@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples mediator aspectj javax swing jbutton java awt event action listener actionlistener java awt event action event actionevent button jbutton button string set action command setactioncommand add action listener addactionlistener action listener actionlistener action performed actionperformed action event actionevent clicked clicked

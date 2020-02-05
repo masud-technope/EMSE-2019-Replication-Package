@@ -1,0 +1,1 @@
+org aspectj lang annotation aspect org aspectj lang annotation main main string args system println main aspect main logger mainlogger execution main log join point joinpoint this join point thisjoinpoint system println this join point thisjoinpoint

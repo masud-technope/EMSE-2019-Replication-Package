@@ -1,0 +1,2 @@
+[XP theme] coolbars gradient background
+a gradient background in coolbars in combination with win xp visula themes will give us an &quot;office 2003 like&quot; toolbar <a href="http://www.eclipse.org/newsportal/article.php?id=16763&amp;group=eclipse.platform.swt">http://www.eclipse.org/newsportal/article.php?id=16763&amp;group=eclipse.platform.swt</a>

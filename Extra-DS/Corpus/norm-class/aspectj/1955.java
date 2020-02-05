@@ -1,0 +1,1 @@
+qualified new cp qualifiednewcp main string args base base abstract inner abstractinner system println helper system println base system println abstract inner abstractinner helper system println helper foo system println foo

@@ -1,0 +1,6 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/ast/InterSuperFixerVisitor.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/ast/InterSuperReference.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/ast/InterTypeDeclaration.java
+org.aspectj/modules/tests/bugs/MultipleSuperCf.java
+org.aspectj/modules/tests/bugs/OverridingInterfaceObjectMethod.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelTypeMunger.java

@@ -1,0 +1,126 @@
+289028	Bug	content	assist	Missing	check
+99585	Bug	NPE	FileSpec	File	Spec
+193798	Bug	hovering	exist	hovering	Javadoc	method	fake
+260362	Bug	NPE	content	assist	compare
+408330	Bug	Java	Model	Exception	Javadoc	view	element	deleted
+12044	Bug	search	find	constant	references	files	source	attached
+408072	Bug	nls	tooling	flagged	missing	NLS	key
+331028	Bug	typing	Indentation	broken	enhanced	loop
+24082	Bug	refesh	JavaElementSorter	Java	Element	Sorter
+443410	Bug	RenameTypePerfAcceptanceTests	testCold	fails	Rename	Type	Perf	Acceptance	Tests	test	Cold
+397842	Bug	file	incorrect	content
+46875	Bug	typing	Tabs	messed
+298520	Bug	content	assist	Constructor	completion	ignores	type	completing	type	arguments
+52257	Bug	NPE	org	eclipse	jdt	internal	javaeditor	JavaEditor	getSignedSelection	Java	Editor	Signed	Selection
+296998	Bug	Unused	imports	prevent	execution
+202273	Bug	reconciling	Organize	Imports	selected	error
+111653	Bug	misc	Dialogs	remembering	location	open	correct	monitor
+120615	Bug	hovering	Javadoc	Viewer	doesn	display	link	properly	text	whitespace
+307756	Bug	compare	Compare	local	history	reverts	dirty	editor
+304174	Bug	hashcode	equals	Generated	equals	invalid	Object	scope
+317497	Bug	content	assist	Overriding	content	assist	suggestion	closing	brace	generates	invalid	code
+31300	Bug	RepositoryProvider	isShared	problems	closed	projects	API	Repository	Provider	Shared
+218437	Bug	extract	local	Extract	Local	ArrayIndexOutOfBoundsException	Array	Bounds	Exception
+264770	Bug	browsing	implementation	NPE	starting	eclipse	Java	Browsing	Perspective
+80455	Bug	ITypeBinding	canAssign	aware	type	boxing	IType	Binding	Assign
+239940	Bug	implementation	NPE	editing	javadoc	comment
+262732	Bug	compare	common	navigator	duplicate	model	compare	folder	source	folder
+288847	Bug	type	hierarchy	NPE	type	hierarchy	view	refactoring	method
+466252	Bug	templates	template	block
+88397	Bug	OpenAction	select	ITypeParameter	Open	Action	IType	Parameter
+152142	Bug	nls	NLS	key	tab	search	dialog	window
+261198	Bug	nodes	missing	Java	Model	Synchronize	view
+287049	Bug	actions	Add	marks	editor	unsaved
+342858	Bug	inline	inlining	invocations	method	work	method	enum	type
+279124	Bug	quick	assist	Remove	extra	parenthesis	removes	comment
+364628	Bug	JUnit	sign	Eclipse	path	NPE	Classpath	Variables	preferences
+250961	Bug	build	path	NPE	attaching	source	JAR
+233559	Bug	implementation	NPE	DocumentAdapter	Document	Adapter
+125013	Bug	misc	deadlock	PreferencesAdapter	firePropertyChangeEvent	Preferences	Adapter	fire	Property	Change	Event
+260694	Bug	compare	NPE	log	opening	Java	compare	editor	breadcrumbs	enabled
+298066	Bug	nls	tooling	Refactoring	removes	comments	properties	message	key
+418384	Bug	ltk	junit	framework	ComparisonFailure	Unexpected	failure	Comparison	Failure
+243284	Bug	inline	Inline	constant	IAE	bounds
+285523	Bug	actions	Error	open	file
+29531	Bug	JavaColorManager	initialized	thread	Java	Color	Manager
+231263	Bug	formatter	JavaDoc	formatter	wrongly	indent	tags	description	Java	Doc
+43103	Bug	RenameType	Refactoring	detected	Rename	Type
+434791	Bug	inline	quick	assist	Delete	key	work	Inline	local	variable
+287078	Bug	content	assist	Overwrite	mode	rendered	filtering	proposals
+462948	Bug	render	method	content	assist	adornment
+172388	Bug	open	type	Open	Type	dialog	JRE	libraries	identical	text
+275308	Bug	JUnit	RunWith	Parameterized	don	navigate
+262511	Bug	quick	Wrong	quick	fixes	type	visible
+409707	Bug	PropertiesFileQuickAssistTest	testRemoveProperty	testRemoveProperty	failed	Properties	File	Quick	Assist	Test	test	Remove	Property	test	Remove	Property
+331115	Bug	Replace	conditional	removes	comment
+337514	Bug	clean	memory	error	Source	Cleanup
+47729	Bug	Unable	ignore	files	filters
+29553	Bug	ASTRewrite	extra	dimensions	lost
+299127	Bug	Refresh	Filter	problem	NullPointerException	entering	blank	JAR	selection	dialog	Pointer	Exception
+430195	Bug	model	api	Lambda	IType	API	problems	isLambda	getElementName	returns	Lambda	Element
+465521	Bug	comparator	errors	files
+300157	Bug	compare	NPE	opening	compare	editor
+42110	Bug	ClassCastException	Java	Search	working	Exception
+162434	Bug	content	assist	Code	conpletion	doesn	choose	correct	collection
+288385	Bug	clean	Internal	error	configured	profiles	multiple	projects
+77193	Bug	Properties	File	Editor	doesn	QuickDiff	hovers	Quick	Diff
+446604	Bug	implementation	IOOBE	OptionalMessageDialog	buttonPressed	Optional	Message	Dialog	button	Pressed
+54922	Bug	implementation	Java	editor	disposes	StyledText	caret	image	Styled	Text
+342926	Bug	JUnit	DBCS	JUnit	generate	method	CJK	extension
+226444	Bug	Failing	test	TypeHierarchyTest	testHierarchyWithWorkingCopy	TypeHierarchyTest	java	Type	Hierarchy	Test	test	Hierarchy	Working	Copy	Type	Hierarchy	Test
+62863	Bug	Assertion	failed	NLS	search	nls	search
+342410	Bug	quick	assist	Pick	selected	string	tests
+424083	Bug	quick	assist	AIOOB	exception	Convert	anonymous	creation
+330640	Bug	preferences	SWTException	OptionsConfigurationBlock	Widget	disposed	Options	Configuration	Block
+299667	Bug	Test	failure	org	eclipse	jdt	tests	refactoring	ccp	CopyToClipboardActionTest	testEnabled	Copy	Clipboard	Action	Test	test	Enabled
+325523	Bug	NPE	deleting	resource
+406171	Bug	navigation	Word	complete
+372128	Bug	syntax	highlighting	Highlight	enclosing	brackets	massive	performance	problems
+279981	Bug	Constructor	inlining	produces	illegal	result
+338089	Bug	quick	Infer	Type	Arguments
+395691	Bug	search	NPE	search	method	declaration
+79793	Bug	Deadlock	JavaWorkingSetUpdater	Java	Working	Updater
+272567	Bug	javadoc	hovering	Rendered	Javadoc	strip
+264112	Bug	Formatter	Wrap	aggressive	qualifiers
+250806	Bug	Activating	working	updaters	bundle	org	eclipse	jdt	encountered	problem
+294322	Bug	jar	exporter	Runnable	JAR	Export	problem	special	characters	included	JAR	JAR	filenames
+274364	Bug	quick	NPE	ASTNodeFactory	method	type	missing	ASTNode	Factory
+278201	Bug	quick	Remove	modifier	solution	constants	interfaces
+301242	Bug	refactoring	clean	locked	dialogs	repeated	Undos	Java	editor
+81856	Bug	quote	problems	property	files	JDT
+286406	Bug	build	path	File	Java	Project	identifying	source	files	correctly
+353731	Bug	type	hierarchy	Exception	occurred	listener	Type	hierarchy	change	notification
+49352	Bug	typing	Smart	quotes	problem
+90057	Bug	nls	tooling	TVT	externalized	string	Externalize	Strings	panel
+407759	Bug	Sort	Members	IAE	Comparison	method	violates	general	contract
+354766	Bug	Javadoc	content	content	assist	info	window	constructors
+289992	Bug	IResource	setDerived	IProgressMonitor	IResource	setDerived	Derived	IProgress	Monitor	Derived
+30412	Bug	ClassCastException	selecting	java	browsing	perspective	Exception
+378068	Bug	Update	ImportOrganizeTest	FUP	bug	bug	Organize	Test
+170192	Bug	implementation	IllegalStateException	reading	spelling	dictionary	Illegal	Exception
+386518	Bug	extract	method	CCE	ExtractMethodRefactoring	createMethodBody	Extract	Method	Refactoring	create	Method	Body
+49619	Bug	formatting	comment	formatter	leaves	whitespace	comments
+68562	Bug	projection	NPE	ProjectionViewer	setRangeIndication	Projection	Viewer	Range	Indication
+303313	Bug	Test	failures	SurroundWithTests	AllAllRefactoringTests	Surround	Tests	Refactoring	Tests
+236251	Bug	implementation	failure	launching	headless
+262877	Bug	JavaModel	object	handled	JavaNavigatorLabelProvider	Java	Model	Java	Navigator	Label	Provider
+295901	Bug	JUnit	CCE	opening	editor
+306392	Bug	syntax	highlighting	syntax	coloring	enum	type
+427227	Bug	Handle	TypeParameter	annotations	change	modifiers	Type	Parameter
+377318	Bug	encapsulate	field	Encapsulate	field	introduces	methods	compilation	errors
+417765	Bug	ImageDescriptorRegistry	hookDisplay	SWT	Invalid	thread	access	Image	Descriptor	Registry	hook	Display
+246501	Bug	content	assist	ArrayIndexOutOfBoundsException	thrown	SignatureUtil	getUpperBound	Array	Bounds	Exception	Signature	Util	Upper	Bound
+272366	Bug	ltk	LTK	RefactoringWizardOpenOperation	opens	window	window	title	text	Refactoring	Wizard	Open	Operation
+267241	Bug	RenameTypePerfAcceptanceTests	aka	Rename	Control	bogus	Rename	Type	Perf	Acceptance	Tests
+200685	Bug	templates	JavaContext	sets	wrong	completion	length	adding	imports	Java	Context
+442614	Bug	Extract	merge	string	literal	escaping
+400374	Bug	opening	editor	maximum	allowed	reached	result	exception	editor	opened
+84724	Bug	search	fails	find	call	sites	varargs	constructors
+201718	Bug	content	assist	Paramter	guessing	slow
+290034	Bug	Effects	SuppressWarnings	unchecked	broader	Eclipse	javac	Suppress	Warnings
+460799	Bug	compare	Structured	compare	editor	tree	doesn	properly	format	qualified	types
+47097	Bug	content	assist	Pressing	Semicolon	commit	content	assist	bypasses	smart	semicolon
+432125	Bug	quick	Expression	unchecked	conversion	Replace	quick	insert	wild	cards	compile	error
+300536	Bug	quick	Invalid	thread	access	quick
+316155	Bug	JUnit	View	open	source	test	classes	fragments
+411641	Bug	content	assist	Unnecessary	content	assist	popup	decimal

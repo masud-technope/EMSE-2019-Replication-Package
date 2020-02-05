@@ -1,0 +1,2 @@
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/AtAjAttributes.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelObjectType.java

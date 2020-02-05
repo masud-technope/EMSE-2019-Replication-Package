@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples facade aspectj decoration decorator string consisting stars returns decorator string stars string get decoration getdecoration

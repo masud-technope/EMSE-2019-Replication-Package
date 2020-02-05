@@ -1,0 +1,1 @@
+org aspectj testing tester errors warnings circular extends circularextends circular extends circularextends main string args circular extends circularextends real main realmain args real main realmain string args tester check shouldn compiled

@@ -1,0 +1,2 @@
+"""can't bind type"" message has $ for . in type name for declare soft"
+cosmetic mistake in error message... expected: can't bind type name 'unknown.Error' actual: can't bind type name 'unknown$Error' (not sure why it would ever be munged with $) public class Test { public static void main(String[] args) { test(); } static void test() { throw new Error("hello"); } static aspect A { declare soft : unknown.Error : call(void test()); // CE } }

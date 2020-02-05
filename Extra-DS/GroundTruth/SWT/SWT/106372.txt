@@ -1,0 +1,3 @@
+org.eclipse/swt/custom/StyledText.java
+org.eclipse/swt/dnd/DragSource.java
+org.eclipse/swt/dnd/DragSourceEvent.java

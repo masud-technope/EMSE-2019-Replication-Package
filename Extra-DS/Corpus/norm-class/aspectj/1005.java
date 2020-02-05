@@ -1,0 +1,1 @@
+org aspectj lang reflect apointcut org aspectj lang annotation pointcut execution my pointcut mypointcut main string args exception aj type ajtype my type mytype aj type system ajtypesystem get aj type getajtype apointcut pointcut my type mytype get declared pointcut getdeclaredpointcut my pointcut mypointcut

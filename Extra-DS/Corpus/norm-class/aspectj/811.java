@@ -1,0 +1,1 @@
+copyright contributors rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors adrian colyer initial implementation reflect tests author colyer testdata org aspectj weaver reflect tests string foo object exception bar string java serializable get number of thingies getnumberofthingies object

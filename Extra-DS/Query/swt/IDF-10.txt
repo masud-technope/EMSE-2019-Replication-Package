@@ -1,0 +1,77 @@
+84609	caught getcolumns refresh jdk build existing tablecolumn getcolumn element pack 
+79107	consistency setitems elements ignore items platforms check string 
+94467	lay bring layouts editor columns ctrl sizes appears shift list 
+78854	pvalue proxy freed gtk func clipboard function copies free memory 
+94598	steps recreate response sdk scope traditional working dbcs jdk install 
+104966	setenabled editor visual displays correctly status disabled property running enabled 
+107145	plugins javadoc comments destroywidget refer build tag errors releasehandle doc 
+78856	isn capability requirements saving plug pastes awt pass jdk bitmaps 
+94603	puts spinner updown inset buttons standard box border windows text 
+102794	setexpandhorizontal labels helps achieve setminsize makecolumnsequalwidth setexpandvertical scrolledcomposite boxes difference 
+88717	scrollbars appearing snippet dev href drags automatic working amp enables 
+108813	xml grows literally users opening href proceed eventually displayrenderer span 
+97678	lose sashform sash form drag items pixels longer custom item 
+90258	filtered clearall snippet setitemcount works variable verified tableitem expected virtual 
+80276	cbanner cbannerlayout good resizing calls fixed update resize time layout 
+96916	spinner doesn tooltip settooltiptext appears work tool widget text 
+91159	consistency motif dragenter datatypes carbon gtk droptarget datatype target enter 
+86294	mac working build unsupported search replace escape dialog find file 
+97177	lost editor ime closed status open window text eclipse 
+119192	ccombo respond fired problem mousemove track mouse listeners button move 
+111259	insertion logic gtk outline exit view mark problem click don 
+93724	signals dragend dragsource wcstombcs connect gtk converting wcs mbcs names 
+100387	showtooltip tooltips ctabfolder ctab tooltip tabs hover mousehover folder temporary 
+90018	keybinding assuming tooltips stack maximize ctabfolder ctab tooltip hover folder 
+79268	reads modifications development gtk function deprecated library unknown warning work 
+87460	toolkit addlinestylelistener setcaretoffset snippet fontstyle filllayout linegetstyle linestylelistener main readanddispatch 
+103976	individually spinner setvalues digits pageincrement slider increment maximum minimum provide 
+78634	javadoc opaque incorrect gettransparencymask alphadata fully exists transparency appears alpha 
+81834	numbers panel abc arabic language options bidi styledtext displays convert 
+82346	clabel griddata working gtk setalignment grid shadow workaround setlayoutdata constructor 
+84012	handling extending remain discards ignoring attached option receiving lies auto 
+105772	strange search label correct enabled tab support background color text 
+87855	dispatchmessagew sendmousedownevent pressing console framework basic trace impl sun stack 
+106289	snippet sample selecting times columns applied running column tree item 
+99376	plug missing registry runtime tablecolumn problems opened view dragging separator 
+113971	arrayindexoutofboundsexception fire framework mac basic provider model newitem main refresh 
+95410	altered triggered ways drawstring bad generally compressed gdi painted consistent 
+91317	spinner build negative support values version 
+96053	pressing href spinner span comment behaviour happen buttons standard clicks 
+87997	leaves disposal tableeditor adddisposelistener main widgetdisposed disposeevent linked disposelistener seteditor 
+89533	preferences themes icons fonts entries colors color 
+80830	limitation javadoc xor href span drawfocus gtk chance separately implementing 
+83262	protocol pasting pastes terminator motif gtk middle behaviour clipboard exists 
+87363	variable showmenu main opens readanddispatch getmenu amp setmenu pop sleep 
+99266	attached issue rows blank lines displayed table empty top code 
+82500	limitation calc nature photon attach panel overwrite tabfolder tabs folder 
+92612	isn assuming slot shrink room build tabfolder ctabfolder chevron ctab 
+93380	cpu guess usage build files doesn explorer external virtual editor 
+117574	broken drawstring buffered getclipping main readanddispatch build machine println sleep 
+99145	disabling mixed configure linked disables disabled content link widget text 
+84557	gtk brings editor esc ctrl running list table empty window 
+108236	activity keeping scenario spinner working setminimum build choose setmaximum maximum 
+92241	filling copying href span big performance selecting holding gtk areas 
+97745	restores pressing stays sorted releasing sort inset view clicked press 
+85072	variants microsoft observed swapping waits disk unresponsive physical apps dev 
+92757	styledtext caret styled add text listener 
+78548	consistency turn mouseup click tab mouse listeners button selection control 
+104150	snippet setlinesvisible regions separated getlinesvisible clicking matter follow expected separate 
+75739	getstring gettype variant cases empty tostring call version type exception 
+78559	consistency href span slider fired turn thumb scale closed mousedown 
+108769	javadoc wasn filedialog numbers extensions attached working details reading gtk 
+102756	preferences implies team attached gtk doesn render rendering combo edit 
+86631	javadoc accept places doesn doc pattern apply closed wrong determine 
+115947	tooltip alt accessibility column images table image text 
+101354	javadoc imagedataloader href span details imageloader loader closed title imagedata 
+81265	node tabletree incorrect uncheck remains disabled names entire enabled tree 
+81264	simulate succeed succeeds dynamically continues works loads working main readanddispatch 
+86000	proper jpg produces tested trace printstacktrace saves loads attached stack 
+83699	peekmessagew suspended basic messageproc impl works updatefont main readanddispatch build 
+97651	guess snippet tips belongs setexpanded setinsertmark main readanddispatch collapse sleep 
+79481	setweights weights guess snippet pane sashform notice filllayout main readanddispatch 
+80120	puts cuts attachment account ctabfolder ctab toolbar corner folder pixel 
+108792	replacestyleranges wait ranges lost mark updated disable styledtext replace press 
+80506	isn forced hasn forceactive setactive consistency mac inconsistent motif main 
+88829	swapped fire setcolumnorder shifted auto fired positions widths columns column 
+77948	disabling bindings onmnemonic basic filterevent clabel impl commands sun translatemnemonic 
+87676	works clicking build brings view log notification click column tree 

@@ -1,0 +1,2 @@
+[misc] Chinese IME status lost
+Open chinese IME in eclipse text editor,then switch to another window and switch back to Eclipse, chinese IME are closed, and have to open again.

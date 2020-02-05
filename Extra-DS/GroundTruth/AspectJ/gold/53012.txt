@@ -1,0 +1,2 @@
+org.aspectj/modules/tests/bugs/declarePrecedenceWithClasses/DeclarePrecedenceTestClass.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/DeclarePrecedence.java

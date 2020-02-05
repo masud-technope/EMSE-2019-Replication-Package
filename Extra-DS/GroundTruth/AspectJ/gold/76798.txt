@@ -1,0 +1,7 @@
+org.aspectj/modules/weaver/src/org/aspectj/weaver/AjAttribute.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelAttributes.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelField.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelMethod.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelObjectType.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/LazyClassGen.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/LazyMethodGen.java

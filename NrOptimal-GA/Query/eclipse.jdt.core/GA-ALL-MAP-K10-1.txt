@@ -1,0 +1,148 @@
+337415	folders dangerous tasks script computed Refresh loaded workspace variable Created
+222080	problem assist reproduce open list proposals details item Wrong find
+442245	copied hangs clipboard details compiler eclipse Bug Created
+455042	recover stands jars modified Enable stands errors modified timestamp network
+385293	Marker compiler check Bug grammar accepted accepts type
+424591	capture inference Created Problems variable eclipse
+85384	assist declarations method assist assist method proposed content assist method
+252556	test unit unit removed spaces fails formatted Bug Bug test
+471062	source source file Format slash edit extra Bug space inserted
+409236	compiler types eclipse annotations bug intersection dropped eclipse code generator
+28951	restarting attachment java missing file reading longer java edited src
+363293	eclipse jdt org tool test tests file justified
+480029	Created Comments individual start reproduce formatter org formatting statement bug
+409245	bridge adds optimizations moment dropped writes JAVA dropped optimizations moment
+380313	org Bug refer stack Xtext Java php   error
+413083	debug build full requesting debug build full wrongly wrongly accuses
+399769	releases keyword warning trigger java error reserved Java
+420004	annotations types Target targets Annotations binary annotation getAnnotations
+410402	Investigate Investigate Bug Bug Investigate Investigate Bug Bug Bug Bug
+467618	force didn formatter split implementation problems split feature indentation desired
+483895	content code Disable assist substring dependent
+426678	bugs org Follow eclipse vararg regression shortly eclipse eclipse showing
+485302	Missing warnings annotations annotations annotations Missing Wildcards warnings warnings Bug
+341296	classpath entries Build Reproducible front
+29621	exclude CHILDREN delta Ensure Folder Adding fresh Ensure Adding CHILDREN
+162740	documents eclipse open referer Bug
+476859	tests command compiler code fine EJC works compiler enclosing method
+401848	attachment rewrite ASTRewrite additional reproduce details error Annotation rewrite details
+434630	project error work generics attachment Created error reproduce Bug mismatch
+176320	deal jobs rushed processed reindexing jobs latest Build dialog strange
+11076	list Add
+373953	java runtime eclipse bug lang java org runtime core org
+421711	behavioral issue ECJ parameter warning identifier behavioral rejects ECJ identifier
+180169	missbehaving reported returning protect missbehaving entries entries trace mode entries
+65738	builds builds Bug starting save time save Bug project Build
+403147	reducing consolidate deferred unboxing introduced dimensions duplication compiler relevant introduced
+427218	crash snippet Bug inference varargs error eclipse bug
+391376	handled error meet behavior unchanged analysis bugs handled bridge behavior
+234074	error depending compiler expected Bug fails test
+438875	projects files files jdt correct comment correct comment Bug files
+413913	Bug Bug Investigate Bug Bug Investigate Investigate Investigate Bug Bug
+369381	compiling unexpected Adding mark potential compiler potential potential mark compiling
+24934	optimize imports top level refactoring Move imports level unused unused
+472815	body Indent Mars Bug doesn doesn formatter Bug indented indented
+385132	Bug shouls grammar syntax
+412650	bug small extract Bug Exception Lambda thrown compiler bug Incongruent
+357110	find eclipse problem circumstances message add file Java parse
+479474	compiler bug comment core jdt override confirm attached parser comment
+90612	choices project assist popup popup Code project classpath Bug Bug
+423409	refactoring Ctrl inline Search inlined delete constant matches
+401790	bug constructor handled explicit explicit address constructor updates bug calls
+23162	bindings bindings Bug parallel modification AST existing modified rewriting clients
+403705	List list Investigate
+421469	core syntax LocalDeclaration codeComplete Stacktrace java foo foo String local
+431275	events updateCurrentDeltaAndIndex app Root core Processor Classpath collectClasspathURLs SafeRunner utility
+190268	beehive org Exception Output close Encoded exception Bug annotation Encoder
+277382	parser HTML Exception project parse strange NullPointerException open viewing
+393356	trace Handle Container Javac Bug callMethodWithException Data dash util CompilerTestSetup
+412639	linux closeable missing resolved Regression close Resource check runNegativeTest ResourceLeakTests
+418843	core Mono NPE enum saving Test SpeedTest Kepler Pointer Runner
+423280	ojectTests String testresults assertEquals incorrect Root ojectTests equinox Container abc
+427216	fine error compiles older versions Java main Array org broke
+439431	runtime Attribute makeConsistent trace access Reconciling AIOOBE ClassFile Target Declaration
+448043	body JavaTypeCompletionProposal AbstractJavaCompletionProposal Initializer Imports org node Java Unit Auto
+46084	crash DiagnoseParser Method build Recovery annotations Builder real Compile error
+464570	CodeGenJob exception java count conflict reproduce arraycopy Array Code avoiding
+471034	ExternalAnnotationUtil IllegalArgumentException Proposals lang tarray text Exception contentassist computing Bug
+474762	Lambda test AbstractRegressionTest noop file util Container EclipseAppLauncher EclipseAppLauncher String
+483467	Engine compiler EclipseStarter Method org createAndRunUI Lambda Error Errors adaptor
+488888	eclipse java push exist isActive Fake Synchronizer Resource CompareEditorInput Participants
+92005	Control org Assistant Assist adaptor PlatformActivator resume handleEvent doOperation
+15036	postVisit visitor icu visit type pre Unit node dynamic parse
+388634	compiler Bug specific Tests Compliance expected
+396139	Examples problem aefe download Manoj failure branch process tests JRE
+396258	variance ambiguous NonNull Annotation Object adopt java Bug NullTypeAnnotationTest
+399567	error Integer build lines version parameters declared location OrderedSet Errors
+401989	returning declared analyze code lambda type test warning test LocalDeclaration
+403457	compiler Element util annotation TYPE Type foo Wildcard
+405051	Path approach pre IProgressMonitor concept container attribute primed JavaCore workspace
+405889	getJavaLangInvokeMethodHandlesLookup Method Spawned
+412882	Contents send spending util ClasspathEntry JavaModelManager close validateLibraryContents library Unnecessary
+415911	lang String Target triggers ElementType compiler java method
+416313	JAVA eliminate Ids org Typeids Bug Framework JavaLangFunctionalInterface cherry Functional
+417388	Argument object foo TypeBinding resolved Binding binding annotations parameter
+417669	lang range code SimpleType dialog Simple Bug Simple nested Bug
+418919	annotated AnnotatableTypeSystem Environment source JDK point globalOptions Lookup Testing type
+424718	aware functions baseType baseTypeReference internal instance annotations nice jdt APIs
+426434	doesn Eclipse err javax standard care passed tools output javax
+430451	details attachment surrounding Iterable Iterable CompilerInvocationTests Created compiler Patch file
+478427	InstantiationException VMVersion Exception logger report InstantiationException BatchAnnotationProcessorManager Processor Incorrect jar
+69658	Bug Instance Note Note Creation Instance ClassInstanceCreation sense JLS Note
+70665	javadoc jdt Declaration MethodDeclaration parameters constructor method method constructor type
+104245	belongs parents getRoot setRoot setRoot belongs automatically type Compilation descendents
+124099	flowInfo considered considered attached Definite reset Initializations incorrect flowInfo fields
+126180	type problem field compiler method String
+126914	valid bound compiler type empty declarations bounded Bug test java
+145202	System reference Bug negated err positive raises System println code
+148328	escaped Apt defective JdtApt JdtApt defective apt build comment javadoc
+149562	folling Test statements values println bug Types enumeration enum variable
+150655	error type JDK util util String Bug parameterized choose Bug
+158274	HEAD Field interfere Block List APT List Compile apparent Dialog
+165346	conservative eclipse overriding DSRG Expression Bug org result conditional
+168331	println Method Eclipse ExtendedList bug method compile args Java
+170843	severe encountered reported System arguably FileSystemUtil log deleteDerivedResources ResourceException pass
+17531	Reason entering save refactoring happening File Global error message Java
+176591	level works mismatch Typed empty convert Java empty erroneously Steps
+181393	visit doesn visitNode Visit MarkerAnnotation ASTNode ASTNode called visitNode visitNode
+186457	commented override Charset project bottom erasure exe test Charset javac
+193784	code servlet Microsystems jdt jsp code xsd Proprietary license AnnotationProcessors
+208186	perf generated Don generated EncodedFileOutputStream settings Don improvement problems Stream
+217002	Annotation supported Bug option order DISABLED editing sentence read OPTION
+228691	autoboxing sun mirror lang meaning Types Types reasons annotating correctly
+268802	Converter Converter Useless convert Annotations Source build Bug Useless getSource
+29516	regressions Engine responsible Search responsible tests SearchEngine responsible SearchEngine Bug
+301894	annotations Build annotations adopters issues Build compiling building issues APT
+30516	Archive ragment fragment typo IPackage fragment Root ragment Fragment Root
+327143	accept number Bug call waiting touch loop infinite loop simulateRestart
+341499	UnconditionalFlowInfo bits locals methods released fixes Bug Info released locals
+41554	search type core attached workspace Type internal SourceType hierarchy
+421796	test cgi Bug AbstractMethodError eclipse compiler Method play executing code
+424075	asList eclipse args regression Consumer latest compiles asList code List
+425493	require require jan code Objects getDefault Bug requireNonNull Objects getDefault
+429763	String compile String expression lambda test Integer Bug compile parameter
+429949	Unit link AST link create Bug Unit ICompilationUnit Javadoc ImportRewrite
+430987	code foo compileError code works Bug doSomethingWithFoo reproduce reproduce compileError
+431963	invoked type code DOM varargs method Auto Annotations
+432603	error String mvn problems succefully Stackoverflow Bug Error code Bug
+435397	module javac ambiguous Config BootModule String eclipse eclipse Lambdas Bug
+441338	argument argument parameterized getU NonNull Nullable ArrayList detail getU argument
+448800	Inference Bug Srikanth working Interfaces lowerBound needed comment Inference follow
+451660	Wrong location friendly couple minimal removed String toString variable Bug
+451677	Array test Eclipse util Array java factory arg created type
+460465	attachment details Test search Test Bug doesn´t references Enum references
+470535	java core entries Library http hashCode User Code internal time
+483690	IdeJavaSourceOutputStream OutputStreamWriter discards collected Object method File solution solution Stream
+488461	participant annotations interested isAnnotationProcessor process Processor processAnnotations CompilationParticipant Returns Javadoc
+55930	IProgressMonitor Operation Monitor File save Bug encoding encoding File executeOperation
+79809	angle includes node tag inserted TagElement parameter param open open
+83297	methods array Declared bindings count provide returns declared String bindings
+88757	method method Bug SwitchStatement SwitchGroups type statements start element doesn
+405125	Bug assist space expression code ctrl appearing expression assist Anirban
+406396	Method fact bunch bunch fixes misses Method Bug report meant
+422107	suggestions snippet space initialized assist lambda Bug result assist variable
+25377	error convert array empty Type build initializer
+31261	errors unit compilation max Bug build
+403036	Bug handled Note link javadoc content String url url content
+42243	source String expected misleading token isn token Bug source Incorrect
+456395	Map code Type compile Bug String

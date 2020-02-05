@@ -1,0 +1,1 @@
+org aspectj testing static inner interfaces staticinnerinterfaces main string args tester check all events checkallevents tester expect events in string expecteventsinstring tester event tester event tester event

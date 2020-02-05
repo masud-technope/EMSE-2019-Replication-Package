@@ -1,0 +1,11 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/ajc/BuildArgParser.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/core/builder/AjBuildConfig.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/core/builder/AjBuildManager.java
+org.aspectj/modules/org.aspectj.ajdt.core/testsrc/org/aspectj/ajdt/internal/compiler/batch/AjdtBatchTests.java
+org.aspectj/modules/org.aspectj.ajdt.core/testsrc/org/aspectj/ajdt/internal/compiler/batch/CommandTestCase.java
+org.aspectj/modules/org.aspectj.ajdt.core/testsrc/org/aspectj/ajdt/internal/compiler/batch/PerformanceTestCase.java
+org.aspectj/modules/runtime/src/org/aspectj/runtime/reflect/Factory.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/Lint.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/World.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelAdvice.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelShadow.java

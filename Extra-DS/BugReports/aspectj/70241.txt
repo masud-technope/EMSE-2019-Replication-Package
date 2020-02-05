@@ -1,0 +1,2 @@
+outline view shows anonymous inner classes in different way than jdt outline
+See screenshots.

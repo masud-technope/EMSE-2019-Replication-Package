@@ -1,0 +1,3 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/lookup/AjLookupEnvironment.java
+org.aspectj/modules/tests/bugs/ParentsAndPointcuts.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/CrosscuttingMembersSet.java

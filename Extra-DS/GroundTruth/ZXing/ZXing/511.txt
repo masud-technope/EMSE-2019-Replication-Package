@@ -1,0 +1,2 @@
+com.google/zxing/qrcode/QRCodeBlackBox2TestCase.java
+com.google/zxing/qrcode/detector/Detector.java

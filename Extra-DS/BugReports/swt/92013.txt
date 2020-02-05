@@ -1,0 +1,2 @@
+DCR - Need SWT.VERTICAL style for CoolBar
+There seems to be no way to tell CoolBar to orient itself vertically i.e. the drag handle is always rendered as a vertical line/vertical dots. I wanted to use CoolBar/CoolItem for the intro launch bar so that I can get the OS-specific handle rendering but I need to be able to position CoolBar vertically when in the LEFT and RIGHT window trim areas. In this orientation, CoolItem handle will be rendered horizontally (as horizontal line/dots).

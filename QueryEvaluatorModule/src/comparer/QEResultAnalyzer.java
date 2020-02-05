@@ -59,7 +59,7 @@ public class QEResultAnalyzer {
 		for (String repoName : repos) {
 			System.out.println("Repo:" + repoName);
 			String acerResultFile = StaticData.GA_EXP + "/" + this.method + "/QE/" + repoName + ".txt";
-			String baseResultFile = StaticData.GA_EXP + "/Baseline/QE/title+description";
+			String baseResultFile = StaticData.GA_EXP + "/Baseline/QE/Baseline";
 			baseResultFile += "/" + repoName + ".txt";
 
 			ResultComparer rComparer = new ResultComparer(repoName, baseResultFile, acerResultFile, true);
@@ -137,7 +137,7 @@ public class QEResultAnalyzer {
 
 		String[] repos = { "ecf", "eclipse.jdt.core", "eclipse.jdt.debug", "eclipse.jdt.ui", "eclipse.pde.ui",
 				"tomcat70" };
-		String methodName = "IDF";
+		String methodName = "ACER";
 		QEResultAnalyzer qeResultAnalyzer = new QEResultAnalyzer(methodName);
 		qeResultAnalyzer.getImprovedWorsenedRatios(repos);
 	}

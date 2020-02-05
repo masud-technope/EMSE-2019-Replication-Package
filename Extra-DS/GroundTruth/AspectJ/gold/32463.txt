@@ -1,0 +1,4 @@
+org.aspectj/modules/tests/bugs/WeaveLocal.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/NameMangler.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/WithinPointcut.java
+org.aspectj/modules/weaver/testsrc/org/aspectj/weaver/TypeXTestCase.java

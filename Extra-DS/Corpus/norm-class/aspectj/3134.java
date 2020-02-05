@@ -1,0 +1,1 @@
+org aspectj testing extends outer abstract extendsouterabstract outer abstract outerabstract inner abstract innerabstract inner abstract innerabstract string tester event extends outer abstract extendsouterabstract

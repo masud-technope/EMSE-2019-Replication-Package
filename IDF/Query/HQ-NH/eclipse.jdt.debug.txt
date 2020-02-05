@@ -1,0 +1,78 @@
+18306	prevents	runnables	shouldn	opening	delegates	safe	npe	listeners	errors	config
+463236	snippetsupport	compliance	moved	scrapbook	compiled	fail	evaluations	pre	projects	jar
+170502	boothpath	app	moved	bootpath	close	tab	apply	lookup	user	entries
+280192	inspecting	regression	appears	windows	evaluating	scrapbook	inspect	installed	select	title
+34052	contact	unix	ctrl	eof	free	windows	applies	comment	properly	generated
+77064	work	console	clear	button	trace	bug	stack
+138377	acceptable	seconds	click	builds	hyperlink	resolution	console	lookup	trace	bug
+6411	detect	auto	required	install	bug
+12300	hard	team	reason	locally	tabs	edited	build	environment	installed	execute
+125196	sash	problems	tree	move	jres	build	installed	left	time	layout
+34190	stacktrace	scenario	describes	validation	executed	functionality	including	detect	debugging	doesn
+23568	ctrl	attempting	activation	menu	scrapbook	space	longer	provide	assist	auto
+197011	lost	retain	steps	additional	ide	click	works	jars	windows	adding
+286229	head	lookups	fixing	dns	scenario	urls	click	host	updated	resolves
+54417	getparameter	quoted	blank	configured	characters	applet	parameters	parameter	read	bug
+401815	download	linux	failing	failures	drops	plist	osx	parsing	windows	installs
+5653	isn	post	making	click	response	unexpected	background	behavior	debugging	debugger
+12695	temporary	hidden	adapters	choose	don	order	ignore	creating	full	user
+49047	regression	confusing	turn	written	scrapbook	work	suspends	exceptions	uncaught	ignore
+21400	memberend	memberstart	loss	lost	fixed	render	located	details	member	detail
+49052	restart	changing	scrapbook	properties	jre	arg	bug	evaluation	dialog	launch
+49054	showing	incorrect	bootpath	adding	bootstrap	disabled	defaults	application	tab	apply
+24863	formatters	pref	detail	bug
+266651	explorer	usr	workaround	restarted	symbolic	links	steps	couldn	updater	click
+85665	combo	radio	alternate	adding	button	jre	selected	container	bug	dialog
+23716	qualify	formatter	reporting	displays	area	details	prefix	errors	detail	bug
+183206	subsequently	atomic	failures	good	prevent	reason	caused	fail	failure	build
+179111	issues	improved	popups	fixes	features	fixed	limited	global	functionality	bindings
+324268	clipboard	opening	indicator	cursor	busy	report	search	time	progress	open
+244395	explorer	press	refactored	ctrl	steps	undo	rename	build	refactoring	config
+40744	screen	expands	large	heighthint	libraries	projects	height	tab	binary	build
+223530	hyperlink	multi	support	step	bug	selection
+56235	remember	persist	resize	time	open	bug	dialog	size
+271785	migrated	breakpointlisteners	migrate	handling	addition	extensions	exceptions	uncaught	listeners	errors
+399913	describe	logic	latest	notice	debugged	causing	steps	plist	grab	parsing
+49077	jars	bootpath	jar	config	command	append	bug	create
+64951	screen	labels	debugging	evaluating	work	attach	details	condition	loop	selected
+30650	fit	center	pops	minor	problems	focus	space	scroll	doesn	correct
+372030	investigate	haven	workaround	pretty	debugged	expanded	click	work	performed	remote
+304057	typing	enabling	mouse	focus	attachment	option	details	condition	widget	enable
+16446	linux	appears	debugged	leave	exe	fall	click	app	javaw	option
+15678	dropping	appears	fixed	latest	correctly	updating	drop	frames	vms	note
+167740	menu	formatter	views	contribution	details	checks	arrays	edit	variables	root
+10817	copying	copied	configs	packages	shared	folder	config	selected	output	bug
+22081	exp	manage	work	declaration	don	ast	variables	bug	current	eval
+350918	ill	won	steps	passing	unexpected	general	characters	applet	bar	area
+77125	tracking	suspending	problems	suspends	configure	properties	build	preference	hit	change
+300992	latest	problems	pane	option	details	properties	missing	build	policy	view
+49092	won	problems	boot	displayed	restore	removes	tab	select	delete	user
+35525	scrapbook	disabled	step	view	unable	suspended	actions	display	bug	evaluation
+30028	navigate	definitions	binding	work	declaration	correct	definition	registered	hierarchy	service
+178641	measure	overlapping	appears	amount	management	additional	side	windows	evaluated	views
+19412	pointing	tabs	bootpath	libraries	projects	jres	build	required	lookup	time
+27093	investigate	issues	doc	url	jres	point	bug	standard	location	sun
+149076	reverts	restart	shortcut	filtering	persisted	preferences	pref	step	view	workbench
+64984	work	doesn	inspect	view	display	log	bug
+12636	individual	users	scrapbook	work	problem	retrieve	fails	working	unable	bug
+58078	works	formatter	assist	area	details	missing	hint	detail	editor	bug
+7392	jdithreads	responding	showing	synch	startup	incompatible	frames	threads	suspended	bug
+112613	outline	navigate	stuff	dummy	work	provide	remote	doesn	order	toggle
+218086	logic	turned	statics	named	filtering	including	work	filtered	filters	removed
+8679	freeze	situation	notice	reached	session	suspending	suspends	problem	time	resume
+18792	selections	toggles	minor	caught	uncaught	multi	single	view	enabled	bug
+124522	undo	perspective	functionality	view	display	bug	debug
+310511	colors	basic	question	click	bit	general	attachment	details	close	edit
+120170	notice	buildpath	archives	ruler	menu	toggle	external	jar	level	jre
+74477	persists	persisted	document	view	display	bug	empty
+33644	apis	sdk	mechanism	expand	endorsed	versions	jars	located	times	xml
+78449	incorrectly	initially	remains	red	ant	cleared	problems	closed	correct	tab
+124147	discover	won	reduce	warn	potential	selects	alert	changing	compliance	global
+380918	isolated	failing	steps	works	purposes	optional	worked	debugging	linked	fail
+29683	press	prompted	existant	naming	free	explicit	prompt	resolution	rename	choose
+38387	language	pass	cases	generate	ensure	log	bug	error	messages	nls
+20468	helpful	uncheck	indication	documentation	browse	verifying	dummy	guess	installation	users
+30837	loss	npe	select	view	suspended	variables	bug	variable	breakpoint	result
+112503	won	highlighting	colors	windows	syntax	background	color	pane	defaults	tab
+265714	coincides	notified	debugger	extensions	registered	condition	call	conditional	evaluate	listeners
+396795	panes	solution	sash	toggling	sashform	depends	click	prevent	changing	explicitly

@@ -1,0 +1,1 @@
+org aspectj testing tester jar required global classfile required class file classfile main main string args tester check class file classfile is true istrue class file classfile is true istrue tester check global is true istrue global is true istrue

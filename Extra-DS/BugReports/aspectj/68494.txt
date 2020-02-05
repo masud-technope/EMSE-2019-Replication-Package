@@ -1,0 +1,2 @@
+ajdoc does not support .aj files
+In addition to accepting .java source files ajdoc needs to accept .aj files.

@@ -1,0 +1,78 @@
+18306	Bug	safe	runnables	listeners	untrusted	code
+463236	Bug	Scrapbook	evaluations	fail	pre	projects
+170502	Bug	source	lookup	launching	string	variables	bootpath	launch	dialog	stay
+280192	Bug	regression	display	Error	inspecting	scrapbook
+34052	Bug	CTRL	Recognized	EOF
+77064	Bug	clear	work	stack	trace	console
+138377	Bug	patch	console	source	lookup	Clicking	Java	stack	trace	hyperlink	console	unusably	slow
+6411	Bug	Auto	detect	Install	required
+12300	Bug	Sharing	launch	config	difficult	INSTALL
+125196	Bug	Installed	JREs	preference	layout	problems
+34190	Bug	Evaluation	stacktrace	exception
+23568	Bug	Ctrl	Space	working	Scrapbook
+197011	Bug	Add	JRE	fails	retain	system	library	modifications
+286229	Bug	Bad	usages	URL	equals	Object
+54417	Bug	Applet	parameter	quoted
+401815	Bug	PList	parser	test	failures	tests
+5653	Bug	DCR	Debugger	uncaught	exception
+12695	Bug	full	breakpoints	hit	thread
+49047	Bug	scrapbook	suspends	uncaught	exceptions
+21400	Bug	Loss	member	details	text	Breakpoints
+49052	Bug	changing	arg	scrapbook	properties	restart
+49054	Bug	Bootpath	incorrect	project
+24863	Bug	Detail	Formatters	pref
+266651	Bug	jre	JRE	System	Library	properly	Java	update	symbolic	links
+85665	Bug	JRE	container	dialog	empty	combo
+23716	Bug	Reporting	formatter	errors
+183206	Bug	refactoring	Mysterious	refactoring	failure	caused	tests	fail
+179111	Bug	Numerous	fixes	Instances	References	features
+324268	Bug	Open	Clipboard	action	report	progress
+244395	Bug	refactoring	launch	config	refactoring	project	rename	undo
+40744	Bug	Java	Classpath	tab	huge
+223530	Bug	Step	Selection	hyperlink	broken
+56235	Bug	Organize	Favorites	dialog	remember	size
+271785	Bug	Migrate	compilation	error	uncaught	exception	handling	breakpoint	listener	extension
+399913	Bug	JREs	location	installed	JREs	pref	Mac	search
+49077	Bug	append	jar	bootpath
+64951	Bug	suspended	thread	evaluating	condition	labels
+30650	Bug	Conditional	breakpoint	compilation	problem	dialog	usability
+372030	Bug	resume	single	thread	suspended
+304057	Bug	Breakpoint	hit	count	widget	focus	enabled
+16446	Bug	launch	programs	Linux	java	executable
+15678	Bug	Drop	Frame	updating	stack	frames	correctly
+167740	Bug	variables	views	Edit	details	formatter	menu	array	types
+10817	Bug	configs	java	packages	copied	output	folder
+22081	Bug	AST	Exp	Eval	variable	declaration	don	work	array	type	variables
+350918	Bug	java	launching	Applet	parameters	unusual	characters	confuse	eclipse
+77125	Bug	Preference	suspending	breakpoint
+300992	Bug	breakpoint	properties	dialog	problems	target
+49092	Bug	User	entries	classpath	top	element	displayed	empty
+35525	Bug	unable	step	suspended	breakpoint	evaluation
+30028	Bug	Java	snippet	navigate	actions	work	keybindings
+178641	Bug	performance	conditional	breakpoint	performance	test	failure
+19412	Bug	JRE	classpath
+27093	Bug	Javadoc	location	initial
+149076	Bug	preferences	step	filtering	pref	persisted	workbench	restart
+64984	Bug	Inspect	doesn	work	Display	View
+12636	Bug	Unable	evaluation	context	Scrapbook
+58078	Bug	detail	formatter	dialog	missing	code	assist	hint
+7392	Bug	JDIThreads	responding	startup
+112613	Bug	Debug	Breakpoint	actions	remote	stuff
+218086	Bug	Filtering	statics	filters	constants
+8679	Bug	Hit	count	breakpoints
+18792	Bug	Minor	caught	uncaught	enabled	single	selection
+124522	Bug	Display	View	Undo
+310511	Bug	Dialog	font	Breakpoints	view
+120170	Bug	breakpoints	external	source
+74477	Bug	Empty	display	view	persisted
+33644	Bug	Unable	add	libraries	Java	build	path	Project	preferences
+78449	Bug	Closed	project	error	message	problems
+124147	Bug	jres	Changing	installed	JRE	doesn	warn	compiler	compliance	compatible
+380918	Bug	Launching	failing	missing	optional	project
+29683	Bug	naming	prompt	JRE	resolution
+38387	Bug	NLS	ing	internal	error	messages
+20468	Bug	Installed	JRE	Source	attachment	existing	location
+30837	Bug	Loss	suspended	breakpoint
+112503	Bug	change	background	color	Display	view
+265714	Bug	conditional	breakpoint	step
+396795	Bug	Prevent	breakpoint	detail	panes	changing	background	colour	selection

@@ -1,0 +1,63 @@
+173187	breakpoints	method	breakpoint	user	unclear	differences	eventually	type	refactored	identical
+53634	libraries	running	application	jre	switching	installed	don	preferences	work	jres
+40707	breakpoint	enabled	count	dialog	hit	properties	note	disabling	remains	opening
+335363	dialog	font	exception	java	text	add	truncated	breakpoint	size	increased
+31110	source	lookup	variables	debugger	add	select	advanced	work	archive	type
+229380	entry	enabled	button	select	classpath	bootstrap	pressing	tab	user	buttons
+13834	code	source	breakpoints	ruler	dialog	file	managed	click	breakpoint	external
+94474	source	attachment	edit	jre	installed	select	change	jres	libraries	dismiss
+142476	click	project	tvt	file	problem	text	boxes	border	peppy	choose
+324246	classpath	project	defined	external	enhancer	argument	java	builder	jpa	pass
+139152	preferences	debug	java	error	dialog	bug	disapears	window	open	preference
+321043	bug	enable	compliance	revert	compiler	head	attachment	details	comment
+64663	variables	bug	change	hex	fails	accept
+43927	work	content	assist	auto	ctrl	dot	version	enabled	space	breakpoint
+506014	view	variables	bug	constantly	method	node	returned	don	thought	discussions
+73624	main	select	dialog	java	selected	method	don	classes	redundant	menu
+275614	debug	view	perspective	window	expanded	threads	bug	auto	java	workbench
+392607	test	jdi	mac	suite	correct	work	kind	version	current	form
+43418	jre	cursor	choose	directory	busy	add	installed	pressed	libraries	choosing
+112670	variables	toggle	view	selection	normal	widget	ctrl	keystrokes	blocks	active
+21792	arguments	backslash	argument	space	duser	passed	application	problems	specifies	instance
+9122	debug	waited	slow	junit	workspace	minutes	launch	launched	mode	extremally
+19363	container	image	library	asked	bug	missing	banner	wizard
+124203	debug	view	context	manager	management	based	internal	active	global	respect
+16046	launch	cancel	wait	button	finish	user	configuration	dialog	interrupt	doesn
+15662	display	result	select	bug	work	inspect	variable
+9649	workspace	classpath	turn	eclipse	autobuild	rebuild	add	wwaux	reports	process
+72371	exception	left	open	bug	stream	streams	locations	occurs
+13364	condition	breakpoint	dialog	bug	visual	indication	properties
+255031	project	build	projects	load	warning	equinox	org	eclipse	week	repo
+108473	tomcat	eclipse	running	mode	debug	time	correctly	cpu	windows	performance
+8634	exception	breakpoints	workspace	bug	start	missing	persisted
+300614	settings	count	breakpoint	hit	field	details	pane	small	select	wide
+9026	breakpoints	summary	view	bug	compilation	error	showing
+323020	test	bug	failure	mac
+125771	method	source	external	created	appears	breakpoint	retrieving	properly	unable	bug
+60364	debug	code	deprecated	runtime	based	eliminated	plugins	testing	deprecations	attaching
+369480	jre	workspace	bug	jres	compatible	builds	workspaces	execution	work	container
+189012	change	dialogs	accessible	variables	view	primitive	bug	contexts	expressions	command
+181204	launching	context	remote	resource	objects	based	debug	bug	iresource	host
+13015	condition	breakpoint	conditional	stepping	bug	step	evaluates	thread	evaluated	resumes
+212442	tests	clause	failures	test	string	comparing	integer	breakpoint	equal	causing
+9825	action	view	color	icon	active	launch	prefer	debugger	remove	enabled
+33893	jres	preference	code	update	existant	updates	launching	incorrectly	exist	bug
+206693	jre	eclipse	location	installed	wiki	description	file	pwd	copied	bin
+42984	directory	ant	working	script	basedir	project	dir	running	target	variable
+7404	filter	step	add	broken	attempting	work	editable	hitting	list	disappears
+268393	image	gray	string	attempt	button	text	change	nope	debugger	box
+330987	bug	bundle	version	tags	newly	debug	applied	methods	missing	increment
+32494	menu	actions	display	scrapbook	enable	snippet	select	bindings	global	execute
+34670	classpath	launch	delete	path	java	configs	select	needed	list	hit
+18926	jre	installed	add	jdk	workspace	problem	click	sun	unable	java
+29297	output	folders	source	folder	debug	multiple	project	path	build	searches
+248054	breakpoints	annotation	highlighted	nice	breakpoint	color	isn	hilighted	annoyance	turbo
+94452	step	update	stepping	timeout	exceptions	displayed	attempting	method	start	flooding
+394225	display	evaluates	incorrectly	fail	bug	window
+187000	focus	looses	press	thread	selection	step	select	debugger	times	debug
+400636	work	display	view	codeassist	kepler	oracle	appears	eclipse	worked	java
+52474	perspective	java	point	blocked	cvs	check	note	workspace	projects	fact
+16378	tabs	icons	missing	debug	screen	launch	remains	space	shot	bug
+110074	breakpoint	working	create	sets	bug	breakpoints	category
+33534	editor	bug	ant	range	indication	supported
+144253	lookup	source	stack	change	eclipse	force	events	frame	longer	bug

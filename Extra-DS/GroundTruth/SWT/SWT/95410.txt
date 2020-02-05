@@ -1,0 +1,4 @@
+org.eclipse/swt/graphics/GC.java
+org.eclipse/swt/graphics/TextLayout.java
+org.eclipse/swt/internal/gdip/Gdip.java
+org.eclipse/swt/internal/win32/OS.java

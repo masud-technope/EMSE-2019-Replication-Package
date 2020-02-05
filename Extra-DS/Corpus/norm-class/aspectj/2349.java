@@ -1,0 +1,1 @@
+org aspectj testing tester class and interface classandinterface main string args tester check shouldn compiled

@@ -1,0 +1,1 @@
+test comment in default package indefaultpackage mumble field string mumble xxx pubfield string privfield mumble

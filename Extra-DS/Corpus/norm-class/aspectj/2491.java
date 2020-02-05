@@ -1,0 +1,1 @@
+org aspectj testing tester illegal forward reference illegalforwardreference main string args system println tester check compiled

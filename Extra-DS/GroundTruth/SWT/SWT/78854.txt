@@ -1,0 +1,2 @@
+org.eclipse/swt/dnd/Clipboard.java
+org.eclipse/swt/dnd/DragSource.java

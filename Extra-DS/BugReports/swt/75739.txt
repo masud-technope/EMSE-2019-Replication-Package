@@ -1,0 +1,2 @@
+Variant has no toString()
+The Variant class has no toString() and one cannot call getString() in all cases since it throws an Exception if the type is VT_EMPTY. So I suggest: /** * Always returns a String. * &#64;param variant * &#64;return a String */ public static String toString() { if (this.getType() == COM.VT_EMPTY) { return &quot;&quot;; } return this.getString(); } Version 3.1.M2.

@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples adapter java writer prints argument string pattern context request method target param string print printer adapter printeradapter write string

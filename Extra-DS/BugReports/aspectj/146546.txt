@@ -1,0 +1,2 @@
+"Remove hard coded dependency on ""|"" in getFileName(..) methods"
+As part of bug 141730 we need to remove the hard coded dependency on "|" in methods which use handles to get the filename. These methods are: AsmManager.getFileName(String) AspectJElementHierarchy.getFileName(String)

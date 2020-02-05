@@ -1,0 +1,1 @@
+java serializable inject name injectname mark my methods markmymethods main string main jack string test method testmethod test string test method protected testmethodprotected blah param args main string args todo auto generated method stub main main cls main get interfaces getinterfaces cls system println get canonical name getcanonicalname

@@ -1,0 +1,1 @@
+author colyer todo change template generated type comment window preferences java code generation code comments my annotation myannotation plain within plainwithin foo not annotated notannotated foo my annotation myannotation

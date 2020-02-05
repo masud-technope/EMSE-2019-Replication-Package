@@ -1,0 +1,2 @@
+[annotations] Problems with @Deprecated in member signatures
+The latest dev builds still have cases where they don't match properly on @Deprecated. See attached for two failing test cases for execution and hasMethod.

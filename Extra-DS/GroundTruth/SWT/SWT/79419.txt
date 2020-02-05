@@ -1,0 +1,4 @@
+org.eclipse/swt/internal/win32/LITEM.java
+org.eclipse/swt/internal/win32/NMLINK.java
+org.eclipse/swt/internal/win32/OS.java
+org.eclipse/swt/widgets/Link.java

@@ -1,0 +1,2 @@
+org.aspectj/modules/tests/bugs/WithincodeNPE01.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelShadow.java

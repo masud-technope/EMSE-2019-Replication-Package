@@ -1,0 +1,1 @@
+middle public method publicmethod void return voidreturn string public method publicmethod string return stringreturn public method publicmethod integer return integerreturn public method publicmethod super return superreturn

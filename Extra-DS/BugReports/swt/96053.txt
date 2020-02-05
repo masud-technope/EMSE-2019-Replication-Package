@@ -1,0 +1,2 @@
+Spinner: Pressing buttons should focus spinner and select text
+SWT-win32, v3135 (3.1M7) The standard behaviour for Windows spinner widgets is to set focus to the text control and select its text when the user clicks on the up or down button. Right now, this does not happen. Note that you get this for free if you implement the suggestion in <span class="bz_closed"><a href="show_bug.cgi?id=94603#c3" title="RESOLVED FIXED - Spinner does not look like Windows standard one">bug 94603 comment #3</a></span>.

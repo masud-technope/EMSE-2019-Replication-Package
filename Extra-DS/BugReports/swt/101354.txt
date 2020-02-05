@@ -1,0 +1,2 @@
+Class ImageDataLoader needs javadoc
+See <span class="bz_closed"><a href="show_bug.cgi?id=68867" title="RESOLVED FIXED - ImageData - remove ImageLoader dependencies">bug 68867</a></span> for details.

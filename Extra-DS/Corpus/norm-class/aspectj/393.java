@@ -1,0 +1,1 @@
+an attributed class anattributedclass attributable do something dosomething set attribute setattribute foo bar

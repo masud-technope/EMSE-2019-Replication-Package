@@ -1,0 +1,19 @@
+442245	hang	lead	files	copy	hangs	source	paste	automatic	eclipse	portion
+410402	failures	b92	Investigate	Bug	410402	against
+11076	remain	favorites	favorite	configurations	configs	launch	configuration	list	listed	dialog
+385293	normal	modifiers	silently	modifier	grammar	accepts	accepted	stored	changed	report
+385132	error	verbatim	compiler	syntax	tokens	fixes	token	misplaced	bottom	grammar
+424591	spurious	resolution	rev	reproducing	attached	subdirectory	unzip	errors	workspace	projects
+85384	proposed	writing	assist	declarations	method	when	not	extends	content	I20050215
+65738	automatic	save	build	happen	occur	change	builds	time	automatically	notice
+483895	completion	substring	remove	dependent	bug	fixed	assist	content	and	from
+485302	annotations	warnings	Missing	with	using	null	Bug	Wildcards	when	485302
+357110	outputfolder	sourcefolder	referenced	classes	folder	workaround	src	resolved	bin	classfolder
+162740	equinox	documents	website	coding	links	dir	failed	directory	open	stream
+28951	rootpath	attachment	field	functioning	root	path	older	longer	manually	restarting
+234074	elaborated	compliance	launched	depending	account	fails	mismatch	current	log	when
+380313	msg	latest	machine	functionality	refer	details	bit	thread	support	version
+476859	oracle	traces	jdk	attachment	error	failures	when	with	attached	works
+438875	encodings	project	encoding	file	delimiter	use	and	projects	doesn	correct
+413913	failures	b100	Investigate	413913	Bug	against
+403705	failures	b81	attachment	details	list	Investigate	against	for	228605	Created

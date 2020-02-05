@@ -1,0 +1,2 @@
+-XaddSerialVersionUID doesn't work if there is an indirect route to Serializable in the hierarchy
+-XaddSerialVersionUID fails to add a serialversionuid field to a type if Serializable isn't a direct parent. this case fails: class X implements I { } // X will not get the field if woven interface I implements Serializable {} this works: class X implements Serializable {} // X will get the field if woven there is a mistake in the code that checks for the serializable interface

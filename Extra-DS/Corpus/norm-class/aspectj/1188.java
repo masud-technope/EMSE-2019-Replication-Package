@@ -1,0 +1,1 @@
+copyright xerox corporation rights reserved copying software preparation derivative works based software permitted distribution software derivative works comply applicable united export control laws software xerox corporation warranty software performance conformity specification observer observer set subject setsubject subject subject get subject getsubject update

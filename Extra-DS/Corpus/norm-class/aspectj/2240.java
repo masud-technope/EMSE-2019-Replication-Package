@@ -1,0 +1,1 @@
+author colyer todo change template generated type comment window preferences java code style code templates type annotation typeannotation foo field annotation fieldannotation foo method annotation methodannotation get foo getfoo foo method annotation methodannotation goo

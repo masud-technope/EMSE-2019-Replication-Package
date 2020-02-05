@@ -1,0 +1,1 @@
+org aspectj testing tester casting folded values castingfoldedvalues found char foundchar foo found char foundchar foo main string args foo tester check found char foundchar forgot folded type

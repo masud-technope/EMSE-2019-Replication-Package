@@ -1,0 +1,2 @@
+org.aspectj/modules/org.aspectj.ajdt.core/testsrc/org/aspectj/ajdt/internal/core/builder/AjdtBuilderTests.java
+org.aspectj/modules/org.aspectj.ajdt.core/testsrc/org/aspectj/ajdt/internal/core/builder/AsmBuilderTest.java

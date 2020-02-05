@@ -1,0 +1,2 @@
+Aspects woven with -Xreweavable are not rewoven during LTW
+If I weave a class with Aspect1 using -Xreweavable then load-time weave it with Aspect2 (using org.aspectj.weaver.loadtime.Aj) then Aspect1 is not rewoven. This is confirmed by the lack of weaveinfo messages for Aspect1. This works for post-compile weaving although there are no explicit tests. Attached is a reweavable test for binary weaving. It needs to be adapted to run under org.aspectj.systemtest.ajc150.ataspectj.

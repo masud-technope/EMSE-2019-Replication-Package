@@ -1,0 +1,2 @@
+Incorrect structure model for simple declare @type program?
+This program: ---8<----- @interface I {} class Simple {} public aspect C { declare @type: Simple : @I; } ---8<----- (all in a file called C.java, open with the AJ editor) when built shows incorrect gutter markers, it shows a double headed arrow on Simple implying that it annotates itself - rather than something outgoing from the declare statement and something incoming on the Simple type.

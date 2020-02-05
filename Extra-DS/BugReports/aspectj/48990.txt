@@ -1,0 +1,2 @@
+Special case if(false) to not require a dynamic test
+FastMatch, the efficient pattern matching for pointcuts on the constant pool, is currrently only implemented for the within pointcut. I am planning to provide further oimplementations for other pointcuts by release 1.2.

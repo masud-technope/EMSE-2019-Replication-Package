@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples singleton java printer subclass printersubclass printer singleton printersingleton printer subclass printersubclass

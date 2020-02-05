@@ -1,0 +1,2 @@
+WeaveMessage should provide more information
+It would be wonderful if the WeaveMessage object would provide two additional things: - the affected class name - the aspect name I could use this to determine which aspect is woven into which class during load-time weaving (need this for dependency management).

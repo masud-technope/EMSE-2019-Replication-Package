@@ -1,1 +1,0 @@
-Bug 312659 – Remove unused NLS keys

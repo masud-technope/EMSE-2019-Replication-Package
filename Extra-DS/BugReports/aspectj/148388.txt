@@ -1,0 +1,2 @@
+LTW weaver produces a debug message at the begining
+Using the code in bug #148381 (with any of the working options), LT weaver produces what seems a debug message: "? WeavingClassFileProvider.acceptResult() test.Main->test.Main$AjcClosure1" > java -javaagent:%ASPECTJ_LIB_HOME%\aspectjweaver.jar test.Main ? WeavingClassFileProvider.acceptResult() test.Main->test.Main$AjcClosure1 Method Main.foo() took longer than expected Max expected = 1000, actual = 65371

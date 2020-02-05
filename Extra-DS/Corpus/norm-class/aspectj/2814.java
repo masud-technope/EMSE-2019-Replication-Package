@@ -1,0 +1,1 @@
+target static method staticmethod main java

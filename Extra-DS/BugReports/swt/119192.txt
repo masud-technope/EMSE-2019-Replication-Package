@@ -1,0 +1,2 @@
+[CCombo] CCombo Mouse problem (listeners not fired)
+The CCombo does not responde to MouseMove or MouseTrack listener. Also, does not respond as Control throught Display (Gets Text and Button).

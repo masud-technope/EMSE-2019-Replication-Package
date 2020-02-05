@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns pattern library patternlibrary memento sets memento passed param store set state setstate object returns memento passed originator stored memento object get state getstate

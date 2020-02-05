@@ -1,0 +1,2 @@
+build cancel during weaving
+The build can not be cancelled during the bytecode weaving stage.

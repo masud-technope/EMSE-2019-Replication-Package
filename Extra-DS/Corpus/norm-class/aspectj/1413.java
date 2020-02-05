@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples decorator java star decorator stardecorator output decorator outputdecorator adds stars argument string passing call component decorator decorates param string decorated print string output component outputcomponent print star decorator stardecorator output output output

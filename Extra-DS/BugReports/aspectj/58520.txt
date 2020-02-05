@@ -1,0 +1,2 @@
+ajdoc doesn't navigate to target details in some cases
+When a file is advised, javadoc uses the following naming convention for setting its "A NAME": convertCheckedException(java.lang.Throwable) However, ajdoc uses the unqualified name for the argument, resuting in the follwing in-file anchor link: <class-name>.html#convertCheckedException(Throwable)? Which fails to navigate to the anchor within the file, although it does always go to the right file.

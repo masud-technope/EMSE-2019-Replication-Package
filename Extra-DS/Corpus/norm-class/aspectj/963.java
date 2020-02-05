@@ -1,0 +1,1 @@
+testcase implementing aspect main pack my interface myinterface main string args main pack interface definition interfacedefinition system println

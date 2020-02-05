@@ -1,0 +1,34 @@
+434630	switching	attachment	issue	reproduce	attached	details	generics	mismatch	work	unexpected
+337415	script	recreation	headless	metadata	dangerous	configurations	importing	launches	causing	steps
+176320	reindexing	accumulating	linear	occurring	filled	rendered	situation	latest	deal	sdk
+222080	unzip	completing	proposals	attachment	item	expect	reproduce	attached	details	identity
+455042	drives	network	stands	subject	timestamp	cleared	recover	caches	archive	jars
+373953	fup	recognized	works	checks	handling	special	runtime	lang	bug	core
+421711	moment	rejects	ecj	rejected	difference	issue	javac	lambda	identifier	warning
+180169	missbehaving	protection	protect	returning	containers	spec	log	reported	entries	container
+403147	completeness	simplify	duplication	covered	reducing	structures	solution	consolidate	introduced	diagnostics
+252556	formatted	region	spaces	formatter	fails	removed	comment	unit	compilation	javadoc
+471062	repo	mars	causing	installed	inserts	join	slash	items	white	started
+409236	dropping	constituents	beta	generator	dropped	intersection	point	cgi	https	bugs
+427218	crash	snippet	inference	varargs	verify	cgi	https	bugs	info	error
+391376	cleanly	assumptions	picture	corner	logic	leaving	situations	filtering	involving	produces
+363293	raises	filemanager	leaks	leak	fixed	compiled	tool	closed	manager	suite
+480029	submit	substitutions	sdk	install	windows	fresh	tested	win	builds	plug
+409245	accounting	moment	optimizations	routed	beta	writes	dropped	accepts	bridge	adds
+413083	wrongly	requesting	user	debug	builder	full	info	build	bug
+399769	unambiguous	releases	keywords	proposed	issues	diagnostic	requires	trigger	keyword	modified
+369381	compiling	assertion	adding	mark	potential	unexpected	bug	compiler
+420004	shortly	beta	restored	patch	meta	follow	calling	getannotations	properly	targets
+467618	formater	preceded	leads	didn	wrapping	attempts	feature	desired	affect	wrapped
+24934	refactoring	optimize	move	imports	unused	top	doesn	errors	level	bug
+472815	mars	consisting	indented	blocks	formatter	lines	work	doesn	indent	option
+412650	incongruent	mentioned	small	compiling	extract	description	lambda	thrown	project	bug
+426678	shortly	showing	accessibility	vararg	issue	follow	release	regression	cgi	https
+341296	reproducible	remind	clicking	great	telling	overwrite	front	ignoring	modifications	modifying
+29621	icons	fresh	filtered	exclude	txt	adding	delta	workspace	ensure	wrong
+479474	confirm	idea	initializes	leads	good	preference	attached	assumes	formatter	setting
+90612	popup	choices	forbidden	accessible	assist	classpath	project	types	bug	code
+423409	click	press	alt	continuing	ctrl	deletes	choose	refactoring	inaccurate	attachment
+401790	beta	sends	address	updates	follow	handled	calls	allocation	explicit	expressions
+23162	rewriting	parallel	simply	asts	walk	control	modification	modified	modify	nodes
+401848	introduced	attachment	astrewrite	reproduce	adds	details	rewrite	testcase	additional	created

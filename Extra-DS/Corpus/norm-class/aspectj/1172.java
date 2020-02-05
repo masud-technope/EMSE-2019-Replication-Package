@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples mediator aspectj javax swing label jlabel label string

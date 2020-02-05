@@ -1,0 +1,4 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/ast/InterTypeConstructorDeclaration.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/ast/SuperFixerVisitor.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/lookup/InterTypeMethodBinding.java
+org.aspectj/modules/tests/bugs/SuperToIntro.java

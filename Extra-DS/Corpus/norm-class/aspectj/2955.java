@@ -1,0 +1,1 @@
+simple class simpleclass integer get integer getinteger integer

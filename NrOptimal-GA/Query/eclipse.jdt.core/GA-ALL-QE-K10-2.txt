@@ -1,0 +1,148 @@
+337415	importing eclipse Verification dangerous build Headless classpath Eclipse workspace attachment
+222080	completing Test array problem assist identity ASTNode find proposals
+442245	compiler paste Created create Bug copied
+455042	reevaluated Bug modified Java archive timestamp cache drives recover errors
+385293	Bug context report accepted grammar read arguments Marker Marker Bug
+424591	completes inference number http capture graal Building rev Java small
+85384	assist assist method assist assist proposed content assist method declarations
+252556	Spaces Javadoc formatted spaces fails test fails Bug comment removed
+471062	Preserve Format extra formatting installed Bug edit inserts lines items
+409236	dropped generator types constituents JAVA org BETA constituents point dropped
+28951	restarting classpath manually edited src alright field Bug classpath bug
+363293	eclipse tests tool code Manager Resource Bug suite justified Bug
+480029	original JDK formatting formatter separate JDK fresh issue org result
+409245	including dropped optimizations bugs call adds annotations org routed https
+380313	eclipse Bug org php forums
+413083	full info debug user full full build requesting requesting debug
+399769	point error warning Java unambiguous keyword reserved releases
+420004	BETA Target JAVA calling getAnnotations binary getAnnotations shortly Target JAVA
+410402	Bug Bug Bug Investigate Bug Investigate Investigate Bug Bug Bug
+467618	policy force force feature Bug split bug fact formatter fact
+483895	assist Bug fixed substring content
+426678	bug showing vararg issue eclipse showing element https bug bugs
+485302	annotations Bug
+341296	Build Reproducible entries great telling clicking front classpath
+29621	Folder Start Ensure project workspace exclude Bug workspace icons src
+162740	documents referer open Bug org eclipse
+476859	compiled details works attached oracle compiler EJC fine
+401848	reproduce Annotation reproduce details introduced Testcase attachment rewrite rewrite rewrite
+434630	generics types errors switching generics Bug reproduce project generics issue
+176320	reindexing format occurring Build accumulating jobs filled rendered progress latest
+11076	Add list
+373953	lang eclipse core Bug java runtime
+421711	identifier warning lambda lambda code lambda behavioral ECJ moment Javac
+180169	mode Add entries missbehaving returning returning missbehaving spec missbehaving protection
+65738	Bug builder project Eclipse
+403147	analysis checking consolidate dimensions nested dimensions code nodes compiler Bug
+427218	https bugs varargs error bug inference snippet org snippet eclipse
+391376	cases cleanly reported messages unchanged bridge reported check interaction behavior
+234074	Bug test compiler error expected fails
+438875	files project comment Unix file projects doesn jdt
+413913	Investigate Bug Bug Investigate Bug failures Investigate Bug Bug Bug
+369381	unexpected mark assertion compiler compiler compiler Adding Adding compiling potential
+24934	Bug imports level refactoring imports refactoring imports unused unused doesn
+472815	lines body doesn Mars Indent work Bug consisting indented lines
+385132	grammar syntax fixes compiler
+412650	compiling Exception Lambda bug Incongruent extract Exception Incongruent Exception thrown
+357110	type error message circumstances Problem subclass Build settings binary
+479474	parser Bug support good disabled javadoc good formatter bug leads
+90612	classpath Forbidden code Forbidden Bug code assist classpath classpath Types
+423409	delete fields Shift Continuing Ctrl Press Created view workspace matches
+401790	calls compiler updates JAVA bug bug compiler overlooked allocation allocation
+23162	nodes parallel don AST tree modified DOM rewriting clients bindings
+403705	Investigate List Bug list
+421469	Complete foo core Completion Compilation ast codeComplete Override codeassist internalComputeCompletionProposals
+431275	Manager Current DeltaProcessor add deadlock Worker adopter JemProjectUtilities PerProjectInfo Thread
+190268	writeToFile CoreException Project Core EncodedFileOutputStream perform setting jdt Close perform
+277382	Exception parser jdt viewing file Bug open parse projects error
+393356	bin app CoreTestApplication tools invokeFramework Javac Manager internal Directory Manager
+412639	check Resource Query method tests Setup Difference Resource Eclipse closeQuietly
+418843	ReconcileWorkingCopyOperation missing enum JavaReconcilingStrategy JavaCompositeReconcilingStrategy text Declaration Pointer fine NPE
+423280	main Suite test classpath protect testresults assertResourcesEqual TestNonJavaResource test java
+427216	broke week Array great varargs main downgrade great compiles foo
+439431	Annotation CompositeReconcilingStrategy Exception Array internal stack ast Contents Runner Problem
+448043	stub Initializer Auto Type Imports internal Block JavaTypeCompletionProposal java node
+46084	eclipse secondary Bounds Compiler annotations feeding basicBuildLoop errorRecovery Scanner Exception
+464570	race ast Pool pcToSourceMapSize showing Binding visible lastEntryPC files compileGeneratedFiles
+471034	annotate Signature defined ContentAssistant External ContentAssistant ContentAssistant corext Thread org
+474762	Main Handle callMethodWithException callMethodWithException internal Compiler basic noop binds call
+483467	Expression Main tagAsHavingErrors SWT Unknown tag LambdaExpression lambdas workbench start
+488888	viewers Current idea Operation reconcile Annotations Participant setInput feedInput common
+92005	Operation Framework DisplayViewAction Control Completion getUnspecifiedReference computeProposals exception Keyboard Message
+15036	ASTNode java dynamic org Compilation visit getClass method post pre
+388634	levels Bug compiler log Tests tests expected specific Compliance
+396139	OTOH problem version environment Test Manoj Bug
+396258	adopt NonNull variance NonNull NonNull java NonNull java Annotation ambiguous
+399567	message jdk type code errors OrderedSet List declared jdk type
+401989	print check print referenceMethod lambda val declared call warning expressions
+403457	Object Wildcard program util uncommented Object Type TYPE Bug compiler
+405051	LOCATION initializeAfterLoad work Monitor Manager search latest returned ATTRIBUTE occurs
+405889	Method getJavaLangInvokeMethodHandlesLookup
+412882	unncessery validateLibraryEntry validate getRoot spent status Workspace Archive Library Model
+415911	lang TYPE method type JAVA Target String Type compiler annotation
+416313	JavaLangFunctionalInterface reassign Lang sort picking eliminate eclipse Ids org compiler
+417388	Binding resolved Reference Binding Argument parameter type binding Bug doesn
+417669	dialog problem Bug include AST SimpleType String TYPE Incorrect error
+418919	globalOptions typeSystem annotations compiler store annotated LookupEnvironment compiler System File
+424718	base issues TypeReference changed dimAnnotations breaks request detail language functions
+426434	passed input fixed parameters fixed EclipseCompiler System Bug javax Compiler
+430451	compiler Patch Invocation org Compiler Iterable tests eclipse surrounding custom
+478427	batch Version batch compilation message Compilation Compiler ignores compiler annotation
+69658	javadoc existed typo Creation ClassInstanceCreation Instance sense latest existed typo
+70665	parameters constructor eclipse Method jdt JLS parameters AST org Method
+104245	root root multiple suggested belongs node type belongs forest discussion
+124099	compiler Info considered merge attached Unconditional Build Flow receiver Build
+126180	String method type compiler field problem
+126914	error error mismatch bounded Type Bug bounded extraneous error GenericTypeTest
+145202	reference Object raises Bug code err System positive negated String
+148328	unescaped escaped eclipse Jdt JdtApt nested Apt build eclipse Bug
+149562	code Types val System variable Eclipse Types initialized bug initialized
+150655	parameterized error choose choose nextBoolean overloaded type JDK method nextBoolean
+158274	JDT Field internal List relase relase Apt bug List changed
+165346	Expression compiler covered Eclipse UNKNOWN Bug method
+168331	compile args list bugs Method time ExtendedList
+170843	exceptions Resources good deleteDerivedResources passes fixed file System Resource System
+17531	Bug GlobalActions Java
+176591	Java erroneously mismatch Steps Java reports convert Collections convert Typed
+181393	Node endVisitNode override ASTVisitor methods called called Visit Bug visit
+186457	CharsetEncoder erasure exe bottom newDecoder java args defined project Charset
+193784	jsp plugins AnnotationProcessors Sun jsp java code AnnotationProcessors jar app
+208186	encoding difference bug bug File settings difference settings settings generated
+217002	Processor DISABLED suggested disabled string disable read constant Processors AnnotationProcessorFactory
+228691	source implementation Mirror Enable primitive unboxing Overview Add binary Created
+268802	build Bug build convert build SourceTypeConverter call convertAnnotations build SourceTypeConverter
+29516	Search
+301894	OutOfMemory issues product Reproducible follow annotations running adopters APT
+30516	Root IPackage Root ragment fragment Fragment typo typo Archive Root
+327143	awaiting jobs processing stops waiting touch thread loop thread call
+341499	Flow UnconditionalFlowInfo locals Unconditional bits independent patch fail methods bug
+41554	Olivier workspace attached SourceType search Source hierarchy failure
+421796	executing cgi play org Bug AbstractMethodError https method bridges Method
+424075	Compiler Compiler Predicate longer compiles List pred pred asList String
+425493	addAttribute Bug Bug latest longer code compiles Compiler java add
+429763	lambda Function test expression type Incompatible Integer Function Integer compile
+429949	Note efficient compilation AST claim Rewrite efficient Rewrite ICompilationUnit create
+430987	code Java reproduce doSomethingWithFoo clazz content clazz Foo foo worked
+431963	stub varargs Object varargs Confusion stub annotations invoked parameter foo
+432603	succefully works problems Entry Error Object Stackoverflow reported javac eclipse
+435397	Environment BootModule main args lazy main method Patch eager String
+441338	Nullable Main unannotated ArrayList error IOW NonNull List proper type
+448800	Bounds superInterfaces needed handle bugs org eclipse Capture version called
+451660	issues warning String Bug println toString couple toString couple warning
+451677	List type compiler operationOnCreated apply works function ArrayList function Bug
+460465	search constant enum Shift search imports enum Project Enum Test
+470535	org time Library calls core hashCode jdt Bug internal Library
+483690	IdeJavaSourceOutputStream Object charset Array ByteArrayOutputStream Java discards Object IdeOutputJavaFileObject Java
+488461	CompilationParticipant processAnnotations Context annotations Processor calling Processor APIs Returns Bug
+55930	Bug File IProgress encoding execute save Operation Bug Working encoding
+79809	foo bracket includes Tag normal AST returns node parameter deluxe
+83297	returns Annot Annotation bindings declared bindings ITypeBinding returns Annotation Binding
+88757	type SwitchStatement SwitchStatement Returns Groups Bug clarified Groups list mark
+405125	Anirban assist Bug Foo assist ctrl Foo space expression space
+406396	confused report access Method quick field misses meant Bug
+422107	lambda Ctrl Serializable variable assist space doit location Bug space
+25377	convert empty build Error initializer
+31261	Create errors Bug max unit unti compilation
+403036	accessible differently Hover javadoc attached Javadoc differently message correct url
+42243	isn Syntax source error keyword Incorrect expected Bug syntax keyword
+456395	compile Type Map Java code Bug   String

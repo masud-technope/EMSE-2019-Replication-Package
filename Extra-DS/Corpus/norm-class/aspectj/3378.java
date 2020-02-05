@@ -1,0 +1,1 @@
+copyright palo alto center incorporated parc rights reserved program accompanying materials terms common license accompanies distribution http eclipse org legal cpl html contributors parc initial implementation org aspectj weaver exception bcweaver beta exception betaexception runtime exception runtimeexception beta exception betaexception beta exception betaexception string

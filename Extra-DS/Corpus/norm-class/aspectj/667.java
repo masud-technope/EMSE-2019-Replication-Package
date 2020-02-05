@@ -1,0 +1,1 @@
+java sql array err importing types java lang reflect array ambiguous class reference ambiguousclassreference testcase purejava ambiguous type reference imports testcase main string args bug expect ambiguous method get length getlength array get length getlength error expecting compiler error compile

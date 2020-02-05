@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples chain of responsibility chainofresponsibility aspectj javax swing jframe java awt event window event windowevent java awt event window adapter windowadapter frame jframe frame string title title add window listener addwindowlistener window adapter windowadapter window closing windowclosing window event windowevent system exit

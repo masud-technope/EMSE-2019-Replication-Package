@@ -1,0 +1,1 @@
+protected field ref in inner protectedfieldrefininner main protected field ref in inner protectedfieldrefininner foo main string args main foo

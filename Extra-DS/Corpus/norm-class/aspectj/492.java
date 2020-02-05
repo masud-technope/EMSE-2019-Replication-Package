@@ -1,0 +1,1 @@
+copyright ibm rights reserved program accompanying materials terms common license accompanies distribution http eclipse org legal cpl html contributors andy clement initial api implementation org aspectj weaver weaver constants current holds values working code don exist constants acc bridge acc varargs string runtime level string runtime level string runtime level runtime level

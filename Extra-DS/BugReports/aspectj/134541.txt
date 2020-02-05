@@ -1,0 +1,2 @@
+adviceDidNotMatch's line number doesn't keep up with line number of advice
+When advice doesn't match in a 1.5.0 enabled project, there is an adviceDidNotMatch warning against the line number of the advice. If you insert a line before this advice and save then the warning stays associated with the original line and not the new one. Full building puts the warning against the new line. This is a regression and didn't happen in AJ 1.5.0.

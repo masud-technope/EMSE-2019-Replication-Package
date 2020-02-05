@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation org eclipse swt internal win hditem mask cxy psz text psztext hbm cch text max cchtextmax fmt l param lparam i image iimage i order iorder sizeof

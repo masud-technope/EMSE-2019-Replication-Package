@@ -1,0 +1,1 @@
+java lang reflect main string args real main realmain args real main realmain string args modest for name forname modest modifiers modest get modifiers getmodifiers is public ispublic modifiers modifier org aspectj testing tester check is public ispublic modest shouldn throwable org aspectj testing tester check thrown modest

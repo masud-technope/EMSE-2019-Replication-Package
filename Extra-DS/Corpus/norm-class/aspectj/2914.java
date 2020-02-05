@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples proxy java output subject outputsubject type request param string print safe request saferequest string type request param string print regular request regularrequest string type request param string print unsafe request unsaferequest string

@@ -1,0 +1,1 @@
+middle public method publicmethod protected method protectedmethod default method defaultmethod private method privatemethod another public method anotherpublicmethod another protected method anotherprotectedmethod main string argv middle middle public method publicmethod protected method protectedmethod default method defaultmethod private method privatemethod

@@ -1,0 +1,2 @@
+Provide DND support for the StyledText widget
+R3.1 In order to add DND text editing support to our editors (see <span class="bz_closed"><a href="show_bug.cgi?id=11624" title="RESOLVED FIXED - [DnD] [navigation] text drag and drop">bug 11624</a></span>) we need basic support in StyledText. Since this is one of Platform Text's 3.2 plan items it would be great to have early feedback whether we can expect something in this area for 3.2 or not.

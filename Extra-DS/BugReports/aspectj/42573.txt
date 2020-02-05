@@ -1,0 +1,2 @@
+".lst file entries not resolved relative to list file: {boot}classpath, extdirs,"
+My -classpath entry in a config/.lst file was resolved relative to the working directory rather than to the config/.lst file. BuildArgParser.java looks like this would also be true for bootclasspath and extdirs, but not for injars, aspectpath, or sourceroots.

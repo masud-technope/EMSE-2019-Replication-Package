@@ -1,0 +1,2 @@
+alias getCause for getWrappedThrowable in SoftException
+SoftException should implement getCause(): public Throwable getCause() { return inner; } (As pointed out by Ramnivas, misc mail messages, code comments...) Using getCause() means the chain should print as expected in 1.4+, esp. when SoftException is itself wrapped as a RemoteException. Since getCause() replicates getWrappedThrowable(), we could deprecate that, but we must continue to support it to maintain upwards binary compatibility in the runtime classes.

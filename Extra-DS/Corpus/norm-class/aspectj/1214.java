@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples singleton aspectj printer counts instances objects so far objectssofar instance distinguish printer objects so far objectssofar prints instance code system code print system println t my tmy

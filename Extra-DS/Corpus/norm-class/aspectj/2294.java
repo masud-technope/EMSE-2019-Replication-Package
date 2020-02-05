@@ -1,0 +1,1 @@
+abstract class abstractclass concrete class concreteclass abstract class abstractclass object

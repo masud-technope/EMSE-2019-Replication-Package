@@ -1,0 +1,1 @@
+copyright palo alto center incorporated parc rights reserved program accompanying materials terms common license accompanies distribution http eclipse org legal cpl html contributors xerox parc initial implementation org aspectj testing util author isberg int validator intvalidator valid accept int acceptint

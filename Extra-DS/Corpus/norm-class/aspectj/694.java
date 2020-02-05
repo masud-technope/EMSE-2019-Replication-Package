@@ -1,0 +1,1 @@
+copyright contributors rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors alexandre vasseur initial implementation ataspectj author href mailto alex gnilux dot alexandre vasseur dump test the dump dumptestthedump around method aroundmethod string

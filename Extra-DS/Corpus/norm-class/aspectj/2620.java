@@ -1,0 +1,1 @@
+org aspectj testing non static inner interfaces nonstaticinnerinterfaces main string args tester check all events checkallevents tester expect events in string expecteventsinstring tester event tester event

@@ -1,0 +1,1 @@
+org aspectj testing packages and static classes with the same name packagesandstaticclasseswiththesamename main string args string string string java lang str str java lang str string tester check equal checkequal string string str java lang str string str str string str str str string to string tostring str str

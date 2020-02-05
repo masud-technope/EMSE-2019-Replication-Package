@@ -1,0 +1,12 @@
+org.aspectj/modules/runtime/src/org/aspectj/runtime/reflect/AdviceSignatureImpl.java
+org.aspectj/modules/runtime/src/org/aspectj/runtime/reflect/CatchClauseSignatureImpl.java
+org.aspectj/modules/runtime/src/org/aspectj/runtime/reflect/ConstructorSignatureImpl.java
+org.aspectj/modules/runtime/src/org/aspectj/runtime/reflect/Factory.java
+org.aspectj/modules/runtime/src/org/aspectj/runtime/reflect/FieldSignatureImpl.java
+org.aspectj/modules/runtime/src/org/aspectj/runtime/reflect/InitializerSignatureImpl.java
+org.aspectj/modules/runtime/src/org/aspectj/runtime/reflect/MethodSignatureImpl.java
+org.aspectj/modules/runtime/src/org/aspectj/runtime/reflect/SignatureImpl.java
+org.aspectj/modules/runtime/src/org/aspectj/runtime/reflect/SourceLocationImpl.java
+org.aspectj/modules/runtime/src/org/aspectj/runtime/reflect/StringMaker.java
+org.aspectj/modules/runtime/testsrc/org/aspectj/runtime/reflect/RuntimePerformanceTest.java
+org.aspectj/modules/runtime/testsrc/org/aspectj/runtime/reflect/SignatureTest.java

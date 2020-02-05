@@ -1,0 +1,2 @@
+CLabel disappears when given SWT.CENTER flag in constructor
+Not working (CLabel disappears): ... CLabel label = new CLabel(composite, SWT.SHADOW_IN | SWT.CENTER); label.setLayoutData(new GridData(GridData.FILL_HORIZONTAL)); ... Workaround: ... CLabel label = new CLabel(composite, SWT.SHADOW_IN); label.setAlignment(SWT.CENTER); label.setLayoutData(new GridData(GridData.FILL_HORIZONTAL)); ... Noticed this on Linux (gtk) , Eclipse 3.1M4

@@ -1,0 +1,2 @@
+CTabFolder layout puts top right item one pixel to far to the right
+see the attachment, I have a toolbar on top right and it cuts a pixel out of the top corner, the layout should take into account the border of the CTabFolder.

@@ -1,0 +1,1 @@
+org aspectj testing constructor not found constructornotfound main string args extends outer abstract extendsouterabstract outer abstract outerabstract tester check all events checkallevents tester expect events in string expecteventsinstring extends outer abstract extendsouterabstract inner abstract innerabstract outer abstract outerabstract

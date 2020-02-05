@@ -1,0 +1,19 @@
+442245	Bug	compiler	source	files	lead	eclipse	hang	copy	paste
+410402	Bug	Investigate	failures
+11076	Bug	Deleted	configs	remain	favorite	list
+385293	Bug	compiler	compiler	accepts	normal	modifiers	type	arguments
+385132	Bug	compiler	syntax	error	ARROW	COLON	COLON	shouls
+424591	Bug	inference	capture	array	resolution	error
+85384	Bug	assist	proposed	writing	method	declarations
+65738	Bug	builder	Build	automatically	save
+483895	Bug	content	assist	Disable	remove	substring	completion	Preferences
+485302	Bug	Missing	warnings	Wildcards	annotations
+357110	Bug	Problem	classes	referenced	jars	folders	type	resolved
+162740	Bug	Error	website
+28951	Bug	Source	attachment	rootpath	field	missing
+234074	Bug	Compliance	test	fails	launched	JRE	Dcompliance
+380313	Bug	Inconsistent	stack	error	Java
+476859	Bug	enclosing	method	error	EJC	compiled	works	fine	oracle	jdk	compiler
+438875	Bug	correct	project	file	encodings	Unix	delimiter
+413913	Bug	Investigate	failures
+403705	Bug	Investigate	failures

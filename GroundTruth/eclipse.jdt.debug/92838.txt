@@ -1,3 +1,0 @@
-org.eclipse.jdt.debug/model/org/eclipse/jdt/debug/core/JDIDebugModel.java
-org.eclipse.jdt.debug/model/org/eclipse/jdt/debug/core/IJavaWatchpoint.java
-org.eclipse.jdt.debug/model/org/eclipse/jdt/debug/core/IJavaStackFrame.java

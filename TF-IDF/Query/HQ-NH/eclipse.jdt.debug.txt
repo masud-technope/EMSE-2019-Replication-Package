@@ -1,0 +1,78 @@
+18306	prevents	runnables	shouldn	opening	delegates	safe	npe	platform	bug	launch
+463236	scrapbook	fail	snippetsupport	evaluations	projects	jar	compliance	moved	compiled	pre
+170502	bootpath	tab	boothpath	entries	dialog	app	classpath	moved	launch	close
+280192	inspecting	regression	appears	windows	evaluating	scrapbook	inspect	installed	select	error
+34052	ctrl	eof	contact	unix	free	windows	applies	comment	properly	generated
+77064	clear	console	trace	work	button	stack	bug	pressing
+138377	acceptable	seconds	console	click	builds	hyperlink	resolution	bug	lookup	trace
+6411	detect	auto	required	install	bug
+12300	hard	team	reason	locally	jre	install	tabs	edited	build	environment
+125196	sash	move	jres	preference	installed	problems	tree	dialog	build	left
+34190	stacktrace	validation	scenario	problem	describes	executed	functionality	evaluation	including	detect
+23568	ctrl	assist	scrapbook	space	attempting	activation	content	menu	working	longer
+197011	click	lost	jre	adding	libraries	external	edit	retain	steps	additional
+286229	host	head	lookups	fixing	dns	scenario	url	bad	urls	click
+54417	applet	getparameter	parameters	blank	quoted	parameter	configured	characters	bug	read
+401815	linux	plist	download	mac	parser	failing	drops	failures	osx	parsing
+5653	post	debugger	click	uncaught	behavior	isn	making	response	unexpected	trace
+12695	temporary	hidden	adapters	user	breakpoints	hit	breakpoint	adapter	choose	don
+49047	scrapbook	confusing	regression	exceptions	uncaught	turn	written	work	suspends	suspend
+21400	located	member	memberend	memberstart	loss	lost	fixed	render	details	bug
+49052	restart	changing	scrapbook	properties	jre	arg	bug	evaluation	dialog	launch
+49054	entries	user	showing	button	incorrect	bootpath	adding	bootstrap	disabled	defaults
+24863	formatters	pref	detail	bug
+266651	usr	explorer	jvm	jre	lib	click	build	menu	actual	updated
+85665	combo	jre	radio	alternate	container	adding	dialog	empty	button	selected
+23716	formatter	qualify	detail	reporting	displays	area	details	error	prefix	errors
+183206	caused	refactoring	fail	failure	subsequently	atomic	failures	good	prevent	reason
+179111	issues	features	instances	references	improved	bugs	fixes	popups	fixed	limited
+324268	clipboard	opening	indicator	cursor	progress	busy	report	bug	search	time
+244395	undo	rename	config	press	explorer	refactored	ctrl	steps	refactoring	project
+40744	screen	expands	tab	large	classpath	heighthint	libraries	projects	height	binary
+223530	hyperlink	step	selection	multi	support	bug	broken	suspect	investigated
+56235	resize	remember	persist	dialog	time	open	bug	size	favorites	organize
+271785	handling	migrated	uncaught	breakpointlisteners	migrate	listeners	addition	extension	compilation	extensions
+399913	jres	mac	installed	search	describe	logic	latest	notice	debugged	causing
+49077	bootpath	jars	jar	config	command	append	bug	create	tacked
+64951	labels	screen	condition	debugging	evaluating	work	attach	details	loop	selected
+30650	fit	condition	problem	center	pops	dialog	minor	problems	compilation	focus
+372030	investigate	haven	remote	resume	workaround	pretty	single	debugged	expanded	click
+304057	focus	typing	enabling	mouse	widget	hit	attachment	option	details	condition
+16446	javaw	linux	executable	appears	debugged	leave	exe	fall	click	app
+15678	drop	dropping	appears	fixed	latest	frames	correctly	updating	step	jdk
+167740	menu	formatter	details	views	contribution	checks	arrays	edit	array	variables
+10817	copied	copying	folder	config	output	configs	packages	shared	selected	bug
+22081	declaration	don	exp	manage	work	variable	array	ast	variables	bug
+350918	applet	ill	parameters	won	steps	passing	parameter	unexpected	general	characters
+77125	tracking	suspending	preference	problems	suspends	configure	properties	build	breakpoint	hit
+300992	option	latest	properties	dialog	problems	pane	details	missing	build	policy
+49092	displayed	user	entries	won	classpath	problems	top	boot	restore	element
+35525	step	scrapbook	suspended	disabled	evaluation	breakpoint	view	unable	actions	display
+30028	work	navigate	definitions	binding	declaration	actions	open	correct	definition	action
+178641	performance	conditional	measure	overlapping	appears	amount	management	additional	side	windows
+19412	jres	bootpath	config	projects	jre	pointing	lookup	tabs	project	libraries
+27093	investigate	issues	doc	location	url	jres	point	bug	standard	sun
+149076	restart	filtering	reverts	step	pref	shortcut	persisted	workbench	preferences	view
+64984	work	doesn	inspect	view	display	log	bug
+12636	scrapbook	individual	users	work	evaluation	problem	context	retrieve	fails	working
+58078	assist	formatter	missing	hint	detail	works	area	details	editor	code
+7392	responding	startup	jdithreads	showing	synch	incompatible	frames	threads	suspended	bug
+112613	remote	files	outline	navigate	stuff	actions	dummy	view	work	provide
+218086	statics	logic	turned	constants	named	filter	bug	filtering	including	work
+8679	reached	hit	freeze	situation	notice	count	session	suspending	suspends	problem
+18792	selections	caught	uncaught	enabled	toggles	single	minor	selection	multi	breakpoints
+124522	undo	perspective	functionality	view	display	bug	debug
+310511	click	font	colors	basic	view	question	window	bit	dialog	general
+120170	notice	external	buildpath	archives	ruler	menu	bug	toggle	jar	breakpoints
+74477	persists	persisted	view	display	empty	document	bug
+33644	apis	endorsed	sdk	jar	lib	jre	xml	ext	directory	build
+78449	ant	incorrectly	initially	closed	remains	red	tab	cleared	problems	classpath
+124147	compliance	compiler	jre	warning	discover	installed	won	problem	reduce	warn
+380918	optional	projects	linked	isolated	project	failing	junit	steps	jar	view
+29683	jre	press	prompted	existant	naming	build	free	explicit	prompt	container
+38387	language	pass	cases	generate	error	ensure	messages	log	bug	nls
+20468	jar	attachment	jre	helpful	uncheck	indication	documentation	browse	verifying	image
+30837	npe	loss	suspended	breakpoint	select	view	variables	bug	variable	result
+112503	background	color	won	highlighting	colors	windows	syntax	display	pane	defaults
+265714	condition	notified	listeners	debugger	coincides	registered	step	evaluate	breakpoint	extensions
+396795	background	panes	solution	sash	toggling	sashform	pane	detail	depends	click

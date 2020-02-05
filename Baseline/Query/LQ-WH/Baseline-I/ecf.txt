@@ -1,0 +1,34 @@
+266118	Bug	Discover	Composite	Test	listener	received	expected	discovery	event	expected
+264963	Bug	resolution	confused	typedef
+147269	Bug	send	file	functionality	fails	launches	exception	org	eclipse	ecf	core	SharedObjectCreateException	Shared	Object	Create	Exception
+328130	Bug	DNS	Tests	fail	missing	listener	implementation
+323208	Bug	Distribution	Provider	exceeds	startup	time	limit	existing	services
+259471	Bug	Discovery	JMDNS	JMDNSServiceIDTest	testServiceIDFactory	fails	JMDNSService	IDTest	test	Service	IDFactory
+411543	Bug	Imports	org	xml	javax	xml	manifest
+497876	Bug	remote	exported	configs	String	Collection	String
+233808	Bug	Discovery	SLP	org	eclipse	ecf	tests	discovery	DiscoveryTest	testAddServiceListenerIServiceTypeIDIServiceListener	fails	SLP	provider	Discovery	Test	test	Add	Service	Listener	IService	Type	IDIService	Listener
+342686	Bug	ClassCastException	RSA	intents	String	Exception
+317919	Bug	Discovery	DNS	NPE	SRV	record	accompanying	TXT	records
+254687	Bug	Discovery	SLP	ClassCircularityError	bundle	activation	Circularity	Error
+267481	Bug	server	supporrt	remoteservice	container	adapter	server
+319259	Bug	Discovery	jSLP	ServiceName	illegal	characters	SLP	Service
+267035	Bug	ReplicaSharedObjectDescription	toString	thread	safe	Replica	Shared	Object	Description	String
+411936	Bug	filetransfer	httpclient	Test	failures	org	eclipse	ecf	tests	filetransfer	URLRetrieveTest	URLRetrieveTestWithConnectJob	testFTPReceiveFile	URLRetrieve	Test	URLRetrieve	Test	Connect	Job	test	FTPReceive	File
+420897	Bug	OSGi	NPE	uninstall	proxy	bundle
+204329	Bug	remoteservice	registry	updated	adapter	accessed	connect
+384431	Bug	Provider	prints	error	message	log	unnecessarily	conditions
+490090	Bug	ClassCastException	SOContainerGroup	SSLServerContainerGroup	Exception	SOContainer	Group	SSLServer	Container	Group
+337643	Bug	remoteserviceadmin	classloader	proxy	creation	access	IRemoteServiceProxy	IRemote	Service	Proxy
+255347	Bug	Discovery	SLP	optional	IServiceID	getServiceName	isn	service	discovery	registration	IService	Service
+318070	Bug	Discovery	DNS	NPE	system	sets	search	path
+471541	Bug	ClassCastException	JUnit	integration	tests	Exception
+165815	Bug	Local	access	local	remoteservicereference	implemented
+406064	Bug	Discovery	ZooDiscovery	high	cpu	percentage	server	client	zookeeper	Zoo	Discovery
+264242	Bug	Remove	Serializable	org	eclipse	ecf	core	util	Event	interfac
+273138	Bug	NPE	thrown	shutting	Eclipse	connection	provider
+265010	Bug	Discovery	Composite	junit	framework	AssertionFailedError	registered	service	Assertion	Failed	Error
+385395	Bug	JMDNS	provider	shutdown	fails	NPE	connect	successful
+168382	Bug	Regression	Exception	thrown	preview	report	design
+318074	Bug	Discovery	DNS	NPE	test	comparator	expected	property	missing
+338107	Bug	remoteserviceadmin	org	eclipse	ecf	osgi	services	remoteserviceadmin	sets	jre	compilation	profile	API
+318075	Bug	Discovery	Whitespaces	allowed	property

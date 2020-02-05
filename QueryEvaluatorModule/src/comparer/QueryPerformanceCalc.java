@@ -101,7 +101,7 @@ public class QueryPerformanceCalc {
 	}
 
 	protected ArrayList<Integer> populateSelectedBugs() {
-		return SelectedBugs.getNLSelectedBugs(repoName);
+		return SelectedBugs.getAll3Bugs(repoName);
 	}
 
 	public double getSTRICTPerformance(int TOPCUT) {
@@ -217,12 +217,12 @@ public class QueryPerformanceCalc {
 		String[] repos = { "ecf", "eclipse.jdt.core", "eclipse.jdt.debug", "eclipse.jdt.ui", "eclipse.pde.ui",
 				"tomcat70" };
 		
-		String methodName = "TF-IDF";
+		String methodName = "STRICT";
 		for (int cut : new int[] { 1, 5, 10 }) {
 			for (String repoName : repos) {
 				String completeQueryFile = StaticData.GA_EXP + "/" + methodName + "/Query/" + repoName + ".txt";
 
-				String baselineFolder = "baseline-title";
+				String baselineFolder = "baseline-I";
 
 				boolean stem = false;
 				// expanding the query

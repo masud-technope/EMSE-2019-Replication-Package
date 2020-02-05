@@ -1,0 +1,29 @@
+49536	webapps	deployed	accessing	URL	returns	content
+56777	configuration	resources	loaded	places	straight	filesystem
+48266	Patch	generics	catalina
+48139	Tomcat	Javadoc	unthrown	exception	fixes
+48267	Patch	generics	javax	packages
+58508	role	tomcat	users	xml	invalid	character
+49104	raw	types
+49234	JMX	Descriptor	Modifications
+47827	Tomcat	API	methods	declare	Exception
+48660	Connector	compression	overwrites	Vary	header
+38553	Wrong	HTTP	code	failed	CLIENT	CERT	authentication
+49757	correcting	generics	warnings
+48861	Files	headers
+18462	System	err	overriden	output	System
+54370	NPE	mapping	method
+55267	NIO	thread	locked
+48870	avoid	parallel	arrays	base	types
+52135	Global	error	handled
+48296	Generics	fixes
+54382	Nullpointer	Exception	activating	SSI	loading	html	file	specific	comment
+41327	Jasper	display	full	path	file	error
+48176	Fields
+50929	patch	Ensure	rethrown	exceptions	retain	original
+49075	User	doesn	check	argument	roles
+28852	failonerror	attribute	Ant	tasks
+49909	jstl	support
+52792	Incomplete	error	message	lookup	resource	bound	naming
+52474	load	listeners	declared	blank	spaces	tld	file
+49340	Webapp	unavailable	deploy	start

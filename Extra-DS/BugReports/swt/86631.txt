@@ -1,0 +1,2 @@
+Javadoc wrong for Image(stream)
+The example code in the Javadoc indicates the stream doesn't have to be closed but it does. This needs to be fixed here and in other places in SWT where we accept streams. We need to determine the correct pattern of try {} catch () and apply it everywhere in the doc.

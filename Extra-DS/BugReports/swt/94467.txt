@@ -1,0 +1,2 @@
+Table layouts which only lay out once are giving bogus sizes
+I20050510-0010 Use ctrl-shift-e to bring up the editor list. The list appears empty because all of the columns are set to zero size.

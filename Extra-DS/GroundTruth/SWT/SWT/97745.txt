@@ -1,0 +1,3 @@
+org.eclipse/swt/internal/win32/OS.java
+org.eclipse/swt/widgets/Table.java
+org.eclipse/swt/widgets/TableColumn.java

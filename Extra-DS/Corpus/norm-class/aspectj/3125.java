@@ -1,0 +1,1 @@
+blah java util random my class myclass integer get random int getrandomint string param param length system print param length system print param param length system print system println integer integer random next int nextint

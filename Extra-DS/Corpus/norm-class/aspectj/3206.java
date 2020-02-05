@@ -1,0 +1,1 @@
+testcase error cyclic inheritance classes implement interfaces cyclic interface inheritance cyclicinterfaceinheritance main string args error error bug interfaces err err

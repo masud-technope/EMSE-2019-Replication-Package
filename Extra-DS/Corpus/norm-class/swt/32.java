@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation org eclipse swt ole win ole listener olelistener handle event handleevent ole event oleevent event

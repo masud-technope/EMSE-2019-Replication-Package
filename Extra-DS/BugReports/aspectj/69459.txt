@@ -1,0 +1,2 @@
+Hiding of Instance Methods by static methods
+Using Introduction it is possible to hide instance methods by static methods. Example: class Super { public void m(){}; } class Sub {} aspect A { public static void Sub.m(){} } Acccording to the Java Language Specification this is not allowed. Is this behaviour desired ?? It is also possible to override static methods by instance methods, wich causes a compile time error in java.

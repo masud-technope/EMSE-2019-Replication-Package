@@ -1,0 +1,14 @@
+org.eclipse/swt/browser/Browser.java
+org.eclipse/swt/dnd/DragSource.java
+org.eclipse/swt/dnd/DropTarget.java
+org.eclipse/swt/graphics/Device.java
+org.eclipse/swt/graphics/FontData.java
+org.eclipse/swt/graphics/GC.java
+org.eclipse/swt/internal/BidiUtil.java
+org.eclipse/swt/widgets/ColorDialog.java
+org.eclipse/swt/widgets/DirectoryDialog.java
+org.eclipse/swt/widgets/Display.java
+org.eclipse/swt/widgets/FileDialog.java
+org.eclipse/swt/widgets/FontDialog.java
+org.eclipse/swt/widgets/MessageBox.java
+org.eclipse/swt/widgets/Tracker.java

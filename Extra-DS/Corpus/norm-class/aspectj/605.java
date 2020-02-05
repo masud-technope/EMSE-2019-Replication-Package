@@ -1,0 +1,1 @@
+delete main main string args target

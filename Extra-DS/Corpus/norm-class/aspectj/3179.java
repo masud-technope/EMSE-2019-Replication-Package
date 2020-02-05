@@ -1,0 +1,1 @@
+generic implementing class genericimplementingclass number generic interface genericinterface as int asint a number anumber a number anumber int value intvalue

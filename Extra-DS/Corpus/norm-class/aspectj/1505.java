@@ -1,0 +1,1 @@
+circle test main string args base base type reflexive type reflexive concrete base

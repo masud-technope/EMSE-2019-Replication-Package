@@ -1,0 +1,3 @@
+org.aspectj/modules/tests/bugs/throwsSignature/ExceptionAspect.java
+org.aspectj/modules/tests/bugs/throwsSignature/ExceptionBugTest.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/ThrowsPattern.java

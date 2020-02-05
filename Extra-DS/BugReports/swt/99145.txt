@@ -1,0 +1,2 @@
+Link widget only disables link, not text
+20050609-0010 When disabling a a linked wiget with mixed text/link content (e.g. &quot;Use the &lt;a&gt;XY page&lt;/a&gt; to configure this&quot;), only the link is disabled, not the text. See screenshot

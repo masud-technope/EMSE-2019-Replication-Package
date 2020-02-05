@@ -1,3 +1,0 @@
-Bug 57515 – [search] java search participant for launch configs
-We should contribute a search participant for launch configs (references to
-types).

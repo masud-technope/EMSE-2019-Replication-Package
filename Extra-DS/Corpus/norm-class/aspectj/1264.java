@@ -1,0 +1,1 @@
+java serializable bean serializable string string get name getname property changer propertychanger set name setname string

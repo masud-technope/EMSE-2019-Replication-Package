@@ -1,0 +1,3 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/ast/IfPseudoToken.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/IfPointcut.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/Pointcut.java

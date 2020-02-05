@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples bridge aspectj greeting screen greetingscreen screen greeting screen greetingscreen screen implementation screenimplementation set implementor setimplementor draws prints greeting text box draw greeting drawgreeting draw text box drawtextbox

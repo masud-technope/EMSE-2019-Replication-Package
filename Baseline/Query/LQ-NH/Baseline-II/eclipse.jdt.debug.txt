@@ -1,0 +1,63 @@
+173187	breakpoints	refactored	renaming	wizard	eventually	ended	Breakpint	expand	Breakpiont	identical	entires	showing	breakpoint	type	change	user	differences	problem	method	breakpoints	multiple	method	breakpoints	file	dialog	user	distinguish	breakpoints
+53634	switching	JRE	libraries	Preferences	Java	Installed	JREs	adding	additional	libraries	running	application	newly	libraries	bootclasspath	removing	libraries
+40707	Open	properties	dialog	watchpoint	Enable	hit	count	Disable	breakpoint	Press	Note	breakpoint	enabled	opening	properties	dialog	breakpoint	enabled
+335363	Created	attachment	details	Screenshot	depicting	problem	question	Window	Preferences	General	Appearance	Colors	Fonts	Basic	Dialog	Font	Increase	font	size	Click	Add	Java	Exception	Breakpoint	Notice	text	checkbox	truncated	Resizing	maximizing	dialog	doesn
+31110	Debugger	Source	Lookup	dialog	select	variables	source	lookup	Advanced	Add	Variables	selected	variable	points	archive	source	file	type	debugger	claims	find	source	Eclipse	Build
+229380	Open	Java	Launch	Configuration	classpath	tab	Ensure	bootstrap	entry	user	entry	Select	bottom	bootstrap	entry	button	enabled	pressing	Select	top	user	entry	button	enabled	pressing	update	button	reflect	moving
+13834	Build	doesn	breakpoint	source	code	managed	Eclipse	debugging	code	remote	program	includes	code	managed	workspace	external	JARs	click	stack	frame	unmanaged	methods	dialog	find	source	point	dialog	source	editor	java	file	opens	breakpoints	file	ruler	displayed	click	nthe	ruler	context	menu	Add	Breakpoint	action	disabled	frustrating	breakpoints	code	examining
+94474	Installed	JREs	pref	select	JRE	Edit	deselect	system	libraries	Edit	source	attachment	Press	dismiss	dialogs	open	insect	source	attachment
+142476	RHEL	Build	Component	EMFT	Blocking	Language	Bitmap	Location	defects	EMFT	JPG	Tester	Peppy	Florou	Steps	recreate	problem	Start	eclipse	File	Project	Expand	Java	Emitter	Templates	Click	Enter	project	tvt	tests	Click	Finish	project	created	click	file	sample	xml	choose	menu	choose	Select	JET	Transform	hand	tree	Click	icon	Click	Common	tab	Problem	Description	Text	box	File	field	overlapps	border	Variables	button	overlapps	border	Kindly	adjust	coordinates	width	boxes	thx	Peppy	article	reassigned	Category	TVT	Testing
+324246	Build	Identifier	defined	external	program	builder	external	builder	called	java	OpenJPA	JPA	enhancer	enhancer	works	JVM	classpath	variable	defined	pass	project	classpath	java	argument	enter	good	variable	project	classpath	argument	project	classpath	project	expand	classpath	Reproducible	Open	JPA
+139152	Open	Window	Preferences	Java	Debug	error	disapears	Close	dialog	Open	Window	Preferences	Java	Debug	error	disapears	time	opening	dialog	attached	screenshot	platform	bug
+321043	HEAD	revert	bug	enable	compiler	compliance	revert	attachment	details	bug	comment	bug	bug
+64663	fails
+43927	build	version	content	assist	condition	work	Content	assist	auto	enabled	dot	pressing	Ctrl	Space	work
+506014	reply	Sarika	Sinha	bug	comment	Stephan	observed	flickering	view	returned	removed	Variables	view	discussing	row	dedicated	returned	don	insert	remove	rows	time	decided	thought	open	discussions	daily	feature	disturbs	list	variables	jumps	stepping	depending	availability	node	place	holder	signal	changing	label	method	icon	bug	constantly	disabled	improve
+73624	eclipse	build	Select	java	compilation	unit	Explorer	main	method	call	main	main	classes	click	menu	select	Java	Application	expect	dialog	time	asks	user	main	selected	method	main	avoid	bringing	redundant	dialog
+275614	builds	including	bug	introduced	Debug	view	time	debug	session	started	doesn	auto	expand	threads	view	visible	screen	Steps	reproduce	start	workspace	choose	Debug	perspective	launching	open	workbench	window	Debug	perspective	workbench	window	Java	perspective	Debug	window	Java	paste	code	Explorer	start	Debug	Debug	view	threads	auto	expanded	fully	expanded	window	perspective	bug
+392607	Version	Build	current	form	JDI	test	suite	Mac	fails	load	fallback	correct	kind	determined
+43418	Installed	JRE	choose	Add	Click	Browse	JRE	directory	choose	JRE	folder	pressed	takes	seconds	evaluate	system	libraries	busy	cursor
+112670	CTRL	SPACE	toggle	selection	treeitems	variables	view	invokes	content	assist	blocks	normal	windows	keystrokes	platform	widget	Commands	details	pane	active	focus
+21792	creating	launch	configuration	specifies	arguments	arguments	problems	backslash	happen	backslash	consumes	character	instance	arguments	Duser	dir	Duser	John	space	separates	arguments	eaten	backslash	result	argument	passed	application	spaces	arguments	arguments	passed	application	argument	ends	space	reverse	order	arguments	works	fine
+9122	performance	problem	debug	launch	junit	workspace	debug	mode	waited	minutes	worked	time	waited	launched	slow
+19363	Asked	image
+124203	debug	view	longer	global	debug	context	provider	debug	context	manager	introduced	internal	API	flexible	debug	platform	View	management	based	active	debug	context	lanuch	view
+16046	user	presses	cancel	button	launch	configuration	dialog	launch	progress	launch	cancelled	wait	launch	finish	terminate	launch	user	pressed	cancel	behavior	wrong	number	reasons	cancel	button	respond	Cancel	operations	doesn	operation	job	forced	user	wait	launch	completes	shouldn	terminate	launch	didn	wait	launch	finish	sit	wait	launch	finish	time	launch	ability	interrupt	launch	progress	achieve	Cancel	button	disabled	launch	reflect	fact	unable	interrupt	launch
+15662	display	result	inspect	work	Select	variable	display
+9649	Eclipse	Clean	install	workspace	Turn	autobuild	Add	org	eclipse	swt	workspace	Copy	classpath	motif	classpath	Turn	autobuild	Progress	dialog	proceeds	closes	wwaux	reports	process	consuming	memory
+72371	locations	stream	left	open	exception	occurs
+13364	breakpoint	condition	properties	dialog
+255031	projects	CDC	Foundation	load	week	build	projects	longer	compile	project	level	warning	ignore	warning	project	build	path	error	compiled	reproduce	load	org	eclipse	equinox	console	org	eclipse	equinox	director	cvsroot	repo
+108473	Bug	platform	problem	Windows	dependent	System	Windows	JDK	Sun	Eclipse	running	Tomcat	Eclipse	Sysdeo	launcher	running	Tomcat	times	huge	slow	Tomcat	CPU	time	allocated	thread	Eclipse	Tomcat	consuming	CPU	time	responding	correctly	Tomcat	process	debug	mode	Tomcat	debug	mode	runs	fine	debug	mode	running	correctly	restart	Eclipse
+8634	start	workspace	exception	breakpoints	missing
+300614	Enable	details	pane	Breakpoints	view	select	Java	breakpoint	Details	Breakpoint	Settings	Cocoa	text	field	Hit	Count	pixels	wide	character	WinXP	Win
+9026	Summary
+323020	
+125771	clicking	method	external	source	breakpoint	created	appears	retrieving	method	siganture	properly
+60364	JDT	debug	plugins	code	Runtime	newly	deprecated	attaching	patch	based	eliminated	deprecations	informational	rigorous	testing
+369480	Fresh	workspace	Add	IBM	JRE	workspace	JREs	workspace	Java	Installed	JREs	Execution	environments	JRE	compatible	match	projects	execution	environment	pde	JRE	container	JRE	major	bug	build	JRE	Note	work	work	builds	older	workspaces	fine	dev	workspace	problem	surfaces	workspaces
+189012	Change	Primitive	Change	Object	dialogs	accessible	change	command	variables	expressions	view	contexts
+181204	context	launching	enhancement	bug	applies	resource	based	objects	enhanced	behavior	product	resource	objects	launch	remote	programs	request	context	launching	enhanced	handle	scenario	background	comments	extracted	bug	debug	launch	configuration	applies	remote	executable	object	process	debug	program	remote	host	debug	process	remote	host	Remote	object	IResource	advantage	proposed	context	launching	determine	context	mapping	IResource	conetxt	launching	resource	based	planned	enhancements	release	context	launching	resource	based	objects	Marking	fixed	verified	bugs	opened	issues	pertaining	context	launching
+13015	step	conditional	breakpoint	condition	evaluates	thread	resumes	stepping	breakpoint	condition	condition	evaluated
+212442	logic	causing	test	failures	breakpoint	tests	problem	comparing	String	Integer	clause	statement	breakpoints	equal
+9825	debugger	approaches	icon	depending	action	consistent	plan	matches	proposed	workbench	remove	action	icon	launch	view	breakpoint	view	launch	view	action	color	enabled	breakpoints	view	color	hovers	action	prefer	showing	color	action	active	easy	action	active	hover
+33893	update	code	launching	plug	updates	JREs	preference	incorrectly	defined	JREs	exist	ignore	JREs	invalid
+206693	configured	installed	JRE	http	wiki	eclipse	org	php	simply	copied	description	wiki	pasted	bin	Location	column	Installed	JREs	preference	JRE	location	eclipse	eclipse	PWD	suspect	created	relative	path	java	File	resolves	based	PWD
+42984	running	ant	script	JRE	select	working	directory	JVMs	process	script	prints	eclipse	install	directory	setting	Base	Directory	field	Main	tab	ant	dialog	working	directory	basedir	variable	overriding	basedir	variable	ant	defines	basedir	directory	script	running	project	target	echo	message	user	dir	user	dir	target	project
+7404	Attempting	define	filter	step	filter	work	Hitting	button	realizes	entry	list	editable	disappears
+268393	Created	attachment	details	Image	Build	Steps	Reproduce	attached	screenshots	attempted	change	String	variable	Expressions	text	box	literal	text	Image	dialog	button	gray	Image	attempt	button	gray	Image	attempt	quotes	Nope	gray
+330987	bug	applied	jdt	debug	bundle	version	incremented	tags	newly	methods
+32494	Select	snippet	scrapbook	Context	menu	toolbar	actions	Inspect	Display	Execute	enable	Global	actions	menu	enable	key	bindings
+34670	create	java	launch	config	classpath	path	uncheck	path	needed	select	element	list	hit	DELETE
+18926	Windows	unable	add	Sun	JDK	list	Installed	JRE	select	JRE	steps	Window	Preferences	Java	Installed	JREs	Click	Add	JRE	Sun	JRE	directory	java	jdk	Click	Click	checkbox	error	window	pops	stating	Installed	JRE	location	longer	exists	JRE	removed	Reason	JRE	removed	pretty	big	problem	development	weird	workspace	working	workspace	current	builds	experiencing	problem	problem	JDK	add	clean	workspace
+29297	project	multiple	output	folders	debug	find	version	compiled	Hot	code	replace	debugger	searches	output	folder	changed	classe	output	folder	Project	properties	Java	build	path	Source	Source	folders	build	path	output	folders	source	folder
+248054	Build	Steps	Reproduce	Annotations	Breakpoints	Text	Highlighted	pick	nice	color	Observe	breakpoints	hilighted	editor	isn	latest	version	biggest	annoyance	Eclipse	syntax	hilighting	background	colors	annotation	icon	breakpoint	overwritten	warnings	tasks	nice	glance	breakpoints	Turbo	circa
+94452	produce	timeout	exceptions	stepping	method	logical	structure	displayed	Vector	Stepping	start	update	step	problem	holding	step	key	flooding	target	requests	views	attempting	update	step	starts
+394225	Evaluates	display	window	fail
+187000	Build	Steps	Reproduce	start	debugging	press	mouse	step	constantly	enviroment	windows	java	workers	linux	machine	times	debugger	looses	selection	focus	stacktrace	complete	tree	collapsed	search	thread	suspend	select	press	step	tree	expands	problems	older	releases	bad	pretty	multiply	times	debug	selection	focus	stick	looses	focus	press	step	wait	select	thread
+400636	appears	regression	Kepler	debugging	Eclipse	Application	codeassist	work	Display	view	worked	Kepler	difference	OSX	Oracle	Java
+52474	build	start	eclipse	workspace	CVS	Repository	Exploring	perspective	check	number	projects	checkout	Platform	module	attempt	Java	Perspective	NOTE	point	blocked	dialog	opened	fact	starting	Java	Perspective	requires	workbench	lock	point	common	pattern	nice	investigate	makeing	scenario	work	smoothly
+16378	Build	Debug	time	Workbench	tabs	missing	icons	space	remains	attached	screen	shot
+110074	create	breakpoint	working	sets	create	breakpoint	breakpoint	working	category
+33534	
+144253	Eclipse	fire	CHANGE	events	stack	frame	object	force	source	lookup	behaviour	Eclipse

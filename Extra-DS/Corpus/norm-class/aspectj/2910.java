@@ -1,0 +1,1 @@
+copyright contributors rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors alexandre vasseur initial implementation ataspectj ltwreweavable author href mailto alex gnilux dot alexandre vasseur advisable add join point addjoinpoint string

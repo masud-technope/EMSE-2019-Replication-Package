@@ -1,0 +1,2 @@
+AJDoc: should be able to set encoding like javadoc
+ajdoc doesn't support the -encoding -docencoding and -charset options of javadoc. Especially, it doesn't pass on the -encoding to ajc. If your project uses a source file encoding (e.g. UTF-8) differing form the platform standard, and some java identifiers use characters byond the standard ASCII range, you won't be able to use ajdoc at all.

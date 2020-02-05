@@ -1,0 +1,2 @@
+NPE when unresolved type of a bound var in a pointcut expression (EclipseFactory.java:224)
+see attached mini-project to reproduce

@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples aspectj queue state queuestate insert object queue returns successful otherwiese param arg object inserted queue insertion successful insert object arg returns item queue item queue object get first getfirst remove object queue returns successful otherwiese deletion successful remove first removefirst

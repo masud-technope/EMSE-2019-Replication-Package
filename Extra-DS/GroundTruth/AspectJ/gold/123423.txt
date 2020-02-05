@@ -1,0 +1,10 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/ast/AspectDeclaration.java
+org.aspectj/modules/tests/features153/ptw/CaseFive.java
+org.aspectj/modules/tests/features153/ptw/CaseFour.java
+org.aspectj/modules/tests/features153/ptw/CaseOne.java
+org.aspectj/modules/tests/features153/ptw/CaseThree.java
+org.aspectj/modules/tests/features153/ptw/CaseTwo.java
+org.aspectj/modules/tests/src/org/aspectj/systemtest/ajc153/Ajc153Tests.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/AjcMemberMaker.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/NameMangler.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelPerClauseAspectAdder.java

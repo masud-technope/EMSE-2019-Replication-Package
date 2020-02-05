@@ -1,0 +1,1 @@
+main testcase purejava access enforced main main string args expecting target pack target public static method publicstaticmethod

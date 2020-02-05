@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples facade java regular screen regularscreen prints string system param string print print string system print prints newline system newline system println

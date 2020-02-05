@@ -1,0 +1,2 @@
+NullPointerException in ConstructorSignature.getConstructor()
+AspectJ version: 1.5.3.200608290814 When advising a constructor, we can do the following to obtain the constructor as a java.lang.reflect.Member: Member cons = ((ConstructorSignature) thisJoinPointStaticPart .getSignature()).getConstructor(); however that sometimes fails, and returns null.

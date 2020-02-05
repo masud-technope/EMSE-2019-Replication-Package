@@ -1,0 +1,1 @@
+inherited decp static method staticmethod inherited decp instance method instancemethod

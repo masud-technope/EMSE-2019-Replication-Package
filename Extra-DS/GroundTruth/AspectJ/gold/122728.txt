@@ -1,0 +1,6 @@
+org.aspectj/modules/ajdoc/src/org/aspectj/tools/ajdoc/StubFileGenerator.java
+org.aspectj/modules/ajdoc/testdata/pr122728/src/pack/ClassWithInnerEnum.java
+org.aspectj/modules/ajdoc/testdata/pr122728/src/pack/EnumWithMethods.java
+org.aspectj/modules/ajdoc/testdata/pr122728/src/pack/MyEnum.java
+org.aspectj/modules/ajdoc/testsrc/org/aspectj/tools/ajdoc/AjdocTests.java
+org.aspectj/modules/ajdoc/testsrc/org/aspectj/tools/ajdoc/EnumTest.java

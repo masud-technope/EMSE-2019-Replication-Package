@@ -1,0 +1,2 @@
+Blurry Tree text in second column
+When running the sample Tree-with-columns snippet (Snippet170) I'm getting 'blurry' text in columns 2 and 3 after selecting an item. It's like the antialiasing has been applied many times.

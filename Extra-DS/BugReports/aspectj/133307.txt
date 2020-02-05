@@ -1,0 +1,2 @@
+declare parents implementing generic interface referencing same type
+I have the following construct: public interface TestIF<T extends TestIF> {} public class TestClass {} public aspect TestAspect { declare parents: TestClass implements TestIF<TestClass>; } The later aspect does not compile, although public class TestClass implements TestIF<TestClass> { } is a valid class.

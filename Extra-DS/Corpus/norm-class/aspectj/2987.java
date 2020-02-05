@@ -1,0 +1,1 @@
+def private call privatecall instance test main string argv private call privatecall instance test

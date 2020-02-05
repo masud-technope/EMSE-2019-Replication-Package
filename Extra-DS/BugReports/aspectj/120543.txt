@@ -1,0 +1,2 @@
+Issue version message during load-time weaving
+It would be very useful to know exactly which version of the weaver is being used for LTW. An informational message could be issued when each WeavingAdaptor instance is created (it is possible to have multiple versions of AspectJ in a system). This message could be similar to the that issued by "ajc -version".

@@ -1,0 +1,6 @@
+org.aspectj/modules/ajde/testdata/examples/figures-coverage/figures/Figure.java
+org.aspectj/modules/ajde/testsrc/org/aspectj/ajde/AjdeTests.java
+org.aspectj/modules/ajde/testsrc/org/aspectj/ajde/ui/StructureViewManagerTest.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/ajc/BuildArgParser.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/core/builder/AjBuildConfig.java
+org.aspectj/modules/org.aspectj.ajdt.core/testsrc/org/aspectj/ajdt/ajc/BuildArgParserTestCase.java

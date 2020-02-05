@@ -1,0 +1,1 @@
+class with static inner interfaces classwithstaticinnerinterfaces

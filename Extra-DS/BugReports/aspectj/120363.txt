@@ -1,0 +1,2 @@
+LTW weaver include and exclude does not behave correctly
+According to the specification (http://www.eclipse.org/aspectj/doc/next/adk15notebook/ltw-configuration.html) "The set of types to be woven are those types matched by at least one weaver include element and not matched by any weaver exclude element." However if an includ elemement can be fast matched e.g. "com.foo..*" any exclude elements are ignored (see bug 117854). There is no explicit test in the harness for this feature.

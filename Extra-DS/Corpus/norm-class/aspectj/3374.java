@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples visitor java binary tree visitor binarytreevisitor visits terminal binary tree node param node node visit visit node visitnode visitable node visits leaf terminal tree node param node leaf visit leaf visitleaf visitable node returns result visitor operation string describing result visitor operation string report

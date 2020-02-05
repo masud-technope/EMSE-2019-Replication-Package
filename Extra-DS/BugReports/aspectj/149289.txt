@@ -1,0 +1,2 @@
+Support system and user aop.xml configuration files
+Both AJDT (Bug 71066) and AspectJ (Bug 95516) support the generation of an aop.xml to declare the set of know aspects for LTW. However if the user modifies the file to add options etc then the changes can be over-written. There is a need to allow the user to provide their own configuration in a separate file.

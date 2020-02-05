@@ -1,0 +1,1 @@
+junit framework test junit framework test case testcase alias maintain convention invoking junit ant discovery module root tests module tests moduletests all module tests allmoduletests test case testcase test suite include compiler tests tests tests module tests testsmoduletests all tests alltests suite

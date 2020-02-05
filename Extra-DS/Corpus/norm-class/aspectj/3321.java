@@ -1,0 +1,1 @@
+simple intf simpleintf string get string getstring integer get integer getinteger

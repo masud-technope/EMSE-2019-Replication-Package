@@ -1,0 +1,102 @@
+421383	scale	difficult	impossible	pro	high	smaller	displays	resolution	issues	correctly
+99072	easy	explain	ctrl	assistant	item	modifier	preferences	bug	code	add
+144902	alt	bind	press	navigate	ctrl	navigation	sequence	explorer	category	preference
+244742	ideally	alternatively	inconsistent	behaviour	lead	ctrl	imported	depending	shift	organize
+303617	reproduce	inconsistent	alt	steps	press	pop	shift	refactor	menu	extract
+305155	sdk	nesting	uncheck	windows	win	correctly	general	click	explorer	ends
+318734	obsolete	degradation	restart	applied	removed	comments	performance	bugs	bug	tests
+35339	consistently	rendered	isn	inheritdoc	tags	completion	javadoc	bug	code	param
+52750	boxes	indentation	correct	comment	bug
+318731	obsolete	degradation	restart	applied	removed	comments	performance	bugs	bug	tests
+416022	crashes	threw	features	mapped	caused	product	formatting	installed	details	handling
+81172	enabling	works	spell	checking	doesn	report	problems	disabled	enable	preferences
+249620	strictly	configurable	strict	compatible	launching	jre	bound	provide	setting	severity
+381714	couldn	documentation	documented	answer	export	question	msg	sensitive	jar	runnable
+28698	design	works	outline	ctrl	summary	tells	work	read	editor	bug
+329252	mention	mentioned	today	delay	activation	auto	assist	time	clear	preferences
+217126	impact	fingerprints	yellow	verification	issue	hard	appears	accurate	good	negative
+45349	press	typing	smart	enter	select	replace	bug	selection
+329248	reproduce	inappropriate	steps	appears	press	opened	version	build	exist	identifier
+271139	clipped	negative	caused	numbers	cut	bottom	refactor	alignment	buttons	finish
+102696	fails	fail	quick	signature	comment	update	bug	method
+162856	projet	subfolders	strange	steps	sources	correctly	automatically	browse	click	choose
+9517	browser	perspective	pass	doesn	menu	view	select	bug	open	junit
+283697	useless	wanted	press	jdk	suggestions	adding	creating	elem	missing	quick
+55349	front	deletes	press	outline	place	cursor	invoke	box	deleted	quick
+13877	notation	windows	escaped	correctly	happen	displayed	values	tool	bug	nls
+67124	minor	chose	rare	prompted	situation	couldn	prompt	expect	ccp	issues
+296498	happy	prompts	hit	passes	esc	prompt	appears	completely	stuff	typing
+153912	synch	plan	hiding	incoming	models	navigator	sync	folders	common	filtered
+178744	contextual	linux	easy	scenarios	refreshing	touch	prompt	scenario	answer	misc
+333631	tooling	steps	attached	refactor	jre	zip	additional	adds	properties	existing
+264504	reproduce	touched	alt	misc	leading	opened	compile	dirty	errors	explorer
+52801	hovers	press	spell	checking	work	focus	bug
+113731	difficult	bigger	thomas	strange	bit	behaviour	feature	stuff	component	determine
+232773	selecting	assignments	workaround	assign	explorer	pre	menu	projects	expected	working
+129354	keybinding	press	popup	hover	focus	view	javadoc	editor	bug	element
+108115	submit	easy	jdtastmatcher	astmatcher	invocations	workaround	specific	matching	extract	don
+41302	indication	calling	ends	extract	quick	character	assist	select	comment	dialog
+185172	menu	missing	working	sets	select	selected	action	bug	context	project
+18780	deleting	detected	cases	doesn	removed	build	members	working	view	member
+19043	ugly	press	attached	config	export	small	jre	generate	configure	build
+274023	closer	good	rendered	decoration	lib	icon	normal	folders	wrong	nested
+38499	macos	pressing	mac	seconds	mouse	moving	hover	activate	configure	modifier
+419692	leak	reported	decorator	indicator	cgi	https	bugs	image	comment	bug
+64108	realized	highlighted	stay	keywords	unchanged	longer	color	work	reset	tag
+62062	interesting	steps	press	marked	caret	guess	hover	occurrences	mark	wait
+294763	scrollbar	resize	details	attachment	errors	doesn	warnings	compiler	created	preference
+47731	leaks	repeated	colors	closing	opening	time	view	bug	junit	swt
+28277	turned	clicking	decorators	cvs	refreshes	perspective	click	refresh	build	visible
+151668	backup	people	advantage	wanted	issue	configurable	sense	reorg	prefix	copy
+211578	hangs	reproduce	development	party	optimize	linux	repository	subsequent	computers	machine
+216707	underscore	reproduce	lot	gray	steps	versions	braces	tabs	spaces	highlight
+313478	clicking	broken	enter	browse	explorer	active	wizard	bug	junit	file
+393602	fonts	linux	appears	press	fine	attach	ctrl	imported	cut	details
+224132	breadcrumbs	inf	meta	breadcrumb	manifest	opened	jar	bug	resources	java
+267918	center	dialog	bug	widgets	tostring	string
+492173	styling	people	theme	dark	details	attachment	side	missing	style	bad
+437398	behave	scenarios	asks	follow	ccp	paste	explorer	pre	don	extension
+313751	bug	code
+51093	curly	repeatedly	pressing	front	closes	press	define	brace	typing	automatically
+82839	major	breakpoints	margins	breakpoint	appears	misc	longer	icon	icons	session
+390546	rulers	react	pops	yellow	appears	arrow	ruler	simply	markers	general
+215448	reopen	newly	doesn	working	created	select	dialog	bug	list
+199064	reordering	formats	dnd	comments	expected	fields	methods	format	bug	field
+304792	reproduce	steps	press	fine	works	outline	moving	refactor	function	interfaces
+32412	pasting	prompt	ccp	ctrl	choose	explorer	canceled	build	copy	select
+299928	hovering	asks	head	toolbar	click	hover	errors	specific	severity	warnings
+90528	decoration	icon	errors	tab	warnings	missing	problem	window	editor	instance
+17317	reach	screen	trims	bigger	fit	resizing	borders	tabpage	resize	windows
+179109	concurrently	threads	produced	dump	good	computing	waiting	misc	generating	times
+252591	chained	fine	works	jars	render	correctly	details	manifest	lib	displayed
+260528	carets	strange	head	regression	caret	enhanced	side	wrong	build	left
+55221	mapper	includes	extended	range	javadoc	node	comment	bug	code	test
+54459	lot	clicking	trees	expect	good	reason	outline	cut	happen	click
+13243	remains	deselect	longer	perspective	browsing	deleted	units	delete	select	types
+59845	consuming	indicators	overriding	opening	indicator	relative	background	performance	time	hierarchy
+329677	easier	reduce	abbreviation	steps	respect	works	correctly	details	attachment	views
+312014	arrows	screen	focused	reproduce	tested	steps	displays	customize	press	red
+338638	externalization	snapshots	clicking	pressing	compared	ctrl	fixes	invoked	relevance	marker
+67274	confirmation	ccp	drag	moving	dnd	click	drop	moved	explorer	properties
+244431	outgoing	cvs	modifying	didn	patch	bundles	equinox	attach	arrow	showing
+24271	sorted	folders	packages	sort	folder	simple	bug	source	project	eclipse
+233941	metadata	plugins	year	fresh	details	refactor	attachment	zip	extract	refactorings
+108247	expect	press	ctrl	computed	enclosing	disabled	projects	scope	active	editor
+30169	bookmarks	bookmark	hovering	overview	ruler	hover	bug	message
+139231	sdk	generates	surrounding	clause	duplicate	quick	version	build	bug	error
+42208	black	gray	affordance	hover	bug	source	text
+66787	matched	wrong	filters	search	bug	message
+94951	development	prevents	steps	build	compiler	bug	error	text	jdt	implementation
+150249	quote	pasting	concatenation	paste	typing	starting	ends	doesn	work	contents
+344552	irrelevant	remains	reproduce	steps	cleared	relevant	tabs	opened	displayed	closed
+58098	equally	positioning	linux	designed	methodnames	deleting	naming	works	describe	ctrl
+411636	notice	cycles	slow	seconds	delay	large	attached	details	exact	saved
+388342	nice	stays	behaviour	loads	ide	box	creating	unchecked	previous	special
+51187	difficult	caps	setters	real	displayed	setter	getter	attributes	defined	generate
+14837	putting	shouldn	icon	creating	menu	packages	build	view	folder	actions
+314354	manually	steps	removing	newly	adding	step	navigator	libraries	happen	click
+44535	consequence	misc	details	applied	opening	displayed	wrong	problem	full	comment
+263935	discarded	zzz	repository	synchronize	occur	workingcopy	caused	holds	ctrl	shift
+46332	tagged	parallel	locked	pressing	couldn	explanation	versions	completed	ctrl	edited
+329720	leads	independently	schemes	grey	desktop	black	linux	theme	dark	popup
+364539	perfectly	reproduce	globally	steps	remember	previous	setting	generate	disabled	build

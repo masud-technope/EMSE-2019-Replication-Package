@@ -1,0 +1,1 @@
+org aspectj testing testcase file order type searching another class anotherclass inner class innerclass main string args string another class anotherclass inner class innerclass to string tostring tester expect event expectevent tester check all events checkallevents

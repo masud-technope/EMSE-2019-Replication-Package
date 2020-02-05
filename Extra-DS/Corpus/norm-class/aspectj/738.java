@@ -1,0 +1,1 @@
+org aspectj testing tester non over eager constant folding nonovereagerconstantfolding thingy non over eager constant folding nonovereagerconstantfolding foo thingy main string args foo tester check thingy didn evaluate expr field access expr test foo

@@ -1,0 +1,2 @@
+Unspecified methods
+In the specs there are some methods that are probably intended to be platform/implementation specific. We feel this should be stated. You find the details in the file attached. However, broadly speaking, the functionality of methods such as toString(), hashCode() ane equals() has not been specified. Could you either say that these are totally implementation dependent, or, if this is not the case, give some functionality guidelines.

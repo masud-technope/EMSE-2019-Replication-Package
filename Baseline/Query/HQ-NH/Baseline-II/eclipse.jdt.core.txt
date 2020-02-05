@@ -1,0 +1,34 @@
+434630	Created	attachment	details	project	reproduce	issue	switching	type	mismatch	errors	code	work	project	reproduce	issue	attached	bug
+337415	Created	attachment	details	Workspace	recreation	steps	preferences	project	imported	ANT	script	external	folders	project	created	causing	dangerous	behavior	delta	computed	build	full	build	steps	reproduce	behavior	projects	attached	zip	file	Data	project	launch	configurations	Execute	Headless	Refresh	Data	project	runtimeData	folder	workspace	check	metadata	plugins	org	eclipse	jdt	core	external	folders	project	exists	projects	ant	tasks	responsible	loading	preferences	importing	project	launch	configuration	Verification	launches	Eclipse	workspace	headless	check	classpath	variable	correctly	loaded	runtime	Data
+176320	Build	migrating	latest	SDK	reindexing	workspace	format	change	striked	opening	type	dialog	rendered	indexing	progress	strange	rushed	accumulating	indexing	jobs	processed	filled	progress	deal	situation	reindexing	occurring	reporting	progress	linear
+222080	Created	attachment	details	Project	reproduce	problem	Build	Unzip	attached	jar	file	Completion	project	workspace	open	Test	complete	list	proposals	type	surprised	find	list	identity	test	ASTNode	expect	proposals	ASTNode
+455042	invalid	archive	cache	evicted	infrequently	jars	network	drives	subject	errors	cleared	build	stands	invalid	jar	reevaluated	timestamp	classpath	modified
+373953	bug	special	handling	checks	org	eclipse	core	runtime	works	java	eclipse	core	runtime	org	lang	core	runtime
+421711	moment	issue	warning	Javac	identifier	lambda	parameter	Javac	rejects	code	bug	discuss	behavioral	difference	ECJ	Javac
+180169	reported	bug	containers	entries	spec	protect	log	missbehaving	container	trace	mode
+403147	Bug	introduced	diagnostics	NPE	auto	unboxing	solution	checked	completeness	dimensions	relevant	AST	nodes	covered	analysis	create	correct	nested	control	structures	demand	deferred	checking	simplify	code	bit	reducing	code	duplication
+252556	test	bug	comment	fails	spaces	removed	region	formatted	region	Javadoc	test
+471062	time	edit	source	file	comments	extra	space	inserted	semicolon	slash	causing	havoc	github	repo	Checked	items	formatter	Enable	comment	formatting	Format	comments	column	Preserve	white	space	code	comments	join	lines	started	happen	installed	Mars
+409236	BETA	JAVA	https	bugs	eclipse	org	bugs	bug	cgi	point	dropping	type	annotations	intersection	constituents
+427218	https	bugs	eclipse	org	bugs	bug	cgi	snippet	crash	info
+391376	failure	reported	bug	comment	method	verifier	assumptions	methods	longer	hold	methods	enter	picture	problem	fixed	bug	cleanly	filtering	bogus	error	messages	leaving	delicate	parts	logic	unchanged	code	handled	corner	cases	involving	generics	bridge	methods	check	logic	produces	desired	behavior	methods	meet	situations	generics	bridge	methods	analysis	bugs	relevant	bug	bug
+363293	compiled	test	suite	org	eclipse	jdt	compiler	tool	tests	raises	warnings	Resource	leak	fileManager	closed	warnings	justified	fixed	code	file	Manager
+480029	Created	attachment	details	file	formatter	reproduce	issue	demand	separate	previous	bug	submit	individual	substitutions	original	ticket	https	bugs	eclipse	org	bugs	bug	cgi	javadoc	formatting	statement	start	tag	indentation	wrong	ZIP	file	file	reproduce	bug	formatter	settings	configuration	Windows	Eclipse	bit	JDK	update	Tested	builds	result	builds	fresh	install	plug	Eclipse	bit	Eclipse	bit	eclipse	SDK	win	zip	eclipse	SDK	win	zip
+409245	BETA	JAVA	Java	compiler	accepts	type	annotations	adds	program’s	AST	writes	classfile	including	accounting	synthetic	methods	bridge	methods	optimizations	moment	type	annotations	dropped	call	routed	synthetic	method	https	bugs	eclipse	org	bugs	bug	cgi	point
+413083	bug
+399769	reserved	keyword	Java	identifier	Keywords	Modified	proposed	spec	issues	warning	point	spec	requires	unambiguous	error	java	warning	identifier	identifier	supported	releases	warning
+369381	
+420004	BETA	JAVA	calling	getAnnotations	annotation	type	don	TYPE	TYPE	PARAMETER	targets	restored	properly	Patch	follow	shortly	Annotations
+467618	formatter	implementation	didn	indent	wrapped	elements	preceded	empty	elements	wrapped	force	split	wrapping	policy	Attempts	duplicate	behavior	leads	problems	details	bug	comment	fact	desired	feature	change	formatter	properly	indent	wrapped	elements
+24934	Move	top	level	refactoring	unused	errors
+472815	Mars	create	body	consisting	empty	indented
+412650	compiling	Project	mentioned	bug	description	extract	small	test
+426678	Follow	https	bugs	eclipse	org	bugs	bug	cgi	problem	vararg	accessibility	shortly	release	regression	test	showing	problem
+341296	Build	Identifier	great	telling	modifying	classpath	entries	clicking	ignoring	remind	front	option	overwrite	Reproducible
+29621	Build	Start	fresh	workspace	Add	project	Test	Add	source	folder	src	Add	folder	icons	src	Ensure	src	build	path	exclude	folder	icons	Add	file	txt	icons	folder	delta	Java	Model	CHILDREN	Test	CHILDREN	src	icons	txt	resource	delta
+479474	formatter	assumes	javadoc	nodes	attached	body	declaration	nodes	preference	org	eclipse	jdt	core	compiler	doc	comment	support	disabled	leads	problems	reported	bug	comment	reading	bug	bug	setting	formatter	override	setting	initializes	parser	confirm	good	idea	unexpected	problems
+90612	Types	accessible	forbidden	project	classpath	choices	code	assist	popup
+423409	Created	attachment	details	Test	project	attached	project	workspace	Find	references	constant	field	Test	Ctrl	Shift	Search	view	references	potential	matches	accurate	matches	result	inline	refactoring	Press	Alt	Shift	declaration	inline	references	choose	delete	constant	declaration	Click	message	Inaccurate	matches	Continuing	deletes	declaration	references	inlined	compilation	errors
+401790	BETA	JAVA	bug	handled	message	sends	overlooked	explicit	constructor	calls	allocation	expressions	bug	address
+23162	AST	rewriting	start	modify	existing	ASTs	modification	bindings	nodes	walk	tree	modifiy	parallel	clients	create	AST	bindings	AST	modified	nodes	simply	don	bindings
+401848	Created	attachment	details	Testcase	reproduce	error	introduced	additional	Annotation	rewrite

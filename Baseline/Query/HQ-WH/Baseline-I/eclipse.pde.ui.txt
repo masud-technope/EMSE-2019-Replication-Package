@@ -1,0 +1,109 @@
+280070	Bug	NPE	Plugin	Spy	Navigate	menu
+229382	Bug	NPE	identifier	browse	button
+273421	Bug	Failing	LocalTargetDefinitionTests	bundle	JDT	feature	Local	Target	Definition	Tests
+409352	Bug	regression	API	tooling	complains	missing	tag	method	noreference	tag
+220179	Bug	Manifest	Editors	XMLInputContext	erase	characters	removing	nodes	XMLInput	Context
+357654	Bug	StackOverFlowError	selecting	Add	Required	Plugins	Target	Platform	preference	Target	Definition	dialog	Content	tab	Stack	Flow	Error
+166680	Bug	META	INF	bundle	manifest
+151324	Bug	PDE	warn	user	Bundle	SymbolicName	Manifest	Symbolic
+212771	Bug	NPE	SourceLocationManager	Source	Location	Manager
+183587	Bug	External	Plug	Libraries	misses	closed	project	Java	Search
+197410	Bug	Manifest	completion	proposals	sorted
+330278	Bug	PackageFinder	findPackagesInClassFiles	produce	invalid	names	Finder	find	Packages	Files
+355873	Bug	CVS	tests	longer	repo
+160043	Bug	RequiredPluginsInitializer	implement	getDescription	Required	Plugins	Initializer	Description
+231977	Bug	copying	multiple	extensions	triggers	java	lang	ClassCastException	Exception
+304426	Bug	Regression	install	host
+226352	Bug	Eclipse	launcher	incorrect	eclipse	exe	launching	Eclipse	Application
+63287	Bug	Flickering	â€œImport	plug	insâ€	dialog	Mac
+178491	Bug	Rename	Bundle	SymbolicName	context	sensitive	Symbolic
+257852	Bug	Clean	PDEPerspective
+195394	Bug	Manifest	Editors	NPE	org	eclipse	pde	internal	editor	plugin	ImportPackageSection
+258881	Bug	Switching	FilteredTree	issues	Mac	Filtered	Tree
+150081	Bug	content	assist	ImportPkg	completions	include	imported	pkgs	Pkg
+144967	Bug	ITemplateSection	typo	ITemplate
+181063	Bug	NPE	running	Find	Unsed	Dependencies	Dependencies	View
+308547	Bug	classpath	entries	Manifest	editor	check	bundle	root
+274765	Bug	target	Cancelling	resolution	editor	closed	raises	assertion	failure
+292938	Bug	Open	extension	point	schema	link	fails	plugin	xml	editor
+258129	Bug	manipulator	loadConfiguration	empty	array	load	Configuration
+288343	Bug	UITestApplication	guard	exception	runTests	UITest	Application	Tests
+305232	Bug	feature	launching	choosing	features	launch	counter	update	filtering
+97109	Bug	Clicking	entry	Classpath	table	plugin	xml	editor	ArrayStoreException	Array	Store	Exception
+238934	Bug	NPE	resetting	target	platform
+256859	Bug	PDE	Warning	illegal	characters	feature	xml	complains	chars
+466783	Bug	apitools	Add	API	Baseline	wizard	opened	wrong	parent	shell
+201306	Bug	XMLErrorReporter	deprecated	calls	XMLError	Reporter
+201304	Bug	ErrorReporter	deprecated	calls	Error	Reporter
+181343	Bug	Plug	Dependencies	View	Fragment	dependency
+272985	Bug	EventDetailsDialog	leaks	Clipboard	Event	Details	Dialog
+290138	Bug	select	nodes	cheat	sheet	editor
+201308	Bug	BinaryRepositoryProvider	deprecated	calls	Binary	Repository	Provider
+210018	Bug	spy	improve	saving	image	functionality
+185955	Bug	Target	setting	Plug	Project	wizard	remembers
+488805	Bug	DSAnnotationCompilationParticipant	performs	unnecessary	model	modification	DSAnnotation	Compilation	Participant
+313952	Bug	NPE	crashes	Eclipse
+275296	Bug	preferences	saving	trigger	preference	initializaion	exception	shutdown
+321891	Bug	Missing	quick
+313187	Bug	OpenSchemaAction	handle	locations	spaces	Open	Schema	Action
+210026	Bug	Problem	PluginModelManager	Plugin	Model	Manager
+367980	Bug	Support	pre	release	versions
+207466	Bug	CCE	Log	view	opening	Event	Details	selecting	session
+216937	Bug	Missing	singleton	directive	result	warning
+120938	Bug	Schema	editor	disabled
+172398	Bug	API	visible	difference	getValue	getReplacementString	AbstractTemplateSection	Replacement	String	Template
+219250	Bug	NPE	opening	feature	xml	feature	file
+311927	Bug	NPE	select	required	button	feature	based	launch	config
+158326	Bug	Opening	build	properties	big	plug	locks	flashes	cursor
+356209	Bug	Compatibility	HandlerUtil	getActiveShell	parent	Workbench	Shell	Handler	Util	Active	Shell
+153460	Bug	NPE	occurs	retrieving	content	CVS
+409969	Bug	Target	Platform
+136314	Bug	NPE	org	eclipse	pde	internal	editor	plugin	DependencyManagementSection	Dependency	Management
+169852	Bug	Update	JUnitLaunchConfigurationDelegate	JUnit	Launch	Configuration	Delegate
+176509	Bug	AssertionFailedException	clicking	dependencies	link	Assertion	Failed	Exception
+172675	Bug	Provider	form	fields	fragment	overview	updated	externalization	quick	applied
+152199	Bug	Content	Assist	sort	beautify	proposals
+234376	Bug	Plug	project	property	template	deprecated	elements
+124815	Bug	NPE	Compute	dependancy	extent	action	plugins
+173715	Bug	Working	ClassCastException	edit	Working	Exception
+391828	Bug	TargetEnvironmentTestCase	tests	fail	locally	Target	Environment	Test
+168337	Bug	NPE	TargetPlatformPreferencePage	Target	Platform	Preference
+238487	Bug	logview	LogView	assumes	FILTERED	TEXTS	Log	View
+312466	Bug	early	call	modify	bundle	root	leaves	WorkspacePluginModelManager	initialized	Workspace	Plugin	Model	Manager
+304041	Bug	Compiler	warnings
+173741	Bug	project	created	build	properties	files	errors	logged
+272309	Bug	tooling	NPE	DSErrorReporter	reportIllegalCardinality	DSError	Reporter	report	Illegal	Cardinality
+65204	Bug	XSLT	web	site	xml	supported	Mac	Safari
+296113	Bug	RemotePluginTestRunner	issue	message	test	plug	resolved	Remote	Plugin	Test	Runner
+197817	Bug	Plug	removed	Java	Search	imported	source
+334523	Bug	NPE	opening	schema	editor
+290756	Bug	NPE	opening	OSGi	frameworks	prefs
+195267	Bug	Features	dependencies	add	features	fail
+489924	Bug	API	baseline	target	considered	derived	target
+248519	Bug	tooling	Component	Definition	Fields	SWT	BORDER	style
+205767	Bug	NPE	Plugin	Fragment	Wizards	triggered	Product	Configuration	Editor
+237764	Bug	spy	NPE	active
+268751	Bug	tooling	NPE	Component	wizard
+175566	Bug	Manifest	editor	preference	leaks	images
+269001	Bug	tooling	Problems	unnamed	reference	elements
+228044	Bug	testApplication	parameter	unusable	product	test	Application
+183245	Bug	Incorrect	button	sort	FeatureSection	Product	Editor	Feature
+183250	Bug	Product	Editor	add	duplicate	features
+296917	Bug	NPE	building	workspace
+211931	Bug	log	view	IllegalArgumentException	log	view	Illegal	Argument	Exception
+199134	Bug	NPE	Extensions
+477658	Bug	multi	FeatureExportOperation	log	error	Feature	Export	Operation
+168669	Bug	Load	target	button	PDE	preferences	Target	Platform	enabled	correctly
+198881	Bug	Hyperlink	detector	working	Build	source
+181476	Bug	existing	plugin	destroys	custom	project	natures
+231652	Bug	NPE	building	fragment
+191973	Bug	NPE	SchemaTransformer	getSchemaCssURL	Schema	Transformer	Schema	Css	URL
+226788	Bug	PDEModelUtility	cache	correctly	PDEModel	Utility
+94956	Bug	NPE	creating	extension	point	schema	PDE	wizard
+458995	Bug	api	tooling	API	parse	error	MANIFEST	naming	project
+125179	Bug	NPE	AbstractSearchResultPage	ContentProvider	Search	references	plug	Search	Result	Content	Provider
+187390	Bug	Call	implementation	FormFilteredTree	doCreateTreeViewer	Form	Filtered	Tree	Create	Tree	Viewer
+482554	Bug	Warning	org	eclipse	pde	runtime
+191231	Bug	Binary	compatibility	breakage	method	removed	AbstractLauncherTab	Launcher	Tab
+175356	Bug	NPE	SourceOutlinePage	removeAllSelectionChangedListeners	Source	Outline	remove	Selection	Changed	Listeners
+334843	Bug	UseReportConverter	prints	reference	API	patterns	Report	Converter

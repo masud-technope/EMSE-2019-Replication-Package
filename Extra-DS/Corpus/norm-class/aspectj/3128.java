@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples bridge aspectj screen draws prints text output device determined current implementor param text text drawn printed draw text drawtext string text draws prints text box output device determined current implementor param text text drawn printed draw text box drawtextbox string text

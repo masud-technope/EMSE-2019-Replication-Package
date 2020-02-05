@@ -1,0 +1,1 @@
+org aspectj lang annotation aspect org aspectj lang annotation declare warning declarewarning org aspectj lang annotation declare error declareerror aspect declare warning declarewarning execution warning method warningmethod string warning warning declare error declareerror execution bad method badmethod string error error

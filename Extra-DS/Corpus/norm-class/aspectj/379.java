@@ -1,0 +1,1 @@
+qualified super class constructor invocations qualifiedsuperclassconstructorinvocations main string args child of inner childofinner coi child of inner childofinner org aspectj testing tester check equal checkequal child of inner childofinner string child of inner childofinner child of inner childofinner child of inner childofinner

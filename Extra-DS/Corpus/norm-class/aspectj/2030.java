@@ -1,0 +1,1 @@
+org aspectj testing tester initialization order initializationorder main string args tester check tester check tester check string string object object illegal uninitialized object

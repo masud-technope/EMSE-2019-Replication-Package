@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples memento java counter memento countermemento stores originator captures originator stores param new state newstate store set state setstate new state newstate new state newstate returns stored originator stored get state getstate counter memento countermemento init init

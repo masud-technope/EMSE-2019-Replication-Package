@@ -1,0 +1,3 @@
+org.aspectj/modules/bridge/src/org/aspectj/bridge/WeaveMessage.java
+org.aspectj/modules/tests/java5/ataspectj/ataspectj/ltwlog/MainVerboseAndShow.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/Shadow.java

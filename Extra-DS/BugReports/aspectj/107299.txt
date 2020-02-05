@@ -1,0 +1,2 @@
+#NAME?
+ajc doesn't recognize Windows absolute file paths that don't start with a drive letter, e.g., run: ajc -inpath \test.jar [error] build config error: bad inpath component: \test.jar but ajc -inpath c:\test.jar works ajc -aspectpath \test.jar Test.aj [error] build config error: bad aspectpath: \test.jar ajc -aspectpath c:\test.jar Test.aj (works)

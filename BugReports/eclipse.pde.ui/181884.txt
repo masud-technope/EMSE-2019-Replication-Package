@@ -1,3 +1,0 @@
-Bug 181884 – [Manifest Content Assist] Require-Bundle should be as fancy as Fragment-Host
-content assist for bundle-version of Fragment-Host is so fancy.
-We should do the same for Require-Bundle.

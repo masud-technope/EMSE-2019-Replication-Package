@@ -1,0 +1,5 @@
+org.aspectj/modules/tests/bugs/CflowConcrete.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/KindedPointcut.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/Pointcut.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/WithinPointcut.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/WithincodePointcut.java

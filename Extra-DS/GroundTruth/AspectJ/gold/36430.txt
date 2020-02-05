@@ -1,0 +1,17 @@
+org.aspectj/modules/ajde/testsrc/org/aspectj/ajde/AjdeTests.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/ajc/BuildArgParser.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/core/builder/AjBuildConfig.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/core/builder/AjBuildManager.java
+org.aspectj/modules/taskdefs/src/org/aspectj/tools/ant/taskdefs/AjcTask.java
+org.aspectj/modules/testing/src/org/aspectj/testing/harness/bridge/CompilerRun.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/Advice.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/CrosscuttingMembers.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/CrosscuttingMembersSet.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/Shadow.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/WeaverStateInfo.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelCflowStackFieldAdder.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelClassWeaver.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelObjectType.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelWeaver.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/LazyClassGen.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/CflowPointcut.java

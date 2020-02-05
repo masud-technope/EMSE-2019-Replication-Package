@@ -1,0 +1,1 @@
+org aspectj apache bcel denote entity type local variables methods fields version named and typed namedandtyped java aclement exp author href mailto markus dahm berlin dahm named and typed namedandtyped string get name getname type get type gettype set name setname string set type settype type type

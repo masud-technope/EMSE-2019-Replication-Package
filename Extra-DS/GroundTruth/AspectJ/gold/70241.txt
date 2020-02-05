@@ -1,0 +1,3 @@
+org.aspectj/modules/ajde/testdata/extensions/InnerClasses.java
+org.aspectj/modules/ajde/testsrc/org/aspectj/ajde/ExtensionTests.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/core/builder/AsmHierarchyBuilder.java

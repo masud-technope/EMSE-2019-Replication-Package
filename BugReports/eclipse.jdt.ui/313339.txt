@@ -1,3 +1,0 @@
-Bug 313339 – Remove unused internal deprecated code
-I20100518-0800.
-Remove unused internal deprecated code.

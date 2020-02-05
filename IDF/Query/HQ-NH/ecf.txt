@@ -1,0 +1,38 @@
+209410	comments	patch	improve	attachment	misc	attached	feedback	bot	handling	details
+211585	parsing	naming	jmdns	problem	authority	defines	bug	parser	discovery	code
+482434	incorrectly	calculated	handling	implemented	exported	bug	type	version	service
+199366	freenode	displays	reconnect	filters	character	irc	wizard	channel	bug	connection
+193415	accounts	shouldn	contacts	logged	disabled	menu	account	entries	view	bug
+196298	bloggs	googlemail	existence	talk	separately	joe	assume	separate	issue	google
+202958	incorrectly	bring	freenode	click	works	choose	enter	area	irc	menu
+199309	freenode	steps	click	ctrl	modlost	appears	foobar	problems	hyperlink	build
+321354	timing	balancing	causing	lookups	jms	manage	meaning	properly	subsequent	appropriately
+198161	latest	letter	hit	completion	tab	broken	participants	build	head	irc
+222865	toolbar	steps	click	collaboration	finish	button	build	nickname	reproduce	dialog
+286934	patch	attachment	steps	randomly	appears	attached	details	fails	problem	reproduce
+19733	realize	jump	assist	visual	filtered	faster	filtering	remember	approach	incorrect
+112599	dynamically	remotely	updated	subject	title	room	bug	chat	xmpp	server
+222868	clicked	steps	mail	entered	finish	button	build	msn	reproduce	wizard
+447633	thought	cover	stat	capability	effectively	filenames	spaces	executes	remotely	issue
+172958	patch	acceptable	mark	irc	commands	work	command	mode	containers	root
+240926	improper	insufficient	editing	stopping	logic	properly	leave	cleanup	docshare	editor
+236828	dynamically	providers	composite	bug	registered	register	discovery	services	container	provider
+273819	opens	cancels	instantiated	runs	closes	opened	disposed	wrong	started	wizard
+259233	lost	segment	jmdns	bug	path	uri	discovery
+197604	deop	unban	ban	kick	attached	head	irc	commands	bug	parse
+269612	idca	design	cdc	ida	ended	filters	providers	problem	implement	composite
+218027	correctly	jslp	doesn	discovered	don	scope	slp	bug	discovery	services
+222824	puts	ignores	talk	google	doesn	work	bug	gmail	xmpp	port
+199336	forget	nice	steps	prepend	foobar	won	tab	unable	opened	build
+266539	latest	zeroconf	iana	happen	needed	notices	head	tcp	bug	registered
+234803	correctly	jslp	pass	slp	bug	supported	path	uri	discovery	ecf
+274613	leaves	guess	talking	asks	supposed	joins	updating	sense	minutes	identification
+198193	patch	didn	chars	characters	nick	irc	parsing	connecting	special	dialog
+200630	handled	confirm	irc	bug	messages
+238970	stays	guess	cpu	increases	hour	steps	chosen	report	bit	normal
+263613	networking	unresponsive	releasing	cancelling	contacting	install	cancelable	cancellation	downloading	mark
+342782	incorrectly	tck	symbolicname	spec	rsa	bug	bundle	properties	events	event
+192574	affect	buttons	restore	defaults	communications	isn	settings	apply	preference	bug
+371768	npe	watchmanager	unpublish	zoodiscovery	needed	bug	thrown	service
+192573	opens	dynamic	incorrect	collaboration	invoking	web	communications	project	groups	fails
+196541	noticed	moment	cleared	behaviour	passwords	appears	changing	msn	wizards	irc

@@ -1,0 +1,1 @@
+copyright contributors rights reserved program accompanying materials terms common license accompanies distribution http eclipse org legal cpl html contributors andrew huff initial implementation org aspectj tools ajdoc doc exception docexception exception serial version uid serialversionuid doc exception docexception string message message

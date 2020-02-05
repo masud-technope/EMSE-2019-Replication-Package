@@ -1,0 +1,2 @@
+Strange background color of label on text search page
+I20050726-1222 SWT has enabled native support for correct background color of tab bocks. However one label inside the search page has a strange background color now.

@@ -1,0 +1,1 @@
+static method staticmethod instance method instancemethod

@@ -1,0 +1,69 @@
+470535	Bug	Bug	UserLibrary	hashCode	User	Library	hash	Code
+42243	Bug	Incorrect	syntax	diagnosis	source	mode
+417669	Bug	dom	Incorrect	source	ranges	annotated	SimpleType	nested	ParameterizedType	Simple	Type	Parameterized	Type
+405125	Bug	code	assist	members	appearing	declaration	member	lambda	expression	suggested
+268802	Bug	Useless	call	getSource	SourceTypeConverter	Source	Source	Type	Converter
+403457	Bug	compiler	NPE	WildcardBinding	signature	Wildcard	Binding
+424718	Bug	compiler	API	compatibility	AST	TypeReference	Type	Reference
+70665	Bug	DOM	AST	missing	type	parameters	constructor	declaration	JLS
+168331	Bug	compiler	AbstractMethodError	method	Method	Error
+488461	Bug	Javadoc	CompilationParticipant	isAnnotationProcessor	accurate	Compilation	Participant	Annotation	Processor
+393356	Bug	Failures	CompilerInvocationTests	Compiler	Invocation	Tests
+474762	Bug	LambdaExpressionsTest	test	fails	Lambda	Expressions	Test
+424075	Bug	Compiler	regression
+430987	Bug	compiler	Java	Compile	Error	typed	arguments
+425493	Bug	Compiler	regression
+181393	Bug	DefaultASTVisitor	doesn	override	methods	ASTVisitor
+69658	Bug	typo	javadoc	ClassInstanceCreation	Instance	Creation
+415911	Bug	compiler	NPE	TYPE	annotated	method	missing	type
+421796	Bug	compiler	java	lang	AbstractMethodError	executing	method	code	Method	Error
+448800	Bug	compiler	CaptureBinding	substituteInferenceVariable	Capture	Binding	substitute	Inference	Variable
+217002	Bug	Typo	javadoc	AptPreferenceConstants	PROCESSING	EDITOR	DISABLED	OPTION	Apt	Preference	Constants
+431275	Bug	Deadlock	JavaModelManager	PerProjectInfo	DeltaProcessingState	Java	Model	Manager	Project	Info	Delta	Processing
+104245	Bug	AST	newCompilationUnit	javadoc	error	Compilation	Unit
+30516	Bug	typo	javadoc	IPackageFragmentRoot	isArchive	IPackage	Fragment	Root	Archive
+88757	Bug	API	SwitchStatement	statements	returns	list	SwitchGroups	Statement	Groups
+460465	Bug	search	references	workspace	enum	type	statically	importing	enum	constant
+208186	Bug	Don	encoding	generated	file	change
+15036	Bug	ASTVisitor	preVisit	ASTVisitor	postVisit	called	correctly	pre	Visit	post	Visit
+405051	Bug	JavaModel	refreshExternalArchives	happen	search	primed	Java	Model	refresh	External	Archives
+464570	Bug	compiler	codegen	race	condition	field	CodeStream	noVisibleLocals	method	CodeStream	init	Code	Stream	Visible	Locals	Code	Stream
+190268	Bug	perform	validateEdit	setting	encoding	validate	Edit
+416313	Bug	compiler	Typeids	unique	plausibly	broken	cherry	picking
+158274	Bug	Compile	error	HEAD	AptConfigurationBlock	Apt	Configuration	Block
+79809	Bug	dom	javadoc	support	type	parameter	Javadoc	tags
+401989	Bug	compiler	hook	lambda	expressions	analysis
+126914	Bug	compiler	extraneous	bound	mismatch	error
+435397	Bug	compiler	Ambiguous	method	Lambdas
+426434	Bug	EclipseCompiler	crashes	err	passed	client	Eclipse	Compiler
+429763	Bug	compiler	Incompatible	type	lambda	expression	parameter
+399567	Bug	error	message	reference	compiler
+451660	Bug	compiler	Wrong	pointer	access	variable	location	warning
+176591	Bug	compiler	Java	compiler	erroneously	reports	type	mismatch
+412882	Bug	Unnecessary	validation	optional	library	classpath	entries
+427216	Bug	Java	array	varargs	regression
+170843	Bug	deleteDerivedResources	ignore	ResourceException	delete	Derived	Resources	Resource	Exception
+412639	Bug	ResourceLeakTests	testBug	failed	Resource	Leak	Tests	test	Bug
+403036	Bug	Wrong	message	content	Javadoc
+186457	Bug	Breaking	inconsistency	java	nio	Charset	java	Eclipse
+451677	Bug	compiler	missing	type	inference
+478427	Bug	org	eclipse	jdt	internal	compiler	batch	Main	initializeAnnotationProcessorManager	consumes	ClassNotFoundException	initialize	Annotation	Processor	Manager	Exception
+432603	Bug	compile	ecj	reports	Error	javac	doesn
+422107	Bug	code	assist	Invoking	code	assist	variable	initialized	lambda	result
+83297	Bug	Annotation	bindings	don	provide	declared	elements	methods
+418919	Bug	compiler	internal	Remove	forcing	creation	annotated	bindings
+327143	Bug	IndexManager	accept	jobs	processing	thread	Manager
+396258	Bug	adopt	syntax	annotations	qualified	type	names	NullTypeAnnotationTest	Type	Annotation	Test
+417388	Bug	TypeBinding	TypeReference	parameter	type	annotations	Type	Binding	Type	Reference
+148328	Bug	javadoc	nested	unescaped	XML	tags
+483690	Bug	IdeJavaSourceOutputStream	charset	Ide	Java	Source	Output	Stream
+430451	Bug	Tests	fail	org	eclipse	jdt	compiler	tool	tests	CompilerInvocationTests	JRE	Compiler	Invocation	Tests
+423280	Bug	Failure	testAddNonJavaResourcePackageFragmentRoot	disabled	test	Add	Java	Resource	Fragment	Root
+55930	Bug	File	encoding	save
+406396	Bug	Method	analysis	misses	bunch	cases
+193784	Bug	Proprietary	licenses
+429949	Bug	Bad	Javadoc	link	ImportRewrite	create	ICompilationUnit	Rewrite	ICompilation	Unit
+441338	Bug	combine	type	annotations	substitution	parameterized	type
+150655	Bug	compiler	compiler	find	correct	parameterized	version	overloaded	method
+471034	Bug	Error	creating	external	annotation	array	parameter	Type	format
+341499	Bug	compiler	allocate	extra	bits	methods	UnconditionalFlowInfo	Unconditional	Flow	Info

@@ -1,0 +1,5 @@
+org.aspectj/modules/bridge/src/org/aspectj/bridge/WeaveMessage.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/Advice.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/Shadow.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelTypeMunger.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelWorld.java

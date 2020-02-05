@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples bridge aspectj java util information screen informationscreen screen information screen informationscreen screen implementation screenimplementation set implementor setimplementor draws prints system time text box draw info drawinfo draw text box drawtextbox current system time

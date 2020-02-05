@@ -1,0 +1,2 @@
+Accessibility : Cannot set tooltip Text for image in Table Column
+To be Section 508 compliant, every image should have an Alt+text tooltip associated with it. When using images in a Table, you can't set a tooltip.

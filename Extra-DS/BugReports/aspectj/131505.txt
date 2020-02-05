@@ -1,0 +1,2 @@
+Generated aop.xml files contain aspects for all the projects ever built
+Using the -outxml option in AJDT the generated aop.xml files are not correct after the first build and contain all the aspects that have ever been built (including those in different projects and duplicates if an aspect has been built twice). It seems that there is a global list of aspects (aspectNames in AjBuildManager) that is never cleared.

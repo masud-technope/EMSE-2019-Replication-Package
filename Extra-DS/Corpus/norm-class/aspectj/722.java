@@ -1,0 +1,1 @@
+copyright xerox corporation palo alto center incorporated parc rights reserved program accompanying materials terms common license accompanies distribution http eclipse org legal cpl html contributors xerox parc initial implementation org aspectj testing xml ixml writable ixmlwritable write xml param xmlwriter write write xml writexml xmlwriter

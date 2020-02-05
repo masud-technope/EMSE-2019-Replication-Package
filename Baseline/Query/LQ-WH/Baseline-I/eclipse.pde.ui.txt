@@ -1,0 +1,79 @@
+209155	Bug	NPE	PDERegistryStrategy	deleting	plug	ins	PDERegistry	Strategy
+214914	Bug	NPE	FilteredPluginArtifactsSelectionDialog	restoring	history	Filtered	Plugin	Artifacts	Selection	Dialog
+206721	Bug	NPE	startup
+168198	Bug	Error	validating	launch	config
+406018	Bug	plugin	NPE	plug	extensions	editor
+173447	Bug	Generated	schema	description	valid	HTML
+271362	Bug	NPE	opening	site	xml	editor
+248334	Bug	Unable	create	plugin	project	jars
+202124	Bug	NullPointerException	Manifest	Editor	doubleclicking	sync	Dependency	Pointer	Exception
+203795	Bug	exception	opening	editing	site	xml	features	invalid	qualifier	strings
+405015	Bug	Unsupported	tag	secondary	type	problems	created
+272021	Bug	preferences	Javadoc	PDEPreferencesManager	PDEPreferences	Manager
+424597	Bug	testExport	Environment	junit	assertion	Missing	exported	bundle	test	Export
+166801	Bug	docs	core	runtime	applications	core	runtime	products	ext	pts	missing
+279697	Bug	ArrayIndexOutOfBoundsException	running	scan	Array	Bounds	Exception
+215579	Bug	ModelEntry	getBestCandidate	bad	choices	Model	Entry	Candidate
+129817	Bug	dependencies	templates	longer
+343455	Bug	NPE	Launching	workspace	project	deleted	disk
+201880	Bug	Plugin	Registry	view	incorrect	versions
+273049	Bug	CheatSheet	Registering	cheat	sheet	fails	java	lang	NullPointerException	Cheat	Sheet	Pointer	Exception
+175138	Bug	Widget	disposed	error
+319268	Bug	PDE	confused	PDE	projects
+65572	Bug	NPE	Open	Schema	read	schema	files
+220069	Bug	Plug	ins	view	malformed	content	description
+166826	Bug	launch	runtime	workbench	binary	imported	plug	ins
+35888	Bug	Adding	extensions	plugin	manifest	editor
+138803	Bug	EmptyStackException	schema	parsing	Empty	Stack	Exception
+108466	Bug	Dups	Eclipse	ClassLoader	getResources	String	Loader	Resources
+170678	Bug	Dependency	Management	account	packages	binary	jars
+205493	Bug	Invalid	Manifests	multiple	BundleDescription	project	Bundle	Description
+225210	Bug	Plug	Manifest	builder	IllegalArgumentException	Bundle	Classpath	Illegal	Argument	Exception
+149816	Bug	Manifest	Editor	plugin	xml	source	editor	syntax	coloring	confused
+238392	Bug	Preferences	NPE	starting	eclipse
+190780	Bug	Site	Editors	NPE	DND
+232771	Bug	Unexpected	confirmation	dialog	launching
+307524	Bug	org	eclipse	wst	xml	Plug	Manifest	Editor	unreliable
+278598	Bug	product	ignore	program	arguments	initializing	launch	config
+157504	Bug	CCE	define	fragment
+484548	Bug	Feature	manifest	file	label	NPE	clicking	Dependencies	tab
+228935	Bug	NPE	writing	bundles	info	stale	model
+262976	Bug	NPE	product	editor	add	required	plugins
+417603	Bug	Unjustified	tag	error	incremental	build
+220745	Bug	NPE	launching	nightly	build
+98123	Bug	compatibility	issues
+151884	Bug	NPE	opening	context	menu	site	xml	editor	source
+158418	Bug	Creating	osgi	bundle	project	adds	lazy	start	header
+186963	Bug	Schema	Editors	ConcurrentModificationException	Concurrent	Modification	Exception
+187094	Bug	NPE	opening	feature	manifest
+205655	Bug	NPE	ManifestEditorMatchingStrategy	Manifest	Editor	Matching	Strategy
+208855	Bug	logivew	selections	accept	object	contributions
+409680	Bug	NullPointerException	XMLErrorReporter	getTextContent	Pointer	Exception	XMLError	Reporter	Text	Content
+203993	Bug	Schema	HTML	generator	CHKPII	errors
+231001	Bug	NPE	computing	feature	dependencies
+260953	Bug	Importing	fragment	Export	headers	forgets	java	nature
+167774	Bug	NPE	target	provisioning
+383448	Bug	osgiminimum	missing	Principal
+179677	Bug	NPE	CalculateUsesOperation	Calculate	Operation
+207836	Bug	Search	extension	point	references	don	multiple	versions
+255587	Bug	Resolution	issue	ant	task
+177379	Bug	NPE	creating	project	jar	org	apache	oro
+146912	Bug	AbstractModel	update	NLResourceHelper	bundle	localization	Model	NLResource	Helper
+156385	Bug	NPE	add	dependencies	plugin
+217824	Bug	Target	longer	start	importing	binary	plug	ins
+344929	Bug	NPE	ManifestSourcePage	getRangeElement	Manifest	Source	Range	Element
+215014	Bug	NPE	XMLUtil	getSchemaElement	clicking	attribute	warning	Schema	Element
+250340	Bug	API	Create	template	method	JUnitLaunchConfigurationDelegate	JUnit	Launch	Configuration	Delegate
+98790	Bug	Leakage	UndoActionHandler	RedoActionHandler	disposed	open	close	plugin	xml	Undo	Action	Handler	Redo	Action	Handler
+170474	Bug	Dependancies	initially	project	creation	wizard
+218223	Bug	PDE	editor	browse	type	OOME
+216946	Bug	Unable	JUnit	tests	org	eclipse	jdt	junit	runtime	target	platform
+342512	Bug	Plug	Manifest	Editor	adds	garbage	mnemonics	saving
+312434	Bug	NPE	SourceEntryErrorReporter	validate	Source	Entry	Error	Reporter
+156021	Bug	Exception	clicking	translatable	attribute
+486911	Bug	NPE	StyledBundleLabelProvider	getImage	Styled	Bundle	Label	Provider	Image
+393597	Bug	Widget	disposed	Load	Target	Platform	Job
+230911	Bug	Lookup	Extension	Point	descriptions	fail	source	plugin	directory	spaces
+435321	Bug	range	marking	constructor	method	reference
+162557	Bug	SWTException	thrown	DependencyManagementSection	refresh	Dependency	Management
+68606	Bug	Plug	Project	wizard	error	creating	box	project

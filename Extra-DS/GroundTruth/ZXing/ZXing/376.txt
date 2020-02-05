@@ -1,0 +1,6 @@
+com.google/zxing/client/android/CaptureActivity.java
+com.google/zxing/client/android/CaptureActivityHandler.java
+com.google/zxing/client/android/DecodeThread.java
+com.google/zxing/client/android/PlanarYUVLuminanceSource.java
+com.google/zxing/client/android/PreferencesActivity.java
+com.google/zxing/client/android/ViewfinderView.java

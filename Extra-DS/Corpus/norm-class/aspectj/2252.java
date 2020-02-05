@@ -1,0 +1,1 @@
+org aspectj testing final static finalstatic main string args final static finalstatic real main realmain args real main realmain string args tester check shouldn compiled

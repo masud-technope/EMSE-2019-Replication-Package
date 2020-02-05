@@ -1,0 +1,1 @@
+pkg string do it doit guess aspect pkg aspect aspect of aspectof aspect pkg java lang reflect constructor aspect get declared constructors getdeclaredconstructors set accessible setaccessible pkg aspect new instance newinstance object exception error pkg get class getclass get name getname

@@ -1,0 +1,1 @@
+copyright contributors rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors alexandre vasseur initial implementation ataspectj ltwlog java util array list arraylist java util arrays author href mailto alex gnilux dot alexandre vasseur main target main string args throwable main target

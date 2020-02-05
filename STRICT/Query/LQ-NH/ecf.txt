@@ -1,0 +1,20 @@
+227939	error	password	Overflow	Stack	wizards	Bug	ocurrs	MSN	restoring	t
+252002	NTLMv	provider	httpclient	filetransfer	support	bug	Bug	bugs	authentication	comment
+229921	error	compiler	statements	Missing	javadoc	bugs	Bug	cgi	c	bug
+318086	discovery	project	tests	Discovery	ecf	Bug	org	build	moment	problem
+238976	notification	Shared	connection	Editor	side	Bug	disconnect	code	client	editor
+183492	launch	Bug	ECF	Server	Application	config
+258916	SLP	service	property	tag	Discover	D	HEXDIG	x	invalid	Bug
+198731	recognition	hyperlink	Wrong	Bug	underline	irc	Ctrl	IRC	move	problem
+292972	filetransfer	patch	additions	bug	fixes	patches	Bug	p	apply	genuitec
+207530	character	Cola	support	operations	multi	Collab	Shared	Editor	Time	modification
+259273	Zeroconf	scope	vice	doesn	authority	translate	Discovery	internal	JMDNS	Bug
+275722	abstraction	ECF	Bug	bug	eclipse	wiki	gsoc	org	project	main
+327060	URI	discovery	location	zookeeper	port	Bug	dev	include	bug	interest
+221139	User	mail	field	wizards	validation	address	Bug	XMPP	MSN	Weak
+192756	IRC	channel	entered	join	spam	Bug	tab	t	messages	rid
+287666	javax	releng	microedition	filetransfer	Removed	Bug	HTTPConnection	iHTTPConnection	Buckminster	Build
+256980	collab	ecf	presence	contribute	Bug	container	reuse	items	contributions	users
+198043	contacts	groups	dialog	doesn	Bug	open	recognize	users	entries	list
+277176	view	Service	osgiservices	Discovery	Bug	working	tcp	machine	menu	iana
+198012	hyperlink	provider	connect	Bug	server	receive	ECF	hyperlinks	localhost	ecftcp

@@ -1,0 +1,2 @@
+NPE while building
+Building of a large project fails while weaving. NPE in EclipseSourceContext.removeUnnecessaryProblems(..) The project was just migrated to Eclipse 3.2 Eclipse newly installed with Eclipse SDK and via Update manager with AJDT, CDT, Web/J2EE tools, SubClipse, SpringIDE. Same Project workes in Eclipse 3.1. Simple Test AspectJ-Project workes OK Building with Ant/AspectJ compiler (as external Tools Launch in Eclipse) works. I tried the following, but got the error anyway: - Checked out as a new AspectJ Project - upgraded to the developement Version of AJDT

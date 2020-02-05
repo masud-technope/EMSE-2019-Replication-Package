@@ -1,0 +1,38 @@
+209410	Bug	bot	improve	documentation	feedback	error	handling
+211585	Bug	Discovery	JMDNS	parsing	problem	service	type	defines	naming	authority
+482434	Bug	handling	exported	service	version
+199366	Bug	IRC	Connection	Wizard	filters	character
+193415	Bug	Contacts	view	menu	entries	disabled	logged
+196298	Bug	xmpp	Google	talk	provider	hobbled	existence	gmail	string
+202958	Bug	irc	channel	output	copy	select	works	incorrectly
+199309	Bug	IRC	Wrong	connection	click	hyperlink
+321354	Bug	jms	connect	sequence	timing	problem
+198161	Bug	IRC	tab	completion	broken
+222865	Bug	connect	collaboration	nickname	empty
+286934	Bug	xmpp	Disconnected	users	resource	IDs	removed	roster
+19733	Bug	content	assist	Code	assist	closes	list	filter	items
+112599	Bug	XMPP	Room	subject	updated	xmpp	chat
+222868	Bug	MSN	mail	password	entered	Finish	button	clicked
+447633	Bug	SCP	file	browse	capability	files
+172958	Bug	IRC	Patch	commands	Root	Channel	Containers
+240926	Bug	docshare	insufficient	cleanup	editor	closing
+236828	Bug	Discovery	Composite	container	register	registered	services	providers
+273819	Bug	Containers	instantiated	time	wizard	opens
+259233	Bug	Discovery	JMDNS	URI	path	lost	discovery
+197604	Bug	IRC	kick	ban	unban	deop	commands	parse	error
+269612	Bug	Discovery	Composite	CDC	add	container	locator	list
+218027	Bug	Discovery	jSLP	Provider	doesn	handle	scope	correctly	SLP
+222824	Bug	XMPP	doesn	work	port	Google	Talk	Host
+199336	Bug	IRC	Unable	close	chatroom	tab	wrong	join	command
+266539	Bug	Discovery	zeroconf	services
+234803	Bug	Discovery	jSLP	path	supported	SLP
+274613	Bug	Wizard	handling	IRC	IDs	fundamentally	wrong	special	chatroom	handling	code
+198193	Bug	IRC	support	special	characters	connecting	IRC	server
+200630	Bug	IRC	messages	handled
+238970	Bug	MSN	CPU	usage	increases	connecting
+263613	Bug	transport	Update	site	contacting	downloading	cancelable
+342782	Bug	TCK	RSA	events	properties	incorrectly
+192574	Bug	Communications	preference	isn	empty
+371768	Bug	Zoodiscovery	NPE	unpublishing	service
+192573	Bug	Send	Request	Open	Resource	fails	incorrect	message
+196541	Bug	wizards	Passwords	reset	user	input	username	field

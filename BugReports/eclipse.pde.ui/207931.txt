@@ -1,3 +1,0 @@
-Bug 207931 – [logview] search field should be pre-selected
-I20071030-0010.
-Th new  Error Log view search field should be pre-selected like in the preferences dialog.

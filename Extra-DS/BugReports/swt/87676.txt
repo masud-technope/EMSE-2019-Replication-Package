@@ -1,0 +1,2 @@
+Double-click only works on a tree's column0
+Build I-20050308 Using the log view as an example, double-clicking on column0 brings up the event dialog as it should. double-clicking on column1, column2 results in no notification to our double- click listener.

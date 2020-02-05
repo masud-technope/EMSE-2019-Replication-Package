@@ -1,0 +1,2 @@
+Ajde does not support new AspectJ 1.1 compiler options
+The org.aspectj.ajde.BuildOptionsAdapter interface does not yet support the new AspectJ 1.1 compiler options. These need to be added to the interface, any old or renamed options deprecated, and then the correct processing needs to happen within Ajde to pass these options to the compiler. This enhancement is needed by the various IDE projects for there AspectJ 1.1 support.

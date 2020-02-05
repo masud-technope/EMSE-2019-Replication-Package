@@ -1,0 +1,2 @@
+StackOverFlow in ReferenceType.isAssignableFrom()
+Hi. I am weaving two aspects into a jar file "jar-to-jar". ajc 1.5.0 gives me a huge error message (see attachement). Would be great if I could get any recommendations on this. Thanks! Eric

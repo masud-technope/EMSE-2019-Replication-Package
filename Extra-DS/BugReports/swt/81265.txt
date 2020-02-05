@@ -1,0 +1,2 @@
+background of tree is incorrect when disabled
+In Control Example, go to tree tab 1. change the background colour. 2. uncheck the enabled checbox The background of the node names changes to the default background, while the rest of the background remains the new background. In tabletree, the entire background of the table tree goes back to the default colour.

@@ -1,0 +1,1 @@
+strict class bad constructor strictclassbadconstructor error generate bytecode strict class bad constructor strictclassbadconstructor

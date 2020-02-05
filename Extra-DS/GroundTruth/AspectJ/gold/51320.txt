@@ -1,0 +1,5 @@
+org.aspectj/modules/tests/bugs/DecwClassCastException.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/ArgsPointcut.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/CflowPointcut.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/IfPointcut.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/ThisOrTargetPointcut.java

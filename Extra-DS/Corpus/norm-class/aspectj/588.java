@@ -1,0 +1,1 @@
+org aspectj testing tester final constructor parm finalconstructorparm final constructor parm finalconstructorparm bad compiler error less one lessone main string args tester check final constructor parm finalconstructorparm less one lessone failed

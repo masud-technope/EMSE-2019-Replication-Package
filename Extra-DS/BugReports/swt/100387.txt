@@ -1,0 +1,2 @@
+CTabFolder creates and disposes a Shell on every MouseHover
+CTabFolder.showToolTip() currently does the following: On MouseHover: - create a temporary shell - if there's a tooltip: set it and show it - otherwise: dispose the shell There are no tooltips for the tabs used for views in Eclipse. As you hover over each tab, a new Shell is created and disposed on each MouseHover event.

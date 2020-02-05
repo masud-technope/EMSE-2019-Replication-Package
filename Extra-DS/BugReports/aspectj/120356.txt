@@ -1,0 +1,2 @@
+@AJ decl err/warn does not show cross structure view
+Perhaps an issue in the ASM struct for DEOW since cross struct. is empty in AJDT , despite error / warning gutter and message is ok.

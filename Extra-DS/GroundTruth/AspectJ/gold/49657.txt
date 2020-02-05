@@ -1,0 +1,7 @@
+org.aspectj/modules/org.aspectj.ajdt.core/testdata/partialHierarchy/sample/Base.java
+org.aspectj/modules/org.aspectj.ajdt.core/testdata/partialHierarchy/sample/Derived.java
+org.aspectj/modules/org.aspectj.ajdt.core/testdata/partialHierarchy/sample/Iface.java
+org.aspectj/modules/org.aspectj.ajdt.core/testsrc/org/aspectj/ajdt/internal/compiler/batch/AjdtBatchTests.java
+org.aspectj/modules/org.aspectj.ajdt.core/testsrc/org/aspectj/ajdt/internal/compiler/batch/PartiallyExposedHierarchyTestCase.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/WeaverMessages.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelTypeMunger.java

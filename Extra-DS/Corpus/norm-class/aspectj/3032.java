@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples flyweight java printable flyweight printableflyweight defines method signature flyweights code print code method param uppercase character printed uppercase print uppercase

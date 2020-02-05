@@ -1,0 +1,1 @@
+copyright contributors program accompanying materials terms common license accompanies distribution http eclipse org legal cpl html contributors parc initial implementation org aspectj weaver test fieldy hello world fieldyhelloworld string str main string args str system println str

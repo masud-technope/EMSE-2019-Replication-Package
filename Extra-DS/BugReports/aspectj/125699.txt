@@ -1,0 +1,2 @@
+[@AspectJ]@Aspect cannot inherit advice using this PCD and thisJoinPoint
+Inherting the following advice in an @aspect causes an unexpected error. before (Object obj) : execution(* *(..)) && this(obj) { System.out.println(thisJoinPoint); } "erre the parameter thisJoinPoint is not bound in [all branches of] pointcut"

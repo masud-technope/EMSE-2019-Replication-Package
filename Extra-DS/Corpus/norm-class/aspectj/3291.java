@@ -1,0 +1,1 @@
+my class myclass foo number string system println foo string args number main string args create instance my class myclass my interface myinterface my object myobject my interface myinterface my class myclass call foo my object myobject bar russ

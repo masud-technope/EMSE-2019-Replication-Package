@@ -1,0 +1,1 @@
+org aspectj lang annotation aspect is privileged isprivileged truu foo

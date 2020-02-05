@@ -1,0 +1,2 @@
+org.aspectj/modules/ajdoc/src/org/aspectj/tools/ajdoc/Main.java
+org.aspectj/modules/ajdoc/testsrc/org/aspectj/tools/ajdoc/CoverageTestCase.java

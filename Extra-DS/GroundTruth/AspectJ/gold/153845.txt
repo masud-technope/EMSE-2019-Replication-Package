@@ -1,0 +1,7 @@
+org.aspectj/modules/tests/bugs153/pr153845/Aspect.java
+org.aspectj/modules/tests/bugs153/pr153845/Aspect2.java
+org.aspectj/modules/tests/bugs153/pr153845/GenericType.java
+org.aspectj/modules/tests/bugs153/pr153845/Interface.java
+org.aspectj/modules/tests/bugs153/pr153845/Nothing.java
+org.aspectj/modules/tests/src/org/aspectj/systemtest/ajc153/Ajc153Tests.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/ReferenceType.java

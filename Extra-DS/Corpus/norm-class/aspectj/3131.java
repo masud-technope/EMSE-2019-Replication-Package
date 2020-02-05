@@ -1,0 +1,1 @@
+org aspectj testing tester abstracts string buffer stringbuffer log string buffer stringbuffer main string args tester check equal checkequal log to string tostring log append abstracts abstracts log append

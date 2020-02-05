@@ -1,0 +1,2 @@
+exception printing
+Exceptions thrown from the compiler used to be printed once, with the submit-bug header. Now they are printed twice, without and with the header. True of CVS version.

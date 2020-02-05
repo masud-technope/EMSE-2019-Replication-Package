@@ -1,0 +1,1 @@
+spacewar bullet space object spaceobject changed size lifetime life left lifeleft bullet game the game thegame the game thegame life left lifeleft lifetime get size getsize size handle collision handlecollision space object spaceobject obj die clock tick clocktick life left lifeleft die clock tick clocktick

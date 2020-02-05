@@ -1,0 +1,2 @@
+Support links in StyledText
+StyledText should allow hyperlinks to be specified. The links must become active (cursor changes, underlined, colour change) when the mouse is over the link or when the user tabs to the link. Links must be traversable by tabbing. There needs to be an event when the link is selected and when the link is activated (e.g. in IE the status bar shows detailed info about the link when the user hovers over it). The link should support a tooltip. Must be able to specify whether the link is always underlined or only when active.

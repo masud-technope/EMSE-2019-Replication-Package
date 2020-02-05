@@ -1,0 +1,1 @@
+generic interface genericinterface do something dosomething type

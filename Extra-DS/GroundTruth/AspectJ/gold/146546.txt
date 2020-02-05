@@ -1,0 +1,2 @@
+org.aspectj/modules/asm/src/org/aspectj/asm/AsmManager.java
+org.aspectj/modules/asm/src/org/aspectj/asm/internal/AspectJElementHierarchy.java

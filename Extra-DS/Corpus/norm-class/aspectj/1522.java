@@ -1,0 +1,1 @@
+pos get x getx get y gety move new x newx new y newy new x newx new y newy

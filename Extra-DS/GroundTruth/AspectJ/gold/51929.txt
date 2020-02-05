@@ -1,0 +1,4 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/ast/AccessForInlineVisitor.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/lookup/EclipseFactory.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/lookup/InlineAccessFieldBinding.java
+org.aspectj/modules/tests/bugs/protectedvf/main/Driver.java

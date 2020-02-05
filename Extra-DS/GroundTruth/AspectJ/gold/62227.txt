@@ -1,0 +1,2 @@
+org.aspectj/modules/org.aspectj.ajdt.core/testsrc/org/aspectj/ajdt/internal/compiler/batch/BcweaverJarMaker.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/tools/WeavingAdaptor.java

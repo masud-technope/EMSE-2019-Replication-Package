@@ -1,1 +1,0 @@
-Bug 8458 – Need "Inspect" action in variables view

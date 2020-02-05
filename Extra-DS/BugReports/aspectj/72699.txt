@@ -1,0 +1,2 @@
+Bogus error message: The abstract method ajc$pointcut$$tracingScope$a2 in type Tracing can only be defined by an abstract class
+When attempting to compile the following aspect the resulting error message should say something like "The abstract method pointcut tracingScope in type Tracing can only be defined by an abstract aspect" public aspect Tracing { public abstract pointcut tracingScope(); }

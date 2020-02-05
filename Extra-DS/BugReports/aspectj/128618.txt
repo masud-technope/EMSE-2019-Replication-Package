@@ -1,0 +1,2 @@
+[incremental] XLint warnings in the wrong place with incremental compilation
+The zip file I am about to attach contains two AspectJ project, one depending on the other. If you make a small change to MainClass.java in 'Test Project' and save you will see a strange warning in that class - "advice defined in ras.FFDC has not been applied [Xlint:adviceDidNotMatch]". If you do a full build the warning goes away. Note that the error would be on line 36 if there were 36 lines in the class, which relates to a line in the FFDC aspect that contains advice.

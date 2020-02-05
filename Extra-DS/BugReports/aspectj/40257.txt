@@ -1,0 +1,2 @@
+"parsing of ""../"" paths in LST files is broken"
+Relative paths (e.g. "../") are no longer parser properly in AJDE 1.1.0.

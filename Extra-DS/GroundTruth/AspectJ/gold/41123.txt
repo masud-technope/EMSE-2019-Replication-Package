@@ -1,0 +1,5 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/lookup/AjLookupEnvironment.java
+org.aspectj/modules/tests/bugs/moreInterfaceLibrary/model/BusObj.java
+org.aspectj/modules/tests/bugs/moreInterfaceLibrary/model/MonitorBusObj.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelTypeMunger.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/LazyMethodGen.java

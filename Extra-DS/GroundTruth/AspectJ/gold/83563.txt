@@ -1,0 +1,4 @@
+org.aspectj/modules/tests/bugs150/PR83563_1.java
+org.aspectj/modules/tests/bugs150/PR83563_2.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/PerTypeWithinTargetTypeMunger.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/patterns/PerTypeWithin.java

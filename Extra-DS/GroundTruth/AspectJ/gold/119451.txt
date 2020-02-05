@@ -1,0 +1,2 @@
+org.aspectj/modules/ajdoc/src/org/aspectj/tools/ajdoc/StubFileGenerator.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/ast/AspectDeclaration.java

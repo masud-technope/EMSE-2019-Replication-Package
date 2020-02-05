@@ -1,0 +1,2 @@
+declare warning warns at wrong points
+I have a "declare warning" declaration that warns on usage of any method that returns an array of any POJO type, this should point to the methods that in reality return an array, but i see warnings at points other than these array returning methods, and also those that have void in their signature. In the attached files i get a warning at statements like: > PrinterWorld p = new PrinterWorld();[in main()method] > System.out.println("Hello World!"); > return new Integer(3); and these being the first/only lines in their respective methods.

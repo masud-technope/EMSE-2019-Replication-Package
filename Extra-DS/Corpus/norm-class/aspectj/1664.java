@@ -1,0 +1,1 @@
+figures display needs repaint needsrepaint

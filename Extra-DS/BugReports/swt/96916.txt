@@ -1,0 +1,2 @@
+Spinner.setToolTipText() doesn't work
+No tooltip appears on the spinner widget after Spinner.setToolTipText().

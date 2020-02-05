@@ -1,0 +1,1 @@
+consts test npe testnpe subclass consts string bla

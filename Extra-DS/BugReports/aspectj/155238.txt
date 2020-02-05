@@ -1,0 +1,2 @@
+"Trace should use System.identityHashCode, not hashCode"
+The tracing module uses obj.hashCode() to identify untrusted objects when formatting. I think it would be a little safer and more accurate to use System.identityHashCode(obj). This way the tracing code wouldn't call any application-defined code, and would give a value that can't change if the loader state changes.

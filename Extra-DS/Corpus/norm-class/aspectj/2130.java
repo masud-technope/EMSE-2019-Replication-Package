@@ -1,0 +1,1 @@
+foo object my worker myworker object construct foo

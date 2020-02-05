@@ -1,0 +1,5 @@
+org.aspectj/modules/loadtime/src/org/aspectj/weaver/loadtime/Aj.java
+org.aspectj/modules/loadtime/src/org/aspectj/weaver/loadtime/JRockitAgent.java
+org.aspectj/modules/loadtime/testsrc/org/aspectj/bea/jvm/ClassLibraryImpl.java
+org.aspectj/modules/loadtime/testsrc/org/aspectj/bea/jvm/JVMImpl.java
+org.aspectj/modules/loadtime/testsrc/org/aspectj/weaver/loadtime/JRockitAgentTest.java

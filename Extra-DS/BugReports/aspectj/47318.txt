@@ -1,0 +1,2 @@
+org.aspectj.asm.IRelationship.Kind.ALL does not contain all kinds
+org.aspectj.asm.IRelationship.Kind.ALL is an array that should contain all kinds that an IRelationship may have. There are three possible kinds defined in IRelationship.java: ADVICE, DECLARE and DECLARE_INTER_TYPE. The Kind[] ALL does only contain ADVICE and DECLARE. This can lead to an ArrayIndexOutOfBoundsException.

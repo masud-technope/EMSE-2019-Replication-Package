@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation org eclipse swt internal win nmlvfinditem nmhdr i start istart lvfindinfo lvfi flags psz l param lparam point vk direction vkdirection sizeof

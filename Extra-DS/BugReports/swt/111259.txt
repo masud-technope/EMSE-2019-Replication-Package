@@ -1,0 +1,2 @@
+[DND] Insertion mark in TreeViewer does not go away on GTK
+In the logic example, on GTK, if you click-and-drop a part in the outline view, the insertion mark does not go away when you exit the viewer. You see the same problem even if you don't drop the part in the outline.

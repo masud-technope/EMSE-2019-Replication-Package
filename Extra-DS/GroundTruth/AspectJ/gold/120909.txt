@@ -1,0 +1,4 @@
+org.aspectj/modules/loadtime/src/org/aspectj/weaver/loadtime/DefaultWeavingContext.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/reflect/ReflectionWorld.java
+org.aspectj/modules/weaver/testsrc/org/aspectj/weaver/reflect/ReflectionBasedReferenceTypeDelegateTest.java
+org.aspectj/modules/weaver/testsrc/org/aspectj/weaver/reflect/ReflectionWorldTest.java

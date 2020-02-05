@@ -1,0 +1,2 @@
+org.eclipse/swt/widgets/TableColumn.java
+org.eclipse/swt/widgets/TreeColumn.java

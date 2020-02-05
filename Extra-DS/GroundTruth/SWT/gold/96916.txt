@@ -1,0 +1,4 @@
+org.eclipse/swt/widgets/Combo.java
+org.eclipse/swt/widgets/Control.java
+org.eclipse/swt/widgets/Shell.java
+org.eclipse/swt/widgets/Spinner.java

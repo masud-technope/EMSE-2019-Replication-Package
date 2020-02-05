@@ -1,0 +1,1 @@
+copyright contributors rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors adrian colyer initial implementation org aspectj lang reflect kinds advice aspect j aspectj enum advice kind advicekind returning throwing

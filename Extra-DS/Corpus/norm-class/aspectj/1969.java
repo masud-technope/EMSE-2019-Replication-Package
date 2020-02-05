@@ -1,0 +1,1 @@
+pack testcase purejava access enforced target public static method publicstaticmethod

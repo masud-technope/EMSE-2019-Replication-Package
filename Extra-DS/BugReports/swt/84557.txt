@@ -1,0 +1,2 @@
+Table item does not appear in table
+I am running I20050202-0800 linux gtk ctrl esc E brings up the handy switch to editor window, but unfortuantley the list is empty :(

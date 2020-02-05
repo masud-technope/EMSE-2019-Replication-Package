@@ -1,0 +1,1 @@
+java lang annotation enum simple enum simpleenum red orange yellow green blue indigo violet retention retention policy retentionpolicy runtime annotation enum element annotationenumelement simple enum simpleenum enumval annotation enum element annotationenumelement enumval simple enum simpleenum red

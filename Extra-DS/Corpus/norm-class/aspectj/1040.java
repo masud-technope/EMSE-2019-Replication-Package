@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples flyweight aspectj whitespace flyweight whitespaceflyweight printable flyweight printableflyweight character flyweight represents whitespace flyweight whitespaceflyweight prints stored character param uppercase character printed uppercase print uppercase system print uppercase character to upper case touppercase

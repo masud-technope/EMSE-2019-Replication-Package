@@ -1,0 +1,1 @@
+theapp org aspectj lang annotation aspect org aspectj lang annotation declare parents declareparents moody moody aspect annotation mood indicator annotationmoodindicator declare parents declareparents theapp annotation mood implementor annotationmoodimplementor default impl defaultimpl moody impl moodyimpl moody implemented interface implementedinterface

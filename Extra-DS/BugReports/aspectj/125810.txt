@@ -1,0 +1,2 @@
+Missing error when inherited abstract pointcut not made concrete in sub-@aspect
+An error is issued when a sub-aspect does not implement an inherited abstract pointcut. This is missing for a sub-@aspect.

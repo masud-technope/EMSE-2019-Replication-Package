@@ -1,0 +1,4 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/AjCompilerAdapter.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/AjPipeliningCompilerAdapter.java
+org.aspectj/modules/tests/src/org/aspectj/systemtest/incremental/tools/MultiProjectIncrementalTests.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/World.java

@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation org eclipse swt internal win nmlink nmhdr litem item mask i link ilink state mask statemask sz id szid max linkid text sz url szurl max url length sizeof

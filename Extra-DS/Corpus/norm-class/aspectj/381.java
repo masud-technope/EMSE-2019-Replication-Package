@@ -1,0 +1,1 @@
+protected field ref in inner protectedfieldrefininner

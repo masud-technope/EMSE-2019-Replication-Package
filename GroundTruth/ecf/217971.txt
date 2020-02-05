@@ -1,2 +1,0 @@
-tests/bundles/org.eclipse.ecf.tests.provider.jslp/src/org/eclipse/ecf/tests/provider/jslp/JSLPDiscoveryTest.java
-tests/bundles/org.eclipse.ecf.tests.provider.jslp/tracing

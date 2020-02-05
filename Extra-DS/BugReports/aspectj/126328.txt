@@ -1,0 +1,2 @@
+IlegalStateException : zip file closed
+If there are > 1000 jars on the combination of classpath, aspectpath, and inpath, it is possible for a ZipFile to be closed and not successfully reopened before trying to read from it again.

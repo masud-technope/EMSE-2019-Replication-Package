@@ -1,0 +1,4 @@
+org.aspectj/modules/loadtime/src/org/aspectj/weaver/loadtime/DefaultWeavingContext.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/tools/AbstractTrace.java
+org.aspectj/modules/weaver/testsrc/org/aspectj/weaver/AbstractTraceTest.java
+org.aspectj/modules/weaver5/java5-src/org/aspectj/weaver/tools/Jdk14Trace.java

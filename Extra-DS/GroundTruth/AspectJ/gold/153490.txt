@@ -1,0 +1,7 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/lookup/EclipseSourceType.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/AbstractReferenceTypeDelegate.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/BoundedReferenceType.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/ReferenceType.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/ReferenceTypeDelegate.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/bcel/BcelObjectType.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/reflect/ReflectionBasedReferenceTypeDelegate.java

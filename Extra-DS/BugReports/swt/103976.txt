@@ -1,0 +1,2 @@
+Spinner widget should provide setValues() method like Slider
+Especially since Spinner is so picky about the order you set the values when you set them individually, it's a pain to get right. It'd be really nice to have this method: setValues(int selection, int minimum, int maximum, int digits, int increment, int pageIncrement)

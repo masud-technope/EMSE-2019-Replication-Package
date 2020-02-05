@@ -1,0 +1,1 @@
+test my annotation myannotation my class myclass string my field myfield main string args my class myclass set my field setmyfield test set my field setmyfield string my field myfield

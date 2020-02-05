@@ -1,0 +1,3 @@
+org.eclipse/swt/widgets/Control.java
+org.eclipse/swt/widgets/CoolBar.java
+org.eclipse/swt/widgets/CoolItem.java

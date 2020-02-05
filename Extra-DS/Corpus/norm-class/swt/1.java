@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation org eclipse swt internal win measureitemstruct ctl type ctltype ctl id ctlid item id itemid item width itemwidth item height itemheight item data itemdata sizeof

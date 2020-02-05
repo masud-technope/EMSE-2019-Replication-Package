@@ -1,0 +1,2 @@
+declare precedence on a class should be a compile-time error
+The compiler silently accepts ---- public class DeclarePrecedence { public static void main(String[] args) { System.out.println("hello"); } } aspect DP { declare precedence: DeclarePrecedence, DP; before() : staticinitialization(DeclarePrecedence) { System.out.println("ok"); } } ---- Since this is likely to be a mistake, an error would be nice. However, that would mean saying (!TargetClass && TargetClass+) to pick out the aspect subtypes of TargetClass.

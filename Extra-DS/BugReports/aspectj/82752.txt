@@ -1,0 +1,2 @@
+"ProgramElement.getSourceSignature returns ""public"" for ""private"" members"
+This bug affects ajdoc, and could affect other tools relying on the ASM.

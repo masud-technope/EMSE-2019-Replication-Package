@@ -1,0 +1,1 @@
+main main string args doit trace expect no such method error expectnosuchmethoderror runtime exception runtimeexception expected no such method error nosuchmethoderror no such method error nosuchmethoderror trace expect no such method error expectnosuchmethoderror doit system println

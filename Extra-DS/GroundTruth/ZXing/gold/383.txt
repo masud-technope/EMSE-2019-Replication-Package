@@ -1,0 +1,2 @@
+com.google/zxing/client/android/camera/CameraConfigurationManager.java
+com.google/zxing/client/android/camera/CameraManager.java

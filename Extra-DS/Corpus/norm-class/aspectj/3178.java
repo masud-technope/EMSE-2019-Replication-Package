@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples mediator java guicolleague defines method signature setting colleague mediator param mediator mediator set mediator setmediator guimediator mediator

@@ -1,0 +1,2 @@
+readAspect
+clearly define what the goal for readAspect is old byte per byte reading cause NPE in some test case current impl is hashcode for aspect name + classloader - ie unstable across startups.

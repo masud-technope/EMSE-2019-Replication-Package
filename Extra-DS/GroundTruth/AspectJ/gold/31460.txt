@@ -1,0 +1,9 @@
+org.aspectj/modules/org.aspectj.ajdt.core/testdata/src1/LTWHelloWorld.java
+org.aspectj/modules/org.aspectj.ajdt.core/testdata/src1/ltw/LTWPackageTest.java
+org.aspectj/modules/org.aspectj.ajdt.core/testsrc/org/aspectj/ajdt/internal/compiler/batch/BcweaverJarMaker.java
+org.aspectj/modules/util/src/org/aspectj/util/FileUtil.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/ExtensibleURLClassLoader.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/tools/GeneratedClassHandler.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/tools/WeavingAdaptor.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/tools/WeavingClassLoader.java
+org.aspectj/modules/weaver/testsrc/org/aspectj/weaver/BcweaverTests.java

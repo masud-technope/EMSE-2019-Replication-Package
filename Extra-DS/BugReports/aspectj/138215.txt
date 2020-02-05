@@ -1,0 +1,2 @@
+Reference pointcut fails inside @DeclareWarning
+When a pointcut expression used with an @DeclareWarning construct contains a reference pointcut, the warning is correctly produced at matched join points, but the compiler also gives an error saying that the referenced pointcut cannot be found.

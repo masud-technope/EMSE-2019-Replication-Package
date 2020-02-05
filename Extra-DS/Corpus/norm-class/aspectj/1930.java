@@ -1,0 +1,1 @@
+org aspectj examples point point move

@@ -1,2 +1,0 @@
-org.eclipse.jdt.debug.tests/tests/org/eclipse/jdt/debug/tests/core/LaunchTests.java
-org.eclipse.jdt.debug.tests/tests/org/eclipse/jdt/debug/tests/AbstractDebugTest.java

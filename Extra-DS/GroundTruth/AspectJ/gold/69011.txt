@@ -1,0 +1,3 @@
+org.aspectj/modules/ajdoc/src/org/aspectj/tools/ajdoc/StubFileGenerator.java
+org.aspectj/modules/ajdoc/testdata/coverage/InDefaultPackage.java
+org.aspectj/modules/ajdoc/testsrc/org/aspectj/tools/ajdoc/CoverageTestCase.java

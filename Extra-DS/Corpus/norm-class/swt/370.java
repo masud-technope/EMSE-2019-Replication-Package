@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation org eclipse swt dnd org eclipse swt widgets dndevent event transfer data transferdata data type datatype transfer data transferdata data types datatypes operations feedback

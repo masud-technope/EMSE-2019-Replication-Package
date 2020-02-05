@@ -1,0 +1,1 @@
+generic interface genericinterface number as int asint a number anumber

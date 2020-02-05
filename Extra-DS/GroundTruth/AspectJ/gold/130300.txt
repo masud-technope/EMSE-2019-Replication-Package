@@ -1,0 +1,14 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/ajc/BuildArgParser.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/core/AspectJCore.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/AjCompilerAdapter.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/core/builder/AjBuildConfig.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/core/builder/AjBuildManager.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/core/builder/AjCompilerOptions.java
+org.aspectj/modules/org.aspectj.ajdt.core/testsrc/org/aspectj/ajdt/internal/compiler/batch/BcweaverJarMaker.java
+org.aspectj/modules/org.aspectj.ajdt.core/testsrc/org/aspectj/ajdt/internal/core/builder/AjCompilerOptionsTest.java
+org.aspectj/modules/taskdefs/src/org/aspectj/tools/ant/taskdefs/AjcTask.java
+org.aspectj/modules/taskdefs/testsrc/org/aspectj/tools/ant/taskdefs/AjcTaskTest.java
+org.aspectj/modules/testing/src/org/aspectj/testing/harness/bridge/CompilerRun.java
+org.aspectj/modules/tests/src/org/aspectj/systemtest/ajc150/Ajc150Tests.java
+org.aspectj/modules/tests/src/org/aspectj/systemtest/ajc150/ataspectj/AtAjLTWTests.java
+org.aspectj/modules/tests/src/org/aspectj/systemtest/inpath/InPathTests.java

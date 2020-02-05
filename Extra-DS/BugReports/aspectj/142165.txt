@@ -1,0 +1,2 @@
+rewriting XML concretized pointcuts doesnt work for AND construct
+the scheme used to rewrite pointcuts defined in XML that use AND doesnt work, they get mangled.

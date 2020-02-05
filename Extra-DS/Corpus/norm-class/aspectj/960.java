@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples bridge java star implementation starimplementation screen implementation screenimplementation feed code system code print line printline system println prints star code system code print decor printdecor system print prints argument text code system code param text text print print text printtext string text system print text

@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation org eclipse swt internal win margins cx left width cxleftwidth cx right width cxrightwidth cy top height cytopheight cy bottom height cybottomheight sizeof

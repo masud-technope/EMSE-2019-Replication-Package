@@ -1,0 +1,1 @@
+copyright palo alto center incorporated parc rights reserved program accompanying materials terms common license accompanies distribution http eclipse org legal cpl html contributors parc initial implementation org aspectj weaver position ihas position ihasposition start position start start start get end getend get start getstart start

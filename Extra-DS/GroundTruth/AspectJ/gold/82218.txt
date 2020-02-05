@@ -1,0 +1,6 @@
+org.aspectj/modules/ajdoc/src/org/aspectj/tools/ajdoc/HtmlDecorator.java
+org.aspectj/modules/ajdoc/src/org/aspectj/tools/ajdoc/Util.java
+org.aspectj/modules/ajdoc/testdata/coverage/foo/ModelCoverage.java
+org.aspectj/modules/ajdoc/testdata/coverage/foo/NoMembers.java
+org.aspectj/modules/ajdoc/testsrc/org/aspectj/tools/ajdoc/CoverageTestCase.java
+org.aspectj/modules/ajdoc/testsrc/org/aspectj/tools/ajdoc/JDKVersionTest.java

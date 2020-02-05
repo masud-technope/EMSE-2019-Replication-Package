@@ -1,0 +1,1 @@
+testcase public method publicmethod protected method protectedmethod default method defaultmethod private method privatemethod public int publicint protected int protectedint default int defaultint private int privateint

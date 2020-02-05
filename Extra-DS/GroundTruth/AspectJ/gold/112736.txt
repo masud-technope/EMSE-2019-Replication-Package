@@ -1,0 +1,6 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/core/builder/AbstractStateListener.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/core/builder/AjState.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/core/builder/IStateListener.java
+org.aspectj/modules/tests/src/org/aspectj/systemtest/incremental/IncrementalTests.java
+org.aspectj/modules/tests/src/org/aspectj/systemtest/incremental/tools/AjdeInteractionTestbed.java
+org.aspectj/modules/tests/src/org/aspectj/systemtest/incremental/tools/MultiProjectIncrementalTests.java

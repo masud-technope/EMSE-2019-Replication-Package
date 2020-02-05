@@ -1,0 +1,2 @@
+com.google/zxing/client/android/CaptureActivity.java
+com.google/zxing/client/android/HelpActivity.java

@@ -1,0 +1,2 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/lookup/InterTypeMemberFinder.java
+org.aspectj/modules/tests/bugs/IntertypeDifferentThrows.java

@@ -1,0 +1,2 @@
+Contribution: reduce overhead when no aspects define
+This patch to the ClassLoaderWeavingAdaptor adds two optimizations when enabled is false for the adaptor: it immediately returns false for accept and it also avoids the overhead of constructing a weaver or world. It also contains commented out code that was letting me improve performance by loading reflective proxies instead of creating BCEL objects for a resolution loader (which is currently broken since reflective proxies now require a ReflectionWorld...)

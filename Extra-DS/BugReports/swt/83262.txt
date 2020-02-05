@@ -1,0 +1,2 @@
+rxvt pastes null terminator
+When pasting using the middle mouse button from StyledText into an rxvt window, it contains a null terminator at the end. Pasting from other applications like gedit or mozilla into rxvt does not show this behaviour, and this is not reproducable when pasting into an xterm. This problem exists on both Motif and GTK+. Since the X clipboard protocol has a string length field, we do not need to be null terminating these strings.

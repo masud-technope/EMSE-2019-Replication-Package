@@ -1,0 +1,1 @@
+org aspectj testing tester the object theobject main string args tester check compiled

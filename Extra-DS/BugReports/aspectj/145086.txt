@@ -1,0 +1,2 @@
+NPE when weak reference set in signature
+Simon ran into the same problem in setting the values. I will attach a patch to fix this, with test cases to properly verify it works in both cases. java.lang.NullPointerException at org.aspectj.runtime.reflect.SignatureImpl$CacheImpl.set(SignatureImpl.java:224) at org.aspectj.runtime.reflect.SignatureImpl.toString(SignatureImpl.java:57) at org.aspectj.runtime.reflect.SignatureImpl.toString(SignatureImpl.java:62)

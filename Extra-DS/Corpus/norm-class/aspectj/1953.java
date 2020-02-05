@@ -1,0 +1,1 @@
+non nullary anonymous nonnullaryanonymous non nullary anonymous nonnullaryanonymous object non nullary anonymous nonnullaryanonymous main string args

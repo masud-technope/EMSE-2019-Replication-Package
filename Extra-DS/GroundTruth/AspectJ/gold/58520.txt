@@ -1,0 +1,5 @@
+org.aspectj/modules/ajdoc/testdata/pr119453/src/pack/C.java
+org.aspectj/modules/ajdoc/testsrc/org/aspectj/tools/ajdoc/AjdocTests.java
+org.aspectj/modules/ajdoc/testsrc/org/aspectj/tools/ajdoc/FullyQualifiedArgumentTest.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/core/builder/AsmElementFormatter.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/core/builder/AsmHierarchyBuilder.java

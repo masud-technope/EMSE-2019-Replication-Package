@@ -1,0 +1,1 @@
+pkg monitoring do monitor errors domonitorerrors

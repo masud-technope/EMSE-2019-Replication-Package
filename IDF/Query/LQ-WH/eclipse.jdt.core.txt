@@ -1,0 +1,26 @@
+439431	generatetypeannotation	generatetypeannotationsoncodeattribute	dumptargettypecontents	generateruntimetypeannotations	mono	reconcileworkingcopyoperation	saferunner	compilationunitproblemfinder	completecodeattribute	stopped
+301894	reproducible	appeared	sees	product	patch	issues	large	compiling	follow	memory
+277382	consumerule	equinox	consumeclassheadername	editors	team	synchronize	strange	attach	failures	editor
+124099	xlarge	xlargetest	extradefiniteinits	otherinits	complains	lot	suggested	remain	patch	addinitializationsfrom
+46084	usecase	secondaryphase	readtokenfromscanner	errorrecovery	reportsyntaxerrorsforskippedmethod	incrementalimagebuilder	reportsyntaxerrors	lexstream	diagnoseparse	begintocompile
+405889	getjavalanginvokemethodhandleslookup	review	beta	resilience	handles	invoke	npe	needed	codegen	cgi
+29516	regressions	failing	refactoring	responsible	searchengine	engine	search	tests	bug
+483467	createandrunworkbench	autocomplete	realm	readanddispatch	eclipsestarter	starter	platformui	delegating	rendering	basicrun
+456395	attachment	sample	details	mismatch	compile	convert	created	map	bug	code
+228691	overview	transformations	annotating	issubtype	isassignable	acceptable	primitives	steps	structures	meaning
+41554	easier	olivier	searching	sourcetype	debugging	attached	assertion	included	failure	log
+421469	stacktrace	intfunction	beta	resolvestatements	computer	ctrl	completionengine	proposals	codecomplete	proposal
+418843	npes	fiel	mono	kepler	reconcileworkingcopyoperation	boxes	saferunner	noticed	compilationunitproblemfinder	testenum
+31261	strange	limit	behavior	reported	errors	full	max	expected	build	number
+431963	confusion	stub	gettypeannotations	invoked	nullable	snippet	nonnull	auto	varargs	generated
+388634	chooses	route	dcompliance	runjdtcoretests	misses	jdtcore	preview	levels	occurs	detected
+165346	conservative	covered	operatorexpression	nullstatus	operators	produce	overriding	conditionalexpression	conditional	flowinfo
+25377	view	selected	select	mismatch	task	compile	convert	correct	text	initializer
+92005	createandrunworkbench	snippe	parsesnippeinitializer	busyindicator	showwhile	computecompletionproposals	sourceviewer	assistant	starter	dooperation
+126180	causing	raised	reporting	npe	enclosing	invalid	access	main	args	build
+448043	mainscreen	internalcreateast	syso	screen	rewriteimports	compilationunitresolver	importrewrite	press	ctrl	astconverter
+396139	coordinate	javadoctestforclass	upgrade	commits	regressions	newer	observe	offers	closer	beta
+145202	raises	negated	analyzer	positive	err	negative	println	reference	system	bug
+149562	complains	covers	small	enumerations	enumeration	val	statements	initialized	values	statement
+17531	plan	assumptions	entering	happening	refactoring	actions	reason	rename	global	select
+488888	statustexteditor	abstracttexteditor	busyindicator	getsourceviewerconfiguration	dosetinput	showwhile	modal	compilationuniteditor	updatecontent	contentmergeviewer

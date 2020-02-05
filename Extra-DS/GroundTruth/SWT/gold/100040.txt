@@ -1,0 +1,8 @@
+org.eclipse/swt/widgets/Button.java
+org.eclipse/swt/widgets/Display.java
+org.eclipse/swt/widgets/ImageList.java
+org.eclipse/swt/widgets/Menu.java
+org.eclipse/swt/widgets/TabFolder.java
+org.eclipse/swt/widgets/Table.java
+org.eclipse/swt/widgets/ToolItem.java
+org.eclipse/swt/widgets/Tree.java

@@ -1,0 +1,2 @@
+[@AspectJ] ajc cannot compile empty @Pointcut
+I get this error: C:\temp\ajcSandbox\ajcTest27856.tmp\TestEmptyPointcutAtAspect.java:8:0::0 Method annotated with @Pointcut() for abstract pointcut must be abstract when compiling this aspect with ajc (it's fine with javac): @Aspect public class TestEmptyPointcutAtAspect { @Pointcut("") protected void scope () {} }

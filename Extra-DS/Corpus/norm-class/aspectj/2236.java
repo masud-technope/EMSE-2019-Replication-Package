@@ -1,0 +1,1 @@
+figures point point get x getx get y gety set x setx set y sety move by moveby set x setx get x getx set y sety get y gety

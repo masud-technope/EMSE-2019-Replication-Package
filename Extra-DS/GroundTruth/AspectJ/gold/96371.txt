@@ -1,0 +1,3 @@
+org.aspectj/modules/loadtime/src/org/aspectj/weaver/loadtime/ClassLoaderWeavingAdaptor.java
+org.aspectj/modules/loadtime5/java5-src/org/aspectj/weaver/loadtime/ClassPreProcessorAgentAdapter.java
+org.aspectj/modules/tests/java5/ataspectj/ataspectj/SingletonAspectBindingsTest.java

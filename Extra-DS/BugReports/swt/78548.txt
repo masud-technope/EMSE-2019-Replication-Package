@@ -1,0 +1,2 @@
+[consistency] Button Selection fires before MouseUp
+- run the ControlExample, Button tab - turn on listeners MouseUp and Selection - click on an example Button -&gt; on OSX you'll get Selection - MouseUp -&gt; everywhere else you'll get MouseUp - Selection

@@ -1,0 +1,20 @@
+227939	Build	Steps	Reproduce	Login	MSN	account	Logout	Open	MSN	Wizard	Password	won	restored	write	password	rewrite	mail	Stack	Overflow	error	ocurr	issue	fixed	patch	bug
+252002	discussion	starting	comment	bug	https	bugs	eclipse	org	bugs	bug	cgi	httpclient	based	provider	difficulties	NTLMv	provider	discussion	bug	track	work	NTLMv	support
+229921	https	bugs	eclipse	org	bugs	bug	cgi
+318086	Disabling	discovery	unit	tests	moment	figure	problem
+238976	notification	session	shared	editor	initiated	closed	broken	remote	side	disconnected	annoying	client	side	modifications	source	code	originator
+183492	
+258916	attr	tag	safe	tag	safe	tag	character	reserved	star	bad	tag	reserved	CTL	escape	val	HEXDIG	HEXDIG	bad	tag	HTAB
+198731	Build	Steps	Reproduce	Open	IRC	Chatroom	Type	irc	foobar	channel	irc	foobar	Ctrl	move	mouse	irc	irc	underlined	irc	Ctrl	click	irc	works	fine	problem	text	underlined
+292972	bug	number	patches	Genuitec	bug	discuss	track	application	ECF	filetransfer	relevant	pieces	patch
+207530	Cola	operating	single	character	insertions	deletions	atomic	modification	units	support	insertion	multiple	characters	clipboard	applies	multi	character	operations	deletion	text	single	character	instance	marking	text	hitting	Delete	Backspace	editing	session	participant	executes	unsupported	modification	kind	local	document	remote	sites	discard	modification	receipt	essentially	documents	sync	Cola	extended	adapted	insertions	deletions	texts	greater	single	character	length
+259273	jSLP	doesn	translate	scope	protocols	naming	authority	internal	vice	versa	ECF	scope	Zeroconf	local	ECF	protocol	Zeroconf	tcp	ECF	Zeroconf	iana	SLP
+275722	bug	acts	main	bug	gsoc	project	abstraction	ECF	http	wiki	eclipse	org	abstraction	ECF	details
+327060	ecf	dev	mailing	list	posting	http	dev	eclipse	org	mhonarc	lists	ecf	dev	msg	html	zookeeper	location	URI	include	port	interest	service	Note	bug	comment	bug	solution	problem	mailing	list
+221139	MSN	XMPP	XMPPS	connection	wizards	weak	mail	address	validation	checked	inserted	User	form
+192756	join	big	channel	ton	xxx	entered	channel	entry	don	messages	messages	server	tab	irc	freenode	net	IRC	clients
+287666	Buckminster	Build	fails	javax	microedition	resolved	removed	javax	microedition	replacing	iHTTPConnection	HTTP	HTTPConnection
+256980	annoying	contribute	menu	items	users	created	collab	project	reuse	contributions	presence	containers
+198043	open	contacts	contacts	list	entries	groups	recognizer
+277176	bring	Service	Discovery	view	client	machine	Neighborhood	machine	osgiservices	tcp	iana	ECF	examples	remotesvcs	tcp	iana	click	osgiservices	tcp	iana	connect	menu	option
+198012	ECF	hyperlinks	form	ecftcp	localhost	server	hyperlink	activation	Open	connect	dialog	connect	ecftcp	localhost	server	current	behavior

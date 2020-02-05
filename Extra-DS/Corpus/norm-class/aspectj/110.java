@@ -1,0 +1,1 @@
+interface array cast interfacearraycast main string args foo

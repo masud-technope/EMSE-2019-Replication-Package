@@ -1,0 +1,10 @@
+org.aspectj/modules/asm/src/org/aspectj/asm/AsmManager.java
+org.aspectj/modules/asm/src/org/aspectj/asm/IElementHandleProvider.java
+org.aspectj/modules/asm/src/org/aspectj/asm/internal/AspectJElementHierarchy.java
+org.aspectj/modules/asm/src/org/aspectj/asm/internal/FullPathHandleProvider.java
+org.aspectj/modules/asm/src/org/aspectj/asm/internal/ProgramElement.java
+org.aspectj/modules/docs/sandbox/api-clients/org/aspectj/samples/AsmRelationshipMapExtensionTest.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/lookup/AsmInterTypeRelationshipProvider.java
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/core/builder/AsmHierarchyBuilder.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/AsmRelationshipProvider.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/ShadowMunger.java

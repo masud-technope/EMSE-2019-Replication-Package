@@ -1,0 +1,2 @@
+org.eclipse/swt/custom/StyledText.java
+org.eclipse/swt/custom/StyledTextListener.java

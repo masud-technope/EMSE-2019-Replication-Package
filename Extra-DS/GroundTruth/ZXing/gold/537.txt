@@ -1,0 +1,2 @@
+com.google/zxing/oned/EAN13BlackBox1TestCase.java
+com.google/zxing/oned/MultiFormatUPCEANReader.java

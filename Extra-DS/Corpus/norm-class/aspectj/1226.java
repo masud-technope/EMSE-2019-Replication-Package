@@ -1,0 +1,1 @@
+org aspectj lang annotation aspect foo qualify pointcut call java util list list operation listoperation compile matches join points joinpoints pointcut any utility call anyutilitycall

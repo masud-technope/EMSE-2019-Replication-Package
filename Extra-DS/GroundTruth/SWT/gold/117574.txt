@@ -1,0 +1,2 @@
+org.eclipse/swt/graphics/GC.java
+org.eclipse/swt/widgets/Composite.java

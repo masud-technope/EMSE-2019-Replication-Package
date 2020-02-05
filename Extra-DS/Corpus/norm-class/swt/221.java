@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation org eclipse swt internal win menubarinfo cb size cbsize rect rc bar rcbar left top bottom h menu hmenu hwnd menu hwndmenu f bar focused fbarfocused f focused ffocused sizeof

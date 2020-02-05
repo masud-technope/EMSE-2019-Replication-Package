@@ -1,0 +1,2 @@
+Don't Dump Bytecodes to Syserr in LTW
+The load-time weaving system can produce truly massive quantities of output when there's a weaving error, since the system dumps the bytecode to syserr. It would be much better to produce an ajcore file and just point to it, or use some other log.

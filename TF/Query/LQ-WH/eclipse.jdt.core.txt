@@ -1,0 +1,26 @@
+439431	java	eclipse	org	internal	jdt	compiler	reconciling	strategy	classfile	file
+301894	memory	bug	large	apt	issues	identifier	product	projects	reproducible	project
+277382	parser	org	eclipse	java	internal	compiler	jdt	parse	workspace	consume
+124099	info	inits	flow	receiver	test	patch	compiler	otherinits	considered	bit
+46084	java	internal	eclipse	org	parser	build	compiler	core	jdt	buildmanager
+405889	bugs	java	bug	codegen	spawned	handles	lookup	npe	cgi	method
+29516	regressions	search	searchengine	tests	refactoring	bug	engine	responsible	failing
+483467	eclipse	java	org	swt	workbench	internal	app	launcher	main	core
+456395	code	string	map	object	created	convert	type	sample	java	compile
+228691	types	integer	source	level	primitive	isassignable	annotation	assignment	assignable	wrapper
+41554	assertion	failure	searching	type	search	workspace	internal	references	log	source
+421469	java	declaration	internal	eclipse	org	jdt	resolve	ast	compiler	method
+418843	java	eclipse	org	jdt	internal	reconciling	strategy	compiler	declaration	javareconcilingstrategy
+31261	errors	error	compilation	max	expected	strange	number	unit	java	bug
+431963	nonnull	nullable	foo	annotations	type	parameter	method	bug	object	snippet
+388634	compliance	test	tests	failure	preview	runjdtcoretests	log	expected	handle	occurs
+165346	expression	conditional	compiler	flowinfo	flow	info	operatorexpression	eclipse	nullstatus	status
+25377	object	error	select	correct	foo	convert	type	empty	initializer	view
+92005	eclipse	org	java	internal	completion	workbench	display	jdt	parser	swt
+126180	member	access	object	npe	string	type	compiler	method	foo	raised
+448043	java	eclipse	org	jdt	core	dom	ast	mainscreen	screen	main
+396139	java	jre	util	beta	build	test	current	functions	reproduce	lambda
+145202	element	positive	reference	analyzer	negated	code	string	err	negative	println
+149562	val	types	type	bug	small	code	string	values	enumerations	statements
+17531	save	file	select	java	rename	reason	side	globalactions	global	error
+488888	java	org	eclipse	compare	internal	editor	input	viewer	jdt	compilation

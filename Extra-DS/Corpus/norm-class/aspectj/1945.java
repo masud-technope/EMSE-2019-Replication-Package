@@ -1,0 +1,1 @@
+pkg warning method warningmethod bad method badmethod

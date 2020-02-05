@@ -1,0 +1,2 @@
+CBannerLayout calls Control.update too often
+CBannerLayout.layout() calls Control.update() all the time. Using update() is good for interactive resizing, but otherwise it is slow and should not be used. This code should be fixed to only call update() during resize, if at all.

@@ -1,0 +1,63 @@
+173187	differences	entires	renaming	refactored	eventually	distinguish	identical	ended	showing	expand
+53634	libraries	switching	application	running	additional	bootclasspath	newly	removing	jre	work
+40707	press	remains	disabling	properties	opening	enabled	hit	breakpoint	dialog	disable
+335363	checkboxes	font	colors	notice	basic	question	click	checkbox	dialog	general
+31110	debugger	lookup	variables	advanced	points	source	work	archive	build	select
+229380	incorrectly	moving	bootstrap	button	tab	bottom	enabled	select	entry	user
+13834	click	managed	ruler	examining	nthe	external	includes	jars	menu	debugging
+94474	attachment	press	deselect	edit	jre	libraries	source	jres	jar	installed
+142476	click	boxes	transform	border	choose	tester	templates	adjust	problem	blocking
+324246	pass	external	builder	defined	classpath	good	expand	project	works	jvm
+139152	uninitialized	preferences	validates	opening	window	open	bug	attached	dialog	close
+321043	revert	compliance	head	compiler	bug	enable	comment	attachment	details
+64663	hex	variables	accept	fails	change	bug
+43927	work	assist	content	ctrl	dot	space	auto	condition	properties	build
+506014	availability	thought	observed	row	jumps	signal	node	icon	holder	view
+73624	explorer	redundant	asks	expect	click	select	main	prompt	menu	selected
+275614	expanded	perspective	screen	regression	explorer	window	auto	introduced	view	threads
+392607	fallback	mac	osx	suite	determined	work	form	correct	build	load
+43418	cursor	busy	choosing	takes	jre	choose	seconds	browse	click	directory
+112670	toggle	ctrl	treeitem	invokes	windows	normal	blocks	view	focus	space
+21792	problems	arguments	space	passed	reverse	application	spaces	happen	works	argument
+9122	waited	minutes	latest	worked	debugging	performance	launched	problem	time	mode
+19363	asked	wizard	missing	image	library	container	bug	banner
+124203	management	introduced	view	respect	context	global	longer	based	manager	active
+16046	cancel	finish	interrupt	doesn	button	forced	didn	presses	launch	wait
+15662	display	work	inspect	select	bug	variable	result
+9649	autobuild	turn	rebuild	proceeds	motif	reports	closes	clean	memory	workspace
+72371	left	streams	open	occurs	locations	stream	bug	exception
+13364	indication	condition	properties	breakpoint	bug	dialog	visual
+255031	build	warning	foundation	ees	cdc	projects	prevent	load	compiled	longer
+108473	correctly	windows	performance	restart	running	time	responding	mode	dependent	allocated
+8634	persisted	missing	breakpoints	workspace	bug	start	exception
+300614	small	wide	pane	details	settings	win	pixels	hit	count	character
+9026	showing	summary	breakpoints	view	compilation	bug	error
+323020	mac	failure	bug	test
+125771	appears	external	properly	retrieving	method	created	source	unable	bug	breakpoints
+60364	deprecated	newly	attaching	testing	based	bug	code	runtime	debug	jdt
+369480	builds	jre	work	older	fresh	launchingsupport	workspace	compatible	latest	fixed
+189012	contexts	change	dialogs	expressions	accessible	command	view	variables	bug	primitive
+181204	remote	enhanced	applies	host	issues	marking	based	objects	scenario	enhancements
+13015	condition	stepping	conditional	resumes	evaluated	evaluates	breakpoint	step	bug	thread
+212442	failing	logic	failures	comparing	causing	clause	statement	problem	equal	bug
+9825	icon	color	prefer	action	consistent	view	showing	depending	hover	active
+33893	jres	incorrectly	existant	preference	plug	updates	ignore	exist	defined	invalid
+206693	wiki	jre	installed	copied	simply	installing	description	configured	bin	column
+42984	basedir	ant	directory	overriding	jvms	echo	dir	working	running	defines
+7404	hitting	attempting	define	filter	step	filtering	editable	work	button	bug
+268393	image	attempt	letting	steps	quotes	attempted	button	box	expressions	literal
+330987	tags	incremented	applied	bundle	newly	increment	version	bug	missing	methods
+32494	menu	scrapbook	toolbar	insp	enable	actions	global	bindings	display	inspect
+34670	uncheck	delete	configs	lists	needed	classpath	path	tab	select	config
+18926	click	jre	installed	problem	pretty	big	development	steps	workspace	jdk
+29297	folders	folder	honor	output	multiple	build	searches	compiled	debugger	hot
+248054	annotation	isn	colors	pick	latest	steps	icon	syntax	background	annotations
+94452	stepping	exceptions	produce	step	holding	attempting	timeout	views	update	vector
+394225	evaluates	incorrectly	fail	display	window	bug
+187000	press	focus	times	collapsed	linux	older	expands	stacktrace	debugger	tree
+400636	codeassist	work	regression	difference	appears	osx	worked	view	debugging	display
+52474	cvs	perspective	investigate	repository	scenario	opening	fact	requires	opened	point
+16378	icons	tabs	screen	remains	missing	space	attached	creation	build	time
+110074	working	category	breakpoint	sets	bug	create	breakpoints
+33534	indication	ant	range	supported	editor	bug
+144253	lookup	force	behaviour	events	longer	change	source	fire	stack	frame

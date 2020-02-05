@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples visitor java binary tree leaf binarytreeleaf visitable stored leaf accepts visitor calls code visit leaf visitleaf node param visitor node visitor nodevisitor accepted accept binary tree visitor binarytreevisitor visitor visitor visit leaf visitleaf binary tree leaf binarytreeleaf accessor leaf leaf get value getvalue

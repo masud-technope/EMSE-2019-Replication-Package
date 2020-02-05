@@ -1,0 +1,5 @@
+org.aspectj/modules/loadtime/src/org/aspectj/weaver/loadtime/ClassLoaderWeavingAdaptor.java
+org.aspectj/modules/loadtime/src/org/aspectj/weaver/loadtime/DefaultMessageHandler.java
+org.aspectj/modules/loadtime/src/org/aspectj/weaver/loadtime/Options.java
+org.aspectj/modules/tests/java5/ataspectj/ataspectj/TestHelper.java
+org.aspectj/modules/weaver/src/org/aspectj/weaver/tools/WeavingAdaptor.java

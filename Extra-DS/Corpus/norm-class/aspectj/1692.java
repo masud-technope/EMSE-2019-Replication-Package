@@ -1,0 +1,1 @@
+ubc spl aspect patterns aspectpatterns examples mediator java guimediator defines method signature notifying mediator colleague method called colleagues pass argument push model param colleague changing colleage colleague changed colleaguechanged guicolleague colleague

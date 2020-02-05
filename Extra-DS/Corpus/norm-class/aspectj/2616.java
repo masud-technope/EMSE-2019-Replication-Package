@@ -1,0 +1,1 @@
+array initializer type arrayinitializertype xxx

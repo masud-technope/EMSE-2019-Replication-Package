@@ -1,0 +1,1 @@
+created jan org aspectj tools ajdoc author mik kersten util is executing on java isexecutingonjava string version system get property getproperty java version version equals

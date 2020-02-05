@@ -1,0 +1,1 @@
+strict class bad field strictclassbadfield error

@@ -1,0 +1,2 @@
+[consistency] Slider fires two Selection events before MouseDown
+- run the ControlExample, Slider/Scale tab - turn on the MouseDown and Selection listeners - click on the example Slider's thumb -&gt; on OSX the following is fired: Selection, Selection, MouseDown -&gt; on win32 the following is fired: MouseDown, Selection, Selection (<span class="bz_closed"><a href="show_bug.cgi?id=78558" title="RESOLVED WONTFIX - [consistency] Slider fires two selection events on single click">bug 78558</a></span>) -&gt; everywhere else: MouseDown, Selection

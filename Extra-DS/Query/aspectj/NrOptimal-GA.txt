@@ -1,0 +1,237 @@
+136707	iajc source files task summary project ant javac
+29186	eclipse test implementMungers INVOKESPECIAL Shadow staticinitialization IRETURN top constructor LFoo
+67592	Oege JoinPoint getSourceLocation retrieved println methods changed join decl
+39436	errors infos missing reworked view number Tasks
+155148	java held loader waiting classloader PolicyClassLoa deadlock lassPreProcessorAgentAdapter http ectionListener
+152589	hawkinsh full file element Project pipelining Project jdk advice Total
+98320	type sgelin generics String Type jdk convert mismatch user
+80916	returned doesn IRelationshipMap target warning args relating structure project doesn
+43033	current erroneous Bugs eTypeBindings ReferencePointcut model find AjBuild addDeclares
+145950	isn direct field type serializable doesn serialversionuid works hierarchy woven
+120351	batch ASTORE zip implementOn File trouble include Compiler ois ois
+129566	afterCompiling ReferenceType weaver getDeclaredInterfaces CompilerAdapter afterReturning projects repeatedly determineThoseTypesToUse moved
+132130	supervisor fields Missing declare types amount located ctors role debit
+173602	InterTypeMethodDeclaration aspectj declaration problem org resolve caused incrementalBuild
+125475	ajcTest error Method Pointcut compile ajc TestEmptyPointcutAtAspect TestEmptyPointcutAtAspect error ajcSandbox
+120356	struct warning empty ASM DEOW   AJDT
+125480	generator method WeavingURLClassLoader bridge method aop loadtime method concrete follow
+34858	cflow CflowPointcut Weaver Thread lang execution don AjBuildManager addOrReplaceAspect titles
+71723	existing args System refer println succeeds ajc members ancientI classes
+120363	types adk woven org element exclude eclipse harness types exclude
+42539	argfile declare Exception advice lib TypePattern cut ExceptionBugTest MyException aspect
+138286	PerThisOrTargetPointcutVisitor aspectj pointcut ajde doBuild Ljava weaveAndNotify accept visit
+55341	binary weaver compiling LTW convert performed weave build LTW library
+109614	dev component Shadow append Ljava bcel Range CompilerAdapter iajc String
+117296	code Stack Curiously generics fromBinding Template compiler bounded PropertySupport
+115251	CODE ajc BcelClassWeaver Singleton BcelWeaver cflow getLazyMethodGen version runs weaver
+121395	FileNotFoundException filenotfoundexception ajdt compile BcelWeaver core list list entry builder
+152631	abstractMethodsImplemented mungeNewParent munge ASTORE BcelClassWeaver batch AroundClosure AspectJ ErrorContainmentTest building
+119353	superclass reflect expects runTests eclipse incorrect diff Inconsistent junit resolve
+102459	places providing nice queried JoinPoint joinpoint option collected collected queried
+148536	CompilerThread thrown Compiler declaring doDeclareAnnotations NullPointerException annotation lang weaveInterTypeDeclarations SomeAnnotation
+148537	meta lang ArrayInitializer detectStandardAnnotation methods thrown performCompilation ajde java compile
+148545	interesting privileged thread RetentionPolicy util LMyEnum String getValue aspect
+64069	signature existed println field flagged clashes separately
+124999	method advice UseInheritedMethod ajc error NoSuchMethodError Ljava generics Integer Object
+29769	support happen compiler enhancement org options processing
+120909	Tests solution runProtected ReflectionWorld assertTrue runBare bcel execute BeclWorld bcel
+42573	injars classpath entries bootclasspath BuildArgParser classpath entry lst directory list
+88652	array java Xlint implementation java java Touple parameter method lang
+149071	type code work field
+120401	AjLookupEnvironment signature unresolved lang CompilerThread parameterize unhelpful
+44117	match CompilerAdapter Checker checkerMunger AsmRelationshipProvider bcel weaver aspectj core
+57430	exception compiler CVS submit
+108118	SuppressAJWarnings Complete pointcut ensure advice suppressed implementation major requires calls
+50776	legal override aspect invocation java method   type
+57436	ClassFormatError people incomplete programs ajc produced techniques latest valid
+61536	call args front form bug patterns java String
+70241	screenshots classes jdt   outline
+49250	print getCause code code getCause mail binary print binary expected
+155238	hashCode Trace change code loader formatting objects application
+135780	println thread passes SoftReference toString device attached lang regression
+113257	files Incremental incremental adviceEnabled thisEnclosingJoinPointStaticPart branches recordThrowable monitoring thisEnclosingJoinPointStaticPart full
+83563	pertypewithin lang localAspectOf PertypewithinTest NoSuchMethodError AspectJ classes args
+128618	build XLint full strange error strange build java MainClass FFDC
+83565	nameToSignature TODO makeResolvedMember generates size traverse elementAt child PROTOCOL Sequence
+34925	cgi AjdtCommand ildManager product wrap unimplemented declare eclipse inefficient Exception
+60015	warning time declaring pointcut match unmatchedSuperTypeInCall Blah Xlint dir
+146546	handles dependency dependency coded AspectJElementHierarchy String remove remove methods remove
+96371	ClassLoader work weaving AspectJ HEAD aop support require aspectj Writing
+112243	bugs BcelWeaver ReferenceType determine don correct find
+70773	Eclipse ConncurrentModificationException AspectJ Error version compilation deleting   build
+51320	lang batchBuild attached eclipse aspectj beginToCompile addAdviceLikeDeclares aspect CrosscuttingMembers
+51322	ment omg component ajc lookup czhang buglist method internal
+117882	aspectj java annotations NullPointerException doDeclareAnnotations Compiler declare included doPendingWeaves core
+151673	blow unknown returns advice method invokevirtual ejb invokestatic jump
+128128	message occur error ant MessageHandler doesn java AntMessageHandler Ant report
+71811	doesn docencoding options ajdoc won charset ASCII
+34951	reproduce jar error doc lib NPE message classpath debug
+47754	SecureClassLoader doPrivileged URLClassLoader modifiers ITest modifier error
+82570	lang instrumentor remove tag numbers detected aspect hesitate oms
+151182	NullPointerException loadtime weaver compiled application WeavingAdaptor ClassLoader jar weaveParentsFor TransformerManager
+150671	reproduced foo captures field confirmed involving work
+128655	AjLookupEnvironment couldn weaveInterTypeDeclarations AspectJ compilation annotations performCompilation compile lang thrown
+82062	WeaveMessage WeaveMessage additional object provide determine wonderful provide additional WeaveMessage
+54421	WarningSample WarningAspect message message concatenation pointcut WarningAspect aspect message error
+58520	resuting anchor argument navigate naming lang doesn follwing details
+119451	tags Removing Main AJDT aspect ajc generate signature   list
+159896	Advice JDTLikeHandleProvider advice
+120474	receives getDeclaringType String ResolvedType getWovenBytes caught strips lastDollar weaveAndNotify
+41123	implement aspect ajee BusObj MonitoredItem pass model works ExecutionMonitor Weaving
+52394	team bug WLJR jsp showallversions lies free happend
+125101	huge message attachement ReferenceType file   recommendations
+62642	org getSourceLocation getKind presence method insert arg makeFieldSig advice runtime
+54965	output surprised dependents bytecodes incremental type output outjar surprised source
+101047	wrongly branch Method version occurences block LocalVariableTable LFoo aspectOf advice
+133307	TestIF aspect declare compile type valid parents referencing
+43194	bin aspectj Error AspectJ pop WorkspaceGroup code   thread
+114875	annotation problem error Eclipse AjCompilerAdapter compiler incrementalBuild jdt Aspect lang
+128699	suggestion dominates declare constructor type declararions Incorrect expected field construct
+145086	toString SignatureImpl Simon attach problem lang reference aspectj
+43709	NPE sun Control sendEvent InternalBootLoader toLinkLabelString system BusyIndicator trace ProgramElement
+31423	beta System points program java   Pointcut String execution
+67774	Michael matchInit Signature buildId Test DetectSystemOutErrorUsage weave core constants STACK
+152257	Incremental println test faultInjection compiler Save code full compiling
+71878	path AJDTPluginTest file outline gutter JarUsingProject Linux location org
+37576	task iajc vice Ant iajc switches classpath task iajc AjcTask
+46280	Marker call AJDT String Marker privileged priv eclipse String complains
+124105	append work types mailing   Jeppe
+74952	advice println trace defined offset TraceTrace TraceClass thought
+39626	NullPointerException aspectj errors Unfortunatly AsmBuilder performCompilation TypeDeclaration process ForStatement
+59596	makeLocationContext makeMessage returning batchBuild write makeMessage Aspect org core message
+158412	CrosscuttingMembers AspectJBuildManager weaver NPE addShadowMunger internal normal ajde lookup lang
+32463	Output reports message Object pointcut find issues examples sourceroots
+92880	delayed evolving style
+116949	constructor Projects INVOKESPECIAL AspectJ Architecture MethodDeclarationLineNumber OptionSetterBase bcel ALOAD actors
+122580	AppClassLoader BLjava AspectJ JRockit stack FIXME IMessage BLjava Object URLClassLoader
+47318	TYPE org lead DECLARE Kind ADVICE
+148693	invokestatic CODE init lang type StaticPart Attribute args
+73433	option classpath Discovered injar fail error parser aspectjrt doesn parser
+51929	call classes fixes works access java Workaround method aspect
+46298	aspectj Factory IntroductionPointCut reflect ExceptionHandler println JoinPoint classList ajc method
+53981	proceed NPE form method ways aspectj wrt resolved tree main
+123612	declare comment lang incremental aspect ajde build
+120543	instance system message Issue system message Issue time multiple WeavingAdaptor
+154332	expect RUNTIME aspect build pointcut annotations retention produces
+128744	weaver jre application org supports aop point add classpath
+156904	System invalidAbsoluteTypeName myMethod println advise points Incorrect incorrect
+128237	dutils annotation AbstractTracer UTF pkg validateBindings batchBuild separator jce user
+29934	aspect proceed java Object applying expectEvent checkAllEventsIgnoreDups preinitialization runtime
+53999	error main args type munged String message   bind
+124654	type ConcreteAnnotation incompatible pointcut call Capture System expected BindingTypePattern
+44272	join precedence dependency aspects precedences
+38131	compiler java NoClassDefFoundError main lang ajc String change test
+148727	vital method users undefi ajc aspect marking devel String
+119543	separate forSignature include override Define dev toString dnsns apps TypeFactory
+28919	nativeMessagePumpInitialize don add LazyMethodGen priority pvi bad code
+147701	exceptions JUnitStarter BeansException weaver invoke AspectJClassLoaderWithGenericApplicationContextTests find factory getTargetMethodInfo forClass
+153845	parseTypeArgument BcelObjectType AbstractSet isSetter parseClassTypeSignature signature buildBcelDelegate Map   asClassSignature
+40192	cancel bytecode weaving cancelled stage
+125699	erre error aspect Object thisJoinPoint inherit branches unexpected
+148737	parameterizedWith weaver message Iterators lang lookupMember hasNext StackOverflowException
+86789	aspectj PremiumPartner developers msg mhonarc notebook message
+29959	Exception body ajc beta call superDispatch expression declaration error method
+121616	buildFormalAdviceBindingsFrom BlockStatements jess tra compiler ValidateAtAspectJAnnotationsVisitor priority concurrency resolved sdke
+152848	CompilerThread Expecting ajdt createParameterizedType findImport collectInterTypeMungers weaver enable aspectj classTypeSignature
+62227	handleMessage verbose load messages message straightforward weaving warning
+53012	DeclarePrecedence staticinitialization declare compile subtypes precedence subtypes accepts pick DeclarePrecedence
+130837	normal jdt eclipse traverse process edit MethodDeclaration buildFormalAdviceBindingsFrom internal ajde
+76055	weaver OrPointcut definition tree CflowPointcut missing members module find
+95517	removed consistent docs pseudo lookups
+145693	Error entry classpath cantFindType failing attached
+156962	Deprecated attached member attached failing hasMethod member match execution dev
+107299	letter don config drive start doesn absolute file
+152871	cases avoid BcelWorld Utility BcelObjectType write WeavingAdaptor spent enhancement seconds
+47910	sense creates doesn imply MANIFEST parameter extension
+151845	AJDT error building SDK Tools compiler EclipseSourceContext AJDT manager large
+149289	configuration aop support AspectJ AJDT file Bug
+152873	shouldWeaveAnnotationStyleAspect weave large weaving registered loaded doesn shouldWeaveAnnotationStyleAspect configurations loaded
+152366	definition patch time working patterns   amp
+28974	java producing ibm runtime solves DemoBeanEJB amc aspect field ajsamples
+123695	MarkMyMethods http Method nullptr output jlegar compiler WildAnnotationTypePattern Write
+138540	options support worked needed Patch pass style task doesn patch
+148786	fromBcel weaveWithoutDump anewarray construction lang BcelWeaver BcelWorld weaveAndNotify fromBcel java
+49457	doIt compiler specialRunnableCalls called programming classpath declare aspectj binding program
+130869	unsurprisingly find bleeding warning type unbelievably   Bar
+149305	error Aspect place kei Pointcut Bug println AspectJ   ozonatedReadExecution
+132926	ensureAtTargetInitialized weaver processing AspectJ doBuild ajdt BcelWeaver AnnotationX project
+76096	compiles error Local InterfaceA someMethod comment ajdt inherited anonymous
+82752	relying affect bug ProgramElement ASM getSourceSignature ajdoc
+57666	batchBuild MANIFEST copyResourcesToDestination ZipOutputStream AjBuildManager putNextEntry builder ZipException duplicate build
+118599	Cenowa method Eclipse compiler Problem Aspect aspect aspected Ambiguous
+152388	lang toString message technology error ClassLoader baseMessage BcelClassWeaver handleMessage hasNext
+59208	BCEL bcel test util AspectJ target Expected fails readFields ajc
+64331	weave problem Compiler aspectj taskdefs handleMessage Source Sequential find
+123212	ProductServer ajdt output svn Permission internal java util copyResourcesToDestination FileUtil
+47952	initCause wrapped trace trace print SoftExceptions SoftExceptions initCause agreed implement
+72528	casting lang aspect intArray POJO actual proceed signature expected VerifyError
+87376	reproduce pointcut type java NPE attached
+142165	concretized rewriting doesnt rewrite pointcuts mangled
+147801	perform weaving mode getParameterMetaData ResultSet called tivoli method signature reweavable
+48990	FastMatch currrently release Special provide pointcuts matching test
+131932	incorrectly lts List Slide Slide util java lts TYPE Bar
+131933	execution Slide aspectj AspectJBuildManager foo resolveBindings performCompilation resolveExactType TypePattern AdviceDeclaration
+54625	batch deleting Incremental work jars support outjars   build
+99168	eclipse Injector OuterNULL ajc ajdt AspectDeclaration aspect aspectj InterTypeScope InterTypeScope
+100195	lost execution getstatic preserveAllLocals code disassembling local Eclipse aspectj Variables
+33635	reproduce args pointcut fine move ajc Test advice aspect
+83303	override polymorphism reports scenario inherited apsect implemts correct
+113510	hashcode define unstable classloader readAspect startups   aspect
+77163	syntax weaving time implied verbose override updated messages ignore load
+37739	resolve Unexpected produces proceed constructor Warning withincode java type
+158573	call CrosscuttingMembersSet full hit location AJDT CrosscuttingMembersSet full full Changing
+125810	implement inherited concrete pointcut error aspect error error aspect concrete
+122742	aspect program advice AspectJ protect reflect VerifyError java extra signature
+80249	Serializable problematic source passed source construct types passing process special
+70008	add FileInputStream spacewar ajdoc examples file coordination
+126328	classpath IlegalStateException reopened aspectpath ZipFile closed jars reopened zip closed
+68991	pointcuts thisJoinPointStaticPart intertype ITFieldsAdvice output initialisers args picked println match
+151938	automated disabled javaagent catalina scripts hit bytecode massive emit scripts
+100227	error jdt intertype lang bug generics
+124808	target root TestAspect detecting lot generics Java   defined
+36234	direction point Ajc command receive error classfiles whateveritis memory
+50570	START getSignature Surprise problemHandling HEAD handler getName BusinessException
+68494	ajdoc support files java ajdoc support accept accepting addition java
+134541	original regression match project didn number number happen number warning
+69011	aspectj HtmlDecorator decorateHTMLFile dev decorateHTMLFromDecl   classes
+116626	objs URLClassLoader weave weave Launcher System defineClass running getAtAspectJAspectBytes TTT
+115607	java type arrow model program Incorrect implying called aspect
+138143	performCompilation completeTypeBindings Compiler core npe annotations EclipseSourceType aspectj thrown core
+120739	rare Optimization exclude exclude ClassLoader ClassLoader exclusions loader exclusions parent
+158624	CompilerThread Join ResolvedMemberImpl util Version testSyncValueGroup trouble classes getValue scrum
+148388	acceptResult ASPECTJ message LTW longer java Main WeavingClassFileProvider
+119210	Target Primitive method batchBuild aspectj version bcel ajcore afterCompiling main
+148908	java allocation initializer signature source AJDT project files field
+45489	loaded wrong toString interfaces outline Structure saved   model
+118192	impl superclass java superclass test failing java Serializable reflection Serializable
+131505	aspect including list Generated AJDT aspectNames list AJDT aop xml
+81846	compiler java EclipseAdapterUtils lang
+138171	web error producing init resource aspectj Thumbs compilation Internal batchBuild
+148409	cts typeKind WeavingAdaptor tools instance thrown ret method bcel entities
+40380	AJDT classes args String Build errors TestStringBuffer indexOf JDK
+153535	params ClassLoader array ShadowMunger StandardHost initializeLogging MemberImpl addChild ResolvedType reflection
+36803	concrete NotPointcut AndPointcut BcelWeaver concrete batchBuild ResolvedTypeX ReferencePointcut taskdefs iajc
+161217	beans weave factory Shadow aspect applied BuildConfig annotation
+117189	BCEL objects commented adds aspects weaver BCEL define loading define
+119749	InheritedThrows multiple declares aspect overrides exceptions warning warnings
+48080	ibm messages loc bridge include compiler Mar Illegal Shadow output
+72150	AJC target Bug fails classes binary nested distinct find
+30168	println aspectj advice Client err remove xFA Ultra jre libjava
+70619	orders Conflict execution aborts main dominates args String
+136665	ajc ClassPathManager ZipFileEntry ensureO ast file resolving building compiler internal
+72157	join main SCEAspect invalid Aug String programs checking Compiling
+125405	happen write ajde AjBuildManager aspects weave lead parameters kind java
+72671	fine apis bug DOMError Bootclasspath jar LSInput LSOutput IllegalAccessException jar
+61411	scenarios output Windows colon big entire paths confirm issue packages
+138215	error pointcut referenced warning join correctly DeclareWarning
+49638	INVOKEVIRTUAL problem SomeFile implement Logger execution converted program ATHROW Action
+77799	AspectJ Calling AspectJ StructureSearchManager getDefault patch attached findMatches Calling Ajde
+132591	builder JarOutputStream jar Duplicate internal java aspectpath doBuild
+138223	Shadow binding afterCompiling DelegatingMethodAccessorImpl build runMain foo ajc CompileSpec
+148972	reported types weaving hierarchy relationship sees intricate system differ methods
+129525	file Don file output weaving error Don Dump produce Don
+59895	complete hasErrors baseHandler Find AjBuildManager test retry iteration Find incremental
+72699	error Tracing tracingScope type tracingScope error error defined type pointcut
+118781	aroundBody dimensional Ljava Method exception NativeMethodAccessorImpl version methods classes
+74238	override override Applet AppletPanel lang utility applet aPropertyName security access
+133117	join advice warnings matched noGuardForLazyTjp join warnings noGuardForLazyTjp compiler noGuardForLazyTjp

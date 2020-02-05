@@ -1,0 +1,1 @@
+copyright ibm corporation rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors ibm corporation initial api implementation org eclipse swt internal win nmtvcustomdraw nmcustomdraw clr text clrtext clr text bk clrtextbk i level ilevel field win ce wince i level ilevel sizeof is win ce iswince

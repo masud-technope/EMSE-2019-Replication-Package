@@ -1,0 +1,1 @@
+org aspectj testing clazz main string args tester check compiled

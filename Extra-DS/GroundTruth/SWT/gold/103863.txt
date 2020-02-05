@@ -1,0 +1,3 @@
+org.eclipse/swt/SWT.java
+org.eclipse/swt/widgets/Composite.java
+org.eclipse/swt/widgets/Display.java

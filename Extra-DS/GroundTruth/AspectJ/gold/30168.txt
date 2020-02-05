@@ -1,0 +1,2 @@
+org.aspectj/modules/org.aspectj.ajdt.core/src/org/aspectj/ajdt/internal/compiler/ast/ThisJoinPointVisitor.java
+org.aspectj/modules/tests/bugs/crashes/test/Test3.java

@@ -1,0 +1,2 @@
+EclipseAdapterUtils.java:83
+java.lang.ArrayIndexOutOfBoundsException: 3 Unfortunately I can't provide much more information, please see the attached compiler dump.

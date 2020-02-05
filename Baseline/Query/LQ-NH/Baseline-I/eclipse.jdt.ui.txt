@@ -1,0 +1,102 @@
+421383	Bug	Graphics	Scaling	issues	high	DPI	displays
+99072	Bug	preferences	Explain	Ctrl	modifier	code	assistant
+144902	Bug	navigation	Explorer
+244742	Bug	organize	imports	Add	add	compliance
+303617	Bug	extract	constant	Refactoring	pop	selected	string	annotation
+305155	Bug	Java	project	wizard	nesting	workspace
+318734	Bug	perfs	Comments	applied	JDT	Text	performance	tests	obsolete
+35339	Bug	inheritedoc	consistently	rendered
+52750	Bug	correct	indentation	messes	comment	boxes
+318731	Bug	perfs	Comments	applied	JDT	performance	tests	obsolete
+416022	Bug	Clean	Refactoring	report	file	caused	exception	Eclipse	code	formatter	crashes	exception	handling	character	encoding
+81172	Bug	spell	checking	preferences	Spell	checking	works	report	problems	type	enabled
+249620	Bug	preferences	Provide	strictly	compatible	JRE	problem	severity
+381714	Bug	Export	runnable	jar	wizard	documented
+28698	Bug	Ctrl	outline	work	file	editor	read
+329252	Bug	preferences	content	assist	Auto	activation	delay	mention	unit	time
+217126	Bug	performance	performance	tests	measure
+45349	Bug	typing	Smart	replace	selection
+329248	Bug	ltk	file	folder	exist	empty	input	resource	rename	dialog
+271139	Bug	rename	button	clipped	Rename	dialog
+102696	Bug	quick	Quick	fail	update	method	comment
+162856	Bug	build	path	project	existing	sources	workspace
+9517	Bug	Browser	Perspective	project	doesn	project	view
+283697	Bug	quick	Add	missing	Override	suggestions
+55349	Bug	Delete	key	Quick	Outline	text	box	deletes	text	editor
+13877	Bug	NLS	tool	values	displayed	correctly
+67124	Bug	ccp	dnd	Minor	Copy	Paste	issues
+296498	Bug	JUnit	Launching	JUnit	view	dirty	editors	save	prompts
+153912	Bug	common	navigator	Java	model	hiding	parent	folders	sync	view
+178744	Bug	misc	Editor	opened	sync	resource	refresh	action
+333631	Bug	nls	tooling	Rename	properties	key	field	adds	additional
+264504	Bug	misc	Editor	create	working	copy	deleted	resource
+52801	Bug	Press	focus	work	spell	checking	hovers
+113731	Bug	refactoring	preview	bigger	bigger
+232773	Bug	working	sets	Assign	Working	pre	fill	selected	elements
+129354	Bug	Keybinding	focus	javadoc	editor
+108115	Bug	refactoring	Extract	Local	Variable	Constant	don	find	matching	invocations	methods
+41302	Bug	quick	assist	extract	method	Calling	extract	method	selection
+185172	Bug	working	sets	action	working	selected
+18780	Bug	Deleting	member	Members	view	working
+19043	Bug	Config	dialog	Generate	Doc	Wizard	bad
+274023	Bug	build	path	nested	source	folder	build	path	rendered	lib	icon
+38499	Bug	Source	Hover	oszillates
+419692	Bug	Java	Type	Indicator	decorator	image	leak
+64108	Bug	Javadoc	keywords	settings	longer	work	Java	Editor
+62062	Bug	Mark	Occurrences	annotation	text	interesting	Tooltip	Description
+294763	Bug	Compiler	Errors	Warnings	preference	doesn	resize
+47731	Bug	JUnit	view	leaks	Colors
+28277	Bug	clicking	Types	view	refreshes	decorators
+151668	Bug	reorg	Copy	action	add	copy	prefix
+211578	Bug	build	path	Dialog	extend	classpath	variable	slow
+216707	Bug	compare	Toggle	comment	noisy	diff	Compare	editor
+313478	Bug	JUnit	Test	wizard	Browse
+393602	Bug	Problem	hover	Link	text	cut	OSes	fonts
+224132	Bug	breadcrumb	Java	resources	jar	opened
+267918	Bug	toString	dialog	center	widgets	String
+492173	Bug	Missing	styling	Java	project	wizard
+437398	Bug	ccp	Don	select	extension	file	paste
+313751	Bug	typo	modfier	code
+51093	Bug	typing	Pressing	enter	opening	curly	brace	closes	curly	brace	repeatedly
+82839	Bug	misc	Breakpoint	icons	disappear
+390546	Bug	rulers	Quick	invoked	warning	error	vertical	ruler
+215448	Bug	working	doesn	Working	List
+199064	Bug	dnd	Element	reordering	DnD	format	field	comments
+304792	Bug	move	method	Move	single	function	interfaces	work
+32412	Bug	ccp	progress	monitor	rename	prompt	copy	pasting	file
+299928	Bug	hovering	Problem	hover	Configure	Problem	Severity	project	specific	Javadoc	preferences
+90528	Bug	Editor	icon	problem	decoration	instance
+17317	Bug	Preference	taller	screen
+179109	Bug	misc	Editor	computing	AST	concurrently
+252591	Bug	render	External	chained	jars	correctly	displayed
+260528	Bug	compare	wrong	caret	side
+55221	Bug	Bug	comment	mapper	Grabs	node	Javadoc
+54459	Bug	search	view	click	type	open	search
+13243	Bug	Browsing	remains	types	deleted
+59845	Bug	performance	Opening	file	editor	compute	overriding	indicators
+329677	Bug	type	hierarchy	view	honor	abbreviation	setting
+312014	Bug	content	tree	view	projects	folders	export	jar	read	screen	readers
+338638	Bug	quick	assist	quick	Relevance	externalization	quick	fixes	empty	selection
+67274	Bug	dnd	ccp	Explorer	moving	read	linked	resources	project	confirmation
+244431	Bug	preferences	Outgoing	change	preferences	change
+24271	Bug	Source	Folders	Sort	Java	Packages	Simple	Folders
+233941	Bug	ltk	Refactoring	history	workspace	refactorings	year
+108247	Bug	Selected	resources	scope	disabled	Enclosing	projects
+30169	Bug	hover	message	bookmarks	overview	ruler
+139231	Bug	quick	duplicate	exception	add
+42208	Bug	Source	hover	affordance	text	black
+66787	Bug	Wrong	capitalized	filters	message	search
+94951	Bug	implementation	Compiler	error	prevents	development
+150249	Bug	typing	Pasting	contents	string	string	concatenation	doesn	work	string	empty	string
+344552	Bug	Source	tabs	cleared	project	closed
+58098	Bug	Smart	cursor	positioning	java	names	don	work	CONSTANT	NAMES
+411636	Bug	Save	slow	burns	cycles	Project	Explorer
+388342	Bug	type	wizards	Main	Method	Stub	Check	Box	Wizard	Stays	Checked	Time	Loads
+51187	Bug	content	assist	filter	setters	fields
+14837	Bug	Java	Search	actions	shouldn	enabled	folder	selected	packages	view
+314354	Bug	common	navigator	Project	Explorer	refresh	adding	removing	library	project
+44535	Bug	misc	Wrong	message	displayed	opening	file	classapth
+263935	Bug	compare	compare	holds	deleted	compilation	unit
+46332	Bug	Jobs	longer	responsive	pressing	ctrl
+329720	Bug	hover	preference	change	background	color	debug	hover	popup
+364539	Bug	generate	constructor	Generate	constructor	fields	globally	sets	access	modifier

@@ -1,0 +1,38 @@
+209410	comments	bot	commands	created	documentation	error	fixes	regexes	feedback	improved
+211585	naming	authority	code	parsing	type	jmdns	defines	problem	parser	bug
+482434	service	exported	version	incorrectly	bug	implemented	handling	type	calculated
+199366	irc	eclipse	konigsberg	freenode	connection	wizard	net	connect	channel	ecf
+193415	logged	view	disabled	contacts	add	disconnect	menu	shouldn	entries	bug
+196298	talk	google	user	gmail	server	joe	jabber	xmpp	ensure	bloggs
+202958	channel	output	select	irc	copy	text	selected	container	works	bring
+199309	irc	freenode	connection	net	click	eclipse	bugs	foobar	hyperlink	editor
+321354	client	connect	timing	sequence	remote	jms	problem	meaning	fail	bug
+198161	irc	broken	completion	channel	tab	ecf	completed	repro	type	head
+222865	collaboration	click	button	nickname	connect	steps	empty	reproduce	toolbar	dialog
+286934	resource	user	roster	disconnected	host	connect	test	removed	ids	disconnect
+19733	list	assist	code	items	type	backspace	close	method	scroll	closes
+112599	xmpp	updated	room	server	bug	subject	chat	title	remotely	dynamically
+222868	msn	entered	password	select	mail	clicked	steps	button	reproduce	bug
+447633	file	files	directory	command	scp	stat	issue	format	spaces	thought
+172958	commands	channel	patch	containers	container	acceptable	work	command	mode	bug
+240926	editor	shared	closed	receiver	improper	insufficient	clean	editing	properly	closing
+236828	discovery	container	provider	composite	registered	services	register	bug	dynamically	providers
+273819	wizard	bug	time	container	feels	kind	opened	started	thread	closes
+259233	discovery	path	lost	uri	bug	segment	jmdns
+197604	irc	test	parse	deop	error	version	ban	head	unban	kick
+269612	container	cdc	list	locator	add	internal	interfaces	ida	idca	filters
+218027	correctly	scope	doesn	discovered	don	bug	provider	discovery	slp	handle
+222824	user	port	gmail	google	xmpp	host	talk	doesn	work	puts
+199336	irc	tab	user	chatroom	join	close	connect	command	server	expert
+266539	discovery	ecf	resource	services	log	needed	registered	error	local	head
+234803	path	discovery	slp	jslp	correctly	bug	pass	ecf	uri	supported
+274613	eclipse	ids	remote	irc	wizard	user	container	dev	server	nickname
+198193	irc	special	bug	connecting	didn	server	created	failed	error	parsing
+200630	handled	messages	confirm	disturbing	bug	irc
+238970	cpu	msn	seconds	java	bug	disconnect	wait	usage	ecf	bit
+263613	update	site	jobs	don	cancelable	software	main	networking	enabled	view
+342782	bundle	rsa	tck	properties	incorrectly	bug	symbolicname	event	version	events
+192574	settings	communications	buttons	restore	defaults	bug	isn	apply	affect	preference
+371768	npe	service	watchmanager	bug	zoodiscovery	needed	unpublish	unpublishing	thrown	harmless
+192573	ecf	resource	open	request	project	context	menu	collaboration	send	invoking
+196541	field	text	wizards	username	cache	noticed	start	msn	appears	changing

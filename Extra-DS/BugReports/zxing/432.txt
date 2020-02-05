@@ -1,0 +1,2 @@
+UTC is not GMT + 1
+com.google.zxing.web.generator.client.TimeZoneList lines 44 and 45 currently read: new TimeZoneInfo("GMT", "Greenwich Mean Time", "GMT", 0 * ONE_HOUR + 0 * THIRTY_MIN), // 0 new TimeZoneInfo("UTC", "Universal Coordinated Time", "GMT", 1 * ONE_HOUR + 0 * THIRTY_MIN), The second line is incorrect as UTC is (as the "relative" field correctly indicates) equivalent to GMT at this level of precision. Cool, fixed. Status: FixedLabels: -Priority-Medium Priority-Low

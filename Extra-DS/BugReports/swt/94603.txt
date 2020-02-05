@@ -1,0 +1,2 @@
+Spinner does not look like Windows standard one
+SWT Spinner puts buttons outside of the text box inset border. Standard look of Windows UpDown control is different. The buttons are inside the inset border.

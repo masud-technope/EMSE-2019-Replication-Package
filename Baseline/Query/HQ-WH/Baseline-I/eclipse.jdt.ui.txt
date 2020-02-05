@@ -1,0 +1,160 @@
+161282	Bug	content	assist	Applying	proposal	content	assist	history	unresolved	type
+193795	Bug	implementation	JavadocHover	logs	incomplete	message	Javadoc	Hover
+432132	Bug	JUnit	test	failures	AddUnimplementedMethodsTest	Add	Unimplemented	Methods	Test
+260865	Bug	compare	Clicking	structure	view	breaks	compare	editor	viewers
+99330	Bug	implementation	Don	swallow	IllegalStateException	ASTprovider	Illegal	Exception
+289280	Bug	introduce	indirection	wizard	wrong	path	classes	target
+362496	Bug	quick	assist	nls	tooling	IAE	Create	field	quick	assist	properties	editor
+367629	Bug	hovering	JavaDoc	Navigation	broken	spaces	URL	Java	Doc
+286221	Bug	move	method	Move	refactoring	produce	duplicate	methods	refactoring
+280333	Bug	refactoring	enhance	Javadoc	RefactoringWizard	performFinish	Refactoring	wizard	remains	open	enabled	buttons	refactoring	operation	completes	Refactoring	Wizard	perform	Finish
+405780	Bug	compiler	Bad	syntax	error	insert	IdentifierOrNew	missing	semicolon	Identifier
+63250	Bug	searching	files	failes
+264720	Bug	Remove	duplicate	creation	comparator	WorkingSetConfigurationDialog	Working	Configuration	Dialog
+352785	Bug	extract	method	Refactor	Extract	Method	statement	NPE
+259093	Bug	Reverted	latest	change	IntroduceParameterObjectProcessor	test	failure	Introduce	Parameter	Object	Processor
+416016	Bug	preferences	Add	support	target	compiler	preference
+133141	Bug	JavaCore	create	IFile	full	checks	Java	Core
+256532	Bug	templates	TemplateProposals	API	marked	deprecated	Template	Proposals
+4121	Bug	JarExporter	Sync	GILQD	Jar	Exporter
+304927	Bug	Incorrect	Javadoc	org	eclipse	ltk	core	refactoring	Change
+306970	Bug	Strings	insertMarks	drops	directional	punctuation	characters	StyledString	insert	Marks	Styled	String
+296229	Bug	code	tag	prepended	space
+244514	Bug	explorer	PackageExplorerContentProvider	executeRunnables	Collection	change	event	order	Explorer	Content	Provider	execute	Runnables
+292903	Bug	quick	NPE	quick	array	fields
+264999	Bug	open	type	matching	range	bold	pattern	ends	space
+254759	Bug	Search	declarations	working	sets	fail	working
+267554	Bug	ccp	Canceling	file	copy	operation	error
+450861	Bug	Test	failures	PackageJavadocTests	Javadoc	Tests
+45356	Bug	typing	IndentAction	Pressing	Tab	document	IAE	Indent	Action
+84269	Bug	implementation	Leak	Java	Editor	preference	listener	SmartTypingConfigurationBlock	Smart	Typing	Configuration	Block
+96302	Bug	implementation	useless	statement	getAutoEditStrategies	Auto	Edit	Strategies
+135219	Bug	clean	code	style	qualify	field	method	parameter
+376882	Bug	type	wizards	NewPackageWizardPage	isCreatePackageDocumentation	API	Wizard	Create	Documentation
+376381	Bug	preferences	clean	ICleanUpConfigurationUI	parent	Composite	excess	margins	IClean	Configuration
+27194	Bug	StringMatcher	bug	matches	String	Matcher
+100155	Bug	hovering	Hover	labels	local	variables
+304191	Bug	content	assist	Suspected	regression	CodeCompletionPerformanceTest	testApplicationWithParamterGuesses	test	Code	Completion	Performance	Test	test	Application	Paramter	Guesses
+478780	Bug	add	API	IProblem	isInfo	Info
+256575	Bug	search	broken	code	SearchLabelProvider	getParticipantImage	Object	Search	Label	Provider	Participant	Image
+339000	Bug	Misspelling	field	UndoManager	fOperationHistroy	Undo	Manager	Operation	Histroy
+256574	Bug	explorer	broken	code	PackageExplorerContentProvider	findAddedElement	IJavaElementDelta	Explorer	Content	Provider	find	Element	IJava	Element	Delta
+394296	Bug	clean	Clean	doesn	work	warnings	suppressed
+81983	Bug	preferences	Disabling	enabling	folding	small	file	takes
+398648	Bug	Javadoc	View	inserts	wrong	asterisk	link	linebreak
+75843	Bug	Deadlock	arised	calling	JDIDebugModel	createMethodEntryBreakpoint	JDIDebug	Model	create	Method	Entry	Breakpoint
+297280	Bug	JUnit	view	showing	BeforeClass	exception	single	test
+164677	Bug	EditorMgmt	remove	IURIEditorInput	Editor	Mgmt	IURIEditor	Input
+435279	Bug	Hover	NPE	Annotation	visible	classpath
+296781	Bug	AlreadyExistsDialog	initializeComposite	clones	Dialog	createDialogArea	Exists	Dialog	initialize	Composite	create	Dialog	Area
+321608	Bug	JUnit	JUnit	Test	wizard	confusing	test
+248659	Bug	implementation	Deleting	source	folder	leaks	file	handle
+437847	Bug	type	hierarchy	invoking	Quick	Type	Hierarchy	declarations	yields	error
+275286	Bug	compare	createStructure	called	times	sides	opening	compare	editor	create	Structure
+348758	Bug	ltk	DeleteResourceChange	resource	deleted	Delete	Resource	Change
+333654	Bug	AIOOBE	IdentityHashSet	getInsertionIndex	Identity	Hash	Insertion
+256087	Bug	typing	Automatically	close	brace	work	properly
+296784	Bug	patch	Layout	RefactoringStatusDialog	standard	Refactoring	Status	Dialog
+303698	Bug	ccp	ReorgPolicies	canEnable	methods	Reorg	Policies	Enable
+420188	Bug	Bindings	containsTypeVariables	ITypeBinding	type	unused	code	Type	Variables	IType	Binding
+434269	Bug	hovering	Support	showing	Javadoc	JavaFX	properties	Java
+304217	Bug	type	hierarchy	Widget	disposed	error	type	hierarchy	computation
+303705	Bug	search	Custom	search	hierarchically	java	search	view
+273499	Bug	quick	assist	exchange	operands	unavailable	infix
+266085	Bug	navigation	Quick	outline	view	reproduces	StackOverflow	key	presses	filter	Stack	Overflow
+272742	Bug	ImagesOnFileSystemRegistry	thread	safe	Images	File	System	Registry
+353126	Bug	improve	StubCreator	Stub	Creator
+267616	Bug	rename	Rename	method	fails	create	method	handle
+285024	Bug	ltk	PerformChangeOperation	ISchedulingRule	Perform	Change	Operation	IScheduling	Rule
+440930	Bug	Java	member	types	implicitly	consistent	icons
+252779	Bug	encapsulate	field	Encapsulate	field	parameter	prefix	code	style
+67691	Bug	NLS	JavaEditor	nlsed	string	job	Java	Editor
+320878	Bug	refactoring	DynamicValidationStateChange	valid	minutes	Dynamic	Validation	Change
+319854	Bug	search	wrong	condition	warning	references	inlined	constant
+324719	Bug	NPE	context	Java	Editor	build	path
+321385	Bug	SearchLeakTestWrapper	testRemoveSearchQueries	fails	build	machine	Search	Leak	Test	Wrapper	test	Remove	Search	Queries
+242801	Bug	build	path	VariableCreationDialog	misleading	layout	Variable	Creation	Dialog
+409717	Bug	hovering	Javadoc	link	doesn	work	attached	info	java
+310903	Bug	hovering	Javadoc	hovers	don	annotations	constructors
+289655	Bug	rename	Refactor	rename	editor	slow	matches
+340338	Bug	content	assist	Proposal	replace	leading	chars	selection
+266878	Bug	perfs	Regression	Rename	method	overloading	test
+55675	Bug	NPE	ASTProvider	reconciled
+9852	Bug	StringMatcher	match	extension	String	Matcher
+288121	Bug	perfs	Comments	applied	performance	tests	obsolete
+203132	Bug	hashcode	equals	Remove	unnecessary	warning	hashcode	equals	generator
+232828	Bug	bidi	processing	glitch	CodeTemplateContextType	Code	Template	Context	Type
+332421	Bug	nls	tooling	Hyperlink	properties	file	key	doesn	work	projects
+137091	Bug	KeyBindings	Toggle	Mark	Occurrences	shortcut	broken	Key	Bindings
+433026	Bug	quick	Conversion	Lambda	appearing
+221828	Bug	performance	Regression	performance	test	PackageExplorerColdPerfTest	testOpen	Explorer	Cold	Perf	Test	test	Open
+90249	Bug	remove	workaround	code	bug
+271757	Bug	TextMergeViewer	createSourceViewer	SourceViewer	Text	Merge	Viewer	create	Source	Viewer	Source	Viewer
+296589	Bug	breadcrumb	Opening	file	breadcrumb	retarget	status
+232333	Bug	typo	CodeCompletionPerformanceTest	createTypeHierarchy	Code	Completion	Performance	Test	create	Type	Hierarchy
+333461	Bug	actions	Javadoc	view	Open	Attached	Javadoc	External	Browser	open	URL
+266646	Bug	Change	CommonDropAdapter	method	call	Common	Drop	Adapter
+425109	Bug	quick	Failures	TypeMismatchQuickFixTests	IProblem	ReturnTypeMismatch	Type	Mismatch	Quick	Tests	Type	Mismatch
+51092	Bug	reconciling	JavaMultiPassReconciler	removes	annotations	Java	Multi	Pass	Reconciler
+76439	Bug	Classfile	editor	source	attachment	option	classes	folders
+291996	Bug	compare	Invalid	thread	access	JavaMergeViewer	extracting	method	Java	Merge	Viewer
+297116	Bug	JUnit	Test	JUnit
+228506	Bug	content	assist	Don	create	proposal	computer	sessionEnded	Problem	jdt	TemplateProposalComputer	closing	Editor	session	Ended	Template	Proposal	Computer
+339614	Bug	search	JavaElementLine	crashes	ArrayIndexOutOfBoundsException	EOF	encountered	Java	Element	Array	Bounds	Exception
+62878	Bug	misc	Mark	Occurrences	exceptions	types	inconsistent
+416935	Bug	JUnit	Initialize	JUnit	container	JUNIT	doesn	work	bundle	info
+362404	Bug	preferences	warning	missing	resources	wrong	category
+358823	Bug	Checkbox	wrongly	enabled	Clean	preference
+369319	Bug	junit	interesting	warning	JUnitPropertyTester	JUnit	Property	Tester
+261797	Bug	CVS	decorators	broken	JavaElementResourceMapping	Java	Element	Resource	Mapping
+288931	Bug	JUnit	Test	failure	TestRunSessionSerializationTests	testFailures	Test	Session	Serialization	Tests	test	Failures
+63400	Bug	elements	removed	hierarchical	search
+356778	Bug	search	Inexact	Type	Arguments	filter	showing	filtered
+318388	Bug	Replace	org	eclipse	jdt	launching	jreContainerMarker	JavaRuntime	JRE	CONTAINER	MARKER	jre	Container	Marker	Java	Runtime
+251572	Bug	encapsulate	field	encapsulate	field	refactoring	fails	splitted	array	type
+234170	Bug	navigation	Java	element	hyperlink	imports	declarations
+297663	Bug	JUnit	JUnit	JDT	installed	dropin
+251327	Bug	browsing	JavaBrowsingPart	clearing	fPreveiousSelectionProvider	Java	Browsing	Preveious	Selection	Provider
+298951	Bug	OpenTypePerfTest	testWarmException	perf	tests	reliable	Open	Type	Perf	Test	test	Warm	Exception
+343245	Bug	JUnit	DBCS	JUnit	URL	CJK	Extension	clipboard
+209611	Bug	organize	imports	Organize	imports	perf	test	loop	warm
+393932	Bug	refactoring	pull	destination	type	creates	bogus	nested	type
+181193	Bug	NPE	JavaEditor	isMarkingOccurrences	Java	Editor	Marking	Occurrences
+249549	Bug	quick	bad	proposal	modifier	constructors	classes
+266443	Bug	navigation	JavaElementImplementationHyperlink	work	method	declarations	Java	Element	Implementation	Hyperlink
+283851	Bug	Minor	cleanup	JUnitLaunchConfigurationTab	JUnit	Launch	Configuration	Tab
+269524	Bug	working	sets	Assign	Working	Explorer	Top	Level	Elements	Projects	NPE
+314069	Bug	introduce	parameter	NPE	Introduce	Parameter	Object	Build	path
+81109	Bug	nls	tooling	Improve	Properties	file	key	navigation	dialog	multiple	references
+406995	Bug	content	assist	Context	completion	method
+255449	Bug	CheckedListDialogField	unconventional	method	setting	table	style	Checked	List	Dialog	Field
+43228	Bug	Encoding	Support	Java	editor	broken
+314585	Bug	hovering	NPE	JavadocHover	annotation	primitive	type	Javadoc	Hover
+309977	Bug	Classpath	variable	initialization	doesn	fail	silently
+416998	Bug	Update	callers	ASTNodes	getType	VariableDeclaration	handle	type	inferred	lambda	parameter	Type	Variable	Declaration
+195808	Bug	projection	ProjectionViewer	Toggling	segmented	projection	mode	fail	Projection	Viewer
+440804	Bug	javadoc	wizard	Generate	Javadoc	generated	javadoc	arguments	temp	file
+308199	Bug	JavaElementAdapterFactory	loads	Team	Java	Element	Adapter	Factory
+150244	Bug	API	Add	getBytes	IClassFile	Bytes	IClass	File
+372973	Bug	call	hierarchy	Selecting	element	callee	hierarchy	reveals	wrong	editor	location
+430574	Bug	change	method	signature	SWTException	Widget	disposed	Change	method	signature
+300780	Bug	spell	checking	NPE	SpellCheckEngine	resetUserDictionary	shutdown	Spell	Check	Engine	reset	User	Dictionary
+189931	Bug	misc	File	Editor	source	message	wrap
+253674	Bug	clean	work	preview
+297709	Bug	explorer	JDT	error	behavior	link	editor	option	opening
+399087	Bug	push	search	Referencing	problem	PushDownRefactoringProcessor	Push	Refactoring	Processor
+491756	Bug	Project	Explorer	ExtensionState	applied	Extension
+302831	Bug	quick	assist	Assigning	parameter	existing	field	incomplete	linked	mode
+68586	Bug	implementation	Reconciling	robust
+52460	Bug	spell	checking	Spell	check	range
+251629	Bug	Adding	JUnit	quick	IAE
+261100	Bug	common	navigator	Dragging	FileTransfer	closed	project	valid	drop	File	Transfer
+262389	Bug	Internal	code	ICompilationUnit	applyTextEdit	ICompilation	Unit	apply	Text	Edit
+338673	Bug	preferences	implementation	Encoding	problem	JRE	library	preference	dropdown	box
+489202	Bug	save	actions	Format	edited	lines	Save	formats	lines	ASCII	characters
+308978	Bug	JVME	exist	JavaElementNameComposer	appendTypeParameterLabel	Java	Element	Composer	append	Type	Parameter	Label
+322812	Bug	JUnit	JUnit	library	container	resolve	binary	imported	org	hamcrest	core
+408060	Bug	Bug	NLSSearchQuery	NLSSearch	Query
+320511	Bug	infer	type	arguments	NPE	InferTypeArgumentsConstraintsSolver	getNonTaggingInterfaces	Infer	Type	Arguments	Constraints	Solver	Tagging	Interfaces
+252415	Bug	build	path	Java	Project	dialog	radios	parent
+255743	Bug	search	NPE	searching	property	key

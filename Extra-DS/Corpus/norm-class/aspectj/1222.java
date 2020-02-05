@@ -1,0 +1,1 @@
+java lang annotation retention retention policy retentionpolicy source simple annotation simpleannotation string fruit bananas

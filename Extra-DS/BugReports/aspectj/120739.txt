@@ -1,0 +1,2 @@
+LTW Optimization: Disable World if it has No Aspects
+This optimization disables weaving for a ClassLoader where there are no aspects defined. This is actually useful if you have aspect exclusions that exclude all the aspects defined in a parent class loader. It is also helpful in the trivial/rare case where there is an aop.xml definition with no aspect definitions.

@@ -1,0 +1,2 @@
+TableColumn has NPE while calling pack() on last column
+Consider followed code, table has only 3 columns: // refresh table on new data lvtTable.getColumn(0).pack(); lvtTable.getColumn(1).pack(); lvtTable.getColumn(2).pack(); On third call I get caught NPE (in debugger) in TableColumn (line 356), because parent.getColumns() (in TableColumn:354) returns array with 4 elements (always one more as existing in the table), and the last element is always null. My system is WinXP, Eclipse Version: 3.1.0, Build id: I20050202-0800, JDK 1.5.0. 1

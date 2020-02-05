@@ -1,0 +1,2 @@
+Incremental support does not work with outjar
+Either fix the class file deleting etc. to work with jars, or always do a batch build when working with outjars.

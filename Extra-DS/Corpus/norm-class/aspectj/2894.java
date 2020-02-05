@@ -1,0 +1,1 @@
+copyright contributors rights reserved program accompanying materials terms eclipse license accompanies distribution http eclipse org legal epl html contributors adrian colyer initial implementation org aspectj weaver ltw org aspectj weaver iweaver author adrian ltweaver iweaver

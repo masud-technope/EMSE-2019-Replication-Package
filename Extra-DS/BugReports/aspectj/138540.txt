@@ -1,0 +1,2 @@
+Patch to add support for -Xset: options
+I needed to add X="set:activateLightweightDelegates=false? to my ant build configuration, to troubleshoot the out of memory permgen condition. However, the ant task support doesn't currently support adding the new -Xset style options Andy added. Here is a small patch to pass any -Xset: options through, that worked for me.

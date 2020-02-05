@@ -1,0 +1,1 @@
+com.google/zxing/client/rim/ZXingLMMainScreen.java

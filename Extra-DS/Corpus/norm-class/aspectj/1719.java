@@ -1,0 +1,1 @@
+org aspectj testing tester main main string args tester check equal checkequal foo get class getclass get name getname foo tester check equal checkequal foo get class getclass get name getname foo
