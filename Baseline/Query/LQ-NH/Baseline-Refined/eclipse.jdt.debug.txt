@@ -1,0 +1,63 @@
+173187	unclear	differences	eventually	type	refactored	identical	dialog	breakpint	problem	file	refactoring	entires	renaming	breakpiont	method	distinguish	change	multiple	expand	bug	ended	wizard	showing	user
+53634	switching	installed	don	preferences	work	jres	additional	removing	newly	java	bootclasspath	bug	adding
+40707	note	disabling	remains	opening	setting	dialog	bug	enable	disable	watchpoint	press	open	properties
+335363	increased	screenshot	colors	general	problem	attachment	fonts	checkbox	details	notice	doesn	preferences	question	created	maximizing	resizing	increase	click	checkboxes	appearance	bug	depicting	window	basic
+31110	add	select	advanced	work	debugger	archive	type	points	eclipse	debbugger	dialog	file	bug	build	find	variable	claims	selected
+229380	buttons	ensure	select	configuration	bottom	update	launch	bootstrap	incorrectly	pressing	reflect	java	top	bug	user	moving	open
+13834	workspace	stack	methods	jars	program	ruler	remote	frustrating	point	dialog	java	file	managed	find	context	debugging	action	disabled	examining	doesn	displayed	add	editor	includes	menu	click	breakpoint	eclipse	nthe	bug	build	unmanaged	opens	frame
+94474	installed	select	edit	change	jres	libraries	dismiss	dialogs	unable	system	bug	pref	deselect	insect	jar	press	open
+142476	select	thx	tester	language	problem	java	tab	xml	bitmap	jet	finish	enter	border	created	templates	testing	tree	reassigned	steps	article	eclipse	kindly	expand	tests	field	adjust	defects	peppy	emitter	borders	icon	description	choose	box	button	transform	common	blocking	emft	hand	jpg	variables	tct	ovelap	rhel	start	coordinates	menu	sample	recreate	component	bug	build	width	location	florou	category	overlapps
+324246	builders	enhancer	argument	works	called	program	good	java	builder	jpa	enter	jvm	identifier	openjpa	reproducible	expand	bug	build	variable	programs	open
+139152	preference	validates	screenshot	error	opening	platform	dialog	attached	disapears	window	time	fields	close	open	uninitialized
+321043	head	attachment	revert	details	comment
+64663	variables	bug	change	hex	fails	accept
+43927	auto	ctrl	dot	version	enabled	space	breakpoint	condition	pressing	bug	build	properties
+506014	don	thought	discussions	icon	insert	jumps	flickering	availability	stepping	changing	remove	observed	decided	sarika	sinha	feature	depending	disabled	row	place	reply	signal	discussing	dedicated	holder	stephan	label	rows	list	disturbs	removed	improve	daily	comment	time	returned	open
+73624	don	select	classes	redundant	dialog	java	method	menu	click	eclipse	call	expect	unit	application	bringing	bug	build	compilation	asks	explorer	time	avoid	prompt	user
+275614	auto	workspace	code	session	screen	choose	paste	launching	reproduce	introduced	java	builds	workbench	fully	doesn	including	start	started	steps	longer	expand	regression	explorer	time	open
+392607	correct	work	kind	version	current	form	load	bug	osx	build	determined	fallback	fails
+43418	add	installed	pressed	libraries	choose	choosing	click	seconds	folder	system	bug	takes	evaluate	base	browse
+112670	normal	widget	ctrl	keystrokes	blocks	active	focus	windows	invokes	space	content	platform	bug	treeitems	treeitem	assist	details	pane	commands
+21792	specifies	argument	instance	works	configuration	dir	space	result	character	fine	duser	ends	passed	consumes	order	happen	launch	reverse	application	bug	creating	separates	spaces	john	eaten
+9122	junit	workspace	debug	minutes	launch	waited	launched	mode	extremally	worked	performance	problem	bug	debugging	time	latest
+19363	container	image	library	asked	bug	missing	banner	wizard
+124203	based	internal	active	global	respect	platform	longer	introduced	bug	provider	flexible	lanuch	api
+16046	reasons	fact	forced	achieve	number	unable	reflect	operations	interrupt	disabled	ability	behavior	sit	didn	pressed	shouldn	wrong	bug	presses	progress	cancelled	completes	terminate	time	respond	job	operation
+15662	result	select	bug	work	inspect	variable
+9649	rebuild	add	wwaux	reports	workspace	process	memory	org	classpath	turn	clean	closes	eclipse	autobuild	swt	dialog	consuming	proceeds	bug	install	progress	returns	copy	motif
+72371	bug	stream	streams	locations	occurs
+13364	dialog	bug	visual	indication	properties
+255031	projects	week	repo	foundation	error	prevent	reproduce	path	ees	compiled	load	compile	missing	warning	ignore	equinox	console	cdc	level	org	director	cvsroot	eclipse	longer	bug
+108473	sun	platform	consuming	responding	correctly	times	problem	fine	huge	severely	dependent	allocated	process	restart	cpu	thread	windows	jdk	performance	system	slow	sysdeo	runs	degrades	launcher
+8634	workspace	bug	start	missing	persisted
+300614	small	select	wide	winxp	cocoa	breakpoint	view	character	java	pixels	bug	enable	details	detail	breakpoints	text	win
+9026	summary	view	bug	compilation	breakpoints	error	showing
+323020	test	bug	failure	mac
+125771	created	appears	breakpoint	retrieving	properly	unable	bug	siganture	create	breakpoints	clicking
+60364	based	eliminated	plugins	testing	deprecations	attaching	newly	patch	rigorous	bug	informational	jdt
+369480	container	installed	note	projects	environments	jres	recognized	java	problem	major	dev	fine	surfaces	jar	older	workspaces	latest	add	execution	launchingsupport	work	match	pde	environment	ibm	build	fixed	fresh
+189012	accessible	variables	view	primitive	bug	contexts	expressions	command	object
+181204	request	configuration	release	iresource	enhancement	program	planned	extracted	issues	bugs	scenario	enhancements	host	behavior	conetxt	product	process	mapping	comments	determine	advantage	verified	pertaining	launch	handle	opened	executable	enhanced	marking	applies	proposed	background	fixed	programs	object
+13015	bug	step	evaluates	thread	evaluated	resumes
+212442	clause	failures	test	string	comparing	integer	breakpoint	equal	causing	problem	bug	failing	statement	logic	breakpoints	importbreakpoints
+9825	prefer	debugger	remove	enabled	inconsistencies	hover	depending	breakpoints	workbench	plan	active	consistent	launch	approaches	matches	easy	breakpoint	proposed	bug	hovers	showing
+33893	code	update	existant	updates	launching	incorrectly	exist	bug	invalid	ignore	plug	defined
+206693	installed	copied	bin	wiki	jres	installing	path	java	pasted	configured	resolves	based	org	created	preference	column	suspect	wrong	bug	http	php	pwd	simply	relative
+42984	select	jvms	project	main	echo	dir	setting	defines	running	dialog	tab	jre	processes	process	message	eclipse	target	args	prints	field	bug	install	overriding	variable	user	base
+7404	add	broken	attempting	work	editable	hitting	list	disappears	button	entry	bug	define	realizes	filtering
+268393	nope	debugger	box	attempt	screenshots	literal	quotes	reproduce	button	dialog	attachment	letting	details	text	created	steps	expressions	bug	build	attached	variable	attempted
+330987	newly	debug	applied	methods	missing	increment	jdt	incremented
+32494	snippet	select	bindings	global	execute	enabled	toolbar	insp	bug	enable	context	inspect	key
+34670	configs	select	needed	list	path	hit	tab	bug	lists	create	event	config	uncheck	key	element
+18926	reason	big	select	jres	error	sun	directory	current	experiencing	java	checkbox	builds	working	stating	pretty	development	windows	list	clean	steps	weird	longer	removed	bug	pops	exists	location	window
+29297	searches	classe	code	honor	debugger	replace	project	hot	version	path	compiled	java	bug	build	find	properties	changed
+248054	color	isn	hilighted	annoyance	turbo	icon	annotations	hilighting	observe	colors	circa	reproduce	biggest	pick	overwritten	glance	text	tasks	latest	editor	warnings	steps	version	nice	eclipse	bug	build	background	syntax
+94452	displayed	attempting	method	start	update	flooding	requests	stepping	produce	logical	structure	target	holding	problem	bug	vector	starts	key	views
+394225	incorrectly	fail	bug	window
+187000	stack	wait	select	bad	enviroment	collapsed	constantly	lot	reproduce	mouse	times	search	java	linux	debugging	older	stick	multiply	workers	suspend	pretty	start	tree	expands	windows	steps	releases	stacktrace	bug	build	machine	complete	problems
+400636	oracle	appears	eclipse	worked	java	application	bug	osx	regression	kepler	debugging	difference
+52474	note	workspace	projects	fact	pattern	investigate	repository	attempt	platform	point	number	dialog	smoothly	common	makeing	scenario	lock	workbench	checkout	work	module	start	opened	opening	nice	eclipse	exploring	bug	build	starting	requires
+16378	debug	screen	launch	remains	space	shot	bug	build	attached	time	workbench	config	creation
+110074	sets	bug	create	breakpoints	category
+33534	editor	bug	ant	range	indication	supported
+144253	eclipse	longer	bug	fire	behaviour	object

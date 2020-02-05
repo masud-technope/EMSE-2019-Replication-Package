@@ -1,0 +1,139 @@
+232706	surprise	issue	manifest	created	investigating	listener	bit	odd	patch	field	refactoring	organize	sad	clone	attached	initially	text	mark
+206081	add	provisioner	directory	file	system	form	tab	bug	directories	included	account	notice
+247553	practice	versioning	considered	project	functionality	hold	specs	file	common	generated	missing	attribute	tag	bundle	exported	add	development	issue	created	manifest	libraries	develop	packages	great	eclipse	tags	external	entries	bug	meta	bundles	osgify	creating
+262918	workspace	compare	select	works	platform	required	reproduce	tab	missing	bundle	uncheck	selected	validate	doesn	add	apply	work	steps	click	target	existing	fail	application	bug	regression	bundles	option
+184068	pde	tooling	osgi	exporting	bug	org	exports	http	html	blog	support	importing
+182277	note	parsers	javax	xml	imported	text	jre	supplied	label	eclipse	contenttype	core	expand	refer	indistinguishable	legitimate	comment
+169480	don	flag	string	correct	allowed	save	error	multi	empty	properly	resetting	tab	text	displayed	overview	kind	display	click	comma	names	field	applies	parser	involved	bug	guess	supposed	cleared	updated	changed
+188168	request	instructions	reasons	restart	project	requests	error	launching	running	reproduce	requested	application	bug	restarted	fine	time	attach	launcher
+231688	registry	org	manifest	runtime	convert	version	eclipse	wrong	core	bug	build	reported	compatibility	bundle	errors
+215314	editor	side	focus	trigger	nice	entry	file	bug	hint	builds	text	window	press
+206610	don	start	steps	dependencies	result	existing	problem	bug	create	shutdown	open	resolved
+173072	workspace	don	replace	numbers	save	xml	create	bundle	notice	add	actual	steps	version	click	ins	bug	versions	qualifier	plug
+394260	msg	discussions	commit	inconvenient	issues	decided	endings	problem	dev	fine	xml	committers	mhonarc	ocl	html	standarize	including	issue	includes	respect	users	eclipse	saving	lists	reset	http	mdt	problems	changed	note	don	works	automatically	remember	file	extensible	editors	conver	respects	org	change	cross	plugin	bug	user
+155158	cries	editor	product	wassim	bug	work	support
+211477	parent	preferences	incorrect	preference	opened	main	ide	opening	wrong	dialog	bug	shell
+177177	select	depend	save	required	point	tab	create	uncheck	order	notice	app	manifest	runtime	steps	dependencies	ins	recreate	expect	core	osgi	extensions	bug	header	plug	applications
+441883	bidi	orientation	workspace	created	started	ltr	rtl	follow	dir	environment	attachment	left	files	details
+354586	workspace	navigator	description	project	error	descriptions	head	problem	missing	property	reported	warning	checkout	execution	org	start	eclipse	wrong	environment	bug	build	determining	open
+139037	resolve	plugins	translated	platform	ins	target	pde	view	names	file	bug	plug	tag	properties
+119843	area	metadata	exporting	called	created	refresh	project	ins	folder	java	leaves	deployable	removed	bug	generated	root	fragments	compiler
+222753	apply	change	profile	expected	profiles	steps	notification	bug	options	open	option
+150305	main	disappear	fit	feature	common	tab	fine	text	factor	editors	order	redirect	editor	product	incorrect	lose	contributing	windows	disappears	dependencies	pde	special	suggested	field	tabbing	user	properties	open	forms
+183073	add	editor	extension	unclutter	pressed	drilling	drilled	remove	contribution	triple	bug	extensios	confusing	editors
+206887	workspace	transferred	code	cycle	building	required	reproduce	number	defect	appeared	rmp	late	ruml	create	takes	released	info	cvs	internally	large	version	steps	demand	longer	bug	build	productive
+208164	reference	editor	view	plugin	caused	click
+230447	doesn	add	thw	flag	nature	project	check	good	pde	compute	plugin	bug	xml	invalid	jdt	problems
+226349	standard	workspace	reproduce	path	download	fine	useless	workbench	logs	test	runtime	develop	check	steps	plug	relative	log	error	seemingly	working	realizing	single	busted	bug	build	absolute
+266548	overwrites	don	workspace	additional	error	dialog	path	uncommon	top	lost	create	conflicts	easily	place	definitions	fixable	apply	pressed	pass	preference	check	list	message	chosen	checks	files	wizard	user
+172080	template	select	string	usage	project	source	compilers	reproduce	file	strings	tab	generated	root	builder	create	compiler	bundle	key	broken	preferences	development	apply	substitutes	created	version	steps	click	eclipse	ins	pde	bug	build	externalized	window	open	option
+280630	attachment	bug	created	details	screenshot
+198961	note	select	project	range	required	button	correctly	times	satisfies	create	working	details	calculate	included	bundle	table	adds	include	editor	test	satisfy	change	list	suppose	contained	bug	step	calculations	mark
+171838	fact	asynchronously	preference	start	combo	box	fill	platform	eclipse	locales	file	slow	tab	bug	create	retrieve	time	takes	open
+251970	template	tooling	note	code	generates	string	error	space	required	result	white	generated	imported	missing	console	excesive	eclipse	dependencies	unresolved	bug	build	invalid	errors	problems
+229441	ext	extension	flagged	bug	invalid	plug	shouldn	flagging	point	points
+118850	breaks	project	runtime	difficult	picking	expects	script	application	bug	scenario	build	workbench	defaulttarget
+184646	unchecking	checking	reason	multiple	unchecked	optional	functionality	acts	good	dependencies	pde	bug	bundles	checkbox	difference	dups
+97605	estate	screen	main	control	real	maximize	common	size	provide	bug	extra	exapnd	full
+184644	org	appears	source	ins	eclipse	pde	features	bug	plug	included
+166984	configs	week	bug	failing	config	fails
+151112	junit	apply	org	reproduce	bug	action
+218697	components	projects	data	timestamps	project	descriptions	stale	implemented	modified	dynamic	workspacep	manager	classpath	manifest	created	dynamically	modification	demand	ins	stays	component	osgi	bug	build	retrieve	dispose	properties
+235336	plugins	wiki	platform	integrated	reproduce	dialog	file	updating	compile	verify	create	details	links	workbench	equinox	behavior	resolved	add	editor	dependency	classpath	org	manifest	display	started	steps	integrate	folder	bug	referenced	build	textually	supposed	files	http	sdk	compatibility	supported
+267848	broken	pug	manifest	work	warnings	understand	format	error	ins	outdated	bug	clue	warning	plug	newest
+252751	reason	fail	mysteriously	pre	locally	post	bug	build	builds
+186701	shut	code	project	good	observe	head	swt	fine	linux	create	compiler	win	latest	gtk	hellow	classpath	restart	change	preference	expected	unresolved	amnesia	fragment	bug	errors
+172374	select	invoke	source	launched	reproduce	view	java	compile	generated	locked	test	created	check	steps	click	fail	forget	longer	plug	cleared	errors	primary	discovered	code	configuration	examine	error	erros	delete	platform	running	dialog	current	compiled	feature	clears	writing	close	fails	junit	interesting	clear	refresh	menu	message	ultimately	clearing	target	deleted	application	bug	build	exists	location	rub
+164438	workspace	fact	projects	recognized	project	mistaken	platform	turns	inf	manifest	structure	ins	target	pde	folder	bug	build	meta	investigation	wizard	confusion	treating
+201044	doesn	editor	project	choose	steps	empty	pde	reproduce	transfer	bug	build	create	opens	plug	finish	enter
+163161	select	bad	save	project	reproduce	messed	tab	action	create	add	test	manifest	edtor	steps	tags	call	bug	creates	wizard	open
+418392	issue	dependency	solutions	suggestion	remembering	direct	runtime	optional	require	pde	forget	wanted	build	left	mis	comment	avoid	track	bundle	coming	open
+140381	specifies	workspace	projects	convert	java	root	warning	modifying	warnings	converts	recommended	pde	exist	existing	entry	places	marking	bug	produces	creates	logic
+203356	projects	resolve	loosing	looses	reproduce	dev	create	checked	brave	export	group	add	configured	happen	provisioner	work	check	list	steps	click	strange	unresolved	longer	chris	plug	extension	reloading	box	appears	remove	button	toplevel	extra	missing	place	clicking	included	resolved	preferences	previous	built	apply	restart	launch	ins	pde	existing	environment	plugin	removed	bug	open
+261474	choose	ruler	number	bar	file	rulers	context	checked	editors	doesn	normal	item	manifest	menu	bug	left	time	diffs
+50018	happen	edit	classpath	improves	automatically	prompted	comprehension	good	ideally	file	bug	build	juggling	confusing	prompt
+149604	icon	turn	good	observe	observed	view	file	children	repeat	jard	represented	behavior	close	overview	expected	opening	click	ins	amnesia	blue	bug	opens	open
+293474	editor	created	pde	saving	attachment	tab	bug	ended	creates	details
+153195	metadata	folders	fact	data	link	modifies	project	file	flagged	generated	xml	root	extra	dnd	export	mainfest	editors	editor	overview	built	packages	entry	entries	folder	plugin	bug	meta	actions	errors
+247663	displayed	template	readable	editor	string	displays	icons	opening	pde	component	bug	generated	xml	garbled	tostring	editors
+113004	select	unexpected	ins	pde	view	bug	build	explorer	create	fragments	selected	open	notice
+370536	configuration	appears	error	point	vogella	products	aftrwards	reproduce	file	contribution	xml	action	html	close	rcp	validate	add	creatinge	visible	org	manifest	created	perform	runtime	opened	article	core	extensions	bug	detailed	reopen	creating	closed	http	plug	descrition	step	articles	open
+183405	overview	manifest	project	steps	required	ins	reproduce	create	opens	close	editors	open
+277611	installed	workspace	previous	sources	plugins	installations	hovering	recognized	source	pde	sorce	worked	brings	classname	bug	riena	attached	definition	updatesite	equinox	dont
+138093	automatically	choose	nicer	common	adding	rare	add	editor	visible	manifest	populated	cumbersome	nice	eclipse	chosen	provide	field	bug	additionally	minimum
+154739	pde	editor	qualified	view	tab	plugin	bug	tooltip	opened	deps	fully
+34165	compare	libraries	sync	inconsistencies	entries	file	names	listed	bug	report	warning	jar	mark
+130424	interesting	icon	generally	duplicated	filter	fragment	blue	plugin	bug	header	coalesced	constants	bundle
+264057	bug	isn	preference	missing	api	baseline	users
+154493	bug	explorer	plug	deps	copy	clicking	pkg	opening
+225148	switching	reports	submit	separate	environments	automatically	appears	simple	platform	workaround	fwiw	button	unusable	bugs	worked	reload	asked	easily	moving	heard	pretty	making	manually	hasn	work	multiple	click	environment	bug	regression	annoying
+150916	select	manually	futile	expands	ins	dialog	bug	resize	fragments	huge	time	export
+138127	side	plugin	bug	edit	xml	attached	analysis	dependecy
+149900	add	process	plugins	expected	deps	cry	girl	locks	required	responsiveness	current	bug	watch	adding	lock
+209554	checking	extension	code	projects	check	points	head	bug	find	ended	errors	problems
+173712	add	correct	work	tested	fill	steps	enabled	reproduce	path	external	filling	field	bug	build	enable	create	fails	properties
+167313	indirection	reuse	perfect	honor	sharable	invoke	hook	context	info	read	edit	bottom	sense	sharing	wanted	left	files	plug	choooser	viewer	collapsed	description	choosing	platform	button	current	directories	subsequent	initialized	table	uninitialized	editor	variables	preferences	chooser	suspect	entered	label	great	people	ins	weird	amnesia	removed	bug	initialize	levels	font
+155796	jface	bug	caused	deprecated	warnings	attached	fixes	platform
+201369	template	note	save	project	appears	updates	delete	patch	reproduce	problem	tab	create	unregistered	add	area	adam	side	fixing	manifest	work	testing	underlying	stumbled	steps	deleting	deleted	selection	removed	opens	plug	problems	object
+108954	allowed	needed	error	content	reproduce	prevent	jar	finish	enter	validation	attempts	displayed	inf	editor	abc	resource	windows	message	click	exist	bug	meta	plug	wizard	open
+228765	area	editor	created	enabled	button	file	bug	enter	text	option	browse
+94366	template	mail	called	configuration	foo	dialog	features	file	tab	rcp	notice	app	add	editor	move	including	created	change	selection	plugin	bug
+221852	don	bother	impossible	project	steps	button	feature	plugin	bug	adding	create	finish	wizard	equinox	win	notice
+324773	save	patch	reproduce	top	ticked	close	identifier	reproducible	change	labeled	tick	steps	click	stay	ins	bug	build	reopen	plug	open
+344996	running	freeze	task	bug	leads	ant	api	check
+268966	jface	attachments	works	lib	sourcepath	reference	classpathentry	path	problem	fine	jar	broken	exported	classpath	kind	steps	target	eclipse	entries	bug
+209056	reason	stemmed	instance	registered	proper	generating	platform	provisioned	generated	find	create	bundle	generate	junit	org	work	pool	runtime	started	core	bug	guess	setup	sdk	applications
+229024	overview	editor	extension	called	org	encodings	caused	insensitive	recognized	type	point	eclipse	pde	valid	tab	bug	recognizes	api	apiinfo	informations	info
+266144	broken	extension	topics	point	content	hit	bug	build	doc	links	clicking	open
+128683	inf	jface	rev	org	detect	clean	required	eclipse	txt	correctly	swt	leaves	bug	meta	bundles	bundle	commands
+264106	metadata	project	experimental	good	required	path	trivial	convinced	deletion	lost	find	adding	add	pressed	preference	confirmation	check	list	removing	eclipse	exist	physically	system	provide	creating	files	word	annoying	relative	deletes	internal	don	careful	suffice	resides	delete	platform	local	accidental	prevent	dialog	managed	checkbox	behavior	clicking	gathers	downside	realizing	deleted	bug	absolute	handling	suggestions	user
+176045	doesn	creat	change	start	fill	click	pde	extensions	field	tab	bug	linux	tabbing	fields	element
+116919	referencing	workspace	fact	code	references	save	remove	correctly	file	tab	compile	xml	won	loses	close	win	addition	add	development	winxp	started	real	steps	nightmare	dependencies	saving	bug	build	reopen	plug	style	open
+381875	created	newly	txt	attachment	bug	build	doc	details	user	latest
+163258	specifies	note	extension	values	automatically	retrieved	displays	content	correctly	file	root	defaulted	working	attribute	mechanism	key	situation	inf	displayed	app	doesn	lookup	based	created	entered	longer	osgi	extensions	folder	application	bug	header	plug	location	honored	open	changed
+171962	qualified	extension	select	choose	type	good	content	point	observe	press	selected	add	editor	refreshed	org	created	expected	runtime	click	eclipse	contenttype	core	extensions	plugin	bug	attributes	time
+264383	add	data	edited	preference	resets	experimental	changing	type	platform	result	resetting	bug	reset	wizard	step	initialize	avoid	user
+224447	marked	tooling	based	vice	question	packages	error	setting	problem	picked	pick	api	whitespace	markers	updated	changed	versa
+215743	parent	extension	project	error	point	result	view	file	problem	paying	working	details	views	displayed	exsd	entry	folder	bug	decorators	attention	showing	errors	open
+380857	happen	bee	dcd	org	change	mixed	diff	cdcfoundation	tools	aacc	apitools	abdf	messed	git	bug	build	files	http	api	properties	afc
+143293	projects	select	string	tester	description	language	box	main	content	bar	problem	file	blocking	bitmap	workbench	panel	mette	tct	testing	rhel	reassigned	label	menu	djoerup	steps	dantvt	article	fiile	component	bug	build	defects	location	window	category	user	base
+283588	incorrect	keeping	click	strange	target	hold	button	top	bug	hookup	context	depressed	opens	dynamic	workbench	clicking	open	acting
+436418	displayed	select	org	numerous	plugins	ins	eclipse	dependencies	bug	regression	plug	window	editors
+180420	couple	developers	needed	values	project	platform	extra	persist	credit	friendlier	selected	boxes	settings	development	workflow	change	biased	combo	eclipse	invocation	osgi	framework	defaults	selection	bug	persisted	activator	choice	annoying
+475855	string	mislead	description	language	platform	patch	current	appeared	attachment	strings	ies	context	construction	details	dependent	variables	created	highlighted	tvt	bug	variable	translation	word	user
+307149	observe	building	remove	importing	reproduce	file	java	create	behavior	rebuild	add	identifier	reproducible	incorrect	edit	restart	expected	start	steps	eclipse	osgi	bug	build	files	xxx	consideration	time
+109003	data	plugins	edits	assembly	behavior	editor	replicate	test	lives	edited	testing	expected	multiple	opened	structure	editing	tests	bug	build	located	style	subfolders	open
+443338	reports	project	descriptor	repository	download	xml	property	details	generate	created	steps	saving	core	install	failure	http	sdk	errors	configuration	update	error	tools	delete	remove	dialog	drops	attachment	downloads	assertion	win	rcp	product	org	launch	sample	recreate	pde	connected	site	applicationcss	bug	wizard	runs	open
+113870	schema	emmanuel	adexso	generator	troubles	error	points	unknown	advance	reference	improperly	xml	define	fragments	definition	defined	editor	process	org	exsd	pde	bug
+151501	editor	extension	buttons	manifest	toggle	desirable	body	removing	points	setting	layout	toolbar	horizontal	top	bug	plug	text
+182483	note	objects	changing	updates	dialogs	setting	correctly	lost	sorting	press	editors	development	preference	change	pde	entries	longer	sorted	names	bug	open
+270549	tooling	screen	turn	source	observe	shot	reproduce	attachment	tab	xml	missing	details	close	editor	created	change	opened	steps	eclipse	component	bug	reopen	attached	open
+274646	hits	compare	comparison	bug	finished	good
+201681	manifest	representing	screen	labels	shot	weird	character	problem	form	bug	bracket	xxxx	attached	xxx	editors	open
+229584	compute	broken	patch	weird	bugs	introduced	chris	fixing	feature	attached	dependencies
+197077	cvs	editor	note	code	select	editable	exsd	sections	writable	head	view	file	tab	bug	repositories	definition	attribute	editors	open	latest
+223194	severity	based	cases	values	check	getseverity	running	causing	problem	framework	bug	design	harness	updated
+199129	don	externalization	projects	manifest	pde	fragment	bug	externalized	fragments	wizard	mfs	updated
+199896	big	wasting	workspace	select	moved	express	required	space	patch	wasteful	attachment	details	fragments	area	middle	buttons	created	click	layout	existing	bug	avoid	open
+173791	localization	select	reproduce	find	property	context	create	finish	test	expected	labeled	check	steps	click	tool	meta	explorer	plug	propery	choosing	remove	button	root	checkbox	behavior	inf	headers	follow	menu	osgi	removed	bug	removes	open
+154593	deletes	ben	tools	eclipse	pde	plugin	removed	bug	defined
+137700	generates	ctrl	plugins	branding	save	remove	modify	file	tab	bug	generated	intro	elements	child	element
+154853	editor	request	bug	build	manifest	screen	grey	shot
+228840	skip	paste	error	type	quoe	reproduce	file	warning	attemp	create	copy	validation	ã’ãƒã¬â«ã•â¾ã•	successful	severity	development	created	change	thai	steps	click	fail	bug	build	invalid	step
+443114	small	editor	extension	test	created	caused	custom	project	icons	attaching	longer	attachment	regression	details	comment	reproduction
+201966	extension	select	toc	point	remove	reproduce	file	definition	disabled	editors	hyperlink	org	manifest	expected	version	steps	click	pde	sequence	extensions	build	doc	choice	user	open
+272107	doesn	minor	edited	bottom	tree	winxp	label	issues	target	editing	filter	equal	longer	flat	containers	location	text	bundle	win
+209138	plugins	list	plugin	bug	build	inappropriate	opens	harmless
+298742	uppercase	quick	called	project	source	fixes	head	java	attachment	missing	modified	details	compiler	order	unordered	add	test	org	created	bulb	duplicate	follow	version	click	eclipse	core	entries	light	attached	filebuffers	open	problems
+231409	noextend	configuration	iactivity	multiple	convert	type	people	tags	duplicated	core	weird	times	causing	bug	find	restriction	fixed	api	convertion	bundle	conversion
+252913	tooling	component	ensure	bug	xml	bin	files	includes	included
+164337	pde	number	refactoring	bug	rename	log	project	plug	participant
+226800	precious	created	screenshot	cheatsheet	attachment	plugin	spin	details
+152054	tells	editor	extensions	appeared	bug	hovering	appears	plug	attribute
+226037	scan	experiemtation	directory	somethin	migh	setting	running	general	differently	host	initialization	behavior	track	dependent	info	created	change	follow	explicit	populate	determined	interaction	initialize	user	changed
+229626	change	update	remains	changing	error	existing	problem	bug	warning	problems
+496382	layout	problem	macos	eclipse
+229624	dialog	read	form	bug	plugins	cutted	resizing	wizard	screenshot	wrapped
+274687	sets	reloading	eclipse	pde	load	bug	press	thinks
+264696	exception	metadata	workspace	fiel	log	delete	local	remove	result	file	problem	create	close	selected	add	based	settings	happen	preference	handle	steps	worse	eclipse	pde	core	external	deleted	files	support
+185597	classes	contribute	platform	file	compile	find	won	create	finish	change	start	runtime	ins	eclipse	target	osgi	bug	build	creating	style	completes	activator

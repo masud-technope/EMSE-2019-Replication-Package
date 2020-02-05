@@ -1,0 +1,20 @@
+227939	ocurr	Password	fixed	Logout	Wizard	ocurrs	bug	Overflow	Build	restored
+252002	https	filetransfer	bugs	httpclient	work	NTLMv	difficulties	track	based	NTLMv
+229921	https	bugs	org	bug	cgi	javadoc	compiler	statements	Missing	Bug
+318086	tests	unit	discovery	moment	Discovery	tests	Disabling	discovery	ecf	Bug
+238976	disconnect	notification	side	editor	shared	side	Editor	client	closed	remote
+183492	launch	Bug	ECF	Server	config	Application
+258916	attr	tag	tag	SLP	bad	val	Discover	HTAB	tag	tag
+198731	Open	irc	mouse	text	hyperlink	underlined	Bug	Ctrl	fine	IRC
+292972	fixes	discuss	bug	filetransfer	apply	bug	genuitec	ECF	filetransfer	number
+207530	greater	text	Bug	Collab	multiple	text	executes	character	Time	Cola
+259273	authority	Zeroconf	internal	versa	jSLP	scope	protocol	Discovery	Zeroconf	doesn
+275722	project	ECF	gsoc	ECF	main	bug	http	abstraction	abstraction	org
+327060	location	ecf	include	zookeeper	dev	comment	URI	mailing	zookeeper	port
+221139	form	field	MSN	connection	address	validation	checked	wizards	mail	wizards
+192756	entered	freenode	messages	join	net	server	join	entered	ton	xxx
+287666	javax	HTTPConnection	Removed	resolved	HTTP	fails	Buckminster	javax	releng	iHTTPConnection
+256980	ecf	collab	annoying	project	contribute	containers	contribute	menu	presence	container
+198043	Bug	entries	contacts	contacts	dialog	list	contacts	groups	users	open
+277176	option	menu	Service	working	client	examples	iana	tcp	remotesvcs	bring
+198012	ECF	Bug	ecftcp	hyperlink	form	receive	connect	connect	localhost	activation

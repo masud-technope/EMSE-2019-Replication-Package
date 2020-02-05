@@ -1,0 +1,20 @@
+227939	mail	msn	restoring	login	reproduce	patch	logout	won	write	ocurrs	issue	ocurr	steps	rewrite	build	restored	wizard	fixed	account	open	wizards
+252002	based	cgi	org	work	discussion	filetransfer	eclipse	bugs	difficulties	comment	https	starting	track	authentication
+229921	javadoc	bugs	cgi	org	missing	statements	https	compiler	error	eclipse
+318086	unit	figure	problem	disabling	bug	build	org	ecf	project	moment
+238976	broken	disconnect	side	initiated	code	session	source	originator	remote	disconnected	bug	closed	client	connection	connect	annoying	modifications
+183492	server	application	bug	ecf	launch	config
+258916	val	discover	star	bad	character	bug	reserved	slp	service	invalid	property	safe	hexdig	ctl	attr	htab	escape
+198731	hyperlink	move	works	underline	ctrl	recognition	channel	chatroom	type	steps	click	wrong	reproduce	mouse	foobar	problem	bug	build	fine	underlined	text	open
+292972	additions	apply	patches	ecf	fixes	relevant	pieces	number	application	track	discuss
+207530	discard	instance	insertions	documents	sites	remote	clipboard	participant	deletion	text	greater	kind	real	sync	adapted	collab	applies	atomic	insertion	receipt	shared	deletions	session	document	units	hitting	delete	local	extended	characters	backspace	unsupported	operating	executes	editor	multiple	length	editing	marking	texts	bug	essentially	time
+259273	tcp	jmdns	local	protocol	bug	discovery	slp	iana	jslp
+275722	gsoc	org	wiki	project	http	main	details	acts	eclipse
+327060	msg	note	ecf	mailing	problem	solution	interest	mhonarc	html	org	list	posting	eclipse	discovery	lists	service	http	comment
+221139	msn	xmpp	xmpps	inserted	field	form	bug	checked	connection
+192756	big	server	don	clients	rid	entry	ton	tab	freenode	bug	xxx	messages	spam	net
+287666	ihttpconnection	replacing	httpconnection	filetransfer	releng	buckminster	bug	build	http	fails	resolved
+256980	container	reuse	created	ecf	project	menu	users	contributions	bug	containers	items	annoying
+198043	doesn	dialog	entries	bug	recognizer	recognize	list	users
+277176	remotesvcs	bring	ecf	menu	click	examples	bug	machine	working	client	neighborhood	connect	option
+198012	localhost	receive	server	ecftcp	ecf	dialog	current	form	bug	provider	activation	behavior	hyperlinks	open
