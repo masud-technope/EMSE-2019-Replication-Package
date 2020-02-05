@@ -1,6 +1,6 @@
 # The Forgotten Role of Search Queries in IR-based Bug Localization: An Empirical Study
 
-**Mohammad Masudur Rahman, Foutse Khomh, Shamima Yeasmin, Chanchal K. Roy**
+**Mohammad Masudur Rahman, Foutse Khomh, Shamima Yeasmin, and Chanchal K. Roy**
 
 
 ## Abstract
@@ -12,7 +12,7 @@ Being light-weight and cost-effective, IR-based bug localization approaches have
 
 Bug Reports, Ground Truth & Corpus
 --------------------------------------
-- **```BugID:```** contains the IDs of the bug reports used for experiments.
+- **```BugID:```** contains the IDs of the bug reports used for experiments. It also contains the four clusters of bug reports.
 - **```BugReports:```** contains the raw bug report texts. Each report contains the title (first line) and description texts.
 - **```Corpus:```** contains the source code mapping files needed for evaluation.
 - **```Lucene:```** contains the corpus index created by Lucene 6.2.0
@@ -20,7 +20,7 @@ Bug Reports, Ground Truth & Corpus
 
 Query Evaluation Module
 -----------------------------
-- **```QueryEvaluatorModule:```** contains the [**source code**](https://github.com/masud-technope/EMSE-2019-Replication-Package/tree/master/QueryEvaluatorModule) for reproducing the experimental results reported in the paper.
+- **```QueryEvaluatorModule:```** contains the [**source code**](https://github.com/masud-technope/EMSE-2019-Replication-Package/tree/master/QueryEvaluatorModule) for reproducing the experimental results reported in the paper. It contains the implementation of 10 existing approaches and NrOptimal-GA.
 
 Search Queries for IR-based Bug Localization
 ---------------------------------------------
@@ -44,11 +44,9 @@ Search Queries for IR-based Bug Localization
 - **```NrOptimal-GA:```** contains the queries and their QE measures.
 
 **Near-Optimal vs. Non-Optimal Query Comparison**
-- **```Near-Optimal-All:```** contains 5,552 near-optimal queries from all subject systems.
-- **```Non-Optimal-All:```** contains 8,362 non-optimal queries from all subject systems. 
-- **```ML-Model:```** contains the machine learning models trained on near-optimal and optimal queries.
-- **```Q-Metric:```** contains 31 metrics calculated for each query.
-
+- **```ML-Model:```** contains the machine learning models (e.g., CSV, ARFF, R-code) trained on near-optimal and optimal queries.
+- **```Query-Metric:```** contains 31 metrics calculated for each of the ~14K queries (5.5K near-optimal + 8.3K non-optimal).
+- **```Feature-Importance```** contains the feature importance of search queries learned by machine learning models.
 
 
 Something not working as expected?
