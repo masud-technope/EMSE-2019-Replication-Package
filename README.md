@@ -1,11 +1,11 @@
-# "Some Bug Reports Considered Poor" Considered Poorly: An Empirical Study on Query Construction Practices in IR-based Bug Localization
+# The Forgotten Role of Search Queries in IR-based Bug Localization: An Empirical Study
 
-**Mohammad Masudur Rahman, Shamima Yeasmin, Chanchal K. Roy**
+**Mohammad Masudur Rahman, Foutse Khomh, Shamima Yeasmin, Chanchal K. Roy**
 
 
 ## Abstract
 
-Being light-weight and cost-effective, IR-based bug localization approaches have shown promise in localizing software bugs. However, the accuracy of such approaches is largely dependent on the quality of the bug reports they are based on. Existing studies show that IR-based approaches cannot perform well with poor quality bug reports, in particular where there is a lack of program elements (a.k.a., bug localization hints). On the other hand, there is a recent evidence that shows that even the poor bug reports contain enough search keywords  that could localize the bugs successfully. Such potentially contradictory findings suggest that poor bug reports might not be really poor, and cast a serious doubt on the query selection practices in the IR-based bug localization. In this article, we attempted to clear the sky on this aspect by conducting an in-depth empirical study that critically examines the state-of-the-art query selection practices in IR-based bug localization. In particular, we use a dataset of over 1.5K poor quality bug reports, employ 10 existing approaches from the literature, exploit Genetic Algorithm-based approach to construct optimal search queries from the poor bug reports, and then answer three research questions. We confirmed that the state-of-the-art query construction approaches are indeed not sufficient for constructing appropriate search queries for bug localization from the poor quality bug reports. However, such poor quality bug reports indeed contain high quality search keywords in their texts even though they might not contain the explicit bug localization hints. We further confirmed that optimal queries from poor bug reports are very different than the ones delivered by the state-of-the-art approaches in terms of several qualitative aspects (e.g., part of speech, position within a bug report, similarity with ground truth) indicating further potential for improvements.
+Being light-weight and cost-effective, IR-based bug localization approaches have shown promise in localizing software bugs. However, the accuracy of these approaches is largely dependent on the quality of the bug reports that they are based on. A significant number of the bug reports contain only plain natural language texts and no hints for the localization (e.g., program elements). Several existing studies show that IR-based approaches cannot perform well when these bug reports are used as search queries. On the other hand, there is a piece of recent evidence that suggests that even these natural language-only reports contain enough good keywords that could help localize their bugs successfully. Such potentially contradictory findings suggest that natural language-only bug reports might not be really poor after all. These findings also cast serious doubt on the query selection practices in the IR-based bug localization. In this article, we attempted to clear the sky on this aspect by conducting an in-depth empirical study that critically examines the state-of-the-art query selection practices in IR-based bug localization. In particular, we use a dataset of 2,320 bug reports, employ ten existing approaches from the literature, exploit the Genetic Algorithm-based approach to construct near-optimal search queries from these bug reports, and then answer three research questions. We confirmed that the state-of-the-art query construction approaches are indeed not sufficient for constructing appropriate search queries (for bug localization) from the natural language-only bug reports. However, these bug reports indeed contain high-quality search keywords in their texts even though they might not contain explicit hints for bug localization. We also demonstrate that near-optimal queries and non-optimal queries constructed from the bug report texts are significantly different in terms of several traditional measures (e.g., frequency, entropy, position within a bug report), which provides actionable insights. Furthermore, we demonstrate 10%--25% performance improvement in the non-optimal search queries by leveraging such actionable insights.
 
 
 # Replication Package
@@ -31,7 +31,6 @@ Search Queries for IR-based Bug Localization
 - **```IDF:```** contains the queries and their QE measures.
 - **```TF-IDF:```** contains the queries and their QE measures.
 - **```Kevic:```** contains the queries and their QE measures.
-- **```Kevic:```** contains the queries and their QE measures.
 - **```Rocchio:```** contains the queries and their QE measures.
 - **```RSV:```** contains the queries and their QE measures.
 - **```Dice:```** contains the queries and their QE measures.
@@ -41,8 +40,14 @@ Search Queries for IR-based Bug Localization
 - **```STRICT:```** contains the queries and their QE measures.
 - **```ACER:```** contains the queries and their QE measures.
 
-**Genetic Algorithm-based Optimal Queries**
-- **```Optimal-GA:```** contains the queries and their QE measures.
+**Genetic Algorithm-based Near-Optimal Queries**
+- **```NrOptimal-GA:```** contains the queries and their QE measures.
+
+**Near-Optimal vs. Non-Optimal Query Comparison**
+- **```Near-Optimal-All:```** contains 5,552 near-optimal queries from all subject systems.
+- **```Non-Optimal-All:```** contains 8,362 non-optimal queries from all subject systems. 
+- **```ML-Model:```** contains the machine learning models trained on near-optimal and optimal queries.
+- **```Q-Metric:```** contains 31 metrics calculated for each query.
 
 
 
