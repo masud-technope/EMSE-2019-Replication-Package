@@ -47,6 +47,7 @@ Search Queries for IR-based Bug Localization
 - **```ML-Model:```** contains the machine learning models (e.g., CSV, ARFF, R-code) trained on near-optimal and optimal queries.
 - **```Query-Metric:```** contains 31 metrics calculated for each of the ~14K queries (5.5K near-optimal + 8.3K non-optimal).
 - **```Feature-Importance```** contains the feature importance of search queries learned by machine learning models.
+- **```RQ3-GT-Artifact```** contains the artifact produced from our Grounded Theory-based analysis with low-quality bug reports. 
 
 
 Something not working as expected?
