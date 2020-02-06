@@ -13,18 +13,29 @@ Being light-weight and cost-effective, IR-based bug localization approaches have
 Bug Reports, Ground Truth & Corpus
 --------------------------------------
 - **```BugID:```** contains the IDs of the bug reports used for experiments. It also contains the four clusters of bug reports.
+  - **```HQ-NH:```** 567 High-quality bug reports (i.e., 1<=QE<=10) with no localization hints. 
+  - **```HQ-WH:```** 954 High-quality bug reports (i.e., 1<=QE<=10) with localization hints (e.g., stack traces, method invocations).
+  - **```LQ-NH:```** 372 Low-quality bug reports (i.e., QE>10) with no localization hints.
+  - **```LQ-WH:```** 427 Low-quality bug reports (i.e., QE>10) with localization hints (e.g., stack traces).
 - **```BugReports:```** contains the raw bug report texts. Each report contains the title (first line) and description texts.
 - **```Corpus:```** contains the source code mapping files needed for evaluation.
+  - **```class:```** contains the source code files from each subject system.
+  - **```norm-class```** contains the normalized version of the source code.
+  - **```[system-name].ckeys```** contains the source file-index mapping.
 - **```Lucene:```** contains the corpus index created by Lucene 6.2.0
 - **```GroundTruth:```** contains the source code files that were changed to fix the reported bugs.
+- **```Extra-DS:```** contains the dataset used for testing external validity of our findings.
 
 Query Evaluation Module
 -----------------------------
-- **```QueryEvaluatorModule:```** contains the [**source code**](https://github.com/masud-technope/EMSE-2019-Replication-Package/tree/master/QueryEvaluatorModule) for reproducing the experimental results reported in the paper. It contains the implementation of 10 existing approaches and NrOptimal-GA.
+- **```QueryEvaluatorModule:```** contains the [**source code**](https://github.com/masud-technope/EMSE-2019-Replication-Package/tree/master/QueryEvaluatorModule) for reproducing the experimental results reported in the paper. It also includes the implementation of 10 existing approaches (TF, IDF, TF-IDF, Kevic and Fritz, STRICT, Rocchio, RSV, Dice, SCP, ACER) and NrOptimal-GA used in the paper.
 
 Search Queries for IR-based Bug Localization
 ---------------------------------------------
 - **```Baseline:```** contains the baseline queries and their QE measures.
+  - **```Baseline:```** pre-processed version of title and description from the bug report.
+  - **```Baseline-I:```** pre-processed version of title from the bug report.
+  - **```Baseline-II:```** pre-processed version of description from the bug report.
 
 **Frequency-based Query Selection Methods**
 - **```TF:```** contains the queries and their QE measures.
@@ -41,13 +52,13 @@ Search Queries for IR-based Bug Localization
 - **```ACER:```** contains the queries and their QE measures.
 
 **Genetic Algorithm-based Near-Optimal Queries**
-- **```NrOptimal-GA:```** contains the queries and their QE measures.
+- **```NrOptimal-GA:```** contains the near-optimal queries from 2,320 bug reports and their QE measures.
 
 **Near-Optimal vs. Non-Optimal Query Comparison**
-- **```ML-Model:```** contains the machine learning models (e.g., CSV, ARFF, R-code) trained on near-optimal and optimal queries.
+- **```ML-Model:```** contains the machine learning models (e.g., CSV, ARFF, R-code) trained on near-optimal and non-optimal queries.
 - **```Query-Metric:```** contains 31 metrics calculated for each of the ~14K queries (5.5K near-optimal + 8.3K non-optimal).
-- **```Feature-Importance```** contains the feature importance of search queries learned by machine learning models.
-- **```RQ3-GT-Artifact```** contains the artifact produced from our Grounded Theory-based analysis with low-quality bug reports. 
+- **```Feature-Importance```** contains the feature importance of search queries learned by the machine learning models.
+- **```RQ3-GT-Artifact```** contains the artifacts produced from our Grounded Theory-based analysis with 120 low-quality bug reports. 
 
 
 Something not working as expected?
