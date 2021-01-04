@@ -1,0 +1,13 @@
+Single Release Dataset
+========================
+
+System	Version		#Bugs
+------------------------------------------
+ecf-3.0.0		35
+eclipse.jdt.core-4.4	31	
+eclipse.jdt.debug-2.0	63
+eclipse.jdt.ui-3.5	91
+eclipse.pde.ui-3.3	132
+tomcat70-7.0.52		8
+=====================================
+Total:			360

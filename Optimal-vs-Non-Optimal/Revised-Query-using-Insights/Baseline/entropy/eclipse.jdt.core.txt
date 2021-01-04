@@ -1,0 +1,148 @@
+337415	external folders bug created project metadata configurations plugins runtimedata importing loaded tasks verification recreation loading script launches dangerous causing attachment imported steps preferences ant headless
+222080	item bug array assist proposals completing wrong order completing unzip attachment surprised proposals
+442245	hang bug files source copy paste compiler lead eclipse portion paste clipboard attachment editor hangs automatic daniel hang lead
+455042	java recover caches bug enable model errors recover subject evicted network stands drives reevaluated cleared infrequently timestamp
+385293	normal bug accepts arguments compiler modifiers type silently accepted
+424591	inference bug array capture error resolution small straightforward view javase rev completes subdirectory discovered choose unzip openjdk attachment reproducing execution configure screenshot beta spurious graal
+85384	proposed method bug writing assist declarations proposed writing
+252556	formatter unit removed bug compilation formatted spaces region formatter formatted
+471062	formatter bug comment inserts space installed repo causing havoc join github mars slash inserts items formatter space
+409236	types code bug intersection dropped annotations generator compiler type dropping dropped generator constituents beta
+28951	attachment field bug missing source rootpath restarting older manually edited alright functioning corectly attachment rootpath
+363293	leaks tests bug resource org jdt compiler tool eclipse justified filemanager leaks leak raises
+480029	formatter javadoc comments indentation bug statements error separate submit tested attachment substitutions settings issue ticket windows install plug fresh indentation builds win sdk formatter
+409245	call routed synthetic method bug dropped annotations bridge compiler type accounting moment beta programâ€™s writes optimizations dropped routed
+380313	stack java bug error inconsistent functionality windows forums xtext machine php latest
+413083	debug bug requesting build wrongly builder accuses user info full requesting wrongly accuses
+399769	identifier bug trigger diagnostic compiler keywords unambiguous releases proposed keyword
+420004	properly annotation types bug meta binary annotations restored compiler target patch meta beta shortly restored
+410402	failures bug investigate failures investigate
+467618	indentation bug formater affect elements lines wrapped empty indentation feature preceded formater wrapping leads formatter wrapped
+483895	completion preferences bug disable assist content remove substring preferences
+426678	issue bug accessibility vararg compiler type element issue showing shortly accessibility vararg
+485302	bug warnings missing wildcards annotations
+341296	file read bug classpath error write modifications telling reproducible great remind front clicking overwrite modifications
+29621	folder filtered bug adding delta wrong filtered fresh icons
+162740	website bug error referer website dir coding links documents php equinox
+476859	jdk compiled works oracle method bug fine enclosing error compiler ejc ejc failures attachment oracle traces
+401848	bug astrewrite additional annotations type adds rewrite introduced attachment astrewrite
+434630	types generics bug unexpected mismatch type error nested switching attachment issue generics
+176320	dialog linear bug progress type open deal rushed migrating situation latest striked jobs filled opening strange occurring rendered sdk accumulating dialog linear reindexing
+11076	configs deleted bug remain list favorite configs dialog listed favorite favorites remain configurations
+373953	fup org runtime recognized eclipse core java bug recognized
+421711	identifier lambda bug rejected parameter compiler issue rejected ecj moment rejects behavioral discuss
+180169	add container entries bug returning protection missbehaving protection containers protect missbehaving
+65738	bug build automatically builder save making builds automatic
+403147	fup deferred checking npe consolidate bug unboxing interaction compiler completeness introduced solution consolidate structures duplication relevant diagnostics covered simplify reducing deferred
+427218	inference bug verify compiler error varargs crash
+391376	generics bug methods interaction check bridge delicate cleanly assumptions corner filtering situations unchanged picture relevant produces leaving involving logic generics
+234074	test bug compliance jre dcompliance launched fails launched elaborated dcompliance
+438875	file correct bug encodings delimiter project unix unix encodings
+413913	failures bug investigate failures investigate
+369381	bug unexpected adding compiling assertion compiler potential mark
+24934	doesn move imports top optimize refactoring bug level refactoring
+472815	formatter doesn bug indent work blocks lines empty option mars formatter consisting indented
+385132	bug arrow colon syntax shouls compiler error issue bottom shouls verbatim fixes misplaced arrow colon
+412650	exception lambda bug thrown compiler incongruent small mentioned incongruent
+357110	problem folders bug referenced classes jars type resolved good reproduceable displayed settings circumstances reproducible steps classfolder reproducable explorer reproducably refactor arises describe beeing outputfolder editor
+479474	formatter bug doc comment disabled support problems idea good initializes confirm leads formatter
+90612	types code bug forbidden assist popup choices forbidden
+423409	search references bug fields potential matches deletes ctrl choose view attachment refactoring press alt click inlined continuing
+401790	explicit allocation bug calls constructor compiler follow updates expressions address overlooked updates sends beta
+23162	dom clients ast bug bindings modified control modifiy modification rewriting parallel
+403705	failures bug investigate attachment investigate failures
+421469	npe lambda code resolve bug assist anonymous body localdeclaration stacktrace proposals internalcomputecompletionproposals beta space proposal javacompletionproposalcomputer resolvestatements ctrl computer completionengine intfunction codecomplete
+431275	perprojectinfo bug javamodelmanager deadlock deltaprocessingstate collected urlarray patch broadcastpostchange collectclasspathurls stacks versions broadcastchanges getresolvedclasspathentry monitors traversedelta hitting backported targeted processresourcedelta latest addclasspathchange btw noticed jobs elementadded updateroots runapplication notifyjob getclasspathasurlarray hit callmethodwithexception setclasspath job endoperation urls headless resolveclasspath application setresolvedclasspath addpackagefragmentroot addtoparentinfo eclipseappcontainer broadcast delegatingmethodaccessorimpl bugzilla resourcechanged blocked saferunner product starter eclipseapphandle updatecurrentdeltaandindex owns workbench traces waiting delegating equinox eclipsestarter getresolvedclasspath master worker nativemethodaccessorimpl adaptor invoke utilities lock events adopter eclipseapplauncher jemprojectutilities launcher deadlock jem perprojectinfo notification deltaprocessingstate notificationmanager app deltaprocessor
+190268	bug perform validateedit encoding setting lab genmodel wlwlabinventorywar settings charsetse writetofile setcharset wlw implclose netui inventory beehive perforce war subversion setcharsetfor charsetmanager app struts encoded genstrutsapp encodedfileoutputstream outputstreamwriter validateedit prefs eclipsepreferences encoder streamencoder projectpreferences preferences
+277382	npe failures parser bug jface viewing attach equinox editors synchronize saveablecompareeditorinput editor failures team saveable sample strange consumerule consumeclassheadername consume
+393356	failures bug compilerinvocationtests invoke setlocation getoutputdirectory callmethodwithexception filenotfoundexception runtests dash basic basicrun invokeframework latest failures runapplication hudsonbuild users eclipseappcontainer compilertestsetup comptest eclipseapphandle appdata compilerinvocationtests eclipseapplauncher coretestapplication javacfilemanager eclipsestarter starter adaptor eclipsetestrunner application equinox launcher app
+412639	bug testbug failed resourceleaktests invoke gtk basicrun invokeframework checkcompilerlog assertstringequals runapplication download callmethodwithexception runtests basic drops downloads linux testresults comparisonfailure eclipseappcontainer eclipseapphandle compilertestsetup runtest resourceleaktests stat starter eclipseapplauncher resultset refers coretestapplication executequery eclipsestarter adaptor eclipsetestrunner application equinox leak closeables launcher app closequietly rset quietly autocloseable closeable
+418843	npe bug contructor missing enum boxes saving examples flawed backgroundthread actions annoying undefined kepler detection noticed strace runoperation speedtest makeconsistent upgrading background plug contructor box speed button executeoperation existent javacompositereconcilingstrategy compositereconcilingstrategy hovering saferunner abstractreconciler fiel monoreconciler jface mono qualifiedallocationexpression testenum npes composite javamodeloperation reconcileworkingcopyoperation compilationunitproblemfinder reconciler javareconcilingstrategy reconciling strategy
+423280	bug failure testaddnonjavaresourcepackagefragmentroot disabled invoke download callmethodwithexception runtests basic basicrun drops invokeframework downloads protect assertresourcesequal testresults runtest superrun assertstringequals comparisonfailure runapplication abstractjavamodeltests eclipseappcontainer win eclipseapphandle testaddnonjavaresourcepackagefragmentroot eclipseapplauncher oject ojecttests testnonjavaresource coretestapplication eclipsestarter starter adaptor eclipsetestrunner application equinox suiteoftestcases settings launcher app javaprojecttests
+427216	java bug array regression varargs wiki channel experimental downgrade vararg nosuchmethoderror versions daily basic friday older aslist beta compiles great people broke updates week
+439431	classfile bug aioobe dumptargettypecontents compiler makeconsistent generatetypeannotation generatetypeannotationsoncodeattribute completecodeattribute background backgroundthread aioobe sudden stopped generateruntimetypeannotations occured executeoperation runoperation javacompositereconcilingstrategy monoreconciler compositereconcilingstrategy jface dumptargettypecontents mono saferunner dump abstractreconciler composite javamodeloperation reconcileworkingcopyoperation compilationunitproblemfinder reconciler javareconcilingstrategy reconciling strategy
+448043	node ast bad astconverter bug structure illegalstateexception space stub internalcreateast rewriteimports ctrl abstractjavacompletionproposal press importrewrite javatypecompletionproposal compilationunitresolver syso mainscreen screen proposal rewrite
+46084	java code bug feeding arrayindexoutofboundsexception real compiler usecase fed dietparse crash getcurrenttokensource secondaryphase builddeltas basicbuildloop readtokenfromscanner dobuild errorrecovery diagnoseparse feeding diet deltas reportsyntaxerrors jobs reportsyntaxerrorsforskippedmethod begintocompile severe worker incrementalimagebuilder javabuilder basicbuild internalplatform autobuildjob job abstractimagebuilder basic lex lexstream diagnoseparser events diagnose buildmanager
+464570	codegen init condition race field method bug novisiblelocals compiler codestream worker visiblelocalscount easy bytecode workerthread fixes pctosourcemapsize alllocalscounter translated generatebytecode avoiding exceptionlabelscounter processcompiledunits lastentrypc performjob countlabels targetclassfile compilegeneratedfiles figure threads intermittently codegenjob showing typeannotationcodestream branchlabel exceptionlabel jdtjava exceptionlabels jdtjavacompiler threadpool clientutilsimpl frame aioobe stackmapframecodestream sourcefile visiblelocals race proxy javasourcefile job proxysourcefile noexceptionhandlers nolocals nolabels novisiblelocals jsp weblogic labels repackaged
+471034	annotation external bug array parameter creating format error type createproposalsfortype annotateparametertype signatureannotationchangeproposal annotate tarray computequickassistproposals contentassistprocessor dryrun mismatching computecompletionproposals dry rewrite correction contentassist initializeoperation proposalcreator parameterannotationrewriteproposal quickassist creator structures updatetype collectexternalannotationproposals quickassistassistant contentassistant brackets cursor jface ctrl pressing enumerate saferunner externalnullannotationquickassistprocessor proposal assistant quick corext externalannotationutil externalnullannotationchangeproposals proposals
+474762	test bug lambdaexpressionstest fails assertionfailederror invoke download callmethodwithexception cocoa runtests switched basic basicrun mac drops invokeframework downloads macosx testresults runapplication generics eclipseappcontainer binds noop compilertestsetup runtest eclipseapphandle eclipseapplauncher coretestapplication eclipsestarter starter adaptor eclipsetestrunner lambdaexpressionstest application equinox launcher app
+483467	bug autocomplete lambdas stackoverflow swtexception stackoverflow basic basicrun delegatingmethodaccessorimpl readanddispatch invokeframework delegating createandrunui autocomplete runapplication ideapplication databinding runasyncmessages overflow runwithdefault synchronizer createandrunworkbench platformui stackoverflowerror nativemethodaccessorimpl async eclipseapphandle application observable tagashavingerrors widgets eclipseapplauncher partrenderingengine rendering equinox eclipsestarter starter adaptor realm invoke app launcher workbench swt
+488888	exist bug resource internalinit dopendingwork violates inputchanged peter checkbox preferences getcompilationparticipants getsourceviewerconfiguration feedinput good compilationparticipants internalrefresh idea pending notifyparticipants readanddispatch configuresourceviewer mistake unacceptable createcomparecontrol callers repository internaldosetinput push logging activator runincurrentthread createcontents isactive tracked anti explains runoperation corext natures compilationuniteditoradapter history viewers updatecontent configuretextviewer internalsetcontentpaneinput executeoperation master uilocklistener uilock contentviewer createfakecompiltationunit javamodelutil runnablelock haspluginnature configure abstractdecoratedtexteditor uisynchronizer partrenderingengine comparecontentviewerswitchingpane lock rendering statustexteditor compareviewerswitchingpane showwhile dsannotation decorated runasyncmessages compilationuniteditor feed synchronizer dsannotationcompilationparticipant async compiltation participants jface workbenchwindow switching setinput modalcontext textmergeviewer modal javamodeloperation widgets reconcileworkingcopyoperation busyindicator indicator busy workbench pdecore pane compilationunitdocumentprovider texteditor dosetinput compareeditor swt contentmergeviewer abstracttexteditor javamergeviewer pde javaeditor compareeditorinput viewer editor
+92005	aiobe bug assist content getunspecifiedreference runeventloop updaterecoverystate wmchar press runui handleevent basicrun dispatchmessage delegatingmethodaccessorimpl aiobe snippe attachorphancompletionnode dispatchmessagew invokeframework attach resume parsesnippeinitializer processkeyevent filterevent orphan dooperation buildmorecompletioncontext showwhile resumeonsyntaxerror showproposals executecommand basic filterkeysequencebindings keydownfilter readanddispatch delegating showpossiblecompletions completions computeproposals platformactivator displayviewaction activator createandrunworkbench viewer platformui windowproc displayview parameterizedcommand proc legacyhandlerwrapper busyindicator nativemethodaccessorimpl indicator ideapplication assistparser commands sendkeyevent eventtable legacy sourceviewer busy win adaptor codecomplete parseblockstatements computecompletionproposals displaycompletionprocessor starter contentassistant launcher completionengine eclipsestarter assistant sendevent invoke view proposals contentassist completionparser jface proposal completionproposalpopup popup widget widgets keyboard workbenchkeyboard swt workbench
+15036	astvisitor correctly called bug postvisit previsit getchild parsecompilationunit incorrectly simpler misunderstanding thepackage icu postvisit previsit
+388634	test bug failure compliance preview runjdtcoretests chooses route jdtcore misses dcompliance
+396139	targeting java bug build define jre beta cecfab tracking observe download manoj builds offers coordinate upgrade difficult propose examples exact commits otoh fillable aefe head targeting latest failures green regressions closer newer functions javadoctestforclass team beta
+396258	qualified names bug adopt syntax annotations nulltypeannotationtest type introduce variance adopt forces simplify interpreted nonnull nulltypeannotationtest
+399567	reference bug error message compiler ambiguousmethodtest inherits unrelated exe jan parallel parallelstream windows orderedset
+401989	lambda hook bug compiler analysis expressions referencemethod hook relies analyzecode issued participate noticed piece alerted analyze
+403457	npe bug signature wildcardbinding compiler goo beta compiles triggers uncommented
+405051	happen search primed bug javamodel refreshexternalarchives metadata approach indexer containers newindexurl concept rebuilt ways latest refreshexternalarchives ideally indexmanager populates containerpath computeindexlocation archives primed initializeafterload
+405889	codegen npe bug needed scope getjavalanginvokemethodhandleslookup compiler resilience spawned handles getjavalanginvokemethodhandleslookup invoke review resilience beta
+412882	entries library bug classpath unnecessary optional validation validatelibrarycontents patch majority changeclasspathoperation rawclaasspath profiler spending validatelibraryentry classpathvalidation setrawclaasspath portion existed verifyarchivecontent setclasspathoperation validated getzipfile classpathchanged spent executeoperation unncessery runoperation closezipfile javamodeloperation validateclasspathentry âµs classpathentry validation
+415911	npe method bug missing compiler type annotated triggers head beta
+416313	broken plausibly cherry bug unique typeids compiler picking cherry reassign eliminate javalangfunctionalinterface beta picking plausibly junitframeworkassert
+417388	typebinding bug parameter typereference annotations type referencing ideally interestingly basetypebinding
+417669	dom incorrect ranges bug simpletype source nested parameterizedtype annotated ranges annotatabletype dialog parameterizedtype astview
+418919	internal forcing bug bindings compiler remove creation annotated drop unannotatedtypesystem ball defect gating storeannotations beta raising annotatabletypesystem forcing unannotated stilltesting globaloptions typesystem
+424718	ast bug typereference api compiler compatibility intermal nowadays compilers projectlombok breaking dimannotations kindly acceptance topic aware breaks languages nice rise functions plugins lombok popular basetypereference basetype
+426434	err bug client crashes passed eclipsecompiler crashes passes eclipsecompiler
+430451	fail tests bug org compilerinvocationtests jdt compiler jre tool eclipse iterable fixes attachment surrounding compilerinvocationtests patch failing dash
+478427	internal initializeannotationprocessormanager bug org classnotfoundexception batch main jdt compiler eclipse consumes instantiationexception logger ignores instantiation vmversion setout logincorrectvmversionforannotationprocessing unsupportedclassversionerror annotationprocessormanager seterr expandedcommandline batchcompiler expanded consumes programmatically configure batchannotationprocessormanager abstractannotationprocessormanager initializeannotationprocessormanager annotationmanager
+69658	classinstancecreation javadoc typo bug typo existed latest
+70665	jls dom ast bug missing constructor type parameters declaration
+104245	javadoc newcompilationunit ast bug error discussion descendents suggested parents paragraph forest setroot newcompilationunit
+124099	unconditionalflowinfo incorrect bug merge compiler addinitializationsfrom flowinfo flow info extradefiniteinits lot area definite remain xlarge crafted unchanged suggested complains xlargetest patch otherinits
+126180	npe bug invalid enclosing compiler type reporting raised causing
+126914	bug extraneous bound mismatch compiler error inverting extraneous bounded generictypetest raises
+145202	reference negated bug analyzer positive negated raises analyzer positive
+148328	javadoc unescaped bug xml nested tags escaped unescaped jdtapt defective
+149562	small problem bug enumerations statements small covers folling complains
+150655	correct method bug parameterized find compiler overloaded version nextboolean head random choose
+158274	head aptconfigurationblock compile bug error thought dialog nightly restarted tomorrow apparent relase tuesday interfere listdialogfield aptconfigurationblock builds milestone head
+165346	internal conservative ast org operatorexpression eclipse bug nullstatus jdt compiler flowinfo conservative integrating jml exploration dsrg covered operatorexpression nullstatus
+168331	method bug compiler abstractmethoderror introduced reproduces iextendedlist testabstractmethoderrorbug extendedlist iextendedlistentry abstractmethoderror ilistentry abstractmethoderrorbug iextended ilist
+170843	bug resourceexception deletederivedresources ignore filesystemutil occasional good deletion warrant fixing simultaneous throwing passes locking arguably severe deletederivedresources resourceexception
+17531	valid entering file bug globalactions save fails globalactions assumptions entering refactoring happening plan actions
+176591	reports java bug mismatch compiler type erroneously steps leads erroneously emptyset typed gettypedset
+181393	defaultastvisitor doesn bug methods override consequence markerannotation endvisitnode visitnode defaultastvisitor
+186457	charset java bug nio inconsistency breaking eclipse newdecoder newencoder breaking bottom uncommented succeeded commented inconsistency aliases charsetencoder exe charsetdecoder decoder encoder stars charsetsub
+193784	licenses proprietary bug subject jsp dtd confidential licenses troublesome jsptaglibrary plugins xsd annotationprocessors app web servlet proprietary
+208186	don file bug generated change encoding settings deal improvement encodedfileoutputstream perf encoded
+217002	javadoc editor typo aptpreferenceconstants bug processing disabled option sentence reads editing typo suggested annotationprocessorfactory editor aptpreferenceconstants
+228691	mirror types primitive assignment wrapper isassignable sun impl util bug returns jdt acceptable meaning autoboxing issue steps transformations annotating classtype primitives attachment overview structures issubtype isassignable
+268802	call getsource bug useless sourcetypeconverter convertannotations useless converter sourcetypeconverter
+29516	searchengine bug regressions searchengine refactoring failing regressions
+301894	large bug project annotations outofmemory error building product reproducible patch appeared sees outofmemory adopters
+30516	javadoc typo bug ipackagefragmentroot isarchive typo ragment
+327143	bug jobs processing thread indexmanager accept waiting simulateexit consequence touch ended stops indexmanager simulaterestart job awaiting jobs
+341499	unconditionalflowinfo allocate bug methods extra bits compiler markasdefinitelynonnull imo markasdefinitelyunknown patch markasdefinitelynull released issue fixes
+41554	search bug failure assertion easier
+421796	java code method bug executing compiler lang abstractmethoderror play role tested executing beta execution emitting bridges abstractmethoderror
+424075	bug regression compiler compiles updates predicate piece aslist consumer latest pred
+425493	bug regression compiler requirenonnull compiles snapshots piece jan latest addattribute
+429763	incompatible lambda expression bug parameter compiler type stumbled
+429949	javadoc bad bug link create icompilationunit importrewrite subject referential claim importrewrite rewrite
+430987	typed java compile bug arguments compiler error standalone mockito faced typed managed compileerror nocompileerror dosomethingwithfoo
+431963	dom method bug parameter annotations type confusion varargs stub confusion nullable nonnull
+432603	doesn reports javac compile bug error ecj nullable questions succefully testit fromnullable mvn discussed ecj stackoverflow
+435397	method bug lambdas compiler ambiguous eager conf buildid patch attachment bootmodule kepler boot cons macosx compiles binder basemodule configure module
+441338	substitution bug parameterized annotations type combine eager dropped iow combine unannotated touppercase nonnull getu nullable
+448800	substituteinferencevariable bug compiler capturebinding handles srikanth lowerbound insufficiently downstream initializebounds fresh substituteinferencevariable capturebinding
+451660	pointer access bug variable warning location compiler wrong couple friendly prints bugreports
+451677	inference bug missing compiler type operationoncreated
+460465	search workspace constant references statically bug type enum importing doesnâ´t ctrl importing statically attachment testenum
+470535	userlibrary bug hashcode userlibrary git
+483690	charset bug idejavasourceoutputstream collected outputstreamwriter solution discards ideoutputjavafileobject bytearrayoutputstream openoutputstream idejavasourceoutputstream
+488461	javadoc accurate bug compilationparticipant isannotationprocessor buildcontext processannotations isannotationprocessor compilationparticipant
+55930	file bug save encoding executeoperation commitworkingcopyoperation
+79809	javadoc dom bug parameter type support tags ranges sigle deluxe tagelement closing solution distinguishable drawback users complicated angle suggestion brackets
+83297	annotation declared don provide bug methods bindings elements
+88757	switchgroups bug statements returns api list switchstatement clarified latest group switchgroups groups
+405125	lambda suggested code expression bug members member assist appearing declaration ctrl space anirban happening appearing suggested
+406396	cases method bug misses bunch analysis stems quick fixes confused candidate tagged misses basically meant diagnostics bunch solace goo
+422107	result lambda code bug invoking variable assist initialized template doit suggestions proposals ctrl invoke space
+25377	correct bug array location error empty initializer view
+31261	unit bug max compilation behavior strange errors strange unti
+403036	javadoc bug message content wrong inaccessible click hover differently
+42243	mode incorrect bug syntax diagnosis source misleading flagged keyword diagnosis
+456395	java code compile bug sample attachment

@@ -1,0 +1,148 @@
+337415	external folders bug created project metadata configurations runtimedata delta details tasks verification zip recreation script folder configuration file attachment classpath bug variable projects steps eclipse behavior preferences launch workspace folders data project
+222080	item bug array assist proposals completing wrong order workspace type problem file attachment array identity details jar order completion item bug project astnode test list proposals
+442245	hang bug files source copy paste compiler lead eclipse workspace portion clipboard problem attachment details text compiler editor level daniel bug setup project source java eclipse files
+455042	java recover caches bug enable model errors cache caches classpath jars archive network java bug drives model jar errors
+385293	normal bug accepts arguments compiler modifiers type references grammar bug context arguments position type compiler modifiers
+424591	inference bug array capture error resolution project source number problem details test subdirectory problems inference error directory file attachment top execution start environment clone report projects eclipse code screenshot bug workspace resolution errors
+85384	proposed method bug writing assist declarations bug content method declarations
+252556	formatter unit removed bug compilation formatted spaces region formatter javadoc unit compilation comment test bug spaces region
+471062	formatter bug comment inserts space code repo source file havoc lines semicolon github mars format column bug time inserts items formatting formatter comment space comments
+409236	types code bug intersection dropped annotations generator compiler type types code generator point compiler constituents annotations type bug intersection
+28951	attachment field bug missing source rootpath reason projects path file root classpath version alright jar eclipse bug files attachment rootpath field source
+363293	leaks tests bug resource org jdt compiler tool eclipse code test filemanager leaks leak suite bug resource warnings
+480029	formatter javadoc comments indentation bug statements error configuration statements error result attachment substitutions statement details tag settings comments issue ticket windows jdk formatting javadoc indentation builds file zip formatter bug
+409245	call routed synthetic method bug dropped annotations bridge compiler type classfile ast accounting point moment optimizations methods java compiler method call bug bridge annotations type
+380313	stack java bug error inconsistent thread functionality error windows version xtext bug machine details java
+413083	debug bug requesting build wrongly builder accuses user info full debug builder user info bug
+399769	identifier bug trigger diagnostic compiler keywords error point releases bug compiler keyword spec java warning identifier
+420004	properly annotation types bug meta binary annotations restored compiler target types targets patch getannotations bug meta compiler annotation annotations type
+410402	failures bug investigate failures bug
+467618	indentation bug formater affect elements lines wrapped empty fact indentation split feature details lines behavior policy attempts formater implementation force comment problems formatter bug elements
+483895	completion preferences bug disable assist content remove substring bugs code content completion preferences bug
+426678	issue bug accessibility vararg compiler type element issue test type regression compiler element accessibility vararg problem bug
+485302	bug warnings missing wildcards annotations bug warnings wildcards annotations
+341296	file read bug classpath error write modifications identifier error entries file bug front modifications option classpath
+29621	folder filtered bug adding delta wrong workspace project source path file java model resource bug children test txt delta src icons folder
+162740	website bug error referer website error directory file bug stream html
+476859	jdk compiled works oracle method bug fine enclosing error compiler ejc code fine details compiler ejc failures method test command eclipse bug failure errors error attachment oracle traces jdk unit tests
+401848	bug astrewrite additional annotations type adds annotation annotations type error testcase attachment bug astrewrite details
+434630	types generics bug unexpected mismatch type error nested types code error attachment details errors issue project type generics bug mismatch
+176320	dialog linear bug progress type open workspace situation change jobs format bug sdk type dialog indexing reindexing progress
+11076	configs deleted bug remain list favorite configs list dialog bug favorites configuration configurations launch
+373953	fup org runtime recognized eclipse core java bug fup checks handling bug
+421711	identifier lambda bug rejected parameter compiler code ecj moment warning difference compiler identifier lambda bug parameter javac
+180169	add container entries bug returning protection missbehaving protection spec mode trace containers container entries bug
+65738	bug build automatically builder save project eclipse bug builder builds notice time change
+403147	fup deferred checking npe consolidate bug unboxing interaction compiler fup completeness bit solution compiler structures control analysis duplication diagnostics nodes interaction dimensions checking code npe bug
+427218	inference bug verify compiler error varargs snippet inference error crash compiler varargs info bug
+391376	generics bug methods interaction check bridge code error assumptions bugs problem corner behavior situations cases method analysis picture failure verifier interaction parts messages comment logic generics bridge bug methods
+234074	test bug compliance jre dcompliance launched fails log error bug mismatch dcompliance compiler account compliance jre
+438875	file correct bug encodings delimiter project unix projects encoding delimiter files comment encodings file bug project
+413913	failures bug investigate failures bug
+369381	bug unexpected adding compiling assertion compiler potential mark bug assertion compiler mark
+24934	doesn move imports top optimize refactoring bug level imports bug errors move level
+472815	formatter doesn bug indent work blocks lines empty option blocks mars body formatter bug lines option
+385132	bug arrow colon syntax shouls compiler error issue shouls fixes names grammar bug failure lines compiler arrow error syntax tokens
+412650	exception lambda bug thrown compiler incongruent exception test project description lambda compiler bug
+357110	problem folders bug referenced classes jars type resolved folders jars source jar identifier settings circumstances steps classfolder reproducable files libraries plugin bug project type java folder workaround message outputfolder subclass bin sourcefolder problem classes file editor src error
+479474	formatter bug doc comment disabled support problems idea body javadoc preference declaration parser setting nodes formatter comment problems bug
+90612	types code bug forbidden assist popup bug classpath project choices types code
+423409	search references bug fields potential matches workspace deletes ctrl result view attachment refactoring details press alt message field bug compilation fields errors shift project test search declaration matches references
+401790	explicit allocation bug calls constructor compiler follow updates expressions updates message compiler allocation constructor expressions calls bug
+23162	dom clients ast bug bindings modified control dom tree modifiy modification bug asts clients nodes ast bindings
+403705	failures bug investigate attachment bug failure details failures list
+421469	npe lambda code resolve bug assist anonymous body localdeclaration snippet problem stacktrace foo error content syntax body space lambda ctrl npe intfunction tostring bug code
+431275	perprojectinfo bug javamodelmanager deadlock deltaprocessingstate patch path broadcastpostchange jar collectclasspathurls stacks versions broadcastchanges getresolvedclasspathentry monitors traversedelta stream processresourcedelta btw updateroots ibm runs getclasspathasurlarray mode callmethodwithexception endoperation resolveclasspath addpackagefragmentroot addtoparentinfo bugzilla product call bug updatecurrentdeltaandindex traces getresolvedclasspath thread master lock adopter deadlock monitor code method javamodelmanager jdt java
+190268	bug perform validateedit encoding setting source system processing perforce annotation control call subversion bug exception validateedit charset file project
+277382	npe failures parser bug projects log project error html text editors npe failures sample bug doc files workspace file parser
+393356	failures bug compilerinvocationtests trace failures bug bin users temp comptest regression appdata compilerinvocationtests test
+412639	bug testbug failed resourceleaktests problem difference log resultset method leak closeables resource error type closequietly bug
+418843	npe bug contructor missing enum addition boxes examples messages actions log event detection strace trigger bug fine loop problems contructor box constructor code error npe message exception testenum npes problem enum eclipse
+423280	bug failure testaddnonjavaresourcepackagefragmentroot disabled bug location failure difference testaddnonjavaresourcepackagefragmentroot resources ojecttests abc classpath settings javaprojecttests project test java
+427216	java bug array regression varargs exception channel downgrade fine varargs vararg runtime versions workaround friday beta thread message people bug method support updates regression toarray test foo error args week array string java
+439431	classfile bug aioobe dumptargettypecontents compiler aioobe trace bug workspace errors problem compiler
+448043	node ast bad astconverter bug structure illegalstateexception parent body space stub method ctrl todo bug source illegalstateexception node structure exception astconverter syso ast mainscreen
+46084	java code bug feeding arrayindexoutofboundsexception real compiler usecase annotations crash bug method arrayindexoutofboundsexception code compiler
+464570	codegen init condition race field method bug novisiblelocals compiler codestream jar bytecode fixes bug classfile targetclassfile conflict branchlabel exceptionlabel field arrayindexoutofboundsexception condition files aioobe race init method noexceptionhandlers nolocals nolabels novisiblelocals jsp codegen source jdt length compiler java
+471034	annotation external bug array parameter creating format error type tarray method format log computing structures command bug brackets cursor ctrl array completion error thread parameter type proposals annotation
+474762	test bug lambdaexpressionstest fails mac platform bug output generics methods noop file lambda
+483467	bug autocomplete lambdas stackoverflow stackoverflow autocomplete bug source method
+488888	exist bug resource version coreexception result javadoc peter checkbox preferences call iproject idea mistake message time callers repository activator methods history entry entries problems code trace master bug project file annotations resource problem nature log pde unit compilation java
+92005	aiobe bug assist content aiobe jdk bug details debugging loop entry exception sun message view method content source event display
+15036	astvisitor correctly called bug postvisit previsit icompilationunit source java model problems code thepackage getname bug output method acceptchildren file icu astvisitor node postvisit astnode previsit compilationunit visitor child post
+388634	test bug failure compliance preview runjdtcoretests log route bug dcompliance compiler levels tests failure test compliance
+396139	targeting java bug build define jre beta project branch download problem members manoj builds kind version examples failure otoh point head member process failures change regressions environment time lambda tests javadoctestforclass types team bug test beta jre
+396258	qualified names bug adopt syntax annotations nulltypeannotationtest type kind change names tests variance forces bug nulltypeannotationtest object syntax annotations type
+399567	reference bug error message compiler version defaults object code lines bug markers reports reference pointer core parameters errors access methods parallelstream warnings message location jdt javac test stream compiler types error list orderedset
+401989	lambda hook bug compiler analysis expressions program type hook problem warning compiler call bug piece val code lambda test analysis expressions method
+403457	npe bug signature wildcardbinding compiler goo foo program compiler bug string npe object map marker
+405051	happen search primed bug javamodel refreshexternalarchives workspace metadata project approach work sense indexer list files containers newindexurl concept ways archive indexmanager engine containerpath ipath bug iprogressmonitor archives attribute classpath call url location manager search
+405889	codegen npe bug needed scope getjavalanginvokemethodhandleslookup compiler resilience codegen npe review comment compiler resilience bug
+412882	entries library bug classpath unnecessary optional validation jars patch number majority tree profiler setrawclaasspath status portion call bug time âµs project entries library validation classpath
+415911	npe method bug missing compiler type annotated snippet method string foo head bug compiler npe marker type
+416313	broken plausibly cherry bug unique typeids compiler picking cherry values reassign javalangfunctionalinterface duplicates cases sort bug junitframeworkassert type typeids compiler
+417388	typebinding bug parameter typereference annotations type code foo typereference bug object argument parameter basetypebinding annotations type
+417669	dom incorrect ranges bug simpletype source nested parameterizedtype annotated dom code ast ranges range error annotatabletype dialog problem simpletype structure args node astview bug source string annotation marker
+418919	internal forcing bug bindings compiler remove creation annotated code unannotatedtypesystem point ball defect gating compiler creation annotatabletypesystem bug conditions bindings annotations lookupenvironment
+424718	ast bug typereference api compiler compatibility instance language compilers breaking kind dimannotations version acceptance apis topic parameters request extension signature annotation breaks languages jdk bug functions plugins annotations function api method lombok eclipse ast basetypereference compatibility compiler basetype typereference type
+426434	err bug client crashes passed eclipsecompiler crashes error output javadoc input bug client parameters care eclipsecompiler
+430451	fail tests bug org compilerinvocationtests jdt compiler jre tool eclipse fixes attachment details bug patch jre tests
+478427	internal initializeannotationprocessormanager bug org classnotfoundexception batch main jdt compiler eclipse consumes instantiationexception argument output illegalaccessexception warning jar code message bug user abstractannotationprocessormanager classnotfoundexception error classpath command processors initializeannotationprocessormanager compilation annotationmanager processor eclipse compiler annotation
+69658	classinstancecreation javadoc typo bug javadoc note typo bug sense classinstancecreation form
+70665	jls dom ast bug missing constructor type parameters declaration javadoc bug definition method constructor type parameters declaration
+104245	javadoc newcompilationunit ast bug error note fact discussion error type descendents children getroot nodes bug syntax parents paragraph forest setroot tree newcompilationunit method javadoc unit compilation node ast root
+124099	unconditionalflowinfo incorrect bug merge compiler addinitializationsfrom flowinfo flow info bit extradefiniteinits lot flowinfo area bug fields patch compiler flow receiver test info
+126180	npe bug invalid enclosing compiler type reporting method foo args problem field bug reporting npe string type compiler access object member
+126914	bug extraneous bound mismatch compiler error declaration substitute declarations bug parameter compiler test source error file type mismatch
+145202	reference negated bug analyzer positive code string bug object reference analyzer element
+148328	javadoc unescaped bug xml nested tags bug comment html tags xml javadoc
+149562	small problem bug enumerations statements code string values enumerations statements source problem statement enumeration test enum args type bug types val
+150655	correct method bug parameterized find compiler overloaded version nextboolean type version eclipse head jdk bug arguments method error compiler utils string
+158274	head aptconfigurationblock compile bug error tomorrow relase tuesday plugin listdialogfield error aptconfigurationblock builds milestone bug jdt head
+165346	internal conservative ast org operatorexpression eclipse bug nullstatus jdt compiler flowinfo jml result operators conditionalexpression exploration method dsrg bug compiler flowinfo eclipse
+168331	method bug compiler abstractmethoderror string bugs java runtime version eclipse args time code iextendedlist testabstractmethoderrorbug extendedlist compiler iextendedlistentry abstractmethoderror ilistentry abstractmethoderrorbug getentry bug error method list
+170843	bug resourceexception deletederivedresources ignore reason projects problem deletion method testing exceptions failure files problems coreexception instances turn bug deletederivedresources resourceexception exception resources
+17531	valid entering file bug globalactions save fails reason globalactions error message assumptions bug plan problems java file
+176591	reports java bug mismatch compiler type erroneously level steps java bug compliance type mismatch gettypedset compiler
+181393	defaultastvisitor doesn bug methods override consequence ast markerannotation endvisitnode nodes bug visitnode methods defaultastvisitor astnode visit
+186457	charset java bug nio inconsistency breaking eclipse erasure project newdecoder newencoder warning method errors object methods warnings args bug compilation subclass inconsistency aliases charsetencoder test code charsetdecoder obj region error stars eclipse string charsetsub compareto java charset
+193784	licenses proprietary bug copyright code microsystems source distribution file terms dtd rights licenses bug files xsd java eclipse license sun
+208186	don file bug generated change encoding settings improvement encodedfileoutputstream difference perf problems bug file
+217002	javadoc editor typo aptpreferenceconstants bug processing disabled option string processors sentence editing typo bug javadoc order processing option
+228691	mirror types primitive assignment wrapper isassignable sun impl util bug returns jdt project annotations primitivetype reference impl path meaning details api autoboxing issue method kind processor steps transformations returns errors code reasons classtype primitives attachment overview implementation structures bug jdt wrapper language jar processing sun file integer source level annotation assignment types
+268802	call getsource bug useless sourcetypeconverter bug annotation sourcetypeconverter getsource
+29516	searchengine bug regressions searchengine tests refactoring bug regressions
+301894	large bug project annotations outofmemory error building identifier product projects project annotations error adopters issues memory bug
+30516	javadoc typo bug ipackagefragmentroot isarchive javadoc typo bug ipackagefragmentroot ragment fragment
+327143	bug jobs processing thread indexmanager accept simulateexit file jar consequence touch call bug indexmanager simulaterestart number job loop manager processing thread jobs
+341499	unconditionalflowinfo allocate bug methods extra bits compiler markasdefinitelynonnull references imo patch markasdefinitelynull compiler issue field locals methods fixes bits bug
+41554	search bug failure assertion workspace references log olivier file hierarchy constructor message field bug type search failure assertion
+421796	java code method bug executing compiler lang abstractmethoderror code role string argv compiler execution bridges program abstractmethoderror method test bug foo
+424075	bug regression compiler javac code works string updates args predicate bug piece regression compiler consumer
+425493	bug regression compiler code test defaultvalue snapshots bug piece regression compiler getdefault addattribute attribute
+429763	incompatible lambda expression bug parameter compiler type expression string type args lambda bug parameter function compiler test
+429949	javadoc bad bug link create icompilationunit importrewrite note bug claim ast method compilationunit link javadoc compilation icompilationunit unit
+430987	typed java compile bug arguments compiler error mockito content compileerror arguments compiler clazz nocompileerror snippet code bug dosomethingwithfoo error java foo
+431963	dom method bug parameter annotations type confusion varargs snippet dom code stub varargs annotation todo comment returns confusion annotations type parameter method bug object
+432603	doesn reports javac compile bug error ecj testit problem test method bug runs problems reports javac string ecj stackoverflow object error code map entry
+435397	method bug lambdas compiler ambiguous javac code string conf patch attachment function lambdas client kepler details compiler cons macosx args environment bug support type problem java creation eclipse jdt error binder config basemodule method configure module
+441338	substitution bug parameterized annotations type combine argument substitution annotations error iow function annotation bug detail test touppercase arraylist getu list string type
+448800	substituteinferencevariable bug compiler capturebinding superclass compiler question version superinterfaces initializebounds comment bug
+451660	pointer access bug variable warning location compiler wrong couple issues testcase args bugreports bug compiler pointer access location warning string
+451677	inference bug missing compiler type javac inference compiler eclipse bug object works type arg factory test size function
+460465	search workspace constant references statically bug type enum importing ctrl shift classes project search attachment bug details testenum workspace constant imports references test type enum
+470535	userlibrary bug hashcode array time bug entries hashcode
+483690	charset bug idejavasourceoutputstream outputstreamwriter character solution ideoutputjavafileobject method call bytearrayoutputstream bug bytes charset file openoutputstream idejavasourceoutputstream
+488461	javadoc accurate bug compilationparticipant isannotationprocessor buildcontext apis bug returns javadoc annotations compilationparticipant participant
+55930	file bug save encoding iprogressmonitor bug file
+79809	javadoc dom bug parameter type support tags dom ast foo source accessing tagelement closing solution children drawback scanner bracket text users tags names bug elements support simplename javadoc simpletype angle suggestion brackets node parameter tag type
+83297	annotation declared don provide bug methods bindings elements annotation string method bug array bindings count annot
+88757	switchgroups bug statements returns api list switchstatement method start type bug switchcase api group element nodes statement switchgroups groups statements list
+405125	lambda suggested code expression bug members member assist appearing declaration code expression declaration lambda bug members member foo
+406396	cases method bug misses bunch analysis access fixes candidate problem cases method diagnostics field bug bunch solace fact goo program analysis foo
+422107	result lambda code bug invoking variable assist initialized snippet template bug doit suggestions proposals ctrl space result lambda location code
+25377	correct bug array location error empty initializer foo type initializer task bug array mismatch location text error object
+31261	unit bug max compilation behavior strange errors max number unit bug unti behavior compilation error errors
+403036	javadoc bug message content wrong note cases link problem bug string java location message content url javadoc
+42243	mode incorrect bug syntax diagnosis source string args bug keyword diagnosis source error mode syntax
+456395	java code compile bug type sample attachment bug mismatch details string object
