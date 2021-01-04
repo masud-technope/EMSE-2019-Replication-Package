@@ -13,10 +13,10 @@ Being light-weight and cost-effective, IR-based bug localization approaches have
 Bug Reports, Ground Truth & Corpus
 --------------------------------------
 - **```BugID:```** contains the IDs of the bug reports used for experiments. It also contains the four clusters of bug reports.
-  - **```HQ-NH:```** 567 High-quality bug reports (i.e., 1<=QE<=10) with no localization hints. 
-  - **```HQ-WH:```** 954 High-quality bug reports (i.e., 1<=QE<=10) with localization hints (e.g., stack traces, method invocations).
-  - **```LQ-NH:```** 372 Low-quality bug reports (i.e., QE>10) with no localization hints.
-  - **```LQ-WH:```** 427 Low-quality bug reports (i.e., QE>10) with localization hints (e.g., stack traces).
+  - **```HQ-NH:```** 567 bug reports leading to high-quality baseline queries (i.e., 1<=QE<=10) with no localization hints. 
+  - **```HQ-WH:```** 954 bug reports leading to high-quality baseline queries (i.e., 1<=QE<=10) with localization hints (e.g., stack traces, method invocations).
+  - **```LQ-NH:```** 372 bug reports leading to poor baseline queries (i.e., QE>10) with no localization hints.
+  - **```LQ-WH:```** 427 bug reports leading to poor baseline queries (i.e., QE>10) with localization hints (e.g., stack traces).
 - **```BugReports:```** contains the raw bug report texts. Each report contains the title (first line) and description texts.
 - **```Corpus:```** contains the source code mapping files needed for evaluation.
   - **```class:```** contains the source code files from each subject system.
@@ -54,10 +54,13 @@ Search Queries for IR-based Bug Localization
 **Genetic Algorithm-based Near-Optimal Queries**
 - **```NrOptimal-GA:```** contains the near-optimal queries from 2,320 bug reports and their QE measures.
 
-**Near-Optimal vs. Non-Optimal Query Comparison**
-- **```ML-Model:```** contains the machine learning models (e.g., CSV, ARFF, R-code) trained on near-optimal and non-optimal queries.
-- **```Query-Metric:```** contains 31 metrics calculated for each of the ~14K queries (5.5K near-optimal + 8.3K non-optimal).
-- **```Feature-Importance```** contains the feature importance of search queries learned by the machine learning models.
+**Optimal vs. Non-Optimal Query Comparison**
+- **```Optimal-vs-Non-Optimal:```** contains the machine learning models (e.g., CSV, ARFF, R-code) trained on optimal, near-optimal and non-optimal queries.
+  - **```Optimal-vs-Non-Optimal:```** contains the classification models for optimal and non-optimal queries.
+  - **```Near-Optimal-vs-Non-Optimal:```** contains the classification models for near-optimal and non-optimal queries.
+  - **```Query-Metric:```** contains 31 metrics calculated for each of the ~14K queries (5.5K near-optimal + 8.3K non-optimal).
+  - **```Feature-Importance```** contains the feature importance of search queries learned by the machine learning models.
+  - **```Revised-Query-using-Insights:```** contains reformulated/expanded queries after applying the learned insights.
 - **```RQ3-GT-Artifact```** contains the artifacts produced from our Grounded Theory-based analysis with 120 low-quality bug reports. 
 
 
