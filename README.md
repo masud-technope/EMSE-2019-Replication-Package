@@ -84,7 +84,7 @@ Please cite our work as
 
 Something not working as expected?
 ------------------------------------------------------------------------
-Contact: **Masud Rahman** (masud.rahman@usask.ca)
+Contact: **Masud Rahman** (masud.rahman@dal.ca)
 
 OR
 
