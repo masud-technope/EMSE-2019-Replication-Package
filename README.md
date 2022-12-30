@@ -2,11 +2,15 @@
 
 **Mohammad Masudur Rahman, Foutse Khomh, Shamima Yeasmin, and Chanchal K. Roy**
 
+**Download this paper:**  [<img src="https://web.cs.dal.ca/~masud/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](https://arxiv.org/pdf/2108.05341.pdf)
 
 ## Abstract
 
 Being light-weight and cost-effective, IR-based bug localization approaches have shown promise in localizing software bugs. However, the accuracy of these approaches is largely dependent on the quality of the bug reports that they are based on. A significant number of the bug reports contain only plain natural language texts and no hints for the localization (e.g., program elements). Several existing studies show that IR-based approaches cannot perform well when these bug reports are used as search queries. On the other hand, there is a piece of recent evidence that suggests that even these natural language-only reports contain enough good keywords that could help localize their bugs successfully. Such potentially contradictory findings suggest that natural language-only bug reports might not be really poor after all. These findings also cast serious doubt on the query selection practices in the IR-based bug localization. In this article, we attempted to clear the sky on this aspect by conducting an in-depth empirical study that critically examines the state-of-the-art query selection practices in IR-based bug localization. In particular, we use a dataset of 2,320 bug reports, employ ten existing approaches from the literature, exploit the Genetic Algorithm-based approach to construct near-optimal search queries from these bug reports, and then answer three research questions. We confirmed that the state-of-the-art query construction approaches are indeed not sufficient for constructing appropriate search queries (for bug localization) from the natural language-only bug reports. However, these bug reports indeed contain high-quality search keywords in their texts even though they might not contain explicit hints for bug localization. We also demonstrate that near-optimal queries and non-optimal queries constructed from the bug report texts are significantly different in terms of several traditional measures (e.g., frequency, entropy, position within a bug report), which provides actionable insights. Furthermore, we demonstrate 10%--25% performance improvement in the non-optimal search queries by leveraging such actionable insights.
 
+**Download this paper:**  [<img src="https://web.cs.dal.ca/~masud/img/pdf.png"
+     alt="PDF" heigh="16px" width="16px" />](https://arxiv.org/pdf/2108.05341.pdf)
 
 # Replication Package
 
@@ -63,10 +67,24 @@ Search Queries for IR-based Bug Localization
   - **```Revised-Query-using-Insights:```** contains reformulated/expanded queries after applying the learned insights.
 - **```RQ3-GT-Artifact```** contains the artifacts produced from our Grounded Theory-based analysis with 120 low-quality bug reports. 
 
+Please cite our work as 
+---------------------------------------------
+```
+@ARTICLE{emse2021masud,
+	author={Rahman, M. M. and Khomh, F. and Yeasmin, S. and Roy, C. K.},
+	journal={EMSE},
+	title={The Forgotten Role of Search Queries in IR-based Bug Localization: An Empirical Study},
+	year={2021},
+	pages={57}
+}
+```
+
+
+
 
 Something not working as expected?
 ------------------------------------------------------------------------
-Contact: **Masud Rahman** (masud.rahman@usask.ca)
+Contact: **Masud Rahman** (masud.rahman@dal.ca)
 
 OR
 
